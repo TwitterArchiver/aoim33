@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2040965296652189932",
+    "created_at": "2026-04-06T02:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040978345903690057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "350286905",
+          "start": 0,
+          "username": "masajaninga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040978345903690057",
+    "in_reply_to_user_id": "350286905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040977246715015562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masajaninga 在浙江我没看到有人主动收过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2040965296652189932",
+        "created_at": "2026-04-06T02:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040978345903690057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "350286905",
+              "start": 0,
+              "username": "masajaninga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040978345903690057",
+        "in_reply_to_user_id": "350286905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040977246715015562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masajaninga 在浙江我没看到有人主动收过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "350286905",
+        "conversation_id": "2040965296652189932",
+        "created_at": "2026-04-06T02:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040977246715015562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040977246715015562",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040965296652189932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 河南的表示麦当劳不都自己收吗\n虽然不收也没人追着你骂就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4654,
+          "following_count": 2756,
+          "like_count": 42183,
+          "listed_count": 20,
+          "media_count": 2349,
+          "tweet_count": 10313
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-07T14:33:35.000Z",
+        "description": "中國・河南。\n東京外大博士後期課程。漢藏語學。 🇯🇵🇰🇷🇵🇱🇷🇺🇫🇮🇱🇦🇲🇲🐻ᠮᠠᠨᠵᡠབོདᥖᥭᥰ & Bela” 自他共に認める乙女心の持ち主。\nAmyhu” myang: dage: mha: yu kelang lui! \nItak utar a=eyaypakasnu ro!",
+        "id": "350286905",
+        "location": "東南アジア大陸部言語連合（MSEA）",
+        "name": "Маса Lajon Seng: Aung ᠶᠠᠨᡳᠩ",
+        "pinned_tweet_id": "1958940966527934849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917503474591526912/GNR_jzyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 992,
+          "like_count": 22831,
+          "listed_count": 12,
+          "media_count": 306,
+          "tweet_count": 6914
+        },
+        "username": "masajaninga",
+        "verified": false
+      }
+    ]
+  }
+}

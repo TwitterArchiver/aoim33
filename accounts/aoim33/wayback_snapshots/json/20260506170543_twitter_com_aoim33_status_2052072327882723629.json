@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051928322108727296"
+      ],
+      "media_source_tweet_id": [
+        "2051995399603523918"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2052072327882723629",
+    "created_at": "2026-05-06T17:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052072327882723629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1380743089711501314",
+          "start": 3,
+          "username": "robetReivE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRWmeiIxns",
+          "end": 69,
+          "expanded_url": "https://x.com/robetReivE/status/2051995399603523918/photo/1",
+          "media_key": "3_2051928322108727296",
+          "start": 46,
+          "url": "https://t.co/SRWmeiIxns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052072327882723629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051995399603523918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @robetReivE: 100日チャレンジ\n5日目\n\nArcaeaよりラグランジュ https://t.co/SRWmeiIxns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2051928322108727296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnp7_faoAA2bgh.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051928322108727296"
+          ],
+          "media_source_tweet_id": [
+            "2051995399603523918"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2052072327882723629",
+        "created_at": "2026-05-06T17:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052072327882723629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1380743089711501314",
+              "start": 3,
+              "username": "robetReivE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRWmeiIxns",
+              "end": 69,
+              "expanded_url": "https://x.com/robetReivE/status/2051995399603523918/photo/1",
+              "media_key": "3_2051928322108727296",
+              "start": 46,
+              "url": "https://t.co/SRWmeiIxns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052072327882723629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051995399603523918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @robetReivE: 100日チャレンジ\n5日目\n\nArcaeaよりラグランジュ https://t.co/SRWmeiIxns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051928322108727296"
+          ]
+        },
+        "author_id": "1380743089711501314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2051995399603523918",
+        "created_at": "2026-05-06T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051995399603523918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRWmeiIxns",
+              "end": 53,
+              "expanded_url": "https://x.com/robetReivE/status/2051995399603523918/photo/1",
+              "media_key": "3_2051928322108727296",
+              "start": 30,
+              "url": "https://t.co/SRWmeiIxns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051995399603523918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 8923,
+          "like_count": 893,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "100日チャレンジ\n5日目\n\nArcaeaよりラグランジュ https://t.co/SRWmeiIxns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5153,
+          "following_count": 2872,
+          "like_count": 47480,
+          "listed_count": 19,
+          "media_count": 2680,
+          "tweet_count": 11711
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-10T04:43:26.000Z",
+        "description": "音ゲーが大好き！！/ファンマ:🍎🔱🔮/イラスト @robetIllustファンネ▻ロベリア/ファンアート▻ #ロベリart/配信タグ▻ #ろべONAIR/イラスト商用利用等❌AI学習❌/https://t.co/nf2pGJ8z0L",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 54,
+                "tag": "ロベリart"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "tag": "ろべONAIR"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "robetIllust"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "akuniti.doorblog.jp",
+                "end": 116,
+                "expanded_url": "https://akuniti.doorblog.jp",
+                "start": 93,
+                "url": "https://t.co/nf2pGJ8z0L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@roxa9545?si=_…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@roxa9545?si=_hcj6IXGl9PN-dxx",
+                "start": 0,
+                "url": "https://t.co/gdTAkWWL10"
+              }
+            ]
+          }
+        },
+        "id": "1380743089711501314",
+        "name": "ろべ🍎🔱🔮@skeb募集中",
+        "pinned_tweet_id": "2012534812075241568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956738370253856768/IgCFI9JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 970,
+          "like_count": 27028,
+          "listed_count": 16,
+          "media_count": 1622,
+          "tweet_count": 17306
+        },
+        "url": "https://t.co/gdTAkWWL10",
+        "username": "robetReivE",
+        "verified": false
+      }
+    ]
+  }
+}

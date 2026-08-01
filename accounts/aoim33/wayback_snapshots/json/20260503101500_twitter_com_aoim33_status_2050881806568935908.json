@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2050881806568935908",
+    "created_at": "2026-05-03T10:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050881806568935908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/web3usb/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/web3usb/status/2050568060268851656",
+          "start": 18,
+          "url": "https://t.co/G26RBB8s9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050881806568935908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050568060268851656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都已经炒炒币了怎么还用遥遥领先 😅 https://t.co/G26RBB8s9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2050568045907587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUUxfwWsAA71LS.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2050881806568935908",
+        "created_at": "2026-05-03T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050881806568935908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/web3usb/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/web3usb/status/2050568060268851656",
+              "start": 18,
+              "url": "https://t.co/G26RBB8s9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050881806568935908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050568060268851656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都已经炒炒币了怎么还用遥遥领先 😅 https://t.co/G26RBB8s9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050568045907587072"
+          ]
+        },
+        "author_id": "1819236845429182465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2050568060268851656",
+        "created_at": "2026-05-02T13:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050568060268851656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9ji8jGp6t",
+              "end": 43,
+              "expanded_url": "https://x.com/web3usb/status/2050568060268851656/photo/1",
+              "media_key": "3_2050568045907587072",
+              "start": 20,
+              "url": "https://t.co/q9ji8jGp6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050568060268851656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 69404,
+          "like_count": 110,
+          "quote_count": 5,
+          "reply_count": 163,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这就很头疼了，粉丝遇到的问题，华为手机 https://t.co/q9ji8jGp6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / Education & Psychology / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 127,
+                "start": 120,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 2866,
+          "like_count": 46885,
+          "listed_count": 19,
+          "media_count": 2653,
+          "tweet_count": 11561
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T05:00:52.000Z",
+        "description": "全球金融行情独立研究员，贴文不可作为投资建议，联系微信：85257099299\n\n【you follow me\nI follow you back】",
+        "id": "1819236845429182465",
+        "location": "Sapporo-shi Higashi, Hokkaidō",
+        "name": "司徒猎奇",
+        "pinned_tweet_id": "2047687627197792285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018058924331507712/tblO90ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33910,
+          "following_count": 18539,
+          "like_count": 7315,
+          "listed_count": 65,
+          "media_count": 940,
+          "tweet_count": 18531
+        },
+        "username": "web3usb",
+        "verified": true
+      }
+    ]
+  }
+}

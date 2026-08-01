@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043010334378840064"
+      ],
+      "media_source_tweet_id": [
+        "2043010342851117289"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2043017098168013131",
+    "created_at": "2026-04-11T17:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043017098168013131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739501088795992064",
+          "start": 3,
+          "username": "Eswardont"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5cQdyzYco",
+          "end": 73,
+          "expanded_url": "https://x.com/Eswardont/status/2043010342851117289/photo/1",
+          "media_key": "3_2043010334378840064",
+          "start": 50,
+          "url": "https://t.co/C5cQdyzYco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043017098168013131",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043010342851117289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eswardont: Hyacine cosplay but I'm a guy 💖 ♂️ https://t.co/C5cQdyzYco"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043010334378840064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFo7EyUaUAAOnyv.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043010334378840064"
+          ],
+          "media_source_tweet_id": [
+            "2043010342851117289"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2043017098168013131",
+        "created_at": "2026-04-11T17:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043017098168013131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739501088795992064",
+              "start": 3,
+              "username": "Eswardont"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5cQdyzYco",
+              "end": 73,
+              "expanded_url": "https://x.com/Eswardont/status/2043010342851117289/photo/1",
+              "media_key": "3_2043010334378840064",
+              "start": 50,
+              "url": "https://t.co/C5cQdyzYco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043017098168013131",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043010342851117289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eswardont: Hyacine cosplay but I'm a guy 💖 ♂️ https://t.co/C5cQdyzYco"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043010334378840064"
+          ]
+        },
+        "author_id": "1739501088795992064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2043010342851117289",
+        "created_at": "2026-04-11T16:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043010342851117289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5cQdyzYco",
+              "end": 58,
+              "expanded_url": "https://x.com/Eswardont/status/2043010342851117289/photo/1",
+              "media_key": "3_2043010334378840064",
+              "start": 35,
+              "url": "https://t.co/C5cQdyzYco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043010342851117289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Hyacine cosplay but I'm a guy 💖 ♂️ https://t.co/C5cQdyzYco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4644,
+          "following_count": 2767,
+          "like_count": 43065,
+          "listed_count": 19,
+          "media_count": 2399,
+          "tweet_count": 10542
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-26T04:20:25.000Z",
+        "description": "throne wishlist: https://t.co/TJuKCc92Qx\nko-fi: https://t.co/auFghjDh0e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/swards",
+                "end": 40,
+                "expanded_url": "https://throne.com/swards",
+                "start": 17,
+                "url": "https://t.co/TJuKCc92Qx"
+              },
+              {
+                "display_url": "ko-fi.com/swards",
+                "end": 71,
+                "expanded_url": "https://ko-fi.com/swards",
+                "start": 48,
+                "url": "https://t.co/auFghjDh0e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/29548818",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/29548818",
+                "start": 0,
+                "url": "https://t.co/qLZBS7x31Y"
+              }
+            ]
+          }
+        },
+        "id": "1739501088795992064",
+        "location": "21M 45kgs 169cm",
+        "name": "Swards",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968496532707004416/zpLfhLce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6324,
+          "following_count": 204,
+          "like_count": 50773,
+          "listed_count": 10,
+          "media_count": 487,
+          "tweet_count": 16363
+        },
+        "url": "https://t.co/qLZBS7x31Y",
+        "username": "Eswardont",
+        "verified": true
+      }
+    ]
+  }
+}

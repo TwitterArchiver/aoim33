@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022857894304321536"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2022857901044568529",
+    "created_at": "2026-02-15T02:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022857901044568529"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 83,
+          "normalized_text": "中日友好",
+          "probability": 0.7004,
+          "start": 80,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1450730882738786305",
+          "start": 4,
+          "username": "Yusuke_Takigawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dD63mNlmqZ",
+          "end": 168,
+          "expanded_url": "https://x.com/aoim33/status/2022857901044568529/photo/1",
+          "media_key": "3_2022857894304321536",
+          "start": 145,
+          "url": "https://t.co/dD63mNlmqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022857901044568529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "この度 @Yusuke_Takigawa のDiscord サーバーの中国語と英語管理者、及び通知貼り役人に任せられて\n心の底からお礼を申し上げます\n\n引き続き中日友好、それとも両国と民間交流を平和的に進むと言うことに\n私たち一人ひとりの力をかけて\n平和の続きを達成するようを願っています https://t.co/dD63mNlmqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022857894304321536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKiiY0akAA-BMN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022857894304321536"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2022857901044568529",
+        "created_at": "2026-02-15T02:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022857901044568529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "中日友好",
+              "probability": 0.7004,
+              "start": 80,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1450730882738786305",
+              "start": 4,
+              "username": "Yusuke_Takigawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dD63mNlmqZ",
+              "end": 168,
+              "expanded_url": "https://x.com/aoim33/status/2022857901044568529/photo/1",
+              "media_key": "3_2022857894304321536",
+              "start": 145,
+              "url": "https://t.co/dD63mNlmqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022857901044568529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この度 @Yusuke_Takigawa のDiscord サーバーの中国語と英語管理者、及び通知貼り役人に任せられて\n心の底からお礼を申し上げます\n\n引き続き中日友好、それとも両国と民間交流を平和的に進むと言うことに\n私たち一人ひとりの力をかけて\n平和の続きを達成するようを願っています https://t.co/dD63mNlmqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3658,
+          "following_count": 2470,
+          "like_count": 33607,
+          "listed_count": 17,
+          "media_count": 1671,
+          "tweet_count": 7546
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T07:49:36.000Z",
+        "description": "エロゲー\nDiscord(エロゲメイン) https://t.co/XjJqQoqht7\n無言フォローＯＫ、その代わり無言フォローします。\n中日・F1・NBA・国際交流\n保守派ですが外国人に対する差別は許さないです。\nかなり酷いクローン病に苦しんでいます。\n最近覚えた言葉は「日華友好」。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9jcrhmFtvh",
+                "end": 44,
+                "expanded_url": "https://discord.gg/9jcrhmFtvh",
+                "start": 21,
+                "url": "https://t.co/XjJqQoqht7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/37069291761196…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3706929176119663",
+                "start": 0,
+                "url": "https://t.co/b3pWCwciIi"
+              }
+            ]
+          }
+        },
+        "id": "1450730882738786305",
+        "location": "愛知県豊川市",
+        "name": "滝川雄介",
+        "pinned_tweet_id": "2022005947024257271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999958166348644353/_LYuSP8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 2680,
+          "like_count": 1243,
+          "listed_count": 13,
+          "media_count": 674,
+          "tweet_count": 6754
+        },
+        "url": "https://t.co/b3pWCwciIi",
+        "username": "Yusuke_Takigawa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082097983957405696"
+      ],
+      "media_source_tweet_id": [
+        "2082097996620316688"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2082864520998072549",
+    "created_at": "2026-07-30T16:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082864520998072549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752569012012363776",
+          "start": 3,
+          "username": "queue_prompt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBWTIqOGXE",
+          "end": 41,
+          "expanded_url": "https://x.com/queue_prompt/status/2082097996620316688/photo/1",
+          "media_key": "3_2082097983957405696",
+          "start": 18,
+          "url": "https://t.co/NBWTIqOGXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082864520998072549",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082097996620316688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @queue_prompt: https://t.co/NBWTIqOGXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_2082097983957405696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUZFcFWkAALtTd.jpg",
+        "width": 3280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082097983957405696"
+          ]
+        },
+        "author_id": "1752569012012363776",
+        "conversation_id": "2082097996620316688",
+        "created_at": "2026-07-28T13:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082097996620316688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBWTIqOGXE",
+              "end": 23,
+              "expanded_url": "https://x.com/queue_prompt/status/2082097996620316688/photo/1",
+              "media_key": "3_2082097983957405696",
+              "start": 0,
+              "url": "https://t.co/NBWTIqOGXE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2082097996620316688",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NBWTIqOGXE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082097983957405696"
+          ],
+          "media_source_tweet_id": [
+            "2082097996620316688"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2082864520998072549",
+        "created_at": "2026-07-30T16:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082864520998072549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752569012012363776",
+              "start": 3,
+              "username": "queue_prompt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBWTIqOGXE",
+              "end": 41,
+              "expanded_url": "https://x.com/queue_prompt/status/2082097996620316688/photo/1",
+              "media_key": "3_2082097983957405696",
+              "start": 18,
+              "url": "https://t.co/NBWTIqOGXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082864520998072549",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082097996620316688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @queue_prompt: https://t.co/NBWTIqOGXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "语言学 🧊  / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 3176,
+          "like_count": 57799,
+          "listed_count": 22,
+          "media_count": 3736,
+          "tweet_count": 15070
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T05:46:59.000Z",
+        "description": "09高二 | 169cm/52kg | mtf/hrt since 25.7.24/天賦也許及格 | xp疑似危險 | minecraft/counter-strike | 某人@Platelet_X | looking forward to one day when I could love summer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Platelet_X"
+              }
+            ]
+          }
+        },
+        "id": "1752569012012363776",
+        "location": "NaN",
+        "name": "Volaris|Yoshino233醬世界第一可愛！",
+        "pinned_tweet_id": "2081343659983634924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058110569786355712/0omHmmDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 189,
+          "like_count": 23952,
+          "listed_count": 5,
+          "media_count": 430,
+          "tweet_count": 4664
+        },
+        "url": "",
+        "username": "queue_prompt",
+        "verified": false
+      }
+    ]
+  }
+}

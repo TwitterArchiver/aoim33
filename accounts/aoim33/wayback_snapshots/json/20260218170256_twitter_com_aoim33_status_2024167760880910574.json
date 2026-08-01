@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2024167760880910574",
+    "created_at": "2026-02-18T17:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024167760880910574"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "新宿　日中友好",
+          "probability": 0.4525,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 130,
+          "normalized_text": "東京",
+          "probability": 0.9604,
+          "start": 129,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1394966958362140672",
+          "start": 3,
+          "username": "yrutnecentury"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024167760880910574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024110747568226324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yrutnecentury: 中国旅行中に使っていたrednoteというアプリで、ふと「新宿　日中友好」と調べてみたらいくつか投稿が出てきた。中には1000以上コメントが付いている投稿もあり、「彼は今日もいるかな？」「行きたい」などのコメントが。私も東京にいたら行きたい…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024110741880782848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcV_tvbQAAi0Zz.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2024167760880910574",
+        "created_at": "2026-02-18T17:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024167760880910574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "新宿　日中友好",
+              "probability": 0.4525,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "東京",
+              "probability": 0.9604,
+              "start": 129,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1394966958362140672",
+              "start": 3,
+              "username": "yrutnecentury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024167760880910574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024110747568226324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yrutnecentury: 中国旅行中に使っていたrednoteというアプリで、ふと「新宿　日中友好」と調べてみたらいくつか投稿が出てきた。中には1000以上コメントが付いている投稿もあり、「彼は今日もいるかな？」「行きたい」などのコメントが。私も東京にいたら行きたい…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024110741880782848"
+          ]
+        },
+        "author_id": "1394966958362140672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2024110747568226324",
+        "created_at": "2026-02-18T13:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024110747568226324"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "新宿　日中友好",
+              "probability": 0.5342,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "東京",
+              "probability": 0.9441,
+              "start": 110,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "路哲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gfCwZHthC",
+              "end": 150,
+              "expanded_url": "https://x.com/yrutnecentury/status/2024110747568226324/photo/1",
+              "media_key": "3_2024110741880782848",
+              "start": 127,
+              "url": "https://t.co/4gfCwZHthC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024110747568226324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 715,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "中国旅行中に使っていたrednoteというアプリで、ふと「新宿　日中友好」と調べてみたらいくつか投稿が出てきた。中には1000以上コメントが付いている投稿もあり、「彼は今日もいるかな？」「行きたい」などのコメントが。私も東京にいたら行きたい〜。\n#路哲 https://t.co/4gfCwZHthC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 2485,
+          "like_count": 34037,
+          "listed_count": 17,
+          "media_count": 1698,
+          "tweet_count": 7655
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-19T10:43:41.000Z",
+        "description": "Give me spots on my apples, but leave me the birds and the bees / currently in Seoul",
+        "id": "1394966958362140672",
+        "location": "Tokyo-to, Japan",
+        "name": "century",
+        "pinned_tweet_id": "1995038772128616477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985160897225170944/twdgxk3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 95,
+          "like_count": 1827,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 582
+        },
+        "username": "yrutnecentury",
+        "verified": false
+      }
+    ]
+  }
+}

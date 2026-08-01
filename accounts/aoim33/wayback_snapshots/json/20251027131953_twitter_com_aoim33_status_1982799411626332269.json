@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982416787980398592",
+        "3_1982416787988779008",
+        "3_1982416788018065408",
+        "3_1982416787959332864"
+      ],
+      "media_source_tweet_id": [
+        "1982416807924564383",
+        "1982416807924564383",
+        "1982416807924564383",
+        "1982416807924564383"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Fukuoka",
+          "id": "1009168505252352000",
+          "name": "Fukuoka"
+        }
+      }
+    ],
+    "conversation_id": "1982799411626332269",
+    "created_at": "2025-10-27T13:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982799411626332269"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "福岡",
+          "probability": 0.853,
+          "start": 55,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 20,
+          "tag": "10月も終わるので音ゲーマーフォロー祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1490102780685844480",
+          "start": 3,
+          "username": "Mopechan_Dread"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bi7N0Wo4yg",
+          "end": 103,
+          "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+          "media_key": "3_1982416787980398592",
+          "start": 80,
+          "url": "https://t.co/bi7N0Wo4yg"
+        },
+        {
+          "display_url": "pic.x.com/bi7N0Wo4yg",
+          "end": 103,
+          "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+          "media_key": "3_1982416787988779008",
+          "start": 80,
+          "url": "https://t.co/bi7N0Wo4yg"
+        },
+        {
+          "display_url": "pic.x.com/bi7N0Wo4yg",
+          "end": 103,
+          "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+          "media_key": "3_1982416788018065408",
+          "start": 80,
+          "url": "https://t.co/bi7N0Wo4yg"
+        },
+        {
+          "display_url": "pic.x.com/bi7N0Wo4yg",
+          "end": 103,
+          "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+          "media_key": "3_1982416787959332864",
+          "start": 80,
+          "url": "https://t.co/bi7N0Wo4yg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982799411626332269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982416807924564383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mopechan_Dread: #10月も終わるので音ゲーマーフォロー祭\n真神終わって\n超神を狙ってる福岡マイマイマーです！！\nよろしくお願いします🙏 https://t.co/bi7N0Wo4yg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982416787980398592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L1kLxXsAAhdtD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982416787988779008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L1kLzXkAAM5Ae.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982416788018065408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L1kL6WcAALg3O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 948,
+        "media_key": "3_1982416787959332864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L1kLsWQAAUhw0.jpg",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982416787980398592",
+            "3_1982416787988779008",
+            "3_1982416788018065408",
+            "3_1982416787959332864"
+          ],
+          "media_source_tweet_id": [
+            "1982416807924564383",
+            "1982416807924564383",
+            "1982416807924564383",
+            "1982416807924564383"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          }
+        ],
+        "conversation_id": "1982799411626332269",
+        "created_at": "2025-10-27T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982799411626332269"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "福岡",
+              "probability": 0.853,
+              "start": 55,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 20,
+              "tag": "10月も終わるので音ゲーマーフォロー祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1490102780685844480",
+              "start": 3,
+              "username": "Mopechan_Dread"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 103,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416787980398592",
+              "start": 80,
+              "url": "https://t.co/bi7N0Wo4yg"
+            },
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 103,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416787988779008",
+              "start": 80,
+              "url": "https://t.co/bi7N0Wo4yg"
+            },
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 103,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416788018065408",
+              "start": 80,
+              "url": "https://t.co/bi7N0Wo4yg"
+            },
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 103,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416787959332864",
+              "start": 80,
+              "url": "https://t.co/bi7N0Wo4yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982799411626332269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982416807924564383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mopechan_Dread: #10月も終わるので音ゲーマーフォロー祭\n真神終わって\n超神を狙ってる福岡マイマイマーです！！\nよろしくお願いします🙏 https://t.co/bi7N0Wo4yg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982416787980398592",
+            "3_1982416787988779008",
+            "3_1982416788018065408",
+            "3_1982416787959332864"
+          ]
+        },
+        "author_id": "1490102780685844480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          }
+        ],
+        "conversation_id": "1982416807924564383",
+        "created_at": "2025-10-26T11:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982416807924564383"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "福岡",
+              "probability": 0.8283,
+              "start": 35,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "10月も終わるので音ゲーマーフォロー祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 83,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416787980398592",
+              "start": 60,
+              "url": "https://t.co/bi7N0Wo4yg"
+            },
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 83,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416787988779008",
+              "start": 60,
+              "url": "https://t.co/bi7N0Wo4yg"
+            },
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 83,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416788018065408",
+              "start": 60,
+              "url": "https://t.co/bi7N0Wo4yg"
+            },
+            {
+              "display_url": "pic.x.com/bi7N0Wo4yg",
+              "end": 83,
+              "expanded_url": "https://x.com/Mopechan_Dread/status/1982416807924564383/photo/1",
+              "media_key": "3_1982416787959332864",
+              "start": 60,
+              "url": "https://t.co/bi7N0Wo4yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982416807924564383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1428,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#10月も終わるので音ゲーマーフォロー祭\n真神終わって\n超神を狙ってる福岡マイマイマーです！！\nよろしくお願いします🙏 https://t.co/bi7N0Wo4yg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1658,
+          "like_count": 16724,
+          "listed_count": 3,
+          "media_count": 792,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-05T23:19:48.000Z",
+        "description": "真神 #もぺどれ超神せいかつ 無言フォロー多いです サブ→@kanana16384ヘッダー→@SalToka_fes713",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 3,
+                "tag": "もぺどれ超神せいかつ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "kanana16384"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "SalToka_fes713"
+              }
+            ]
+          }
+        },
+        "id": "1490102780685844480",
+        "location": "maimai もぺどれ・∀・",
+        "name": "もぺどれ",
+        "pinned_tweet_id": "1981927658415124630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933129089860456448/FbtxanEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 2589,
+          "like_count": 68568,
+          "listed_count": 19,
+          "media_count": 5026,
+          "tweet_count": 30375
+        },
+        "username": "Mopechan_Dread",
+        "verified": false
+      }
+    ]
+  }
+}

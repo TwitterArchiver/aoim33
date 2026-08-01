@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009536857521180674"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2009536868568977547",
+    "created_at": "2026-01-09T08:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009536868568977547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iguu2k527w",
+          "end": 192,
+          "expanded_url": "https://x.com/aoim33/status/2009536868568977547/photo/1",
+          "media_key": "3_2009536857521180674",
+          "start": 169,
+          "url": "https://t.co/Iguu2k527w"
+        },
+        {
+          "display_url": "x.com/YantongYt/stat…",
+          "end": 216,
+          "expanded_url": "https://twitter.com/YantongYt/status/2009534583717679576",
+          "start": 193,
+          "url": "https://t.co/r5XmNT8jom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009536868568977547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于 Wise 账户设置的再补充：\nStripe 不管是本体还是 Express，在大多数情况下只允许用接受当地法定货币的银行账户接受资金\n也就是说，不能使用 EEA 和英国的账户接收美元，尽管它是 Wise\n因为如果你要用 USD 账户收钱，你需要将 Stripe Express 的区域设置在美国，而如果设置在美国，除了需要 SSN 或者 ITIN，税费预先扣除 30％ 外，还需要支付一定的 ACH 费用导致最终到账金额减少\n\n还是那句话，如果你选择使用 Wise 接受推特的收益分成，一定要用英国或者 EEA 的账户：如果你不想给 Wise 白白送钱的话"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009534583717679576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于 Wise 账户设置的再补充：\nStripe 不管是本体还是 Express，在大多数情况下只允许用接受当地法定货币的银行账户接受资金\n也就是说，不能使用 EEA 和英国的账户接收美元，尽管它是 Wise\n因为如果你要用 USD 账户收钱，你需要将 Stripe Express 的区域设置在美国，而如果设置在美国，除了需要 SSN https://t.co/Iguu2k527w https://t.co/r5XmNT8jom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2009536857521180674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NPH_ua0AI0lyv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009536857521180674"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2009536868568977547",
+        "created_at": "2026-01-09T08:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009536868568977547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iguu2k527w",
+              "end": 192,
+              "expanded_url": "https://x.com/aoim33/status/2009536868568977547/photo/1",
+              "media_key": "3_2009536857521180674",
+              "start": 169,
+              "url": "https://t.co/Iguu2k527w"
+            },
+            {
+              "display_url": "x.com/YantongYt/stat…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/YantongYt/status/2009534583717679576",
+              "start": 193,
+              "url": "https://t.co/r5XmNT8jom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009536868568977547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于 Wise 账户设置的再补充：\nStripe 不管是本体还是 Express，在大多数情况下只允许用接受当地法定货币的银行账户接受资金\n也就是说，不能使用 EEA 和英国的账户接收美元，尽管它是 Wise\n因为如果你要用 USD 账户收钱，你需要将 Stripe Express 的区域设置在美国，而如果设置在美国，除了需要 SSN 或者 ITIN，税费预先扣除 30％ 外，还需要支付一定的 ACH 费用导致最终到账金额减少\n\n还是那句话，如果你选择使用 Wise 接受推特的收益分成，一定要用英国或者 EEA 的账户：如果你不想给 Wise 白白送钱的话"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009534583717679576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于 Wise 账户设置的再补充：\nStripe 不管是本体还是 Express，在大多数情况下只允许用接受当地法定货币的银行账户接受资金\n也就是说，不能使用 EEA 和英国的账户接收美元，尽管它是 Wise\n因为如果你要用 USD 账户收钱，你需要将 Stripe Express 的区域设置在美国，而如果设置在美国，除了需要 SSN https://t.co/Iguu2k527w https://t.co/r5XmNT8jom"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "727288882308378624",
+        "conversation_id": "2009459362138632429",
+        "created_at": "2026-01-09T07:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009534583717679576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009534583717679576",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009459362138632429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 wise 可以设置 usd 账户，用 usd 账户收钱么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 2166,
+          "like_count": 26526,
+          "listed_count": 8,
+          "media_count": 1272,
+          "tweet_count": 5835
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-03T00:09:16.000Z",
+        "description": "コメントするのが大好きな人です丨AI ALL IN AI 🤖🤖🤖🤖🤖丨小资金定投 $Aster",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "Aster"
+              }
+            ]
+          }
+        },
+        "id": "727288882308378624",
+        "name": "YT🔶",
+        "pinned_tweet_id": "1376122164240388099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647788928555180032/VkE6PZrG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 647,
+          "like_count": 775,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1155
+        },
+        "username": "YantongYt",
+        "verified": true
+      }
+    ]
+  }
+}

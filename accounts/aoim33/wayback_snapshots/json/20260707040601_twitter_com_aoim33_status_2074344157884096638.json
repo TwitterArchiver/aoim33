@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2074344151198601219",
+    "created_at": "2026-07-07T04:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074344157884096638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074344157884096638",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "具体到状态流转，当付款被提交成功的那一刻，Stripe 记录这笔交易的那个 PaymentIntent 的状态，会从 requires_confirmation 变成 processing，而不是直接变成成功\n也就是说提交成功和扣款成功是两回事，中间隔着 pending 期\n\n这一笔 SEPA 直接借记的扣款可以在 pending 状态停留最多 14 个工作日，平均大约 5 个工作日，只有在确认收到资金之后状态才会更新为 succeeded"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074344154449199578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "具体到状态流转，当付款被提交成功的那一刻，Stripe 记录这笔交易的那个 PaymentIntent 的状态，会从 requires_confirmation 变成 processing，而不是直接变成成功\n也就是说提交成功和扣款成功是两回事，中间隔着 pending 期\n\n这一笔 SEPA 直接借记的扣款可以在 pending 状态停留最多 14"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074344151198601219",
+        "created_at": "2026-07-07T04:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344157884096638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074344157884096638",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "具体到状态流转，当付款被提交成功的那一刻，Stripe 记录这笔交易的那个 PaymentIntent 的状态，会从 requires_confirmation 变成 processing，而不是直接变成成功\n也就是说提交成功和扣款成功是两回事，中间隔着 pending 期\n\n这一笔 SEPA 直接借记的扣款可以在 pending 状态停留最多 14 个工作日，平均大约 5 个工作日，只有在确认收到资金之后状态才会更新为 succeeded"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344154449199578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具体到状态流转，当付款被提交成功的那一刻，Stripe 记录这笔交易的那个 PaymentIntent 的状态，会从 requires_confirmation 变成 processing，而不是直接变成成功\n也就是说提交成功和扣款成功是两回事，中间隔着 pending 期\n\n这一笔 SEPA 直接借记的扣款可以在 pending 状态停留最多 14"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074344151198601219",
+        "created_at": "2026-07-07T04:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344154449199578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074344154449199578",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "docs.stripe.com/payments/sepa-…",
+                "end": 224,
+                "expanded_url": "https://docs.stripe.com/payments/sepa-debit/accept-a-payment",
+                "start": 201,
+                "url": "https://t.co/kujd2nZLDq"
+              }
+            ]
+          },
+          "text": "先说他用的支付方式。他走的是欧洲经济区的 Direct Debit，也就是 SEPA 直接借记\n\nStripe 文档里把这种方式明确归类为延迟通知型的支付\nSEPA 直接借记属于延迟通知类支付方式，资金不会在付款后立即到账\n并且在第一次设置时需要手动转账出去获得 direct debit 许可\n它不是刷卡那种当场知道成没成的方式，也不会当场提供一个返回值说 payment success \n\n文档：https://t.co/kujd2nZLDq"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344151198601219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先说他用的支付方式。他走的是欧洲经济区的 Direct Debit，也就是 SEPA 直接借记\n\nStripe 文档里把这种方式明确归类为延迟通知型的支付\nSEPA 直接借记属于延迟通知类支付方式，资金不会在付款后立即到账\n并且在第一次设置时需要手动转账出去获得 direct debit 许可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6417,
+          "following_count": 3100,
+          "like_count": 55140,
+          "listed_count": 21,
+          "media_count": 3478,
+          "tweet_count": 14275
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

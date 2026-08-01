@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2074344151198601219",
+    "created_at": "2026-07-07T04:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074344167824863258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "We are changing our payment success timeline for Single Euro Payments Area Direct Debit (SEPA DD) from 2 business days to 6 business days. This change…",
+          "display_url": "support.stripe.com/questions/chan…",
+          "end": 145,
+          "expanded_url": "https://support.stripe.com/questions/changes-to-sepa-direct-debit-payment-behavior",
+          "start": 122,
+          "status": 200,
+          "title": "Changes to SEPA Direct Debit Payment Behavior",
+          "unwound_url": "https://support.stripe.com/questions/changes-to-sepa-direct-debit-payment-behavior",
+          "url": "https://t.co/Ubs6jDCaZ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074344167824863258",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074344164427436498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后，补充一下Stripe 自己也承认的背景。他们最近专门改过 SEPA 的成功判定时间，原因是超过百分之七十的付款失败，原本发生在交易被过早标记为成功之后\n换句话说，受理成功之后再翻车，是这套机制决定的早就存在的已知情况，不是什么新鲜事故\n\nhttps://t.co/Ubs6jDCaZ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074344151198601219",
+        "created_at": "2026-07-07T04:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344167824863258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We are changing our payment success timeline for Single Euro Payments Area Direct Debit (SEPA DD) from 2 business days to 6 business days. This change…",
+              "display_url": "support.stripe.com/questions/chan…",
+              "end": 145,
+              "expanded_url": "https://support.stripe.com/questions/changes-to-sepa-direct-debit-payment-behavior",
+              "start": 122,
+              "status": 200,
+              "title": "Changes to SEPA Direct Debit Payment Behavior",
+              "unwound_url": "https://support.stripe.com/questions/changes-to-sepa-direct-debit-payment-behavior",
+              "url": "https://t.co/Ubs6jDCaZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074344167824863258",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344164427436498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后，补充一下Stripe 自己也承认的背景。他们最近专门改过 SEPA 的成功判定时间，原因是超过百分之七十的付款失败，原本发生在交易被过早标记为成功之后\n换句话说，受理成功之后再翻车，是这套机制决定的早就存在的已知情况，不是什么新鲜事故\n\nhttps://t.co/Ubs6jDCaZ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074344151198601219",
+        "created_at": "2026-07-07T04:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344164427436498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074344164427436498",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在回到大家最担心的问题\n假设他这笔钱最后真的扣失败了，后果会落在谁头上呢？其实是落在他这个发起付款的一方，也就是他在 Stripe 那边对应的付款账户和 Customer 记录上\n因为很简单收到认证的人从头到尾没有在自己的推特和 Stripe 之间建立任何绑定，也没有发起过任何一笔支付，责任链根本连不到收礼物的人身上，他们连 Stripe Checkout Page 都没有"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344161306890316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在回到大家最担心的问题\n假设他这笔钱最后真的扣失败了，后果会落在谁头上呢？其实是落在他这个发起付款的一方，也就是他在 Stripe 那边对应的付款账户和 Customer 记录上\n因为很简单收到认证的人从头到尾没有在自己的推特和 Stripe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6417,
+          "following_count": 3100,
+          "like_count": 55140,
+          "listed_count": 21,
+          "media_count": 3478,
+          "tweet_count": 14275
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

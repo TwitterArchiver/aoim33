@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2035928978050224339",
+    "created_at": "2026-03-23T04:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035931770777211253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rococo90933671…",
+          "end": 35,
+          "expanded_url": "https://x.com/rococo90933671/status/2035925754517541013?s=46",
+          "start": 12,
+          "url": "https://t.co/5FMSmayrUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035931770777211253",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035925754517541013",
+        "type": "quoted"
+      },
+      {
+        "id": "2035928978050224339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Reference \n\nhttps://t.co/5FMSmayrUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1353792,
+        "height": 720,
+        "media_key": "13_2035738387072856064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035738387072856064/img/pMotTT3nRZk2WkT1.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035738387072856064/vid/avc1/480x270/ysZ7qIASxBoauMyh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035738387072856064/vid/avc1/640x360/npQIHhGvPwNyXRnD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035738387072856064/vid/avc1/1280x720/JP4pSKkUmeypt3f3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035738387072856064/pl/4cxJkLJPe2lA4HQg.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2035928978050224339",
+        "created_at": "2026-03-23T04:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035931770777211253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 35,
+              "expanded_url": "https://x.com/rococo90933671/status/2035925754517541013?s=46",
+              "start": 12,
+              "url": "https://t.co/5FMSmayrUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035931770777211253",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035925754517541013",
+            "type": "quoted"
+          },
+          {
+            "id": "2035928978050224339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Reference \n\nhttps://t.co/5FMSmayrUq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035738387072856064"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035925754517541013",
+        "created_at": "2026-03-23T03:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035925754517541013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LtDuLY6lk",
+              "end": 95,
+              "expanded_url": "https://x.com/Rococo90933671/status/2035925754517541013/video/1",
+              "media_key": "13_2035738387072856064",
+              "start": 72,
+              "url": "https://t.co/3LtDuLY6lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035925754517541013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛心于因为矫正机构受到伤害甚至失去生命的孩子，在B站搜了一下关键词，发现相关的视频也不是完全没有，就找了一个转载一下。\n\n看了一眼播放量，六万 https://t.co/3LtDuLY6lk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2035928978050224339",
+        "created_at": "2026-03-23T03:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035928978050224339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snail_9106/sta…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/snail_9106/status/2035895692372128186",
+              "start": 112,
+              "url": "https://t.co/SSFnj8XB5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035928978050224339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "隔行如隔山在这里具像化了\n\n推特上应该有不少孩子会这么做\n这是基于我的观察得到的\n而且要不是我学生给我推了你的内容我也不会关注你们\n\n但也正因为我是在这样的语境里接触到这些表达，我很难把它们当成一种纯粹的“态度问题”来看待\n在你们的表述里，这更像是一个人愿不愿意改变、有没有在为自己找理由的问题\n但在我日常面对的那些具体个体身上，很多时候连“选择要不要改变”这一步本身都不成立\n\n我们能够看到，有许多我的同龄人和后辈们，依旧在为自己的个人自由，面对反抗自己父母的封闭式的暴力而被扭送进暴力的所谓扭转机构作斗争的人\n以及为了自我表达，希望自己能够以真实的状态展现给外界的朋友们\n\n同样是在谈原生家庭，有人是在描述一段轻描淡写的可以被跨越的经历，因为在他们过去的生活中，自我表达的空间是被约束的，个体的无知滑向群体的无知之后，就很容易产生这样片面的看法\n也有人是在描述一个短时间内无法绕开的条件——而这就是我的日常工作中接触到的学生们所面临的真实情况\n\n如果不区分这两种情况，最后看起来就会像是对同一类行为的判断\n但实际上是在用同一套标准去解释两种完全不同的处境\n\n如果你能够对你的孩子做到真正的体谅和关心，我相信你的孩子不会这么做\n但是你也不能否认，确实有孩子有这样的想法"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035895692372128186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "隔行如隔山在这里具像化了\n\n推特上应该有不少孩子会这么做\n这是基于我的观察得到的\n而且要不是我学生给我推了你的内容我也不会关注你们\n\n但也正因为我是在这样的语境里接触到这些表达，我很难把它们当成一种纯粹的“态度问题”来看待 https://t.co/SSFnj8XB5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 2683,
+          "like_count": 40266,
+          "listed_count": 20,
+          "media_count": 2197,
+          "tweet_count": 9612
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9483,
+          "following_count": 2734,
+          "like_count": 32109,
+          "listed_count": 27,
+          "media_count": 3407,
+          "tweet_count": 19051
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

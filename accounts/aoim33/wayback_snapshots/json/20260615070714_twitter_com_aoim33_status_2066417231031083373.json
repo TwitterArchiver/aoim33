@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2066417170146263297",
+    "created_at": "2026-06-15T07:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066417231031083373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1689053928",
+          "start": 0,
+          "username": "telegram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066417231031083373",
+    "in_reply_to_user_id": "1689053928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066417170146263297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@telegram Yea we are up"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2066417170146263297",
+        "created_at": "2026-06-15T07:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066417231031083373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1689053928",
+              "start": 0,
+              "username": "telegram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066417231031083373",
+        "in_reply_to_user_id": "1689053928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066417170146263297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@telegram Yea we are up"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689053928",
+        "conversation_id": "2066417170146263297",
+        "created_at": "2026-06-15T07:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066417170146263297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066417170146263297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "you up?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6102,
+          "following_count": 3042,
+          "like_count": 52977,
+          "listed_count": 21,
+          "media_count": 3222,
+          "tweet_count": 13505
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-21T19:47:05.000Z",
+        "description": "Simple, fast, secure – and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.org",
+                "end": 23,
+                "expanded_url": "http://telegram.org",
+                "start": 0,
+                "url": "https://t.co/zHAc9lS7Jy"
+              }
+            ]
+          }
+        },
+        "id": "1689053928",
+        "name": "Telegram Messenger",
+        "pinned_tweet_id": "2061794963525165547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946811,
+          "following_count": 9,
+          "like_count": 6765,
+          "listed_count": 4536,
+          "media_count": 3990,
+          "tweet_count": 50821
+        },
+        "url": "https://t.co/zHAc9lS7Jy",
+        "username": "telegram",
+        "verified": true
+      }
+    ]
+  }
+}

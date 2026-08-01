@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      }
+    ],
+    "conversation_id": "1978997956595322930",
+    "created_at": "2025-10-17T01:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T02:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978997956595322930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1814839209976606720",
+          "start": 3,
+          "username": "QSeSlEN6j1YAKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978997956595322930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977999109094269435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QSeSlEN6j1YAKO: 発達障害は早期診断した方がいい\nできれば小学生になる前に\n\nそうすれば、まだ頭が柔らかいから、特技を身につけさせる（絵や楽器演奏、演劇、作文など）とか、療育をして健常者の世界で生きれるように訓練するとかができる。思春期以降になり自我が固定…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1978997956595322930",
+        "created_at": "2025-10-17T01:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978997956595322930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1814839209976606720",
+              "start": 3,
+              "username": "QSeSlEN6j1YAKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978997956595322930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977999109094269435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QSeSlEN6j1YAKO: 発達障害は早期診断した方がいい\nできれば小学生になる前に\n\nそうすれば、まだ頭が柔らかいから、特技を身につけさせる（絵や楽器演奏、演劇、作文など）とか、療育をして健常者の世界で生きれるように訓練するとかができる。思春期以降になり自我が固定…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814839209976606720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1977999109094269435",
+        "created_at": "2025-10-14T07:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977999109094269435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977999109094269435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1043,
+          "impression_count": 1609425,
+          "like_count": 8010,
+          "quote_count": 345,
+          "reply_count": 70,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "発達障害は早期診断した方がいい\nできれば小学生になる前に\n\nそうすれば、まだ頭が柔らかいから、特技を身につけさせる（絵や楽器演奏、演劇、作文など）とか、療育をして健常者の世界で生きれるように訓練するとかができる。思春期以降になり自我が固定されたら手遅れなんだよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1515,
+          "like_count": 15060,
+          "listed_count": 2,
+          "media_count": 721,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T01:46:50.000Z",
+        "description": "ASD持ち。ゲーム好き、アニメ好きのオタクでもあります。たまにスペースを開き、雑談や障害関係の話をしています。厳しめのポストもありますので、ご注意下さい。対応ゲームは、ブルアカ。一応ですが、明るめの内容もポストするようには、心がけています。手帳2級。障害のある人向けのオタ活に関する情報も不定期で発信します。",
+        "id": "1814839209976606720",
+        "name": "いまだ だいすけ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814839671790444546/gn8pI6pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11808,
+          "following_count": 3913,
+          "like_count": 20396,
+          "listed_count": 112,
+          "media_count": 80,
+          "tweet_count": 5507
+        },
+        "username": "QSeSlEN6j1YAKO",
+        "verified": true
+      }
+    ]
+  }
+}

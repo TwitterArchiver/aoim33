@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2015281792056746257",
+    "created_at": "2026-01-26T00:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T01:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015588691176215010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 45,
+          "expanded_url": "https://x.com/aoim33/status/1967935024822632642?s=46",
+          "start": 22,
+          "url": "https://t.co/LI7yxiLfuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015588691176215010",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967935024822632642",
+        "type": "quoted"
+      },
+      {
+        "id": "2015281792056746257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 断章取义玩的很溜嘛你小子\n\nhttps://t.co/LI7yxiLfuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2015281777623871488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_e4GW2WsAAcTnl.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2015281792056746257",
+        "created_at": "2026-01-26T00:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T01:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015588691176215010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 45,
+              "expanded_url": "https://x.com/aoim33/status/1967935024822632642?s=46",
+              "start": 22,
+              "url": "https://t.co/LI7yxiLfuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015588691176215010",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967935024822632642",
+            "type": "quoted"
+          },
+          {
+            "id": "2015281792056746257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 断章取义玩的很溜嘛你小子\n\nhttps://t.co/LI7yxiLfuD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1967935024822632642",
+        "created_at": "2025-09-16T12:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967935024822632642"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8453,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 8,
+              "normalized_text": "中国",
+              "probability": 0.4943,
+              "start": 7,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Twitter",
+              "probability": 0.6383,
+              "start": 56,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/aoim33/status/1967932523062895052",
+              "start": 151,
+              "url": "https://t.co/tjXEvQSZLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967935024822632642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国で舞萌 (中国版maimai) を遊んでいるプレイヤーだが、ある地域で偶然日本版筐体に触れる機会でその写真をTwitterに投稿した\n日本語圏のTLではほとんど反応もなく、大きな炎上も起きなかったのに、なぜか国内のSNSやQQで大規模な誹謗中傷を受けることになった。正直、その違和感に戸惑っている\n多くの人は「店に迷惑をかける」「我々の遊ぶ場所がなくなる」と批判するが、そもそも日本版を中国本土で設置すること自体がグレーな行為であり、もし没収されてもそれは店や利用者の自己責任だと思う\n本当に日本版を体験したいのなら、香港やシンガポール、日本に行けばいい話である\nさらに、Kohad 氏に対して「なぜ中国版を日本や国際版と同じ進度にしないのか」と責める声もあるが、それは無理難題でしかない。規制や市場の違いを無視して、他人に責任を押し付けるのは筋違いだろう"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967932523062895052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国で舞萌 (中国版maimai) を遊んでいるプレイヤーだが、ある地域で偶然日本版筐体に触れる機会でその写真をTwitterに投稿した\n日本語圏のTLではほとんど反応もなく、大きな炎上も起きなかったのに、なぜか国内のSNSやQQで大規模な誹謗中傷を受けることになった。正直、その違和感に戸惑っている https://t.co/tjXEvQSZLs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015281777623871488"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2015281792056746257",
+        "created_at": "2026-01-25T04:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015281792056746257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 63,
+              "expanded_url": "https://x.com/aoim33/status/1967932523062895052?s=46",
+              "start": 40,
+              "url": "https://t.co/bpYxzhY93Q"
+            },
+            {
+              "display_url": "pic.x.com/l3hFp6ZBnH",
+              "end": 87,
+              "expanded_url": "https://x.com/CldGeo/status/2015281792056746257/photo/1",
+              "media_key": "3_2015281777623871488",
+              "start": 64,
+              "url": "https://t.co/l3hFp6ZBnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015281792056746257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14111,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967932523062895052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛的👍发日框照片不承认自己有问题，那你爱发多发吧我拦不住你😄劝你一下有这么难？\nhttps://t.co/bpYxzhY93Q https://t.co/l3hFp6ZBnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 2341,
+          "like_count": 30167,
+          "listed_count": 10,
+          "media_count": 1490,
+          "tweet_count": 6644
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@_SAIGONOHOSHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "_SAIGONOHOSHI_"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2013314034817474942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 294,
+          "like_count": 2472,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 1085
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983409016333299712"
+      ],
+      "media_source_tweet_id": [
+        "1983409208843481343"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1983561527774114275",
+    "created_at": "2025-10-29T15:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983561527774114275"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "arcaea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1467634381959622656",
+          "start": 3,
+          "username": "Amag_m0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/24Jbpkhrbx",
+          "end": 73,
+          "expanded_url": "https://x.com/Amag_m0/status/1983409208843481343/video/1",
+          "media_key": "13_1983409016333299712",
+          "start": 50,
+          "url": "https://t.co/24Jbpkhrbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983561527774114275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983409208843481343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amag_m0: #arcaea \nnext to you聴いて、ずっと前から思ってたこと https://t.co/24Jbpkhrbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21166,
+        "height": 1080,
+        "media_key": "13_1983409016333299712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983409016333299712/img/fS4smVNdtz-2mLbs.jpg",
+        "public_metrics": {
+          "view_count": 6661
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983409016333299712/vid/avc1/480x270/a8fzhvrOVRnXMboK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983409016333299712/vid/avc1/640x360/nwwbymD_5bNts1lx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983409016333299712/vid/avc1/1280x720/kX0Fs5OAbvHT5Rz-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983409016333299712/pl/P2kXRjIrnkV4QYqw.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983409016333299712"
+          ],
+          "media_source_tweet_id": [
+            "1983409208843481343"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1983561527774114275",
+        "created_at": "2025-10-29T15:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983561527774114275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1467634381959622656",
+              "start": 3,
+              "username": "Amag_m0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/24Jbpkhrbx",
+              "end": 73,
+              "expanded_url": "https://x.com/Amag_m0/status/1983409208843481343/video/1",
+              "media_key": "13_1983409016333299712",
+              "start": 50,
+              "url": "https://t.co/24Jbpkhrbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983561527774114275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983409208843481343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amag_m0: #arcaea \nnext to you聴いて、ずっと前から思ってたこと https://t.co/24Jbpkhrbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983409016333299712"
+          ]
+        },
+        "author_id": "1467634381959622656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1983409208843481343",
+        "created_at": "2025-10-29T05:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983409208843481343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/24Jbpkhrbx",
+              "end": 60,
+              "expanded_url": "https://x.com/Amag_m0/status/1983409208843481343/video/1",
+              "media_key": "13_1983409016333299712",
+              "start": 37,
+              "url": "https://t.co/24Jbpkhrbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983409208843481343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 19050,
+          "like_count": 524,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "#arcaea \nnext to you聴いて、ずっと前から思ってたこと https://t.co/24Jbpkhrbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.24 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1983549040441827520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 1689,
+          "like_count": 16919,
+          "listed_count": 3,
+          "media_count": 800,
+          "tweet_count": 4038
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T23:18:07.000Z",
+        "description": "おとげーまー、時々独り言\n原神 フリーナ煙緋推し\nArcaea(Max12.73) FPM72 EPM3\nPhigros 16.21　ウニ 16.03\n詳細は拡張プロフィール\nチーム開発やってる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCX87M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCX87MB27oQptcbvXe6duA5w",
+                "start": 0,
+                "url": "https://t.co/89aJH8rFzi"
+              }
+            ]
+          }
+        },
+        "id": "1467634381959622656",
+        "name": "あまね猫🐾",
+        "pinned_tweet_id": "1910588120015528136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772261113755054080/f-v4UGO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 3132,
+          "like_count": 93604,
+          "listed_count": 30,
+          "media_count": 2581,
+          "tweet_count": 34608
+        },
+        "url": "https://t.co/89aJH8rFzi",
+        "username": "Amag_m0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1527725622948077568",
+          "name": "Starlink"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1527725622948077568",
+          "name": "Starlink"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2024888282061107430",
+    "created_at": "2026-02-20T16:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024888282061107430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willyundaya/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/willyundaya/status/2024871231535587738",
+          "start": 39,
+          "url": "https://t.co/ubi0k3BvUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024888282061107430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024871231535587738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "买一部日本版的iPhone 18 来国内专门链接 Starlink 会怎么样 https://t.co/ubi0k3BvUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024871213323993088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnJo-oXQAAO-9r.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024871213319794688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnJo-nXMAAnXaP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2024888282061107430",
+        "created_at": "2026-02-20T16:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024888282061107430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willyundaya/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/willyundaya/status/2024871231535587738",
+              "start": 39,
+              "url": "https://t.co/ubi0k3BvUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024888282061107430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024871231535587738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买一部日本版的iPhone 18 来国内专门链接 Starlink 会怎么样 https://t.co/ubi0k3BvUq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024871213323993088",
+            "3_2024871213319794688"
+          ]
+        },
+        "author_id": "1987948528472387585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          }
+        ],
+        "conversation_id": "2024871231535587738",
+        "created_at": "2026-02-20T15:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024871231535587738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TkstnjWAl",
+              "end": 166,
+              "expanded_url": "https://x.com/WillyundAya/status/2024871231535587738/photo/1",
+              "media_key": "3_2024871213323993088",
+              "start": 143,
+              "url": "https://t.co/0TkstnjWAl"
+            },
+            {
+              "display_url": "pic.x.com/0TkstnjWAl",
+              "end": 166,
+              "expanded_url": "https://x.com/WillyundAya/status/2024871231535587738/photo/1",
+              "media_key": "3_2024871213319794688",
+              "start": 143,
+              "url": "https://t.co/0TkstnjWAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024871231535587738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突然想知道哪些地区无法使用星链服务\n发现非洲一半的地区居然都有服务供应\n\n其他非洲地区也都是即将能有这个服务\n\n明令禁止封杀封锁Starlink服务的国家\n有中国，俄罗斯，北朝鲜和伊朗\n战乱制裁国家有古巴，叙利亚，阿富汗\n\n看得出来，能不能允许使用星链\n很大程度可以看出这个国家领导人\n是不是干了亏心事必须对国民封锁消息"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 536,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想知道哪些地区无法使用星链服务\n发现非洲一半的地区居然都有服务供应\n\n其他非洲地区也都是即将能有这个服务\n\n明令禁止封杀封锁Starlink服务的国家\n有中国，俄罗斯，北朝鲜和伊朗\n战乱制裁国家有古巴，叙利亚，阿富汗\n\n看得出来，能不能允许使用星链\n很大程度可以看出这个国家领导人 https://t.co/0TkstnjWAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 2500,
+          "like_count": 34319,
+          "listed_count": 17,
+          "media_count": 1719,
+          "tweet_count": 7735
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T18:20:53.000Z",
+        "description": "和理非运动发烧友，推翻共产党和理非行动群https://t.co/7LoG7tivAr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+XYJ3-y6RttpjM…",
+                "end": 43,
+                "expanded_url": "https://t.me/+XYJ3-y6RttpjMWNi",
+                "start": 20,
+                "url": "https://t.co/7LoG7tivAr"
+              }
+            ]
+          }
+        },
+        "id": "1987948528472387585",
+        "location": "Germany",
+        "name": "Willy想做活动家",
+        "pinned_tweet_id": "2016961999226446105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023147645410443265/_6b-Ht_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4291,
+          "following_count": 454,
+          "like_count": 8252,
+          "listed_count": 25,
+          "media_count": 235,
+          "tweet_count": 2654
+        },
+        "username": "WillyundAya",
+        "verified": true
+      }
+    ]
+  }
+}

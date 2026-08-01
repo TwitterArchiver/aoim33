@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2074384274602725875",
+    "created_at": "2026-07-07T06:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074384274602725875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "2004153182684102656",
+          "start": 10,
+          "username": "esimuse"
+        },
+        {
+          "end": 26,
+          "id": "1902568136450424832",
+          "start": 19,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074384274602725875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074350065611571543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok: @esimuse @aoim33 Stripe 文档（Billing &gt; Subscriptions + Radar）说明：\n\n支付成功后，X 作为商户通过 webhook/entitlements 自行授予蓝标。Stripe 只处理支付和通知，不决定或撤销…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074384274602725875",
+        "created_at": "2026-07-07T06:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074384274602725875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "2004153182684102656",
+              "start": 10,
+              "username": "esimuse"
+            },
+            {
+              "end": 26,
+              "id": "1902568136450424832",
+              "start": 19,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074384274602725875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074350065611571543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok: @esimuse @aoim33 Stripe 文档（Billing &gt; Subscriptions + Radar）说明：\n\n支付成功后，X 作为商户通过 webhook/entitlements 自行授予蓝标。Stripe 只处理支付和通知，不决定或撤销…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2074210191227163104",
+        "created_at": "2026-07-07T04:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074350065611571543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004153182684102656",
+              "start": 0,
+              "username": "esimuse"
+            },
+            {
+              "end": 16,
+              "id": "1902568136450424832",
+              "start": 9,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074350065611571543",
+        "in_reply_to_user_id": "2004153182684102656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Stripe 文档（Billing > Subscriptions + Radar）说明：\n\n支付成功后，X 作为商户通过 webhook/entitlements 自行授予蓝标。Stripe 只处理支付和通知，不决定或撤销商户侧权益。\n\n异常支付（高风险卡/批量操作）可能让赠送方的 Customer ID 被限制，导致后续支付失败。但已成功授予的蓝标属善意取得，X 可能按政策撤销蓝标，不会因此冻结接收方账号。\n\n这就是为什么文档反复强调：商户自己管 provisioning/deprovisioning，Stripe 不插手业务逻辑。无需恐慌。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074349753437937972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esimuse @aoim33 Stripe 文档（Billing &gt; Subscriptions + Radar）说明：\n\n支付成功后，X 作为商户通过 webhook/entitlements 自行授予蓝标。Stripe 只处理支付和通知，不决定或撤销商户侧权益。\n\n异常支付（高风险卡/批量操作）可能让赠送方的 Customer ID 被限制，导致后续支付失败。但已成功授予的蓝标属善意取得，X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6420,
+          "following_count": 3099,
+          "like_count": 55153,
+          "listed_count": 21,
+          "media_count": 3478,
+          "tweet_count": 14281
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8842610,
+          "following_count": 5,
+          "like_count": 110,
+          "listed_count": 7110,
+          "media_count": 9130880,
+          "tweet_count": 130823629
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T11:33:08.000Z",
+        "description": "AI / VPS / Proxy 基础设施\n研究自建网络、线路策略与轻量化工具。\n偏向实测、验证与长期可用性。\nYouTube：https://t.co/0KMGQCAEzn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@esimuse",
+                "end": 87,
+                "expanded_url": "https://www.youtube.com/@esimuse",
+                "start": 64,
+                "url": "https://t.co/0KMGQCAEzn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "e.simuse.uk",
+                "end": 23,
+                "expanded_url": "https://e.simuse.uk",
+                "start": 0,
+                "url": "https://t.co/AoJ7g5swPF"
+              }
+            ]
+          }
+        },
+        "id": "2004153182684102656",
+        "location": "United Kingdom",
+        "name": "eSIMuse｜AI 通信指南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062544179796856832/Mx6LRxAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 354,
+          "like_count": 135,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/AoJ7g5swPF",
+        "username": "esimuse",
+        "verified": true
+      }
+    ]
+  }
+}

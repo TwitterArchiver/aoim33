@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2002909329834557796",
+    "created_at": "2025-12-22T01:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T02:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002909329834557796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "829391339833823232",
+          "start": 3,
+          "username": "ohotomosan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002909329834557796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002907766365802834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohotomosan: 安倍晉三「雖為潛在敵國，仍應確保彼此利益」的外交方針相近。然而安倍晉三的外交政策本質上是以中俄為目標的「價值觀外交」，旨在將台灣問題及朝鮮半島問題從中國內政議題拉拽至國際政治的人道議題範疇，藉此提升日本的軍事地位。另一方面，高市首相是位極其純粹的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2002909329834557796",
+        "created_at": "2025-12-22T01:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002909329834557796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "829391339833823232",
+              "start": 3,
+              "username": "ohotomosan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002909329834557796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002907766365802834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ohotomosan: 安倍晉三「雖為潛在敵國，仍應確保彼此利益」的外交方針相近。然而安倍晉三的外交政策本質上是以中俄為目標的「價值觀外交」，旨在將台灣問題及朝鮮半島問題從中國內政議題拉拽至國際政治的人道議題範疇，藉此提升日本的軍事地位。另一方面，高市首相是位極其純粹的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829391339833823232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2002907766365802834",
+        "created_at": "2025-12-22T01:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002907766365802834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002907766365802834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "安倍晉三「雖為潛在敵國，仍應確保彼此利益」的外交方針相近。然而安倍晉三的外交政策本質上是以中俄為目標的「價值觀外交」，旨在將台灣問題及朝鮮半島問題從中國內政議題拉拽至國際政治的人道議題範疇，藉此提升日本的軍事地位。另一方面，高市首相是位極其純粹的保守派。「以最純粹的方式實踐國家核心要務」。換言之，她不採行安倍晉三或石破茂那般曲折的手段，而是直接推行減稅等政策。正因如此，她絕不向中國道歉——因為「簡潔而正確的行事方式」正是高市首相的理念。若因此引發衝突，她亦甘之如飴。然而身為國際政治專家，她必然正竭盡所能探查中國政壇的內幕。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "安倍晉三「雖為潛在敵國，仍應確保彼此利益」的外交方針相近。然而安倍晉三的外交政策本質上是以中俄為目標的「價值觀外交」，旨在將台灣問題及朝鮮半島問題從中國內政議題拉拽至國際政治的人道議題範疇，藉此提升日本的軍事地位。另一方面，高市首相是位極其純粹的保守派。「以最純粹的方式實踐國家核"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / SUPERNOVA team member / telegram ch ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 2045,
+          "like_count": 22766,
+          "listed_count": 4,
+          "media_count": 1127,
+          "tweet_count": 5163
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-08T18:07:59.000Z",
+        "description": "日語/中文/English.\n在學華語（普通話，粵台語）。發信日本語學，文化，生活情報",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oilmajor_ootom…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oilmajor_ootomo?t=hjDNDa&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/irBXWMOAFM"
+              }
+            ]
+          }
+        },
+        "id": "829391339833823232",
+        "name": "おほとも（犬儒）",
+        "pinned_tweet_id": "1865254598644240617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865256573465149440/MJPtJwmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 6092,
+          "like_count": 57861,
+          "listed_count": 11,
+          "media_count": 3377,
+          "tweet_count": 90656
+        },
+        "url": "https://t.co/irBXWMOAFM",
+        "username": "ohotomosan",
+        "verified": true
+      }
+    ]
+  }
+}

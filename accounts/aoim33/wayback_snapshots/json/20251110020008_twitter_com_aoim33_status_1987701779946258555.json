@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      }
+    ],
+    "conversation_id": "1987701779946258555",
+    "created_at": "2025-11-10T02:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T03:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987701779946258555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tm87925/status…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/tm87925/status/1987320383582970139",
+          "start": 143,
+          "url": "https://t.co/MhLYVNIlHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987701779946258555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "【重要提示】请保管好自己的随身物品\n根据日推那边打舞萌的小伙伴们反映，近期在日本发生多起在打舞萌时物品遗失的案件，其中部分已定性为盗窃\n同时主播昨天出勤的时候也损失了一件纯黑色的外套，今天准备继续联系店家跟进\n再次提醒：\n请将自己的随身物品放置在目之所及的安全的地方，避免遗漏或被盗窃"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987320383582970139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【重要提示】请保管好自己的随身物品\n根据日推那边打舞萌的小伙伴们反映，近期在日本发生多起在打舞萌时物品遗失的案件，其中部分已定性为盗窃\n同时主播昨天出勤的时候也损失了一件纯黑色的外套，今天准备继续联系店家跟进\n再次提醒：\n请将自己的随身物品放置在目之所及的安全的地方，避免遗漏或被盗窃 https://t.co/MhLYVNIlHJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "1987701779946258555",
+        "created_at": "2025-11-10T02:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987701779946258555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tm87925/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/tm87925/status/1987320383582970139",
+              "start": 143,
+              "url": "https://t.co/MhLYVNIlHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987701779946258555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【重要提示】请保管好自己的随身物品\n根据日推那边打舞萌的小伙伴们反映，近期在日本发生多起在打舞萌时物品遗失的案件，其中部分已定性为盗窃\n同时主播昨天出勤的时候也损失了一件纯黑色的外套，今天准备继续联系店家跟进\n再次提醒：\n请将自己的随身物品放置在目之所及的安全的地方，避免遗漏或被盗窃"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987320383582970139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【重要提示】请保管好自己的随身物品\n根据日推那边打舞萌的小伙伴们反映，近期在日本发生多起在打舞萌时物品遗失的案件，其中部分已定性为盗窃\n同时主播昨天出勤的时候也损失了一件纯黑色的外套，今天准备继续联系店家跟进\n再次提醒：\n请将自己的随身物品放置在目之所及的安全的地方，避免遗漏或被盗窃 https://t.co/MhLYVNIlHJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916438485910913024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "1987320383582970139",
+        "created_at": "2025-11-09T00:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987320383582970139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987320383582970139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 53634,
+          "like_count": 548,
+          "quote_count": 48,
+          "reply_count": 5,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "マイマイマーに限らず音ゲーマー全員改めて貴重品の管理に気をつけた方が良いよ\n財布や携帯は荷物カゴじゃなくて安全な所に置く。一番安全なのはポケット。それか筐体のところに置くか。舞でいうと下の黒い部分かな\n最近窃盗事件増えてるからこのツイート見た人は周りの音ゲーマーにも教えて欲しい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1626,
+          "like_count": 18058,
+          "listed_count": 4,
+          "media_count": 875,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-27T10:25:32.000Z",
+        "description": "埼玉でmaimaiやってる高校生です！/2023 8.30〜/超将/祝将目標、14残り3譜面、14+残り3譜面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tm87925?si=b9…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@tm87925?si=b91hsQkJT2Rtekos",
+                "start": 0,
+                "url": "https://t.co/4giVjUASih"
+              }
+            ]
+          }
+        },
+        "id": "1916438485910913024",
+        "location": "埼玉",
+        "name": "TM",
+        "pinned_tweet_id": "1972270655833055588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916438668937760768/4uAcw8NF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 833,
+          "like_count": 7263,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/4giVjUASih",
+        "username": "TM87925",
+        "verified": false
+      }
+    ]
+  }
+}

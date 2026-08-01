@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995281328863113216"
+      ],
+      "media_source_tweet_id": [
+        "1995281333825016306"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "1995691424806044067",
+    "created_at": "2025-12-02T03:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T04:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995691424806044067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1215292654088441856",
+          "start": 3,
+          "username": "Tetsu_7353"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dd3mrVRVUk",
+          "end": 42,
+          "expanded_url": "https://x.com/Tetsu_7353/status/1995281333825016306/photo/1",
+          "media_key": "3_1995281328863113216",
+          "start": 19,
+          "url": "https://t.co/Dd3mrVRVUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995691424806044067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995281333825016306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tetsu_7353: 好き https://t.co/Dd3mrVRVUk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_1995281328863113216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7CpzBHa8AADxiE.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995281328863113216"
+          ],
+          "media_source_tweet_id": [
+            "1995281333825016306"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "1995691424806044067",
+        "created_at": "2025-12-02T03:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T04:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995691424806044067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1215292654088441856",
+              "start": 3,
+              "username": "Tetsu_7353"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dd3mrVRVUk",
+              "end": 42,
+              "expanded_url": "https://x.com/Tetsu_7353/status/1995281333825016306/photo/1",
+              "media_key": "3_1995281328863113216",
+              "start": 19,
+              "url": "https://t.co/Dd3mrVRVUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995691424806044067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995281333825016306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tetsu_7353: 好き https://t.co/Dd3mrVRVUk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995281328863113216"
+          ]
+        },
+        "author_id": "1215292654088441856",
+        "conversation_id": "1995281333825016306",
+        "created_at": "2025-11-30T23:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T00:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995281333825016306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dd3mrVRVUk",
+              "end": 26,
+              "expanded_url": "https://x.com/Tetsu_7353/status/1995281333825016306/photo/1",
+              "media_key": "3_1995281328863113216",
+              "start": 3,
+              "url": "https://t.co/Dd3mrVRVUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995281333825016306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3704,
+          "like_count": 365,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "好き https://t.co/Dd3mrVRVUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1995021557874536905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1867,
+          "like_count": 20526,
+          "listed_count": 4,
+          "media_count": 1012,
+          "tweet_count": 4848
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-09T15:22:20.000Z",
+        "description": "観測者| ふあん民| eighter",
+        "id": "1215292654088441856",
+        "location": "日本 神奈川",
+        "name": "Tetsu",
+        "pinned_tweet_id": "1971345798517641532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939831074315702272/8RpcAnar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 430,
+          "like_count": 9296,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 1175
+        },
+        "username": "Tetsu_7353",
+        "verified": false
+      }
+    ]
+  }
+}

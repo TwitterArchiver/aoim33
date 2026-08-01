@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060175063568334848",
+        "3_2060175063593418752"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303035954727247872",
+          "name": "$QQQ"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1303035954727247872",
+          "name": "$QQQ"
+        }
+      }
+    ],
+    "conversation_id": "2060175072330236191",
+    "created_at": "2026-05-29T01:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060175072330236191"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "VOO"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "QQQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usLVQqY37K",
+          "end": 79,
+          "expanded_url": "https://x.com/aoim33/status/2060175072330236191/photo/1",
+          "media_key": "3_2060175063568334848",
+          "start": 56,
+          "url": "https://t.co/usLVQqY37K"
+        },
+        {
+          "display_url": "pic.x.com/usLVQqY37K",
+          "end": 79,
+          "expanded_url": "https://x.com/aoim33/status/2060175072330236191/photo/1",
+          "media_key": "3_2060175063593418752",
+          "start": 56,
+          "url": "https://t.co/usLVQqY37K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060175072330236191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "屏蔽我的索嗨的平均水平 be like\n\n感觉说自己是长期主义的人肯定没多少 $VOO 或者 $QQQ 的持仓 https://t.co/usLVQqY37K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2060175063568334848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc2ThcbwAAi7GP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060175063593418752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc2ThiagAAFt8N.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060175063568334848",
+            "3_2060175063593418752"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303035954727247872",
+              "name": "$QQQ"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1303035954727247872",
+              "name": "$QQQ"
+            }
+          }
+        ],
+        "conversation_id": "2060175072330236191",
+        "created_at": "2026-05-29T01:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060175072330236191"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "VOO"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "QQQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usLVQqY37K",
+              "end": 79,
+              "expanded_url": "https://x.com/aoim33/status/2060175072330236191/photo/1",
+              "media_key": "3_2060175063568334848",
+              "start": 56,
+              "url": "https://t.co/usLVQqY37K"
+            },
+            {
+              "display_url": "pic.x.com/usLVQqY37K",
+              "end": 79,
+              "expanded_url": "https://x.com/aoim33/status/2060175072330236191/photo/1",
+              "media_key": "3_2060175063593418752",
+              "start": 56,
+              "url": "https://t.co/usLVQqY37K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060175072330236191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屏蔽我的索嗨的平均水平 be like\n\n感觉说自己是长期主义的人肯定没多少 $VOO 或者 $QQQ 的持仓 https://t.co/usLVQqY37K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 2997,
+          "like_count": 50781,
+          "listed_count": 19,
+          "media_count": 3013,
+          "tweet_count": 12811
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

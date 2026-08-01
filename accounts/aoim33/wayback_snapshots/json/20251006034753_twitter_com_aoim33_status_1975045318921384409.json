@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "1975045318921384409",
+    "created_at": "2025-10-06T03:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975045318921384409"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "中国",
+          "probability": 0.8311,
+          "start": 31,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/parsonalsecret…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/parsonalsecret/status/1950601063553442085",
+          "start": 42,
+          "url": "https://t.co/YJIRKOBMx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975045318921384409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950601063553442085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "あぁはいはいはい\nそうなんですか？\nいつも何でも誰でもどこでも中国のせいだからね？ https://t.co/YJIRKOBMx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41950,
+        "height": 1316,
+        "media_key": "13_1950600940220002304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950600940220002304/img/FKRIURUEK_MhqKbl.jpg",
+        "public_metrics": {
+          "view_count": 487402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950600940220002304/pl/IYk2_32eBhjBtt4S.m3u8?v=7db"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950600940220002304/vid/avc1/884x1316/Rfh_E8UT7wqTcZxa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950600940220002304/vid/avc1/480x714/BwjQP2jmOwUgDB9O.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950600940220002304/vid/avc1/320x476/8SKCs1bJbZ5NMsOb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950600940220002304/vid/avc1/720x1070/X0ewVm2TX9e_FAlQ.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1975045318921384409",
+        "created_at": "2025-10-06T03:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975045318921384409"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "中国",
+              "probability": 0.8311,
+              "start": 31,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/parsonalsecret…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/parsonalsecret/status/1950601063553442085",
+              "start": 42,
+              "url": "https://t.co/YJIRKOBMx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975045318921384409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950601063553442085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あぁはいはいはい\nそうなんですか？\nいつも何でも誰でもどこでも中国のせいだからね？ https://t.co/YJIRKOBMx6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950600940220002304"
+          ]
+        },
+        "author_id": "1128849543238258688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1950601063553442085",
+        "created_at": "2025-07-30T16:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T17:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950601063553442085"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9007,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 16,
+              "normalized_text": "高市早苗",
+              "probability": 0.6392,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "日本",
+              "probability": 0.7888,
+              "start": 64,
+              "type": "Place"
+            },
+            {
+              "end": 71,
+              "normalized_text": "中国",
+              "probability": 0.8356,
+              "start": 70,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "日本",
+              "probability": 0.7348,
+              "start": 88,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1CGSqDVYa",
+              "end": 132,
+              "expanded_url": "https://x.com/Parsonalsecret/status/1950601063553442085/video/1",
+              "media_key": "13_1950600940220002304",
+              "start": 109,
+              "url": "https://t.co/K1CGSqDVYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950601063553442085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 903,
+          "impression_count": 1021392,
+          "like_count": 49298,
+          "quote_count": 258,
+          "reply_count": 250,
+          "retweet_count": 12604
+        },
+        "reply_settings": "everyone",
+        "text": "中国の意を汲んで公明党は「高市早苗が首相になったら自公政権から離脱するぞ」と脅しをかけた結果143人の票が石破に流れた\n\nつまり日本の選挙が中国の意向に左右された\n\nこれが今の日本なんです\nもう自公政権は潰しましょう https://t.co/K1CGSqDVYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 1318,
+          "like_count": 13245,
+          "listed_count": 3,
+          "media_count": 651,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-16T02:27:58.000Z",
+        "description": "日本のために啓蒙活動をしています。外国人（特に中国人）の犯罪撲滅に取り組んでいますのでDMで（写真や動画も添えて）情報提供お願いします🙇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/parsonalsecret",
+                "end": 23,
+                "expanded_url": "https://note.com/parsonalsecret",
+                "start": 0,
+                "url": "https://t.co/HH0KdpVPql"
+              }
+            ]
+          }
+        },
+        "id": "1128849543238258688",
+        "name": "髙橋𝕏羚@闇を暴く人。",
+        "pinned_tweet_id": "1943162773388820585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745629045335941120/QxcLpIqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131894,
+          "following_count": 210,
+          "like_count": 42501,
+          "listed_count": 703,
+          "media_count": 10308,
+          "tweet_count": 37356
+        },
+        "url": "https://t.co/HH0KdpVPql",
+        "username": "Parsonalsecret",
+        "verified": true
+      }
+    ]
+  }
+}

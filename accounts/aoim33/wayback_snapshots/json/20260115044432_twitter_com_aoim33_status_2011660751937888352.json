@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2011656375982833676",
+    "created_at": "2026-01-15T04:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T05:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011660751937888352"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "香港",
+          "probability": 0.9645,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011660751937888352",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011656375982833676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei うわ、ただいま通過して香港に行ったー"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011656319477170180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rWw6ybQAQS7O5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2011656319724634116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rWw7tbQAQN-Uf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011656321792425987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rWxDabQAM9_3k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011656321800822784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rWxDcbYAADocb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2011656375982833676",
+        "created_at": "2026-01-15T04:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T05:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011660751937888352"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "香港",
+              "probability": 0.9645,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011660751937888352",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011656375982833676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei うわ、ただいま通過して香港に行ったー"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011656319477170180",
+            "3_2011656319724634116",
+            "3_2011656321792425987",
+            "3_2011656321800822784"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "conversation_id": "2011656375982833676",
+        "created_at": "2026-01-15T04:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T05:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011656375982833676"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "皇岗口岸",
+              "probability": 0.6859,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "香港",
+              "probability": 0.7852,
+              "start": 82,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScnfcoZgMf",
+              "end": 112,
+              "expanded_url": "https://x.com/kuroyei/status/2011656375982833676/photo/1",
+              "media_key": "3_2011656319477170180",
+              "start": 89,
+              "url": "https://t.co/ScnfcoZgMf"
+            },
+            {
+              "display_url": "pic.x.com/ScnfcoZgMf",
+              "end": 112,
+              "expanded_url": "https://x.com/kuroyei/status/2011656375982833676/photo/1",
+              "media_key": "3_2011656319724634116",
+              "start": 89,
+              "url": "https://t.co/ScnfcoZgMf"
+            },
+            {
+              "display_url": "pic.x.com/ScnfcoZgMf",
+              "end": 112,
+              "expanded_url": "https://x.com/kuroyei/status/2011656375982833676/photo/1",
+              "media_key": "3_2011656321792425987",
+              "start": 89,
+              "url": "https://t.co/ScnfcoZgMf"
+            },
+            {
+              "display_url": "pic.x.com/ScnfcoZgMf",
+              "end": 112,
+              "expanded_url": "https://x.com/kuroyei/status/2011656375982833676/photo/1",
+              "media_key": "3_2011656321800822784",
+              "start": 89,
+              "url": "https://t.co/ScnfcoZgMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011656375982833676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "罗湖だーーー\n\n深圳に来たのは4回目ですが、ここは初めて来ました！\n皇岗口岸と深圳湾口岸なら利用したことがあります\n\nレトロな雰囲気ですね\nタクシーが「的士」なの、香港感します https://t.co/ScnfcoZgMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 2236,
+          "like_count": 27821,
+          "listed_count": 9,
+          "media_count": 1336,
+          "tweet_count": 6080
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 💚 Suicaのペンギン🐧 / 📝 就職👨‍💻←留学🇫🇮←高専👨‍💻 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 125,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 102,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "http://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/gJIscY5zrM"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "name": "くろえいさん🥝",
+        "pinned_tweet_id": "1993931357886562745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7533,
+          "following_count": 928,
+          "like_count": 118745,
+          "listed_count": 44,
+          "media_count": 8472,
+          "tweet_count": 35674
+        },
+        "url": "https://t.co/gJIscY5zrM",
+        "username": "kuroyei",
+        "verified": true
+      }
+    ]
+  }
+}

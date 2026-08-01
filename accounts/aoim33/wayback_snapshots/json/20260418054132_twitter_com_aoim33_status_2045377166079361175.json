@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2045339755995709537",
+    "created_at": "2026-04-18T05:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045377166079361175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1543580881540943872",
+          "start": 0,
+          "username": "zaochih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045377166079361175",
+    "in_reply_to_user_id": "1543580881540943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045339755995709537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaochih 感觉很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2045339755995709537",
+        "created_at": "2026-04-18T05:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045377166079361175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1543580881540943872",
+              "start": 0,
+              "username": "zaochih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045377166079361175",
+        "in_reply_to_user_id": "1543580881540943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045339755995709537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaochih 感觉很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543580881540943872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2045339755995709537",
+        "created_at": "2026-04-18T03:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045339755995709537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045339755995709537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1161,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下次去 HK 也要去 HSBC 领一本支票簿来给朋友们发 1 HKD 发着玩。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2044289664308445259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4865,
+          "following_count": 2809,
+          "like_count": 44139,
+          "listed_count": 18,
+          "media_count": 2453,
+          "tweet_count": 10860
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-03T13:02:26.000Z",
+        "description": "不知名乡村师范大专改制双非二本新工科 | 当朋友圈发 | 或许是 18 y.o. | 豫裔渝籍 QTH OL86se | 关注重庆轨道交通谢谢喵 | 很明显是逆天男同啊 | 简/部分繁中 🉑 EN-US OK 其他语言本当下手 | 祝你梦里有嘉陵江的风。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.zaochih.com",
+                "end": 23,
+                "expanded_url": "https://about.zaochih.com",
+                "start": 0,
+                "url": "https://t.co/rGxmbyYZU9"
+              }
+            ]
+          }
+        },
+        "id": "1543580881540943872",
+        "location": "B4/BG8",
+        "name": "草纸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039563814270611458/sQOgvz3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 327,
+          "like_count": 159079,
+          "listed_count": 1,
+          "media_count": 1895,
+          "tweet_count": 10136
+        },
+        "url": "https://t.co/rGxmbyYZU9",
+        "username": "zaochih",
+        "verified": false
+      }
+    ]
+  }
+}

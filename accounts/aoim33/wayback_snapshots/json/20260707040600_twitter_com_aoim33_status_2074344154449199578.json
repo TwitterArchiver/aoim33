@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2074344151198601219",
+    "created_at": "2026-07-07T04:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074344154449199578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074344154449199578",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "docs.stripe.com/payments/sepa-…",
+            "end": 224,
+            "expanded_url": "https://docs.stripe.com/payments/sepa-debit/accept-a-payment",
+            "start": 201,
+            "url": "https://t.co/kujd2nZLDq"
+          }
+        ]
+      },
+      "text": "先说他用的支付方式。他走的是欧洲经济区的 Direct Debit，也就是 SEPA 直接借记\n\nStripe 文档里把这种方式明确归类为延迟通知型的支付\nSEPA 直接借记属于延迟通知类支付方式，资金不会在付款后立即到账\n并且在第一次设置时需要手动转账出去获得 direct debit 许可\n它不是刷卡那种当场知道成没成的方式，也不会当场提供一个返回值说 payment success \n\n文档：https://t.co/kujd2nZLDq"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074344151198601219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先说他用的支付方式。他走的是欧洲经济区的 Direct Debit，也就是 SEPA 直接借记\n\nStripe 文档里把这种方式明确归类为延迟通知型的支付\nSEPA 直接借记属于延迟通知类支付方式，资金不会在付款后立即到账\n并且在第一次设置时需要手动转账出去获得 direct debit 许可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074344151198601219",
+        "created_at": "2026-07-07T04:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344154449199578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074344154449199578",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "docs.stripe.com/payments/sepa-…",
+                "end": 224,
+                "expanded_url": "https://docs.stripe.com/payments/sepa-debit/accept-a-payment",
+                "start": 201,
+                "url": "https://t.co/kujd2nZLDq"
+              }
+            ]
+          },
+          "text": "先说他用的支付方式。他走的是欧洲经济区的 Direct Debit，也就是 SEPA 直接借记\n\nStripe 文档里把这种方式明确归类为延迟通知型的支付\nSEPA 直接借记属于延迟通知类支付方式，资金不会在付款后立即到账\n并且在第一次设置时需要手动转账出去获得 direct debit 许可\n它不是刷卡那种当场知道成没成的方式，也不会当场提供一个返回值说 payment success \n\n文档：https://t.co/kujd2nZLDq"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344151198601219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先说他用的支付方式。他走的是欧洲经济区的 Direct Debit，也就是 SEPA 直接借记\n\nStripe 文档里把这种方式明确归类为延迟通知型的支付\nSEPA 直接借记属于延迟通知类支付方式，资金不会在付款后立即到账\n并且在第一次设置时需要手动转账出去获得 direct debit 许可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074344151198601219",
+        "created_at": "2026-07-07T04:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344151198601219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074344151198601219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚很多人收到那个陌生账号赠送的认证之后开始担心自己会被封号。我把 Stripe 官方文档翻了一遍，想说明为什么这个担心在机制上站不住，也顺便解释一下那个人到底是怎么白嫖到赠送资格的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6417,
+          "following_count": 3100,
+          "like_count": 55140,
+          "listed_count": 21,
+          "media_count": 3478,
+          "tweet_count": 14275
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

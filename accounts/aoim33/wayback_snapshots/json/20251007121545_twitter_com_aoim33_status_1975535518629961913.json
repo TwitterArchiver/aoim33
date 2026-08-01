@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1975524806759203318",
+    "created_at": "2025-10-07T12:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975535518629961913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975535518629961913",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975524806759203318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 但是国行就是啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975524797611417601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2p5Vi6aoAEX7sO.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975524797598867458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2p5Vi3bIAIbQgP.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975524797594632192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2p5Vi2agAArPFZ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975524797628198912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2p5Vi-asAA74Fg.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1975524806759203318",
+        "created_at": "2025-10-07T12:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975535518629961913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975535518629961913",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975524806759203318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 但是国行就是啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975524797611417601",
+            "3_1975524797598867458",
+            "3_1975524797594632192",
+            "3_1975524797628198912"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1975524806759203318",
+        "created_at": "2025-10-07T11:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975524806759203318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqPYBg7wDi",
+              "end": 66,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/1975524806759203318/photo/1",
+              "media_key": "3_1975524797611417601",
+              "start": 43,
+              "url": "https://t.co/GqPYBg7wDi"
+            },
+            {
+              "display_url": "pic.x.com/GqPYBg7wDi",
+              "end": 66,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/1975524806759203318/photo/1",
+              "media_key": "3_1975524797598867458",
+              "start": 43,
+              "url": "https://t.co/GqPYBg7wDi"
+            },
+            {
+              "display_url": "pic.x.com/GqPYBg7wDi",
+              "end": 66,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/1975524806759203318/photo/1",
+              "media_key": "3_1975524797594632192",
+              "start": 43,
+              "url": "https://t.co/GqPYBg7wDi"
+            },
+            {
+              "display_url": "pic.x.com/GqPYBg7wDi",
+              "end": 66,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/1975524806759203318/photo/1",
+              "media_key": "3_1975524797628198912",
+              "start": 43,
+              "url": "https://t.co/GqPYBg7wDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975524806759203318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见到 iPhone  Air真机了，太爱了，国行千万不要是合约机，不是合约机立马拿下 https://t.co/GqPYBg7wDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 1358,
+          "like_count": 13568,
+          "listed_count": 3,
+          "media_count": 656,
+          "tweet_count": 3315
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Developer / Rhythm Game Fever / maimaiでらっくす痛車のオーナーです / 痛车车主和音游狗会回关 / 取关请双向，骗回关会被拉黑。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 1003,
+          "like_count": 17878,
+          "listed_count": 28,
+          "media_count": 9930,
+          "tweet_count": 46902
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": false
+      }
+    ]
+  }
+}

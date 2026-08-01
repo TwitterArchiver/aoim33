@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2000164257342922943",
+    "created_at": "2025-12-14T11:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000164257342922943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1662871897309347842",
+          "start": 3,
+          "username": "ForsakenDreamm"
+        },
+        {
+          "end": 28,
+          "id": "1125309529145524224",
+          "start": 20,
+          "username": "wquguru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000164257342922943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997611299761803502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForsakenDreamm: @wquguru 别阴谋论了，读剪切板是为了自动填充节点和订阅，iOS允许你拒绝，小火箭设置里也有关闭这个功能的设定。小火箭你只要不开启它的解密功能，不安装他的证书，它所能获取到的信息不回多于你的机场一点，说白了，小火箭可被审计，这么久了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2000164257342922943",
+        "created_at": "2025-12-14T11:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000164257342922943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1662871897309347842",
+              "start": 3,
+              "username": "ForsakenDreamm"
+            },
+            {
+              "end": 28,
+              "id": "1125309529145524224",
+              "start": 20,
+              "username": "wquguru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000164257342922943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997611299761803502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForsakenDreamm: @wquguru 别阴谋论了，读剪切板是为了自动填充节点和订阅，iOS允许你拒绝，小火箭设置里也有关闭这个功能的设定。小火箭你只要不开启它的解密功能，不安装他的证书，它所能获取到的信息不回多于你的机场一点，说白了，小火箭可被审计，这么久了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662871897309347842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1997510050303373636",
+        "created_at": "2025-12-07T10:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T11:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997611299761803502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1125309529145524224",
+              "start": 0,
+              "username": "wquguru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997611299761803502",
+        "in_reply_to_user_id": "1125309529145524224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8682,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997510050303373636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wquguru 别阴谋论了，读剪切板是为了自动填充节点和订阅，iOS允许你拒绝，小火箭设置里也有关闭这个功能的设定。小火箭你只要不开启它的解密功能，不安装他的证书，它所能获取到的信息不回多于你的机场一点，说白了，小火箭可被审计，这么久了也没人发现有什么问题，你的机场呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / BMC blog ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1964,
+          "like_count": 21670,
+          "listed_count": 4,
+          "media_count": 1080,
+          "tweet_count": 5003
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T17:22:33.000Z",
+        "description": "小米和华为的唯一区别就是名字叫小米",
+        "id": "1662871897309347842",
+        "location": "127.1&::1",
+        "name": "然然然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952549718510493696/5TpjMYpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 756,
+          "like_count": 50682,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 5917
+        },
+        "username": "ForsakenDreamm",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T08:01:13.000Z",
+        "description": "AI + Quant + 工程 | 氛围编程12原则 https://t.co/ckrIuyeaAH | 1011情报包 https://t.co/1jnqA1yzEa | 12经典量化策略 https://t.co/hzM43biaEU | 开源的nof1 https://t.co/WjHgPeaTkD | 欢迎DM👋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "12factor.me/zh",
+                "end": 50,
+                "expanded_url": "http://12factor.me/zh",
+                "start": 27,
+                "url": "https://t.co/ckrIuyeaAH"
+              },
+              {
+                "display_url": "crash.wqu.guru",
+                "end": 84,
+                "expanded_url": "https://crash.wqu.guru",
+                "start": 61,
+                "url": "https://t.co/1jnqA1yzEa"
+              },
+              {
+                "display_url": "12quant.wqu.guru",
+                "end": 119,
+                "expanded_url": "https://12quant.wqu.guru",
+                "start": 96,
+                "url": "https://t.co/hzM43biaEU"
+              },
+              {
+                "display_url": "nof0.wqu.guru",
+                "end": 153,
+                "expanded_url": "https://nof0.wqu.guru",
+                "start": 130,
+                "url": "https://t.co/WjHgPeaTkD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wqu.guru/blog/quantopia…",
+                "end": 23,
+                "expanded_url": "https://wqu.guru/blog/quantopia-quantitative-analysis-56-lectures",
+                "start": 0,
+                "url": "https://t.co/pvsHX8lzXY"
+              }
+            ]
+          }
+        },
+        "id": "1125309529145524224",
+        "location": "imagine",
+        "name": "WquGuru🦀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892575619298525184/q8syuBou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9459,
+          "following_count": 830,
+          "like_count": 6776,
+          "listed_count": 141,
+          "media_count": 376,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/pvsHX8lzXY",
+        "username": "wquguru",
+        "verified": true
+      }
+    ]
+  }
+}

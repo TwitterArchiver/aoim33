@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1975045208237806009",
+    "created_at": "2025-10-06T03:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975045571850498434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674707942686482432",
+          "start": 0,
+          "username": "shamsnowyday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975045571850498434",
+    "in_reply_to_user_id": "1674707942686482432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975045208237806009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shamsnowyday え？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1975045208237806009",
+        "created_at": "2025-10-06T03:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975045571850498434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674707942686482432",
+              "start": 0,
+              "username": "shamsnowyday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975045571850498434",
+        "in_reply_to_user_id": "1674707942686482432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975045208237806009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shamsnowyday え？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674707942686482432",
+        "conversation_id": "1975045208237806009",
+        "created_at": "2025-10-06T03:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975045208237806009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975045208237806009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实是来大城市求草的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 1319,
+          "like_count": 13247,
+          "listed_count": 3,
+          "media_count": 651,
+          "tweet_count": 3273
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-30T09:14:54.000Z",
+        "description": "麦当劳酸黄瓜该死| 渴望被爱-做什么都半吊子的垃圾废物| 08年生人｜喜欢折腾一些有的没的东西",
+        "id": "1674707942686482432",
+        "name": "妄冬🔜北京🏳‍🌈",
+        "pinned_tweet_id": "1787876623301419385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868479970408030209/AO4ZvqLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 1710,
+          "like_count": 47289,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 6002
+        },
+        "username": "shamsnowyday",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015954248874229761",
+        "3_2015954248731918342",
+        "3_2015954248727756800",
+        "3_2015954248723529730"
+      ],
+      "media_source_tweet_id": [
+        "2015954256055148691",
+        "2015954256055148691",
+        "2015954256055148691",
+        "2015954256055148691"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2015987616211193929",
+    "created_at": "2026-01-27T03:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015987616211193929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "鳥取市国府町宮下",
+          "probability": 0.4844,
+          "start": 27,
+          "type": "Place"
+        },
+        {
+          "end": 41,
+          "normalized_text": "宇部神社",
+          "probability": 0.3916,
+          "start": 38,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "808468854",
+          "start": 3,
+          "username": "shigeruishiba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ze5DDSB3Cg",
+          "end": 73,
+          "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+          "media_key": "3_2015954248874229761",
+          "start": 50,
+          "url": "https://t.co/Ze5DDSB3Cg"
+        },
+        {
+          "display_url": "pic.x.com/Ze5DDSB3Cg",
+          "end": 73,
+          "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+          "media_key": "3_2015954248731918342",
+          "start": 50,
+          "url": "https://t.co/Ze5DDSB3Cg"
+        },
+        {
+          "display_url": "pic.x.com/Ze5DDSB3Cg",
+          "end": 73,
+          "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+          "media_key": "3_2015954248727756800",
+          "start": 50,
+          "url": "https://t.co/Ze5DDSB3Cg"
+        },
+        {
+          "display_url": "pic.x.com/Ze5DDSB3Cg",
+          "end": 73,
+          "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+          "media_key": "3_2015954248723529730",
+          "start": 50,
+          "url": "https://t.co/Ze5DDSB3Cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015987616211193929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015954256055148691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigeruishiba: 衆院選本日公示。鳥取市国府町宮下にある宇部神社にて必勝祈願。 https://t.co/Ze5DDSB3Cg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2015954248874229761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_obtVeWgAEl4hg.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2015954248731918342",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_obtU8bAAY3bUZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2015954248727756800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_obtU7bgAAWIEL.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2015954248723529730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_obtU6bAAI-lAV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015954248874229761",
+            "3_2015954248731918342",
+            "3_2015954248727756800",
+            "3_2015954248723529730"
+          ],
+          "media_source_tweet_id": [
+            "2015954256055148691",
+            "2015954256055148691",
+            "2015954256055148691",
+            "2015954256055148691"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2015987616211193929",
+        "created_at": "2026-01-27T03:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015987616211193929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "鳥取市国府町宮下",
+              "probability": 0.4844,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 41,
+              "normalized_text": "宇部神社",
+              "probability": 0.3916,
+              "start": 38,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "808468854",
+              "start": 3,
+              "username": "shigeruishiba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 73,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248874229761",
+              "start": 50,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            },
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 73,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248731918342",
+              "start": 50,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            },
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 73,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248727756800",
+              "start": 50,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            },
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 73,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248723529730",
+              "start": 50,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015987616211193929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015954256055148691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigeruishiba: 衆院選本日公示。鳥取市国府町宮下にある宇部神社にて必勝祈願。 https://t.co/Ze5DDSB3Cg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015954248874229761",
+            "3_2015954248731918342",
+            "3_2015954248727756800",
+            "3_2015954248723529730"
+          ]
+        },
+        "author_id": "808468854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          }
+        ],
+        "conversation_id": "2015954256055148691",
+        "created_at": "2026-01-27T01:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015954256055148691"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "鳥取市国府町宮下",
+              "probability": 0.5138,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 22,
+              "normalized_text": "宇部神社",
+              "probability": 0.3801,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 54,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248874229761",
+              "start": 31,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            },
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 54,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248731918342",
+              "start": 31,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            },
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 54,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248727756800",
+              "start": 31,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            },
+            {
+              "display_url": "pic.x.com/Ze5DDSB3Cg",
+              "end": 54,
+              "expanded_url": "https://x.com/shigeruishiba/status/2015954256055148691/photo/1",
+              "media_key": "3_2015954248723529730",
+              "start": 31,
+              "url": "https://t.co/Ze5DDSB3Cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015954256055148691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 52927,
+          "like_count": 1774,
+          "quote_count": 17,
+          "reply_count": 186,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "衆院選本日公示。鳥取市国府町宮下にある宇部神社にて必勝祈願。 https://t.co/Ze5DDSB3Cg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 2348,
+          "like_count": 30387,
+          "listed_count": 11,
+          "media_count": 1502,
+          "tweet_count": 6724
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-07T08:44:49.000Z",
+        "description": "鳥取一区 衆議院議員 | 自民党  | 公式ブログ https://t.co/wpgypBXjoz | note https://t.co/riwJ8pEIFw | 公式YouTube https://t.co/NeclO4yimY |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ishiba-shigeru.cocolog-nifty.com",
+                "end": 49,
+                "expanded_url": "http://ishiba-shigeru.cocolog-nifty.com",
+                "start": 26,
+                "url": "https://t.co/wpgypBXjoz"
+              },
+              {
+                "display_url": "note.com/shigeru_ishiba",
+                "end": 80,
+                "expanded_url": "https://note.com/shigeru_ishiba",
+                "start": 57,
+                "url": "https://t.co/riwJ8pEIFw"
+              },
+              {
+                "display_url": "youtube.com/@ishibach",
+                "end": 116,
+                "expanded_url": "https://www.youtube.com/@ishibach",
+                "start": 93,
+                "url": "https://t.co/NeclO4yimY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ishiba.com",
+                "end": 23,
+                "expanded_url": "http://www.ishiba.com/",
+                "start": 0,
+                "url": "https://t.co/0ySZgO9Vap"
+              }
+            ]
+          }
+        },
+        "id": "808468854",
+        "location": "自由民主党",
+        "name": "石破茂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820038227421716480/E4ucOtA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526781,
+          "following_count": 156,
+          "like_count": 387,
+          "listed_count": 3695,
+          "media_count": 949,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/0ySZgO9Vap",
+        "username": "shigeruishiba",
+        "verified": true
+      }
+    ]
+  }
+}

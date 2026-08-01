@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2049972069614723203",
+    "created_at": "2026-04-30T22:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049972069614723203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 41,
+          "id": "2010625193467867136",
+          "start": 33,
+          "username": "nutsh33"
+        },
+        {
+          "end": 121,
+          "id": "2010625193467867136",
+          "start": 113,
+          "username": "nutsh33"
+        },
+        {
+          "end": 142,
+          "id": "2010625193467867136",
+          "start": 134,
+          "username": "nutsh33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049972069614723203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 41,
+            "id": "2010625193467867136",
+            "start": 33,
+            "username": "nutsh33"
+          },
+          {
+            "end": 121,
+            "id": "2010625193467867136",
+            "start": 113,
+            "username": "nutsh33"
+          },
+          {
+            "end": 142,
+            "id": "2010625193467867136",
+            "start": 134,
+            "username": "nutsh33"
+          },
+          {
+            "end": 267,
+            "id": "2010625193467867136",
+            "start": 259,
+            "username": "nutsh33"
+          }
+        ]
+      },
+      "text": "心理学个案记录 1 —— 情绪 ABC 理论的实践运用\n\n今天与 @nutsh33 和他对象进行心理学个案辅导的契机其实很简单：他们吵架了\n其实他们的吵架在之前的很多次接触中都有迹可循：他对象会突然间嘴往下一瞥然后就开始不回 @nutsh33 的话，而那个时候可能是 @nutsh33 的话（基于他对象后来的描述）没有体谅过她的感受，于是就开始生闷气\n虽然说后面慢慢想通了，但是在今天的一次应激反应下，两人的矛盾（我不知道这个词用得是否正确，其实它也没有要双方打到昏天黑地的程度）在20分钟之内就说开了\n简单来说就是 @nutsh33 喜欢有话直说，他自己在和我交往的过程中也强调了很多次，说希望我不要太顾及，有事情直接说\n\n（后续）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理学个案记录 1 —— 情绪 ABC 理论的实践运用\n\n今天与 @nutsh33 和他对象进行心理学个案辅导的契机其实很简单：他们吵架了\n其实他们的吵架在之前的很多次接触中都有迹可循：他对象会突然间嘴往下一瞥然后就开始不回 @nutsh33 的话，而那个时候可能是 @nutsh33"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2049972069614723203",
+        "created_at": "2026-04-30T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049972069614723203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2010625193467867136",
+              "start": 33,
+              "username": "nutsh33"
+            },
+            {
+              "end": 121,
+              "id": "2010625193467867136",
+              "start": 113,
+              "username": "nutsh33"
+            },
+            {
+              "end": 142,
+              "id": "2010625193467867136",
+              "start": 134,
+              "username": "nutsh33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049972069614723203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 41,
+                "id": "2010625193467867136",
+                "start": 33,
+                "username": "nutsh33"
+              },
+              {
+                "end": 121,
+                "id": "2010625193467867136",
+                "start": 113,
+                "username": "nutsh33"
+              },
+              {
+                "end": 142,
+                "id": "2010625193467867136",
+                "start": 134,
+                "username": "nutsh33"
+              },
+              {
+                "end": 267,
+                "id": "2010625193467867136",
+                "start": 259,
+                "username": "nutsh33"
+              }
+            ]
+          },
+          "text": "心理学个案记录 1 —— 情绪 ABC 理论的实践运用\n\n今天与 @nutsh33 和他对象进行心理学个案辅导的契机其实很简单：他们吵架了\n其实他们的吵架在之前的很多次接触中都有迹可循：他对象会突然间嘴往下一瞥然后就开始不回 @nutsh33 的话，而那个时候可能是 @nutsh33 的话（基于他对象后来的描述）没有体谅过她的感受，于是就开始生闷气\n虽然说后面慢慢想通了，但是在今天的一次应激反应下，两人的矛盾（我不知道这个词用得是否正确，其实它也没有要双方打到昏天黑地的程度）在20分钟之内就说开了\n简单来说就是 @nutsh33 喜欢有话直说，他自己在和我交往的过程中也强调了很多次，说希望我不要太顾及，有事情直接说\n\n（后续）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理学个案记录 1 —— 情绪 ABC 理论的实践运用\n\n今天与 @nutsh33 和他对象进行心理学个案辅导的契机其实很简单：他们吵架了\n其实他们的吵架在之前的很多次接触中都有迹可循：他对象会突然间嘴往下一瞥然后就开始不回 @nutsh33 的话，而那个时候可能是 @nutsh33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2049888719336071200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 2860,
+          "like_count": 46491,
+          "listed_count": 19,
+          "media_count": 2629,
+          "tweet_count": 11451
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "日向 夏 Himukai Natsu ‖ 数码圈 ‖ 健身圈 ‖ Trance ‖ \n可爱、有趣的、日常 ‖ @UNIQLO_JP Staff ‖ 小伙伴 @aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "UNIQLO_JP"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "Natsu H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037968637076844544/_IfjcZMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 806,
+          "like_count": 829,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 1078
+        },
+        "username": "nutsh33",
+        "verified": true
+      }
+    ]
+  }
+}

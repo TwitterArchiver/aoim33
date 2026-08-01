@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      }
+    ],
+    "conversation_id": "1981533001478787426",
+    "created_at": "2025-10-24T01:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981533001478787426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "850157859065151488",
+          "start": 3,
+          "username": "PKU1898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981533001478787426",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981532941160169700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PKU1898: POV: PKU Huizhou Food Festival… but can't decide what to eat! 🍜\n\nPKUPOV｜Produced by Xie Bingyan; Tao Xin; Wang Junye; Cao Meng…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58305,
+        "height": 1920,
+        "media_key": "13_1981532020334305280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981532020334305280/img/QZmZNuQXIEQDrYp0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981532020334305280/vid/avc1/720x1280/xBBvidmMLmhfLxrR.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981532020334305280/vid/avc1/320x568/WUVX3dE8qkEkdMrS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981532020334305280/pl/t9K4JUD6qmKSYY1h.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981532020334305280/vid/avc1/480x852/4Cpc9lvrtP6itk4d.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981532020334305280/vid/avc1/1080x1920/Be9ipyBgk8HOKBQi.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "1981533001478787426",
+        "created_at": "2025-10-24T01:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981533001478787426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "850157859065151488",
+              "start": 3,
+              "username": "PKU1898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981533001478787426",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981532941160169700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PKU1898: POV: PKU Huizhou Food Festival… but can't decide what to eat! 🍜\n\nPKUPOV｜Produced by Xie Bingyan; Tao Xin; Wang Junye; Cao Meng…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981532020334305280"
+          ]
+        },
+        "author_id": "850157859065151488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "1981532941160169700",
+        "created_at": "2025-10-24T01:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981532941160169700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAQd1GfYkt",
+              "end": 153,
+              "expanded_url": "https://x.com/PKU1898/status/1981532941160169700/video/1",
+              "media_key": "13_1981532020334305280",
+              "start": 130,
+              "url": "https://t.co/aAQd1GfYkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981532941160169700",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "POV: PKU Huizhou Food Festival… but can't decide what to eat! 🍜\n\nPKUPOV｜Produced by Xie Bingyan; Tao Xin; Wang Junye; Cao Mengyao https://t.co/aAQd1GfYkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1616,
+          "like_count": 16260,
+          "listed_count": 2,
+          "media_count": 764,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-07T01:26:43.000Z",
+        "description": "Peking University was established in 1898. This account is dedicated to #PekingUniversity’s global outreach and communications.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 72,
+                "tag": "PekingUniversity"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "english.pku.edu.cn",
+                "end": 23,
+                "expanded_url": "http://english.pku.edu.cn/",
+                "start": 0,
+                "url": "https://t.co/uVOK8V0bHJ"
+              }
+            ]
+          }
+        },
+        "id": "850157859065151488",
+        "location": "Beijing",
+        "name": "Peking University",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246469399537565696/LoOl83F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678606,
+          "following_count": 213,
+          "like_count": 4283,
+          "listed_count": 491,
+          "media_count": 8121,
+          "tweet_count": 11973
+        },
+        "url": "https://t.co/uVOK8V0bHJ",
+        "username": "PKU1898",
+        "verified": true
+      }
+    ]
+  }
+}

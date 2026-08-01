@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      }
+    ],
+    "conversation_id": "2067178446162415685",
+    "created_at": "2026-06-17T09:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067178446162415685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1340979091202322432",
+          "start": 3,
+          "username": "MangaMoguraRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067178446162415685",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067086906823729225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangaMoguraRE: Gender Youth Drama \"Just Like Mona Lisa\" ANIME ADAPTATION OFICIALLY ANNOUNCED\n\nAnimation Studio: SHAFT\n\nYouth Drama by Y…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067086887672537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_EkouW4AAWS3Z.jpg",
+        "width": 2897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2067178446162415685",
+        "created_at": "2026-06-17T09:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067178446162415685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1340979091202322432",
+              "start": 3,
+              "username": "MangaMoguraRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067178446162415685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067086906823729225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangaMoguraRE: Gender Youth Drama \"Just Like Mona Lisa\" ANIME ADAPTATION OFICIALLY ANNOUNCED\n\nAnimation Studio: SHAFT\n\nYouth Drama by Y…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067086887672537088"
+          ]
+        },
+        "author_id": "1340979091202322432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "2067086906823729225",
+        "created_at": "2026-06-17T03:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067086906823729225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVGYGFnn0L",
+              "end": 303,
+              "expanded_url": "https://x.com/MangaMoguraRE/status/2067086906823729225/photo/1",
+              "media_key": "3_2067086887672537088",
+              "start": 280,
+              "url": "https://t.co/VVGYGFnn0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067086906823729225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Gender Youth Drama \"Just Like Mona Lisa\" ANIME ADAPTATION OFICIALLY ANNOUNCED\n\nAnimation Studio: SHAFT\n\nYouth Drama by Yoshimura Tsumuzi set in a world where people are born without a specific gender. They usually choose their gender at age 12 but the genderless protagonist sits at 18yo still uncertain who to become. And things get even more complicated when a boy and a girl both confess to them at the same time.\n\n(Seibetsu \"Mona Lisa\" no Kimi e)\n\nImage © Square Enix, Tsumuji Yoshimura, \"Just Like Mona Lisa\" Partners"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4230,
+          "impression_count": 383944,
+          "like_count": 12155,
+          "quote_count": 667,
+          "reply_count": 68,
+          "retweet_count": 1569
+        },
+        "reply_settings": "everyone",
+        "text": "Gender Youth Drama \"Just Like Mona Lisa\" ANIME ADAPTATION OFICIALLY ANNOUNCED\n\nAnimation Studio: SHAFT\n\nYouth Drama by Yoshimura Tsumuzi set in a world where people are born without a specific gender. They usually choose their gender at age 12 but the genderless protagonist sits https://t.co/VVGYGFnn0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6135,
+          "following_count": 3053,
+          "like_count": 53265,
+          "listed_count": 21,
+          "media_count": 3243,
+          "tweet_count": 13610
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-21T11:15:53.000Z",
+        "description": "keeps digging deep for all the latest Manga news\n\nI'd be grateful for any support if you want to🙏\n\nhttps://t.co/aVfwmu6Gwq\n\nhttps://t.co/pc8CR7Ki0K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/mangamogura",
+                "end": 122,
+                "expanded_url": "http://patreon.com/mangamogura",
+                "start": 99,
+                "url": "https://t.co/aVfwmu6Gwq"
+              },
+              {
+                "display_url": "ko-fi.com/mangamogura",
+                "end": 147,
+                "expanded_url": "http://ko-fi.com/mangamogura",
+                "start": 124,
+                "url": "https://t.co/pc8CR7Ki0K"
+              }
+            ]
+          }
+        },
+        "id": "1340979091202322432",
+        "name": "Manga Mogura RE (Anime & Manga News)",
+        "pinned_tweet_id": "2067086906823729225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497584136168611841/pbDckx-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386204,
+          "following_count": 218,
+          "like_count": 2140,
+          "listed_count": 1352,
+          "media_count": 56661,
+          "tweet_count": 62451
+        },
+        "username": "MangaMoguraRE",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976905924611850240",
+        "3_1976905944635449345"
+      ],
+      "media_source_tweet_id": [
+        "1976905952516620354",
+        "1976905952516620354"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "1977165819240235339",
+    "created_at": "2025-10-12T00:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T01:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977165819240235339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1578761025591005185",
+          "start": 3,
+          "username": "igiung08760694"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZAwEfkdaq",
+          "end": 70,
+          "expanded_url": "https://x.com/igiung08760694/status/1976905952516620354/photo/1",
+          "media_key": "3_1976905924611850240",
+          "start": 47,
+          "url": "https://t.co/YZAwEfkdaq"
+        },
+        {
+          "display_url": "pic.x.com/YZAwEfkdaq",
+          "end": 70,
+          "expanded_url": "https://x.com/igiung08760694/status/1976905952516620354/photo/1",
+          "media_key": "3_1976905944635449345",
+          "start": 47,
+          "url": "https://t.co/YZAwEfkdaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977165819240235339",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976905952516620354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igiung08760694: 구글 플레이 포인트.. 가운데 터치노트.. 어? https://t.co/YZAwEfkdaq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 243,
+        "media_key": "3_1976905924611850240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29hdt7awAAc_8l.jpg",
+        "width": 474
+      },
+      {
+        "height": 927,
+        "media_key": "3_1976905944635449345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29he4haoAEZSl0.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976905924611850240",
+            "3_1976905944635449345"
+          ],
+          "media_source_tweet_id": [
+            "1976905952516620354",
+            "1976905952516620354"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1977165819240235339",
+        "created_at": "2025-10-12T00:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T01:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977165819240235339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1578761025591005185",
+              "start": 3,
+              "username": "igiung08760694"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZAwEfkdaq",
+              "end": 70,
+              "expanded_url": "https://x.com/igiung08760694/status/1976905952516620354/photo/1",
+              "media_key": "3_1976905924611850240",
+              "start": 47,
+              "url": "https://t.co/YZAwEfkdaq"
+            },
+            {
+              "display_url": "pic.x.com/YZAwEfkdaq",
+              "end": 70,
+              "expanded_url": "https://x.com/igiung08760694/status/1976905952516620354/photo/1",
+              "media_key": "3_1976905944635449345",
+              "start": 47,
+              "url": "https://t.co/YZAwEfkdaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977165819240235339",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976905952516620354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igiung08760694: 구글 플레이 포인트.. 가운데 터치노트.. 어? https://t.co/YZAwEfkdaq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976905924611850240",
+            "3_1976905944635449345"
+          ]
+        },
+        "author_id": "1578761025591005185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1976905952516620354",
+        "created_at": "2025-10-11T07:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T08:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976905952516620354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZAwEfkdaq",
+              "end": 50,
+              "expanded_url": "https://x.com/igiung08760694/status/1976905952516620354/photo/1",
+              "media_key": "3_1976905924611850240",
+              "start": 27,
+              "url": "https://t.co/YZAwEfkdaq"
+            },
+            {
+              "display_url": "pic.x.com/YZAwEfkdaq",
+              "end": 50,
+              "expanded_url": "https://x.com/igiung08760694/status/1976905952516620354/photo/1",
+              "media_key": "3_1976905944635449345",
+              "start": 27,
+              "url": "https://t.co/YZAwEfkdaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976905952516620354",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3085,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "구글 플레이 포인트.. 가운데 터치노트.. 어? https://t.co/YZAwEfkdaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1461,
+          "like_count": 14421,
+          "listed_count": 3,
+          "media_count": 689,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-08T14:55:49.000Z",
+        "description": "KR/EN/JP 세가겜 메인, 발판겜 가끔해요. AMUNAOSEYO 팀 팀장. 소금우유바이럴. 태릉 본진, 서울 경기권 위주로 다녀요. 일상&성과글 가끔, RT&맘찍 많아요. 그림은 위탁생산, 소재 제작&검토는 직접 해요. 선팔환영(검토후받음)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp/maimai_finale/",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/maimai_finale/",
+                "start": 0,
+                "url": "https://t.co/ZEnkepJtGA"
+              }
+            ]
+          }
+        },
+        "id": "1578761025591005185",
+        "location": "Cafe Milk",
+        "name": "DIYU4",
+        "pinned_tweet_id": "1975761362434580736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924012040969945088/2pvQFmuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 1,
+          "like_count": 32,
+          "listed_count": 3,
+          "media_count": 732,
+          "tweet_count": 20213
+        },
+        "url": "https://t.co/ZEnkepJtGA",
+        "username": "igiung08760694",
+        "verified": false
+      }
+    ]
+  }
+}

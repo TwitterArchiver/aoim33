@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2043376165390553466",
+    "created_at": "2026-04-12T17:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043376282227073036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043376282227073036",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043376165390553466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 别和他废话了直接静音吧\n打这么多字不累吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2043376165390553466",
+        "created_at": "2026-04-12T17:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043376282227073036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043376282227073036",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043376165390553466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 别和他废话了直接静音吧\n打这么多字不累吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2043376165390553466",
+        "created_at": "2026-04-12T17:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043376165390553466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xkajon/status/…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/xkajon/status/2043281204829655337",
+              "start": 149,
+              "url": "https://t.co/2r0DXEifOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043376165390553466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看来您并没有反驳環状線「其他条件相同，用一个美国怀俄明州空壳公司的银行卡支付被封的概率比美区 Apple 账户订阅 Claude 服务被封的概率大」这个观点，那環状線就当您默认了。\n首先，水星银行开个人账户需要的是开户者的 SSN 、美国真实住宅地址、美国手机号、身份证件，并不需要您的空壳公司。\n水星确实支持一定程度上的多卡多地址，这个是对的，但 Anthropic 仍然可以认为您的支付行为不正常而封禁您的账户，所以在環状線看来只是增加了试错次数，并不能真正意义上降低 Claude 被封号的概率。\nAirwallex 不支持个人开户，并且一个公司账户下所有卡片必须使用同一个地址，地址必须是 billing address 。\n其次，環状線从未提到过「虚拟卡」这三个字，充美区 Apple 账户也不必需要「虚拟卡」才能充值，请不要虚空立靶谢谢。\n最后一个问题，「退款后请问到苹果账号余额有什么用」显然是重开一个新号再买一次。\n（除非您不想订阅 Claude ，也不想通过该 Apple 账户订阅其他 AI 产品。）\n当您使用 Apple 账户订阅 Claude 的时候，Anthropic 不会收到您的真实的 Apple 账户的特征信息（比如邮箱、地址、姓名），Anthropic 不能追踪您的 Apple 账户，也就是说，就算用这个 Apple 账户订阅 Claude 被暂停 Claude 账号，也完全可以重开一个 Claude 账号接着用同一个 Apple 账户支付。\n至于能不能退款到 Apple 账户的问题，除非您用得太久，否则一定可以退款。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043281204829655337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来您并没有反驳環状線「其他条件相同，用一个美国怀俄明州空壳公司的银行卡支付被封的概率比美区 Apple 账户订阅 Claude 服务被封的概率大」这个观点，那環状線就当您默认了。\n首先，水星银行开个人账户需要的是开户者的 SSN 、美国真实住宅地址、美国手机号、身份证件，并不需要您的空壳公司。 https://t.co/2r0DXEifOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4632,
+          "following_count": 2776,
+          "like_count": 43256,
+          "listed_count": 19,
+          "media_count": 2407,
+          "tweet_count": 10591
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 421,
+          "like_count": 12407,
+          "listed_count": 4,
+          "media_count": 819,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

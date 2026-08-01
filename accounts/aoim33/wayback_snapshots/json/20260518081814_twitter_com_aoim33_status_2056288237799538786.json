@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2056284024713433236",
+    "created_at": "2026-05-18T08:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056288237799538786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494372011531018240",
+          "start": 0,
+          "username": "hakuroyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056288237799538786",
+    "in_reply_to_user_id": "1494372011531018240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056287400243110379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hakuroyo 你和我的答案一样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056287400243110379].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056287400243110379",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056287400243110379"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2056284024713433236",
+        "created_at": "2026-05-18T08:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056288237799538786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494372011531018240",
+              "start": 0,
+              "username": "hakuroyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056288237799538786",
+        "in_reply_to_user_id": "1494372011531018240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056287400243110379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hakuroyo 你和我的答案一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 2945,
+          "like_count": 49075,
+          "listed_count": 19,
+          "media_count": 2862,
+          "tweet_count": 12329
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-17T18:04:02.000Z",
+        "description": "某人的纪念馆",
+        "id": "1494372011531018240",
+        "name": "はくろよ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027037269367152640/EQv24qo5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 40,
+          "like_count": 898,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 654
+        },
+        "username": "hakuroyo",
+        "verified": false
+      }
+    ]
+  }
+}

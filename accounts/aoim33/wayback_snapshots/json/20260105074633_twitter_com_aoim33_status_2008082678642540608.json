@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2008072135244431752",
+    "created_at": "2026-01-05T07:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008082678642540608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "136473839",
+          "start": 0,
+          "username": "MrGafish"
+        },
+        {
+          "end": 17,
+          "id": "159908799",
+          "start": 10,
+          "username": "jpgbmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008082678642540608",
+    "in_reply_to_user_id": "136473839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008082492524515437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrGafish @jpgbmp hsbc us 如果被关户了就得不偿失了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2008072135244431752",
+        "created_at": "2026-01-05T07:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008082678642540608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "136473839",
+              "start": 0,
+              "username": "MrGafish"
+            },
+            {
+              "end": 17,
+              "id": "159908799",
+              "start": 10,
+              "username": "jpgbmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008082678642540608",
+        "in_reply_to_user_id": "136473839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008082492524515437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrGafish @jpgbmp hsbc us 如果被关户了就得不偿失了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136473839",
+        "conversation_id": "2008072135244431752",
+        "created_at": "2026-01-05T07:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008082492524515437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "159908799",
+              "start": 0,
+              "username": "jpgbmp"
+            },
+            {
+              "end": 15,
+              "id": "1902568136450424832",
+              "start": 8,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008082492524515437",
+        "in_reply_to_user_id": "159908799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008081714334319098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpgbmp @aoim33 羡慕羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 2053,
+          "like_count": 25134,
+          "listed_count": 7,
+          "media_count": 1216,
+          "tweet_count": 5506
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T01:51:43.000Z",
+        "description": "🧑‍💻 开发者 Gafish ，前互联网大厂程序员\n💰 从0开始副业出海，分享副业搞钱过程干货\n📈 话题涉及港卡、美股、独立开发、海外收款、AI \n👨‍🏫 感谢关注一个爱分享的中年人",
+        "id": "136473839",
+        "name": "Mr Gafish",
+        "pinned_tweet_id": "2007625336658505891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888247810040152064/mwSBtOtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8773,
+          "following_count": 2151,
+          "like_count": 5858,
+          "listed_count": 53,
+          "media_count": 372,
+          "tweet_count": 8428
+        },
+        "username": "MrGafish",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-26T16:58:33.000Z",
+        "description": "前游戏大厂搬砖人，现跨境小小卖，精通各种境外账户开设，玩美卡，港卡，AI,主打各类薅羊毛教程。",
+        "id": "159908799",
+        "name": "colo",
+        "pinned_tweet_id": "785819015012691968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/993760136756846593/XzVOW1Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 170,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 132
+        },
+        "username": "jpgbmp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037791294861520896"
+      ],
+      "media_source_tweet_id": [
+        "2037791300087623889"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2038122149307994278",
+    "created_at": "2026-03-29T05:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038122149307994278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1966053034053562368",
+          "start": 3,
+          "username": "jebal_doosan125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B1sgl74A8i",
+          "end": 47,
+          "expanded_url": "https://x.com/jebal_doosan125/status/2037791300087623889/photo/1",
+          "media_key": "3_2037791294861520896",
+          "start": 24,
+          "url": "https://t.co/B1sgl74A8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038122149307994278",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6245
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037791300087623889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jebal_doosan125: 씨발 https://t.co/B1sgl74A8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2037791294861520896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEewYtCasAAJ-57.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037791294861520896"
+          ],
+          "media_source_tweet_id": [
+            "2037791300087623889"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2038122149307994278",
+        "created_at": "2026-03-29T05:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038122149307994278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1966053034053562368",
+              "start": 3,
+              "username": "jebal_doosan125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1sgl74A8i",
+              "end": 47,
+              "expanded_url": "https://x.com/jebal_doosan125/status/2037791300087623889/photo/1",
+              "media_key": "3_2037791294861520896",
+              "start": 24,
+              "url": "https://t.co/B1sgl74A8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038122149307994278",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6245
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037791300087623889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jebal_doosan125: 씨발 https://t.co/B1sgl74A8i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037791294861520896"
+          ]
+        },
+        "author_id": "1966053034053562368",
+        "conversation_id": "2037791300087623889",
+        "created_at": "2026-03-28T07:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037791300087623889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1sgl74A8i",
+              "end": 26,
+              "expanded_url": "https://x.com/jebal_doosan125/status/2037791300087623889/photo/1",
+              "media_key": "3_2037791294861520896",
+              "start": 3,
+              "url": "https://t.co/B1sgl74A8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037791300087623889",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1974,
+          "impression_count": 690807,
+          "like_count": 22722,
+          "quote_count": 468,
+          "reply_count": 26,
+          "retweet_count": 6245
+        },
+        "reply_settings": "everyone",
+        "text": "씨발 https://t.co/B1sgl74A8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 138,
+                "start": 131,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2037757138349773256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4557,
+          "following_count": 2733,
+          "like_count": 41179,
+          "listed_count": 20,
+          "media_count": 2274,
+          "tweet_count": 9984
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-11T08:16:15.000Z",
+        "description": "그래도 여전히 곰들을 사랑하니까..",
+        "id": "1966053034053562368",
+        "location": "🤍 2 3 6 29 48 63 🤍",
+        "name": "제발요",
+        "pinned_tweet_id": "2035701719431286864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037441399017312256/lW_dAbtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 165,
+          "like_count": 4383,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1735
+        },
+        "username": "jebal_doosan125",
+        "verified": false
+      }
+    ]
+  }
+}

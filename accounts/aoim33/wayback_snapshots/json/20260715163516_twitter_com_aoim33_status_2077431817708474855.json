@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2077431817708474855",
+    "created_at": "2026-07-15T16:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077431817708474855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koha2010/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/koha2010/status/2077407842685030497",
+          "start": 5,
+          "url": "https://t.co/4rvtXMV201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077431817708474855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077407842685030497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出你祖母 https://t.co/4rvtXMV201"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2077309647938260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQWHmXaEAAJSLR.png",
+        "width": 960
+      },
+      {
+        "height": 1059,
+        "media_key": "3_2077309647984431104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQWHmiakAA_Sa6.png",
+        "width": 1069
+      },
+      {
+        "height": 1039,
+        "media_key": "3_2077309647938363392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQWHmXboAACDV0.png",
+        "width": 1075
+      },
+      {
+        "height": 1091,
+        "media_key": "3_2077309647888035840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQWHmLbsAARdoJ.png",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2077431817708474855",
+        "created_at": "2026-07-15T16:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077431817708474855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koha2010/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/koha2010/status/2077407842685030497",
+              "start": 5,
+              "url": "https://t.co/4rvtXMV201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077431817708474855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077407842685030497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出你祖母 https://t.co/4rvtXMV201"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077309647938260992",
+            "3_2077309647984431104",
+            "3_2077309647938363392",
+            "3_2077309647888035840"
+          ]
+        },
+        "author_id": "702345800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2077407842685030497",
+        "created_at": "2026-07-15T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077407842685030497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 137,
+              "tag": "祝CHUNITHM11周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWiHv6o1VW",
+              "end": 175,
+              "expanded_url": "https://x.com/Koha2010/status/2077407842685030497/photo/1",
+              "media_key": "3_2077309647938260992",
+              "start": 152,
+              "url": "https://t.co/XWiHv6o1VW"
+            },
+            {
+              "display_url": "pic.x.com/XWiHv6o1VW",
+              "end": 175,
+              "expanded_url": "https://x.com/Koha2010/status/2077407842685030497/photo/1",
+              "media_key": "3_2077309647984431104",
+              "start": 152,
+              "url": "https://t.co/XWiHv6o1VW"
+            },
+            {
+              "display_url": "pic.x.com/XWiHv6o1VW",
+              "end": 175,
+              "expanded_url": "https://x.com/Koha2010/status/2077407842685030497/photo/1",
+              "media_key": "3_2077309647938363392",
+              "start": 152,
+              "url": "https://t.co/XWiHv6o1VW"
+            },
+            {
+              "display_url": "pic.x.com/XWiHv6o1VW",
+              "end": 175,
+              "expanded_url": "https://x.com/Koha2010/status/2077407842685030497/photo/1",
+              "media_key": "3_2077309647888035840",
+              "start": 152,
+              "url": "https://t.co/XWiHv6o1VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077407842685030497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 55716,
+          "like_count": 1017,
+          "quote_count": 108,
+          "reply_count": 2,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "CHUNITHMが11周年です。\n\nこの名前は当時の上司の上司が\n著名なクリエイターの方で名前への拘りが強く\n数百のアイデアを提案して決まりました。\n\n当時はとても大変でちょっと恥ずかしかったのですが\n今は独自性の大事さを感じています。\n\n周年コメントは後ほど公式から。\n\n#祝CHUNITHM11周年 https://t.co/XWiHv6o1VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6469,
+          "following_count": 3120,
+          "like_count": 55977,
+          "listed_count": 22,
+          "media_count": 3573,
+          "tweet_count": 14564
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-18T04:22:42.000Z",
+        "description": "音ゲーとソニックレーシング作っています。 @performai @maimai_official @chunithm @ongeki_official @irodorimidori5 @kotonoha_PJ @anayama_daisuke @kop_sega @avalon20th @CrossWorldsJPN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "performai"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "maimai_official"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "chunithm"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "ongeki_official"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "irodorimidori5"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "anayama_daisuke"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "kop_sega"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "avalon20th"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "CrossWorldsJPN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sega.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.sega.co.jp",
+                "start": 0,
+                "url": "https://t.co/pQ65DTcoGb"
+              }
+            ]
+          }
+        },
+        "id": "702345800",
+        "location": "大崎",
+        "name": "コハＤ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149488039086841857/UH44cclT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26491,
+          "following_count": 1206,
+          "like_count": 5550,
+          "listed_count": 84,
+          "media_count": 348,
+          "tweet_count": 7545
+        },
+        "url": "https://t.co/pQ65DTcoGb",
+        "username": "Koha2010",
+        "verified": false
+      }
+    ]
+  }
+}

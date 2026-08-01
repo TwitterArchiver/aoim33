@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1991702203040690441",
+    "created_at": "2025-11-21T02:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T03:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991702203040690441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sankei_news/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/sankei_news/status/1991690259109937302",
+          "start": 30,
+          "url": "https://t.co/bkNriDE23z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991702203040690441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991690259109937302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "产经新闻这是在搞什么魔法？\n为了新闻热度🐎都可以不要了？？ https://t.co/bkNriDE23z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1991702203040690441",
+        "created_at": "2025-11-21T02:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991702203040690441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sankei_news/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sankei_news/status/1991690259109937302",
+              "start": 30,
+              "url": "https://t.co/bkNriDE23z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991702203040690441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991690259109937302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "产经新闻这是在搞什么魔法？\n为了新闻热度🐎都可以不要了？？ https://t.co/bkNriDE23z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "562773398",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1991690259109937302",
+        "created_at": "2025-11-21T02:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991690259109937302"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "大手町",
+              "probability": 0.5308,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 28,
+              "normalized_text": "乾正人",
+              "probability": 0.6393,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 62,
+              "normalized_text": "中国",
+              "probability": 0.7552,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 77,
+              "normalized_text": "中国",
+              "probability": 0.7259,
+              "start": 76,
+              "type": "Place"
+            },
+            {
+              "end": 113,
+              "normalized_text": "習近平体",
+              "probability": 0.3852,
+              "start": 110,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "　今をときめく中国の駐大阪総領事・薛剣は、「中国の敵」に吠（ほ）えまくる「戦狼（せんろう）外交官」なぞではなく、密かに習近平体制打倒を狙う革命家ではなかろうか。",
+              "display_url": "sankei.com/article/202511…",
+              "end": 53,
+              "expanded_url": "https://www.sankei.com/article/20251121-YGPYG5JJ3NK7VDEL3XZDEZKVLY/",
+              "start": 30,
+              "status": 200,
+              "title": "「高市殺害予告」総領事は革命家？　大手町の片隅から　乾正人",
+              "unwound_url": "https://www.sankei.com/article/20251121-YGPYG5JJ3NK7VDEL3XZDEZKVLY/",
+              "url": "https://t.co/U05tdnsWB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991690259109937302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7833,
+          "like_count": 99,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "「高市殺害予告」総領事は革命家？　大手町の片隅から　乾正人\nhttps://t.co/U05tdnsWB2\n\n今をときめく中国の駐大阪総領事・薛剣は、「中国の敵」に吠えまくる「戦狼（せんろう）外交官」なぞではなく、密かに習近平体制打倒を狙う革命家ではなかろうか。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "srkmanno"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "watebird14760"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 1741,
+          "like_count": 19262,
+          "listed_count": 4,
+          "media_count": 947,
+          "tweet_count": 4600
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-25T10:36:45.000Z",
+        "description": "産経新聞の公式ニュースアカウントです。ニュース速報や読み応えのある解説記事をお伝えします。\nThreadsはこちら👉https://t.co/OIBkPyngOe\nBlueskyはこちら👉https://t.co/cDfUQH5WCd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.net/@sankei_news",
+                "end": 81,
+                "expanded_url": "https://www.threads.net/@sankei_news",
+                "start": 58,
+                "url": "https://t.co/OIBkPyngOe"
+              },
+              {
+                "display_url": "bsky.app/profile/sankei…",
+                "end": 117,
+                "expanded_url": "https://bsky.app/profile/sankei.com",
+                "start": 94,
+                "url": "https://t.co/cDfUQH5WCd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sankei.com",
+                "end": 23,
+                "expanded_url": "http://www.sankei.com/",
+                "start": 0,
+                "url": "https://t.co/2TJQ6bLXTu"
+              }
+            ]
+          }
+        },
+        "id": "562773398",
+        "location": "東京都千代田区",
+        "name": "産経ニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628409626759925760/HbgE5V0m_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838239,
+          "following_count": 55,
+          "like_count": 365,
+          "listed_count": 12831,
+          "media_count": 61572,
+          "tweet_count": 375158
+        },
+        "url": "https://t.co/2TJQ6bLXTu",
+        "username": "Sankei_news",
+        "verified": true
+      }
+    ]
+  }
+}

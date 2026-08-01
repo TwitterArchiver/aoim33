@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2013444318045053239",
+    "created_at": "2026-01-20T02:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T03:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013444318045053239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7080152",
+          "start": 3,
+          "username": "XcorpJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013444318045053239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013444232598692234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XcorpJP: Xの記事機能が、プレミアムプラス、Xプレミアムビジネスに加えて「Xプレミアム」のご登録アカウントでもお使いいただけるようになりました。\n\n編集機能が豊富で、ポストの埋め込みも簡単にできるX記事機能での作成をぜひお試し下さい✏️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2013444318045053239",
+        "created_at": "2026-01-20T02:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013444318045053239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7080152",
+              "start": 3,
+              "username": "XcorpJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013444318045053239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013444232598692234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XcorpJP: Xの記事機能が、プレミアムプラス、Xプレミアムビジネスに加えて「Xプレミアム」のご登録アカウントでもお使いいただけるようになりました。\n\n編集機能が豊富で、ポストの埋め込みも簡単にできるX記事機能での作成をぜひお試し下さい✏️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7080152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Event Description sponsored by X",
+              "id": "2004375365704089600",
+              "name": "Japan Sample Fan Destinations "
+            }
+          }
+        ],
+        "conversation_id": "2013444232598692234",
+        "created_at": "2026-01-20T02:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013444232598692234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XcorpJP/status…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/XcorpJP/status/1767370191498105216",
+              "start": 114,
+              "url": "https://t.co/etBBV685fO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013444232598692234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "Xの記事機能が、プレミアムプラス、Xプレミアムビジネスに加えて「Xプレミアム」のご登録アカウントでもお使いいただけるようになりました。\n\n編集機能が豊富で、ポストの埋め込みも簡単にできるX記事機能での作成をぜひお試し下さい✏️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1767370191498105216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Xの記事機能が、プレミアムプラス、Xプレミアムビジネスに加えて「Xプレミアム」のご登録アカウントでもお使いいただけるようになりました。\n\n編集機能が豊富で、ポストの埋め込みも簡単にできるX記事機能での作成をぜひお試し下さい✏️ https://t.co/etBBV685fO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 2275,
+          "like_count": 28581,
+          "listed_count": 8,
+          "media_count": 1412,
+          "tweet_count": 6292
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-26T01:54:35.000Z",
+        "description": "Xの日本公式アカウントです。",
+        "id": "7080152",
+        "name": "X Corp. Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938979574983118848/o1ZhHEk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951384,
+          "following_count": 12,
+          "like_count": 1105,
+          "listed_count": 13949,
+          "media_count": 1224,
+          "tweet_count": 13205
+        },
+        "username": "XcorpJP",
+        "verified": true
+      }
+    ]
+  }
+}

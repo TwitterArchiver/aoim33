@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043119874",
+          "name": "TweetDeck"
+        }
+      }
+    ],
+    "conversation_id": "2037329711551189251",
+    "created_at": "2026-03-27T00:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037329711551189251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shimajiro/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shimajiro/status/2037317130790850990",
+          "start": 8,
+          "url": "https://t.co/NiatGCeiil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037329711551189251",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037317130790850990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？？！！！😭 https://t.co/NiatGCeiil"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043119874",
+              "name": "TweetDeck"
+            }
+          }
+        ],
+        "conversation_id": "2037329711551189251",
+        "created_at": "2026-03-27T00:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037329711551189251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shimajiro/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shimajiro/status/2037317130790850990",
+              "start": 8,
+              "url": "https://t.co/NiatGCeiil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037329711551189251",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037317130790850990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？！！！😭 https://t.co/NiatGCeiil"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5491152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043119874",
+              "name": "TweetDeck"
+            }
+          }
+        ],
+        "conversation_id": "2037317130790850990",
+        "created_at": "2026-03-26T23:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037317130790850990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "　「X Pro」が突如「プレミアム」プランで利用できなくなった。米国時間3月26日より、「プレミアムプラス」プランが必要になるとのこと。",
+              "display_url": "forest.watch.impress.co.jp/docs/news/2096…",
+              "end": 79,
+              "expanded_url": "https://forest.watch.impress.co.jp/docs/news/2096749.html",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2037301350871244800/Y_qgIUXw?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037301350871244800/Y_qgIUXw?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "「X Pro」（TweetDeck）が突如「プレミアムプラス」プラン必須に、実質約6.5倍の値上げ／マルチカラム・リアルタイムなクライアントアプリ",
+              "unwound_url": "https://forest.watch.impress.co.jp/docs/news/2096749.html",
+              "url": "https://t.co/RmgO13nRZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037317130790850990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "「X Pro」（TweetDeck）が突如「プレミアムプラス」プラン必須に、実質約6.5倍の値上げ - 窓の杜 https://t.co/RmgO13nRZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / Photography / 沪浙可飞 / Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 120,
+                "start": 113,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 2723,
+          "like_count": 40864,
+          "listed_count": 20,
+          "media_count": 2248,
+          "tweet_count": 9856
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-25T08:01:58.000Z",
+        "description": "野良ブロガー    趣味：ガジェット／旅行／Blog／デジタルノマド  目標：好きを貫いて生きる  愛称：ルータープリンス／キング  ※フォロー返しはほとんどしませんm(_ _)m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shimajiro-mobiler.net",
+                "end": 23,
+                "expanded_url": "http://shimajiro-mobiler.net/",
+                "start": 0,
+                "url": "https://t.co/ybbiXroQ2n"
+              }
+            ]
+          }
+        },
+        "id": "5491152",
+        "location": "電波とシェアサイクルを追いかける",
+        "name": "Jun Shimada",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/996290418802245632/z6q0iuGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12029,
+          "following_count": 1698,
+          "like_count": 652,
+          "listed_count": 488,
+          "media_count": 21285,
+          "tweet_count": 366709
+        },
+        "url": "https://t.co/ybbiXroQ2n",
+        "username": "shimajiro",
+        "verified": true
+      }
+    ]
+  }
+}

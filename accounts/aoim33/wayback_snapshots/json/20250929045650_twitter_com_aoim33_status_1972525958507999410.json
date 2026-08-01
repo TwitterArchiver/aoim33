@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Credit, debt and loans",
+          "id": "847894059859402753",
+          "name": "Credit, debt and loans"
+        }
+      }
+    ],
+    "conversation_id": "1972525958507999410",
+    "created_at": "2025-09-29T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972525958507999410"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "中国",
+          "probability": 0.5799,
+          "start": 42,
+          "type": "Place"
+        },
+        {
+          "end": 78,
+          "normalized_text": "日本",
+          "probability": 0.6139,
+          "start": 77,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1400637411101605892",
+          "start": 3,
+          "username": "ymk_at_shanghai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972525958507999410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833334796749312188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ymk_at_shanghai: 【情報共有】\n何かと不便な旅行者•出張者の中国支払い事情💸\n支払いに関しては、最近は支付宝（＝Alipay）に日本のクレカを紐づけることができるようになったため、問題ないかと思われがちだけど、実際はバスや地下鉄、タクシーを呼ぶなどといっ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Credit, debt and loans",
+              "id": "847894059859402753",
+              "name": "Credit, debt and loans"
+            }
+          }
+        ],
+        "conversation_id": "1972525958507999410",
+        "created_at": "2025-09-29T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972525958507999410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "中国",
+              "probability": 0.5799,
+              "start": 42,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "日本",
+              "probability": 0.6139,
+              "start": 77,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1400637411101605892",
+              "start": 3,
+              "username": "ymk_at_shanghai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972525958507999410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833334796749312188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ymk_at_shanghai: 【情報共有】\n何かと不便な旅行者•出張者の中国支払い事情💸\n支払いに関しては、最近は支付宝（＝Alipay）に日本のクレカを紐づけることができるようになったため、問題ないかと思われがちだけど、実際はバスや地下鉄、タクシーを呼ぶなどといっ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400637411101605892",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Credit, debt and loans",
+              "id": "847894059859402753",
+              "name": "Credit, debt and loans"
+            }
+          }
+        ],
+        "conversation_id": "1833334796749312188",
+        "created_at": "2024-09-10T02:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T03:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833334796749312188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中国",
+              "probability": 0.5604,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "日本",
+              "probability": 0.6078,
+              "start": 56,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "中国旅行"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833334796749312188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 96595,
+          "like_count": 446,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 75
+        },
+        "reply_settings": "following",
+        "text": "【情報共有】\n何かと不便な旅行者•出張者の中国支払い事情💸\n支払いに関しては、最近は支付宝（＝Alipay）に日本のクレカを紐づけることができるようになったため、問題ないかと思われがちだけど、実際はバスや地下鉄、タクシーを呼ぶなどといった交通面の不安が😞\n#中国旅行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1159,
+          "like_count": 11999,
+          "listed_count": 3,
+          "media_count": 586,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-04T02:16:18.000Z",
+        "description": "2022.2〜上海🇨🇳2025.3本帰国/2010年〜天津師範大留学/ HSK6級/旅行✈️🇲🇦🇮🇩🇺🇸🇨🇦🇰🇭🇬🇺🇰🇷🇫🇷🇮🇹🇨🇳🇻🇦🇹🇼🇹🇭🇻🇳🇭🇰/ディズニー/B'z/Kぽ/漫画📚/🇨🇳国内：北京天津大連洛陽上海杭州桂林蘇州西双版纳宁波广州",
+        "id": "1400637411101605892",
+        "location": "地球のどこか🌏",
+        "name": "ヤマ子@上海🇨🇳→🇯🇵",
+        "pinned_tweet_id": "1833334796749312188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834231495080497152/lxyAJRPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 194,
+          "like_count": 52804,
+          "listed_count": 10,
+          "media_count": 638,
+          "tweet_count": 8728
+        },
+        "username": "ymk_at_shanghai",
+        "verified": false
+      }
+    ]
+  }
+}

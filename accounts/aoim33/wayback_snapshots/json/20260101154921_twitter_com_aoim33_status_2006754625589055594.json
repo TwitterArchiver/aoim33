@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006754612670509056"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2006753563398029716",
+    "created_at": "2026-01-01T15:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T16:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006754625589055594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "228380252",
+          "start": 0,
+          "username": "Wise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NRCkizymU",
+          "end": 39,
+          "expanded_url": "https://x.com/aoim33/status/2006754625589055594/photo/1",
+          "media_key": "3_2006754612670509056",
+          "start": 16,
+          "url": "https://t.co/8NRCkizymU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006754625589055594",
+    "in_reply_to_user_id": "228380252",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006753563398029716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wise 8,999 CNY https://t.co/8NRCkizymU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006754612670509056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lssB-aMAA-N_x.jpg",
+        "width": 944
+      },
+      {
+        "height": 4050,
+        "media_key": "3_2006753542690775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lrtv_XIAA4add.jpg",
+        "width": 3240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006754612670509056"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2006753563398029716",
+        "created_at": "2026-01-01T15:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006754625589055594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "228380252",
+              "start": 0,
+              "username": "Wise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NRCkizymU",
+              "end": 39,
+              "expanded_url": "https://x.com/aoim33/status/2006754625589055594/photo/1",
+              "media_key": "3_2006754612670509056",
+              "start": 16,
+              "url": "https://t.co/8NRCkizymU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006754625589055594",
+        "in_reply_to_user_id": "228380252",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006753563398029716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wise 8,999 CNY https://t.co/8NRCkizymU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006753542690775040"
+          ]
+        },
+        "author_id": "228380252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2006753563398029716",
+        "created_at": "2026-01-01T15:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006753563398029716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "iPhone 17 Pro",
+              "probability": 0.6491,
+              "start": 26,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9sHTnylrI",
+              "end": 152,
+              "expanded_url": "https://x.com/Wise/status/2006753563398029716/photo/1",
+              "media_key": "3_2006753542690775040",
+              "start": 129,
+              "url": "https://t.co/b9sHTnylrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006753563398029716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "New year, new phone 📱 The iPhone 17 Pro hype was huge, and so is the price 💸\n\nHow much is it where you are, and are you tempted? https://t.co/b9sHTnylrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ US market / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1997,
+          "like_count": 24494,
+          "listed_count": 5,
+          "media_count": 1189,
+          "tweet_count": 5388
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-19T15:09:16.000Z",
+        "description": "160+ countries. 40+ currencies. Money for here, there and everywhere.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wi.se/linkinbio",
+                "end": 23,
+                "expanded_url": "https://wi.se/linkinbio",
+                "start": 0,
+                "url": "https://t.co/WiCccMuisM"
+              }
+            ]
+          }
+        },
+        "id": "228380252",
+        "location": "Global",
+        "name": "Wise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630843158387892224/S9qBPG_P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171239,
+          "following_count": 3269,
+          "like_count": 18355,
+          "listed_count": 1418,
+          "media_count": 4620,
+          "tweet_count": 174535
+        },
+        "url": "https://t.co/WiCccMuisM",
+        "username": "Wise",
+        "verified": true
+      }
+    ]
+  }
+}

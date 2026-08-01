@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2071887225777008835",
+    "created_at": "2026-07-01T00:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072117321473368141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401538162036412422",
+          "start": 0,
+          "username": "ImKrisYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072117321473368141",
+    "in_reply_to_user_id": "1401538162036412422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071887225777008835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImKrisYan 接下来的翻盘方向可以是这样：\n在大学里多多接触相关专业领域的前沿学术资源，如果是理工科就是技术实习资源\n一般来说如果是理工科的话，一个突破方向就是研究各个公司的开源项目然后提交改进pr\n以后如果想逃出去，github 一片绿会让招收你的人眼前一亮的\n还有机会，加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2071887225777008835",
+        "created_at": "2026-07-01T00:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072117321473368141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401538162036412422",
+              "start": 0,
+              "username": "ImKrisYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072117321473368141",
+        "in_reply_to_user_id": "1401538162036412422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071887225777008835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImKrisYan 接下来的翻盘方向可以是这样：\n在大学里多多接触相关专业领域的前沿学术资源，如果是理工科就是技术实习资源\n一般来说如果是理工科的话，一个突破方向就是研究各个公司的开源项目然后提交改进pr\n以后如果想逃出去，github 一片绿会让招收你的人眼前一亮的\n还有机会，加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401538162036412422",
+        "conversation_id": "2071887225777008835",
+        "created_at": "2026-06-30T09:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071887225777008835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071887225777008835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16583,
+          "like_count": 166,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "被“自愿”放弃了预录取资格\n三年的努力全部都泡汤了\n​一切都没有任何意义\n​之后就是在一个破烂211浪费四年\n​然后浑浑噩噩地跟随着大部队\n​又去卷考研又去卷考公\n在一个破烂的地方越陷越深\n找不到人生的意义找不到自己的兴趣\n​最后把自己仅剩的一点青春全部磨灭\n​在时代的注脚下当个炮灰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 3100,
+          "like_count": 54655,
+          "listed_count": 21,
+          "media_count": 3409,
+          "tweet_count": 14114
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "Eng Alt: @KrisYan8964 | 418 I'm a teapot | student | OIer (formerly) | English/Mandarin | Engagement is not equal to endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "KrisYan8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "krisyan.dev",
+                "end": 23,
+                "expanded_url": "https://krisyan.dev/",
+                "start": 0,
+                "url": "https://t.co/bRSnK96C8F"
+              }
+            ]
+          }
+        },
+        "id": "1401538162036412422",
+        "location": "IP属地：192.168.0.1",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070215917313949696/-hIEWzE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 985,
+          "like_count": 217964,
+          "listed_count": 2,
+          "media_count": 693,
+          "tweet_count": 4083
+        },
+        "url": "https://t.co/bRSnK96C8F",
+        "username": "ImKrisYan",
+        "verified": false
+      }
+    ]
+  }
+}

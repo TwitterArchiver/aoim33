@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2021047670387982717",
+    "created_at": "2026-02-10T02:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T03:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021047670387982717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ysd0118/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ysd0118/status/2020761974758584628",
+          "start": 22,
+          "url": "https://t.co/clSrsJl4px"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021047670387982717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020761974758584628",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中山先生看到这幅情景，把自己的照片转了过去 https://t.co/clSrsJl4px"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2020761969318563840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAswTfzaEAAck5W.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1483,
+        "media_key": "3_2020761969306046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAswTfwbEAAVmNv.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2021047670387982717",
+        "created_at": "2026-02-10T02:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021047670387982717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ysd0118/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ysd0118/status/2020761974758584628",
+              "start": 22,
+              "url": "https://t.co/clSrsJl4px"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021047670387982717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020761974758584628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中山先生看到这幅情景，把自己的照片转了过去 https://t.co/clSrsJl4px"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020761969318563840",
+            "3_2020761969306046464"
+          ]
+        },
+        "author_id": "55492844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2020761974758584628",
+        "created_at": "2026-02-09T07:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020761974758584628"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "台北市中山区",
+              "probability": 0.7447,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 10,
+              "normalized_text": "高市早苗",
+              "probability": 0.4353,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7o3wWbsSD",
+              "end": 63,
+              "expanded_url": "https://x.com/YSD0118/status/2020761974758584628/photo/1",
+              "media_key": "3_2020761969318563840",
+              "start": 40,
+              "url": "https://t.co/t7o3wWbsSD"
+            },
+            {
+              "display_url": "pic.x.com/t7o3wWbsSD",
+              "end": 63,
+              "expanded_url": "https://x.com/YSD0118/status/2020761974758584628/photo/1",
+              "media_key": "3_2020761969306046464",
+              "start": 40,
+              "url": "https://t.co/t7o3wWbsSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020761974758584628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1218,
+          "impression_count": 1210346,
+          "like_count": 28653,
+          "quote_count": 202,
+          "reply_count": 65,
+          "retweet_count": 2187
+        },
+        "reply_settings": "everyone",
+        "text": "台北市中山区に高市早苗大勝利を祝賀する横断幕が出る。ちょっと落ち着こうか台湾人 https://t.co/t7o3wWbsSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3598,
+          "following_count": 2444,
+          "like_count": 32948,
+          "listed_count": 17,
+          "media_count": 1615,
+          "tweet_count": 7359
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-10T06:40:29.000Z",
+        "description": "紀実作家。立命館大学人文科学研究所客員協力研究員。朝日新聞論壇委員（23'~24'）『八九六四 「天安門事件」は再び起きるか』が第5回城山賞・第50回大宅賞。ほか『現代中国の秘密結社』『「低度」外国人材』『戦狼中国の対日工作』『中国ぎらいのための中国史』『民族がわかれば中国がわかる』など著書多数",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ysd0118",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ysd0118",
+                "start": 0,
+                "url": "https://t.co/E8t6bqtVTV"
+              }
+            ]
+          }
+        },
+        "id": "55492844",
+        "location": "日本 東京",
+        "name": "安田峰俊",
+        "pinned_tweet_id": "1991296529202835595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574255822070157312/Sv8BHHqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51833,
+          "following_count": 1198,
+          "like_count": 32917,
+          "listed_count": 1395,
+          "media_count": 7557,
+          "tweet_count": 80215
+        },
+        "url": "https://t.co/E8t6bqtVTV",
+        "username": "YSD0118",
+        "verified": true
+      }
+    ]
+  }
+}

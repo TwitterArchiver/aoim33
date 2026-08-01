@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1972839156415164586",
+    "created_at": "2025-09-30T03:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T04:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972861613884748146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Distorted_ming"
+        },
+        {
+          "end": 27,
+          "id": "1908668668919398400",
+          "start": 16,
+          "username": "Kazumasski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 66,
+          "expanded_url": "https://x.com/aoim33/status/1972660156388532555?s=46",
+          "start": 43,
+          "url": "https://t.co/TuwUpozuWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972861613884748146",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972660156388532555",
+        "type": "quoted"
+      },
+      {
+        "id": "1972861346766307735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Distorted_ming @Kazumasski 啊不是的，是12306那个\n\nhttps://t.co/TuwUpozuWd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1972839156415164586",
+        "created_at": "2025-09-30T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972861613884748146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Distorted_ming"
+            },
+            {
+              "end": 27,
+              "id": "1908668668919398400",
+              "start": 16,
+              "username": "Kazumasski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 66,
+              "expanded_url": "https://x.com/aoim33/status/1972660156388532555?s=46",
+              "start": 43,
+              "url": "https://t.co/TuwUpozuWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972861613884748146",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972660156388532555",
+            "type": "quoted"
+          },
+          {
+            "id": "1972861346766307735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Distorted_ming @Kazumasski 啊不是的，是12306那个\n\nhttps://t.co/TuwUpozuWd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1972660156388532555",
+        "created_at": "2025-09-29T13:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972660156388532555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "中国",
+              "probability": 0.6355,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/Cldeop/status/1972631140252147858",
+              "start": 91,
+              "url": "https://t.co/k2rH1BGPNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972660156388532555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "旅行ハックとして大変興味深い内容ですが、長年中国の鉄道を利用してきた者として、また皆様の安全な旅を心から願う者として、いくつかの点について重要な補足とリスク点明をさせていただきたい\n\n特にガイドで紹介されているプランのうち「区間外乗車」（短い切符で長く乗る、またはその逆）と「同一ホームでの乗り換え便乗」には、中国国家鉄路集団の公式規定に照らし合わせると、深刻なリスクが伴う可能性がある\n中国の規則では、車内で差額を支払うことで乗り越し（乗り越し精算）が可能ですが、それは座席に空きがある場合に限られる \n春節や国慶節などの繁忙期には、満席の列車内で切符の区間外乗車が発覚した場合、規則に基づき、切符記載の駅で強制的に下車させられる可能性がある\nまた、逆のケース（長い切符で途中下車）では、差額の払い戻しはないと決まられている \n\nそして「同一ホームでの便乗」という方法は、本質的に「無札乗車」（キセル乗車）とみなされる極めてリスクの高い行為 \nこれは単なるマナー違反ではなく、明確な規則違反なのである\n\n鉄道公式がこれを発覚した場合、中国の「鉄道旅客輸送規程」に基づき、以下の厳しい罰則が科されます： \n運賃に加え、50%の割増運賃の支払いと、特に悪質と判断された場合、鉄道の「信用失墜者リスト」に登録される可能性がある \n\n一度このリストに登録されてしまうと、将来中国国内での列車チケットの購入が困難になるなど、計り知れない不利益を被る恐れがあるので \nこの情報は、決して特定の個人を非難するためではなく中国で旅行される皆様が、意図せずトラブルに巻き込まれることを防ぐための純粋な注意喚起である"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972631140252147858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旅行ハックとして大変興味深い内容ですが、長年中国の鉄道を利用してきた者として、また皆様の安全な旅を心から願う者として、いくつかの点について重要な補足とリスク点明をさせていただきたい https://t.co/k2rH1BGPNx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "1972839156415164586",
+        "created_at": "2025-09-30T03:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972861346766307735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            },
+            {
+              "end": 19,
+              "id": "1902568136450424832",
+              "start": 12,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 48,
+              "expanded_url": "https://x.com/Cldeop/status/1972734427957784908?s=19",
+              "start": 25,
+              "url": "https://t.co/ZzVmHrsD8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972861346766307735",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972734427957784908",
+            "type": "quoted"
+          },
+          {
+            "id": "1972858116527317494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski @aoim33 是这个吗\nhttps://t.co/ZzVmHrsD8s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1972837887453630705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1214,
+          "like_count": 12260,
+          "listed_count": 3,
+          "media_count": 601,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "最爱千世了💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 时不时发神经的理科生 | 想要变可爱 | 无HRT,SRS | 心理可能是女 | 疑似双性恋 | 老公 @horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "guthib.com",
+                "end": 23,
+                "expanded_url": "http://guthib.com",
+                "start": 0,
+                "url": "https://t.co/55oeyPdTsj"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "在你附近",
+        "name": "拧巴的命",
+        "pinned_tweet_id": "1972089445404103176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958539311487520768/nq36PK4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 710,
+          "like_count": 4250,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/55oeyPdTsj",
+        "username": "Distorted_ming",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "★佐々木 和真(ささき かずま)と申します★｜🏳️‍🌈｜GENZ｜🤍@MAOI33 @Wanzi0209 @orangefish_stew｜オタク｜音ゲーマ｜🚹13歳中2生✏️｜音ゲー垢@BBLLOOCCKK_｜アイコン #白买蓝｜〒SASHISUSESOOWO@HOTMAIL.COMせびご連絡下さい｜推事推了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "白买蓝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 34,
+                "username": "MAOI33"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Wanzi0209"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "orangefish_stew"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "BBLLOOCCKK_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/HHAAIIBOT",
+                "end": 23,
+                "expanded_url": "http://x.com/HHAAIIBOT",
+                "start": 0,
+                "url": "https://t.co/m6COT28clz"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "サブ垢→",
+        "name": "佐々木 かずま 🏳️‍🌈",
+        "pinned_tweet_id": "1964625217613185057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966837696267177984/HB8_mVVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 4523,
+          "like_count": 6550,
+          "listed_count": 10,
+          "media_count": 1194,
+          "tweet_count": 6873
+        },
+        "url": "https://t.co/m6COT28clz",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

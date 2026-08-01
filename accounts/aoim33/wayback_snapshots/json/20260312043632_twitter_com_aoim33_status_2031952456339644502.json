@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2031952456339644502",
+    "created_at": "2026-03-12T04:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031952456339644502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1291222903552319488",
+          "start": 3,
+          "username": "web3annie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031952456339644502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031739001980506449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @web3annie: 找回人类溢价的50个隐藏支线任务：\n\n01. 赶在日出前醒来，不戴耳机，去楼下纯粹地走20分钟。\n02. 一个人去咖啡店，手机揣兜里别拿出来，干坐着喝完一杯咖啡。\n03. 抬头看天，认全夜空里的10个星座，亲手在星图里定位。\n04. 写一封永远不会…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2031952456339644502",
+        "created_at": "2026-03-12T04:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031952456339644502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1291222903552319488",
+              "start": 3,
+              "username": "web3annie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031952456339644502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031739001980506449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @web3annie: 找回人类溢价的50个隐藏支线任务：\n\n01. 赶在日出前醒来，不戴耳机，去楼下纯粹地走20分钟。\n02. 一个人去咖啡店，手机揣兜里别拿出来，干坐着喝完一杯咖啡。\n03. 抬头看天，认全夜空里的10个星座，亲手在星图里定位。\n04. 写一封永远不会…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291222903552319488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2031739001980506449",
+        "created_at": "2026-03-11T14:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031739001980506449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031739001980506449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "找回人类溢价的50个隐藏支线任务：\n\n01. 赶在日出前醒来，不戴耳机，去楼下纯粹地走20分钟。\n02. 一个人去咖啡店，手机揣兜里别拿出来，干坐着喝完一杯咖啡。\n03. 抬头看天，认全夜空里的10个星座，亲手在星图里定位。\n04. 写一封永远不会寄出去的信，给曾经的某人或未来的自己。\n05. 找一个你从没去过的国家的菜谱，去菜场买菜，亲手做出来。\n06. 拿一本纸质书去户外，感受微风翻动纸张的物理阻力。\n07. 拿纸笔画一张你家附近的“私房地图”，标出你最爱的隐秘角落。\n08. 从零开始，亲手揉面做一顿面条或烤一个面包。\n09. 在一个你平时绝不会出门的时间点，走一走你每天上班的老路。\n10. 在阳台种一盆薄荷或小葱，亲手照料到它长出新芽。\n\n11. 定个20分钟闹钟，随便画画桌上的水杯或钥匙，不管多难看。\n12. 去楼下捡几片落叶或野花，夹在书里做成标本。\n13. 买本字帖或拿张废纸，静下心来练一个星期的字。\n14. 给你人生当前的“这个章节”，建立一个专属的BGM歌单。\n15. 坐在街角咖啡店窗边，记录路人的神态，做一次人类观察员。\n16. 学一招关键时刻能自救的防身招式。\n17. 解锁一个全新的拉伸姿势，把僵硬的身体抻开。\n18. 一个人逛博物馆，没人催你，想在哪一幅画前站多久就站多久。\n19. 真诚地夸奖一个陌生人，说完就走，不求反馈。\n20. 去看一场线下的脱口秀开放麦，或者听一场冷门讲座。\n\n21. 悄悄去做一次志愿者，重点是：绝对不要发朋友圈。\n22. 拼一个复杂的乐高，或者做个木工，用双手造个实物。\n23. 拿起工具，把家里那个坏了半年的水龙头或椅子修好。\n24. 找一部影史经典，关掉弹幕，不快进地从头看到尾。\n25. 挑个周末拔掉网线，做一次24小时的纯粹数字排毒。\n26. 拿起相机，去拍十张不同材质的特写：树皮、铁锈、老墙。\n27. 随便背一首短诗，单纯为了浪漫。\n28. 钻研出一款只属于你个人口味的秘制灵魂蘸酱。\n29. 每天给自己留10分钟，什么都不干，原地发呆。\n30. 换一种交通工具通勤，如果平时开车，今天试试坐公交看窗外。\n\n31. 去二手书店或旧货市场，淘一件有故事的小玩意。\n32. 尝试跟AI聊一个下午的哲学问题，看看它的边界在哪。\n33. 给很久没联系的老友打个电话，不发微信，直接拨过去。\n34. 学会一首你最喜欢的歌的完整歌词，不看屏幕也能唱完。\n35. 尝试连续三天不点外卖，所有的食物都经过自己的手。\n36. 在下雨天不撑伞，稍微淋一会儿雨，感受雨水的温度。\n37. 去花鸟市场买一束花，亲手修剪并插进瓶子里。\n38. 练习一个魔术小戏法，直到能骗过朋友的眼睛。\n39. 去附近的公园，坐在草地上观察蚂蚁搬家，看足15分钟。\n40. 换一种穿衣风格出门，哪怕只是换个颜色的袜子。\n\n41. 尝试用非惯用手刷牙或者写字，刺激一下大脑。\n42. 整理一次旧照片，删掉模糊的，留下那些让你瞬间想笑的。\n43. 学习一种新的呼吸法，在焦虑时试着调控自己的频率。\n44. 去爬一座山或者登顶一座高楼，俯瞰你生活的城市。\n45. 亲手洗一次车，或者深度打扫一次房间的死角。\n46. 给自己买一份以前觉得“没用”但一直很想要的小礼物。\n47. 尝试在公共场合大声笑出来，如果你遇到有趣的事。\n48. 学会说一句小语种里的“谢谢”或“你好”。\n49. 找一个绝对安静的地方，听一听自己的心跳声。\n50. 睡一个没有任何闹钟、自然醒的觉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 21181,
+          "like_count": 508,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "找回人类溢价的50个隐藏支线任务：\n\n01. 赶在日出前醒来，不戴耳机，去楼下纯粹地走20分钟。\n02. 一个人去咖啡店，手机揣兜里别拿出来，干坐着喝完一杯咖啡。\n03. 抬头看天，认全夜空里的10个星座，亲手在星图里定位。\n04. 写一封永远不会寄出去的信，给曾经的某人或未来的自己。\n05."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 2622,
+          "like_count": 38140,
+          "listed_count": 21,
+          "media_count": 2051,
+          "tweet_count": 8983
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-06T04:01:59.000Z",
+        "description": "AI Web4 研究所 | Meme @memewizd | NFA & DYOR | Meme币一人公司 🪄➜ https://t.co/7ZxI7yqeUA | 币安抢红包 https://t.co/OUboV0b7tO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "memewizd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/GMGN_bsc_bot?s…",
+                "end": 80,
+                "expanded_url": "https://t.me/GMGN_bsc_bot?start=i_nRB7sjjD",
+                "start": 57,
+                "url": "https://t.co/7ZxI7yqeUA"
+              },
+              {
+                "display_url": "reurl.cc/VmrWKQ",
+                "end": 112,
+                "expanded_url": "https://reurl.cc/VmrWKQ",
+                "start": 89,
+                "url": "https://t.co/OUboV0b7tO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/web3annie6",
+                "end": 23,
+                "expanded_url": "https://t.me/web3annie6",
+                "start": 0,
+                "url": "https://t.co/qaPE4ZBiHU"
+              }
+            ]
+          }
+        },
+        "id": "1291222903552319488",
+        "location": "✉️TG：@web3annie | 财富密码交流 ➜",
+        "name": "Annie 所长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892044771612557314/TDIeMeSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50453,
+          "following_count": 5720,
+          "like_count": 60519,
+          "listed_count": 446,
+          "media_count": 4090,
+          "tweet_count": 23177
+        },
+        "url": "https://t.co/qaPE4ZBiHU",
+        "username": "web3annie",
+        "verified": true
+      }
+    ]
+  }
+}

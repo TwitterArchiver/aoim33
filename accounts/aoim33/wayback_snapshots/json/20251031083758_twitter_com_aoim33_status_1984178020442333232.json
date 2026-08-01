@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983922212857114624"
+      ],
+      "media_source_tweet_id": [
+        "1983922218246512930"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1575492121015951362",
+          "name": "Luckin Coffee"
+        }
+      }
+    ],
+    "conversation_id": "1984178020442333232",
+    "created_at": "2025-10-31T08:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984178020442333232"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Luckin",
+          "probability": 0.6476,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709457789230149632",
+          "start": 3,
+          "username": "nwsanslive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKncdCNAyK",
+          "end": 54,
+          "expanded_url": "https://x.com/nwsanslive/status/1983922218246512930/photo/1",
+          "media_key": "3_1983922212857114624",
+          "start": 31,
+          "url": "https://t.co/OKncdCNAyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984178020442333232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983922218246512930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nwsanslive: Luckin Coffee: https://t.co/OKncdCNAyK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_1983922212857114624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hOvcda8AASaje.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983922212857114624"
+          ],
+          "media_source_tweet_id": [
+            "1983922218246512930"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1575492121015951362",
+              "name": "Luckin Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1984178020442333232",
+        "created_at": "2025-10-31T08:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984178020442333232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Luckin",
+              "probability": 0.6476,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709457789230149632",
+              "start": 3,
+              "username": "nwsanslive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKncdCNAyK",
+              "end": 54,
+              "expanded_url": "https://x.com/nwsanslive/status/1983922218246512930/photo/1",
+              "media_key": "3_1983922212857114624",
+              "start": 31,
+              "url": "https://t.co/OKncdCNAyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984178020442333232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983922218246512930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nwsanslive: Luckin Coffee: https://t.co/OKncdCNAyK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983922212857114624"
+          ]
+        },
+        "author_id": "1709457789230149632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1575492121015951362",
+              "name": "Luckin Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1983922218246512930",
+        "created_at": "2025-10-30T15:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983922218246512930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKncdCNAyK",
+              "end": 38,
+              "expanded_url": "https://x.com/nwsanslive/status/1983922218246512930/photo/1",
+              "media_key": "3_1983922212857114624",
+              "start": 15,
+              "url": "https://t.co/OKncdCNAyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983922218246512930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3865,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Luckin Coffee: https://t.co/OKncdCNAyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.24 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1983549040441827520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1553,
+          "like_count": 17153,
+          "listed_count": 3,
+          "media_count": 811,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T06:38:01.000Z",
+        "description": "我是RE  11年畜中生 ENFP  Furry #时光代理人 #LinkClick 主推陆光  成分复杂\n中文&English\n里推@renwsans（无法登录勿关）\n第三个账号@The_Third_RE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "时光代理人"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "tag": "LinkClick"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "renwsans"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "The_Third_RE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nwsanslive.github.io",
+                "end": 23,
+                "expanded_url": "https://nwsanslive.github.io",
+                "start": 0,
+                "url": "https://t.co/Zf43JIQw2u"
+              }
+            ]
+          }
+        },
+        "id": "1709457789230149632",
+        "location": "Nanning,Guangxi,China",
+        "name": "REnwsans",
+        "pinned_tweet_id": "1960317088574378377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957438723936886784/3QMDClkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 1602,
+          "like_count": 25598,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/Zf43JIQw2u",
+        "username": "nwsanslive",
+        "verified": false
+      }
+    ]
+  }
+}

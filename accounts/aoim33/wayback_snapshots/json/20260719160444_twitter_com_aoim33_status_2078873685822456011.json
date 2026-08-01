@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078872218692726784",
+        "3_2078872216692011008",
+        "3_2078872216696127488"
+      ],
+      "media_source_tweet_id": [
+        "2078872267359133802",
+        "2078872267359133802",
+        "2078872267359133802"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2078873685822456011",
+    "created_at": "2026-07-19T16:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078873685822456011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224577240324657152",
+          "start": 3,
+          "username": "quasoawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5V7g6ipLI",
+          "end": 53,
+          "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+          "media_key": "3_2078872218692726784",
+          "start": 30,
+          "url": "https://t.co/w5V7g6ipLI"
+        },
+        {
+          "display_url": "pic.x.com/w5V7g6ipLI",
+          "end": 53,
+          "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+          "media_key": "3_2078872216692011008",
+          "start": 30,
+          "url": "https://t.co/w5V7g6ipLI"
+        },
+        {
+          "display_url": "pic.x.com/w5V7g6ipLI",
+          "end": 53,
+          "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+          "media_key": "3_2078872216696127488",
+          "start": 30,
+          "url": "https://t.co/w5V7g6ipLI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078873685822456011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078872267359133802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quasoawa: 无锡站南广场的设计师一定是果粉 https://t.co/w5V7g6ipLI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078872218692726784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmjRMCbsAAtOc6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078872216692011008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmjRElbMAAl_x8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078872216696127488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmjREmaAAAE8AQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078872218692726784",
+            "3_2078872216692011008",
+            "3_2078872216696127488"
+          ]
+        },
+        "author_id": "1224577240324657152",
+        "conversation_id": "2078872267359133802",
+        "created_at": "2026-07-19T15:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078872267359133802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5V7g6ipLI",
+              "end": 39,
+              "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+              "media_key": "3_2078872218692726784",
+              "start": 16,
+              "url": "https://t.co/w5V7g6ipLI"
+            },
+            {
+              "display_url": "pic.x.com/w5V7g6ipLI",
+              "end": 39,
+              "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+              "media_key": "3_2078872216692011008",
+              "start": 16,
+              "url": "https://t.co/w5V7g6ipLI"
+            },
+            {
+              "display_url": "pic.x.com/w5V7g6ipLI",
+              "end": 39,
+              "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+              "media_key": "3_2078872216696127488",
+              "start": 16,
+              "url": "https://t.co/w5V7g6ipLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078872267359133802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "无锡站南广场的设计师一定是果粉 https://t.co/w5V7g6ipLI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078872218692726784",
+            "3_2078872216692011008",
+            "3_2078872216696127488"
+          ],
+          "media_source_tweet_id": [
+            "2078872267359133802",
+            "2078872267359133802",
+            "2078872267359133802"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2078873685822456011",
+        "created_at": "2026-07-19T16:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078873685822456011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224577240324657152",
+              "start": 3,
+              "username": "quasoawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5V7g6ipLI",
+              "end": 53,
+              "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+              "media_key": "3_2078872218692726784",
+              "start": 30,
+              "url": "https://t.co/w5V7g6ipLI"
+            },
+            {
+              "display_url": "pic.x.com/w5V7g6ipLI",
+              "end": 53,
+              "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+              "media_key": "3_2078872216692011008",
+              "start": 30,
+              "url": "https://t.co/w5V7g6ipLI"
+            },
+            {
+              "display_url": "pic.x.com/w5V7g6ipLI",
+              "end": 53,
+              "expanded_url": "https://x.com/quasoawa/status/2078872267359133802/photo/1",
+              "media_key": "3_2078872216696127488",
+              "start": 30,
+              "url": "https://t.co/w5V7g6ipLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078873685822456011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078872267359133802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quasoawa: 无锡站南广场的设计师一定是果粉 https://t.co/w5V7g6ipLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6480,
+          "following_count": 3123,
+          "like_count": 56492,
+          "listed_count": 22,
+          "media_count": 3619,
+          "tweet_count": 14707
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-04T06:15:51.000Z",
+        "description": "中国人，友好交流，有事欢迎私信",
+        "id": "1224577240324657152",
+        "location": "Your mind",
+        "name": "Quaso",
+        "pinned_tweet_id": "1981230138890350777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983585261838856195/YrIw-h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 596,
+          "like_count": 17948,
+          "listed_count": 0,
+          "media_count": 948,
+          "tweet_count": 5634
+        },
+        "url": "",
+        "username": "quasoawa",
+        "verified": false
+      }
+    ]
+  }
+}

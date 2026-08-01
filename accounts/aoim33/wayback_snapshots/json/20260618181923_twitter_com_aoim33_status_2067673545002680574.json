@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067673537494847488"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2067673446050603182",
+    "created_at": "2026-06-18T18:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067673545002680574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BivEqaKVCq",
+          "end": 27,
+          "expanded_url": "https://x.com/aoim33/status/2067673545002680574/photo/1",
+          "media_key": "3_2067673537494847488",
+          "start": 4,
+          "url": "https://t.co/BivEqaKVCq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067673545002680574",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067673533816410190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "9/9 https://t.co/BivEqaKVCq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2067673537494847488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHaIJnbEAA8RpG.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2067673526346371072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHaHgFa0AAroqW.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067673537494847488"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2067673446050603182",
+        "created_at": "2026-06-18T18:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067673545002680574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BivEqaKVCq",
+              "end": 27,
+              "expanded_url": "https://x.com/aoim33/status/2067673545002680574/photo/1",
+              "media_key": "3_2067673537494847488",
+              "start": 4,
+              "url": "https://t.co/BivEqaKVCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067673545002680574",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067673533816410190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9/9 https://t.co/BivEqaKVCq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067673526346371072"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2067673446050603182",
+        "created_at": "2026-06-18T18:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067673533816410190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4b0HfvBe6G",
+              "end": 27,
+              "expanded_url": "https://x.com/aoim33/status/2067673533816410190/photo/1",
+              "media_key": "3_2067673526346371072",
+              "start": 4,
+              "url": "https://t.co/4b0HfvBe6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067673533816410190",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067673521426514042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8/9 https://t.co/4b0HfvBe6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6162,
+          "following_count": 3059,
+          "like_count": 53445,
+          "listed_count": 21,
+          "media_count": 3265,
+          "tweet_count": 13664
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049140901646397440"
+      ],
+      "media_source_tweet_id": [
+        "2049140925046325543"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2049528828930986129",
+    "created_at": "2026-04-29T16:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049528828930986129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010625193467867136",
+          "start": 3,
+          "username": "nutsh33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GvtRsM44zf",
+          "end": 42,
+          "expanded_url": "https://x.com/nutsh33/status/2049140925046325543/photo/1",
+          "media_key": "3_2049140901646397440",
+          "start": 19,
+          "url": "https://t.co/GvtRsM44zf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049528828930986129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049140925046325543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nutsh33: 巨大的杆杆 https://t.co/GvtRsM44zf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049140901646397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHACyxFbcAAXfT0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049140901646397440"
+          ],
+          "media_source_tweet_id": [
+            "2049140925046325543"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2049528828930986129",
+        "created_at": "2026-04-29T16:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049528828930986129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010625193467867136",
+              "start": 3,
+              "username": "nutsh33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvtRsM44zf",
+              "end": 42,
+              "expanded_url": "https://x.com/nutsh33/status/2049140925046325543/photo/1",
+              "media_key": "3_2049140901646397440",
+              "start": 19,
+              "url": "https://t.co/GvtRsM44zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049528828930986129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049140925046325543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nutsh33: 巨大的杆杆 https://t.co/GvtRsM44zf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049140901646397440"
+          ]
+        },
+        "author_id": "2010625193467867136",
+        "conversation_id": "2049140925046325543",
+        "created_at": "2026-04-28T14:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049140925046325543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvtRsM44zf",
+              "end": 29,
+              "expanded_url": "https://x.com/nutsh33/status/2049140925046325543/photo/1",
+              "media_key": "3_2049140901646397440",
+              "start": 6,
+              "url": "https://t.co/GvtRsM44zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049140925046325543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "巨大的杆杆 https://t.co/GvtRsM44zf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5058,
+          "following_count": 2862,
+          "like_count": 46313,
+          "listed_count": 19,
+          "media_count": 2613,
+          "tweet_count": 11393
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "日向 夏 Himukai Natsu ‖ 数码圈 ‖ 健身圈 ‖ Trance ‖ \n可爱、有趣的、日常 ‖ @UNIQLO_JP Staff ‖ 小伙伴 @aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "UNIQLO_JP"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "Natsu H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037968637076844544/_IfjcZMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 806,
+          "like_count": 819,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 1057
+        },
+        "username": "nutsh33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2065441102132621343",
+    "created_at": "2026-06-12T15:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065449811093131696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282893311573766145",
+          "start": 0,
+          "username": "9moX20076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065449811093131696",
+    "in_reply_to_user_id": "1282893311573766145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065447998449143891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9moX20076 可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2065441102132621343",
+        "created_at": "2026-06-12T15:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065449811093131696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282893311573766145",
+              "start": 0,
+              "username": "9moX20076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065449811093131696",
+        "in_reply_to_user_id": "1282893311573766145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065447998449143891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9moX20076 可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282893311573766145",
+        "conversation_id": "2065441102132621343",
+        "created_at": "2026-06-12T14:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065447998449143891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065447998449143891",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065441102132621343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 我是不是还要再考一遍😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6026,
+          "following_count": 3030,
+          "like_count": 52537,
+          "listed_count": 21,
+          "media_count": 3196,
+          "tweet_count": 13375
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-14T04:23:07.000Z",
+        "description": "東京で爆誕した日中ハーフ/関西某無名大学在学中/🇯🇵JLPT N1/🇨🇳HSK 6級/Python/サブ→@X_CNJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "X_CNJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinketu.com",
+                "end": 23,
+                "expanded_url": "http://kinketu.com",
+                "start": 0,
+                "url": "https://t.co/fDaBBVNXdz"
+              }
+            ]
+          }
+        },
+        "id": "1282893311573766145",
+        "location": "イワシ　むれで　いきる　さかな\n",
+        "name": "Kia",
+        "pinned_tweet_id": "1958453872277717471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884466026773180416/T92tL03V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6748,
+          "following_count": 6984,
+          "like_count": 107906,
+          "listed_count": 29,
+          "media_count": 12461,
+          "tweet_count": 97829
+        },
+        "url": "https://t.co/fDaBBVNXdz",
+        "username": "9moX20076",
+        "verified": true
+      }
+    ]
+  }
+}

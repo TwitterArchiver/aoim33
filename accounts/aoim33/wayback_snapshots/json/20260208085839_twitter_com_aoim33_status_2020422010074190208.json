@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2020422010074190208",
+    "created_at": "2026-02-08T08:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T09:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020422010074190208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "리듬게임_𝕏친소"
+        },
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "리듬게임_트친소"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1927925787446980608",
+          "start": 3,
+          "username": "MiDNIGHT_0222s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020422010074190208",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020408959396626558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiDNIGHT_0222s: #리듬게임_𝕏친소\n#리듬게임_트친소\n\n리듬게임 이것저것 재밌게 하고있어요\n어뮤즈, 겜천, 비전, 우게 자주다녀요‼️\n흔적 남겨주시거나 선팔 주시면 무멘팔로 찾아갈게여\n\n인알 미리 감사드립니다요🙇‍♂️ https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020408811484508163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnvHAWacAMJQzK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020408811463536640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnvHARacAAETVB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020408812050739205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnvHCdacAU6Iy_.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 16960,
+        "height": 720,
+        "media_key": "7_2020408829419438080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2020408829419438080/pu/img/YH1F1mwtx7nwGD9A.jpg",
+        "public_metrics": {
+          "view_count": 94
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020408829419438080/pu/vid/avc1/480x270/nKOaBX3BSGdBDUfs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020408829419438080/pu/vid/avc1/640x360/OfsI1YYbliteCWA2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020408829419438080/pu/vid/avc1/1280x720/E8X9bsaT3kH0XZwm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2020408829419438080/pu/pl/KLLWPIqwM37q5zau.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2020422010074190208",
+        "created_at": "2026-02-08T08:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020422010074190208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "리듬게임_𝕏친소"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "리듬게임_트친소"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1927925787446980608",
+              "start": 3,
+              "username": "MiDNIGHT_0222s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020422010074190208",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020408959396626558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiDNIGHT_0222s: #리듬게임_𝕏친소\n#리듬게임_트친소\n\n리듬게임 이것저것 재밌게 하고있어요\n어뮤즈, 겜천, 비전, 우게 자주다녀요‼️\n흔적 남겨주시거나 선팔 주시면 무멘팔로 찾아갈게여\n\n인알 미리 감사드립니다요🙇‍♂️ https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020408811484508163",
+            "3_2020408811463536640",
+            "3_2020408812050739205",
+            "7_2020408829419438080"
+          ]
+        },
+        "author_id": "1927925787446980608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2020408959396626558",
+        "created_at": "2026-02-08T08:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020408959396626558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "리듬게임_𝕏친소"
+            },
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "리듬게임_트친소"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnx4vB63s6",
+              "end": 135,
+              "expanded_url": "https://x.com/MiDNIGHT_0222s/status/2020408959396626558/video/1",
+              "media_key": "3_2020408811484508163",
+              "start": 112,
+              "url": "https://t.co/qnx4vB63s6"
+            },
+            {
+              "display_url": "pic.x.com/qnx4vB63s6",
+              "end": 135,
+              "expanded_url": "https://x.com/MiDNIGHT_0222s/status/2020408959396626558/video/1",
+              "media_key": "3_2020408811463536640",
+              "start": 112,
+              "url": "https://t.co/qnx4vB63s6"
+            },
+            {
+              "display_url": "pic.x.com/qnx4vB63s6",
+              "end": 135,
+              "expanded_url": "https://x.com/MiDNIGHT_0222s/status/2020408959396626558/video/1",
+              "media_key": "3_2020408812050739205",
+              "start": 112,
+              "url": "https://t.co/qnx4vB63s6"
+            },
+            {
+              "display_url": "pic.x.com/qnx4vB63s6",
+              "end": 135,
+              "expanded_url": "https://x.com/MiDNIGHT_0222s/status/2020408959396626558/video/1",
+              "media_key": "7_2020408829419438080",
+              "start": 112,
+              "url": "https://t.co/qnx4vB63s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020408959396626558",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#리듬게임_𝕏친소\n#리듬게임_트친소\n\n리듬게임 이것저것 재밌게 하고있어요\n어뮤즈, 겜천, 비전, 우게 자주다녀요‼️\n흔적 남겨주시거나 선팔 주시면 무멘팔로 찾아갈게여\n\n인알 미리 감사드립니다요🙇‍♂️ https://t.co/qnx4vB63s6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 2437,
+          "like_count": 32698,
+          "listed_count": 17,
+          "media_count": 1600,
+          "tweet_count": 7279
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T03:11:47.000Z",
+        "description": "01 / Rhythm game (SEGA / BEMANI)\n리겜계정",
+        "id": "1927925787446980608",
+        "location": "팔로우 주시면 받아요",
+        "name": "MOLONA",
+        "pinned_tweet_id": "2002292265801363618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992218958225973248/53SJt94t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 405,
+          "like_count": 2373,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1196
+        },
+        "username": "MiDNIGHT_0222s",
+        "verified": false
+      }
+    ]
+  }
+}

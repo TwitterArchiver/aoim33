@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese recording artist, lyricist, model, and actress",
+          "id": "1070723960495435777",
+          "name": "Ayumi Hamasaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1432449838646321152",
+          "name": "Yukio Hatoyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1432449838646321152",
+          "name": "Yukio Hatoyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese recording artist, lyricist, model, and actress",
+          "id": "1070723960495435777",
+          "name": "Ayumi Hamasaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese recording artist, lyricist, model, and actress",
+          "id": "1070723960495435777",
+          "name": "Ayumi Hamasaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1432449838646321152",
+          "name": "Yukio Hatoyama"
+        }
+      }
+    ],
+    "conversation_id": "1995162598330048743",
+    "created_at": "2025-11-30T16:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995162598330048743"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "浜崎あゆみさん",
+          "probability": 0.624,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "normalized_text": "上海",
+          "probability": 0.6749,
+          "start": 49,
+          "type": "Place"
+        },
+        {
+          "end": 89,
+          "normalized_text": "高市首相",
+          "probability": 0.6553,
+          "start": 86,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "97244324",
+          "start": 3,
+          "username": "hatoyamayukio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995162598330048743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995153600742666342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatoyamayukio: 浜崎あゆみさんはエンターテイメントは人と人を繋ぐ架け橋だと、上海公演が中止となり無観客の中でも予定通り歌われたそうだ。感激した。しかし高市首相の軽率なひと言でどれだけ多くの人を傷つけ国益を損なっているか測り知れない。トランプの言うことを聞き…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1432449838646321152",
+              "name": "Yukio Hatoyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1432449838646321152",
+              "name": "Yukio Hatoyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1432449838646321152",
+              "name": "Yukio Hatoyama"
+            }
+          }
+        ],
+        "conversation_id": "1995162598330048743",
+        "created_at": "2025-11-30T16:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995162598330048743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "浜崎あゆみさん",
+              "probability": 0.624,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "上海",
+              "probability": 0.6749,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "高市首相",
+              "probability": 0.6553,
+              "start": 86,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "97244324",
+              "start": 3,
+              "username": "hatoyamayukio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995162598330048743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995153600742666342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatoyamayukio: 浜崎あゆみさんはエンターテイメントは人と人を繋ぐ架け橋だと、上海公演が中止となり無観客の中でも予定通り歌われたそうだ。感激した。しかし高市首相の軽率なひと言でどれだけ多くの人を傷つけ国益を損なっているか測り知れない。トランプの言うことを聞き…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "97244324",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1432449838646321152",
+              "name": "Yukio Hatoyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1432449838646321152",
+              "name": "Yukio Hatoyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1432449838646321152",
+              "name": "Yukio Hatoyama"
+            }
+          }
+        ],
+        "conversation_id": "1995153600742666342",
+        "created_at": "2025-11-30T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995153600742666342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "浜崎あゆみさん",
+              "probability": 0.5508,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "上海",
+              "probability": 0.671,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 70,
+              "normalized_text": "高市首相",
+              "probability": 0.6264,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 122,
+              "normalized_text": "台湾",
+              "probability": 0.7467,
+              "start": 121,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995153600742666342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 27004,
+          "like_count": 844,
+          "quote_count": 34,
+          "reply_count": 371,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "浜崎あゆみさんはエンターテイメントは人と人を繋ぐ架け橋だと、上海公演が中止となり無観客の中でも予定通り歌われたそうだ。感激した。しかし高市首相の軽率なひと言でどれだけ多くの人を傷つけ国益を損なっているか測り知れない。トランプの言うことを聞き、台湾問題はあいまい戦略に徹せよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1994431888866656417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1864,
+          "like_count": 20404,
+          "listed_count": 4,
+          "media_count": 1010,
+          "tweet_count": 4836
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-16T16:44:30.000Z",
+        "description": "一般財団法人東アジア共同体研究所 理事長 @EastAsianCommu1、公益財団法人友愛 理事長 https://t.co/gcqCLEQA32、鳩山会館 館長 https://t.co/IZzns3YYpQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "EastAsianCommu1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yuai-love.com",
+                "end": 74,
+                "expanded_url": "http://yuai-love.com",
+                "start": 51,
+                "url": "https://t.co/gcqCLEQA32"
+              },
+              {
+                "display_url": "hatoyamakaikan.com",
+                "end": 106,
+                "expanded_url": "https://www.hatoyamakaikan.com",
+                "start": 83,
+                "url": "https://t.co/IZzns3YYpQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hatoyama.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.hatoyama.gr.jp",
+                "start": 0,
+                "url": "https://t.co/8TGNTZtfJf"
+              }
+            ]
+          }
+        },
+        "id": "97244324",
+        "location": "JAPAN",
+        "name": "鳩山友紀夫（由紀夫）Yukio Hatoyama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742767,
+          "following_count": 105929,
+          "like_count": 354,
+          "listed_count": 22520,
+          "media_count": 108,
+          "tweet_count": 2326
+        },
+        "url": "https://t.co/8TGNTZtfJf",
+        "username": "hatoyamayukio",
+        "verified": true
+      }
+    ]
+  }
+}

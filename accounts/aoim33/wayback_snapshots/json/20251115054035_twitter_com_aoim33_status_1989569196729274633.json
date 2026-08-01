@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1989569196729274633",
+    "created_at": "2025-11-15T05:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T06:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989569196729274633"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "OpenAI社",
+          "probability": 0.4685,
+          "start": 25,
+          "type": "Organization"
+        },
+        {
+          "end": 41,
+          "normalized_text": "Sora",
+          "probability": 0.3327,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 97,
+          "normalized_text": "Instagram",
+          "probability": 0.3603,
+          "start": 89,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1144985384",
+          "start": 3,
+          "username": "Ashrount_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989569196729274633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989351203021754871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ashrount_: ⚠️注意喚起⚠️\n\nOpenAI社が提供する「Sora」にて僕の偽アカウントが動画などを投稿している模様です。\n\n基本的に私の活動や報告などはX, Instagramのアカウントから発信しており、それ以外は基本的に全て偽物です。\n\nAshrount…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1989569196729274633",
+        "created_at": "2025-11-15T05:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989569196729274633"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "OpenAI社",
+              "probability": 0.4685,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Sora",
+              "probability": 0.3327,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "Instagram",
+              "probability": 0.3603,
+              "start": 89,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1144985384",
+              "start": 3,
+              "username": "Ashrount_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989569196729274633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989351203021754871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ashrount_: ⚠️注意喚起⚠️\n\nOpenAI社が提供する「Sora」にて僕の偽アカウントが動画などを投稿している模様です。\n\n基本的に私の活動や報告などはX, Instagramのアカウントから発信しており、それ以外は基本的に全て偽物です。\n\nAshrount…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144985384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1989351203021754871",
+        "created_at": "2025-11-14T15:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989351203021754871"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "OpenAI社",
+              "probability": 0.5077,
+              "start": 10,
+              "type": "Organization"
+            },
+            {
+              "end": 26,
+              "normalized_text": "Sora",
+              "probability": 0.3551,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Instagram",
+              "probability": 0.3457,
+              "start": 74,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989351203021754871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16085,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️注意喚起⚠️\n\nOpenAI社が提供する「Sora」にて僕の偽アカウントが動画などを投稿している模様です。\n\n基本的に私の活動や報告などはX, Instagramのアカウントから発信しており、それ以外は基本的に全て偽物です。\n\nAshrountとは何も関係はございませんので注意喚起いたします。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 1673,
+          "like_count": 18696,
+          "listed_count": 4,
+          "media_count": 907,
+          "tweet_count": 4455
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-03T11:58:16.000Z",
+        "description": "◆作編曲,作詞歌唱 ◆Arcaea, SOUND VOLTEX, beatmania IIDX他多数楽曲収録 ◆MEGAREX, Diverse System他多数楽曲提供 ◆pixivfanbox https://t.co/DHmL3Ge4e5 ◆https://t.co/ULpbQq39Ww",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2Ct0d9z",
+                "end": 123,
+                "expanded_url": "http://bit.ly/2Ct0d9z",
+                "start": 100,
+                "url": "https://t.co/DHmL3Ge4e5"
+              },
+              {
+                "display_url": "twpf.jp/Ashrount_",
+                "end": 148,
+                "expanded_url": "http://twpf.jp/Ashrount_",
+                "start": 125,
+                "url": "https://t.co/ULpbQq39Ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/ashrount",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/ashrount",
+                "start": 0,
+                "url": "https://t.co/R57oHHFwkW"
+              }
+            ]
+          }
+        },
+        "id": "1144985384",
+        "location": "ashrount.fs25@gmail.com",
+        "name": "Ashrount",
+        "pinned_tweet_id": "1979506418849087995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979957433477795840/YxN-QE1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8135,
+          "following_count": 997,
+          "like_count": 14812,
+          "listed_count": 55,
+          "media_count": 3083,
+          "tweet_count": 47775
+        },
+        "url": "https://t.co/R57oHHFwkW",
+        "username": "Ashrount_",
+        "verified": true
+      }
+    ]
+  }
+}

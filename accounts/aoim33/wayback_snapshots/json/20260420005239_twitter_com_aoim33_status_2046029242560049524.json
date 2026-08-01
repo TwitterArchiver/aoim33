@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1126559222122942464",
+          "name": "MrBeast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2046029242560049524",
+    "created_at": "2026-04-20T00:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046029242560049524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erchenlu1/stat…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/erchenlu1/status/2045799888558989808",
+          "start": 51,
+          "url": "https://t.co/fwDMeGbqXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046029242560049524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045799888558989808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "秉持着不赚不该赚的钱的原则可能我当场就会跑走\n\n冷知识：他的 YouTube 频道我是点了不感兴趣的 https://t.co/fwDMeGbqXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2045798878675398657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQjPbVW8AEmLxd.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2046029242560049524",
+        "created_at": "2026-04-20T00:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046029242560049524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erchenlu1/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/erchenlu1/status/2045799888558989808",
+              "start": 51,
+              "url": "https://t.co/fwDMeGbqXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046029242560049524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045799888558989808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "秉持着不赚不该赚的钱的原则可能我当场就会跑走\n\n冷知识：他的 YouTube 频道我是点了不感兴趣的 https://t.co/fwDMeGbqXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045798878675398657"
+          ]
+        },
+        "author_id": "1346799420709294081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1126559222122942464",
+              "name": "MrBeast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2045799888558989808",
+        "created_at": "2026-04-19T09:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045799888558989808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5Ue1QOnuB",
+              "end": 187,
+              "expanded_url": "https://x.com/erchenlu1/status/2045799888558989808/photo/1",
+              "media_key": "3_2045798878675398657",
+              "start": 164,
+              "url": "https://t.co/e5Ue1QOnuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045799888558989808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "25 万美元，换你住进一间超市 67 天，你干不干？\n\n世界头部网红 MrBeast 最近拍了一个 YouTube 视频，24 小时观看量接近 3000 万。\n\n他直接买下一整间超市，把当时正在里面购物的上百名随机顾客当场截住：\n\n“各位注意，你们现在都在我的视频里了。最后一个离开这间超市的人，直接拿走 25 万美元现金。”\n\n听上去，这像是一场零食饮料随便吃、躺着熬时间就能赚钱的梦幻挑战。\n\n但谁也没想到，这场游戏最后硬生生演变成了一场持续 67 天 的心理生存战。🧵📷\n\n游戏刚开始没多久，人性就迅速暴露出来了。\n\n大家很快开始抱团、结盟、抢地盘。\n超市里瞬间形成了各种“势力范围”：\n有人占据冷冻区，搭起了“冰冻堡垒”；\n有人守住牛奶区，组成了“梦想队”。\n\n他们拿纸箱、货架和杂物当围墙，活得像末日废土里的幸存者。\n但真正的“反派”很快出现了。\n\n一个叫 Xavian 的选手，完全不拼体力，专门打心理战。\n\n他半夜溜进别人的营地，扎破别人的充气床垫；\n还把超市里唯一的篮球偷走，再故意栽赃给别人。\n\n他说得非常直接：\n\n“我不是来交朋友的，我是来当明星的。”\n整个超市，几乎被他一个人搅到接近崩溃。\n\n后面事情越来越离谱。\n\n大家已经不满足于单纯地“熬”，\n而是开始主动折磨竞争对手。\n\n有人凌晨四点疯狂敲锅敲盆制造噪音，逼别人精神崩溃；\n整个超市也一点点滑向无政府状态。\n\n睡眠不足，压力爆棚，情绪失控。\n一点点小事，都足以引发争吵、翻脸和崩溃。\n\n甚至有人不是输给别人，\n而是输给了自己一个不小心——\n踩到了 MrBeast 划下的那条红色淘汰线，当场出局。\n\n但越往后看，你越会发现：\n这根本不是一场“谁更能熬”的游戏。\n\n它真正考验的是：\n你愿意为了 25 万美元，牺牲掉多少人生。\n\n有人是父亲。\n他不想错过女儿的成长，最后含泪离开。\n有人已经怀孕。\n坚持了几周之后，还是决定为了孩子退出。\n\n他们身后，是 25 万美元现金；\n他们面前，是阔别已久的家人拥抱。\n\n那一刻，钱突然没那么大了。\n\n到了第 67 天，超市里只剩下最后 4 个人。\n\n所有人都以为，接下来就是继续互相死耗，直到把对方熬崩。\n\n结果这时候，MrBeast 推着一辆装满现金的手推车走了进来。\n\n他直接甩出一个新规则：\n“如果你们愿意继续留下来，帮我把超市重新补满货，再一起把里面所有食物吃光，总奖金就从 25 万美元直接涨到 100 万美元。”\n\n规则一下子变了。\n游戏不再是“敌人互耗”，\n而变成了“队友共创”。\n\n前面 67 天里互相折磨、互相怀疑、互相下绊子的人，\n到了这一刻，居然站到了同一边。\n这件事最有意思的地方就在这里：\n\n很多时候，人和人不是不能合作。\n 只是利益还没大到，足以盖过彼此的敌意。\n\n这个挑战表面上看，是“在超市里生存 67 天”。\n但它真正拍到的，其实是：\n\n人在长期封闭、高压、失序的环境里，\n会怎样一点点暴露出自己最真实的欲望、脆弱、恶意、孤独、思念和底线。\n\n钱会把这些东西放大。\n环境也会。\n\n你以为自己是在玩一场游戏，\n最后才发现，是游戏在一层一层剥开你自己。\n\n最后离开的人，当然拿到了钱。\n\n但真正让人记住的，也许不是谁赢了奖金，\n而是这场实验最后证明了一件事：\n\n人可以为了 25 万美元彼此折磨，\n 也可以为了 100 万美元突然学会合作。\n这大概就是人性最真实的样子。\n\n你呢？\n\n 25 万美元，换你住进一间超市 67 天，你干不干？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 81957,
+          "like_count": 187,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 27
+        },
+        "reply_settings": "following",
+        "text": "25 万美元，换你住进一间超市 67 天，你干不干？\n\n世界头部网红 MrBeast 最近拍了一个 YouTube 视频，24 小时观看量接近 3000 万。\n\n他直接买下一整间超市，把当时正在里面购物的上百名随机顾客当场截住：\n\n“各位注意，你们现在都在我的视频里了。最后一个离开这间超市的人，直接拿走 25 万美元现金。” https://t.co/e5Ue1QOnuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2044289664308445259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 2819,
+          "like_count": 44478,
+          "listed_count": 18,
+          "media_count": 2476,
+          "tweet_count": 10936
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-06T12:43:41.000Z",
+        "description": "跨学科思考者｜长期主义投资人/Long-termist investor｜降噪，不追热点｜公众号：卢尔辰 ｜文章合集：https://t.co/XSlRlvTieY| tg https://t.co/edG3gW471Z |优先回复订阅者评论和私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/46dvtzb6",
+                "end": 82,
+                "expanded_url": "https://tinyurl.com/46dvtzb6",
+                "start": 59,
+                "url": "https://t.co/XSlRlvTieY"
+              },
+              {
+                "display_url": "t.me/erchenlu",
+                "end": 110,
+                "expanded_url": "https://t.me/erchenlu",
+                "start": 87,
+                "url": "https://t.co/edG3gW471Z"
+              }
+            ]
+          }
+        },
+        "id": "1346799420709294081",
+        "name": "卢尔辰",
+        "pinned_tweet_id": "2019923321811611672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983310633366892544/-7DDQZ0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47651,
+          "following_count": 2048,
+          "like_count": 4965,
+          "listed_count": 453,
+          "media_count": 1189,
+          "tweet_count": 7888
+        },
+        "username": "erchenlu1",
+        "verified": true
+      }
+    ]
+  }
+}

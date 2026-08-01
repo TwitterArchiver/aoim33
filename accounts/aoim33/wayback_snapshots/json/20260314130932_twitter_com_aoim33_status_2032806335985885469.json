@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032800398294286336"
+      ],
+      "media_source_tweet_id": [
+        "2032801633214804018"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032806335985885469",
+    "created_at": "2026-03-14T13:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032806335985885469"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "KOP7th",
+          "probability": 0.567,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 80,
+          "normalized_text": "KOP7th",
+          "probability": 0.3865,
+          "start": 75,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "maimaiでらっくす",
+          "probability": 0.4043,
+          "start": 83,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 74,
+          "tag": "KOP7th"
+        },
+        {
+          "end": 94,
+          "start": 82,
+          "tag": "maimaiでらっくす"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "舞萌dx"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1144143792",
+          "start": 3,
+          "username": "__Crazy_Kid__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBrtQ2Ad5V",
+          "end": 124,
+          "expanded_url": "https://x.com/__Crazy_Kid__/status/2032801633214804018/video/1",
+          "media_key": "13_2032800398294286336",
+          "start": 101,
+          "url": "https://t.co/LBrtQ2Ad5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032806335985885469",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032801633214804018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Crazy_Kid__: KOP7th international ver. 决胜曲 Break the speakers 鸟+！！！\n#KOP7th #maimaiでらっくす #舞萌dx https://t.co/LBrtQ2Ad5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72475,
+        "height": 1280,
+        "media_key": "13_2032800398294286336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032800398294286336/img/7EcuMcyJgtRhGm2z.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032800398294286336/vid/avc1/320x568/BDiIoLNbdxwlJ5-C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032800398294286336/vid/avc1/480x852/cAnwoG_H8j0RTyXj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032800398294286336/vid/avc1/720x1280/vX1KGf2YD-Pz6aH-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032800398294286336/pl/d7b8z8y6GCCUUj4A.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032800398294286336"
+          ],
+          "media_source_tweet_id": [
+            "2032801633214804018"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032806335985885469",
+        "created_at": "2026-03-14T13:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032806335985885469"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "KOP7th",
+              "probability": 0.567,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "KOP7th",
+              "probability": 0.3865,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "maimaiでらっくす",
+              "probability": 0.4043,
+              "start": 83,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "KOP7th"
+            },
+            {
+              "end": 94,
+              "start": 82,
+              "tag": "maimaiでらっくす"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "舞萌dx"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1144143792",
+              "start": 3,
+              "username": "__Crazy_Kid__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBrtQ2Ad5V",
+              "end": 124,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2032801633214804018/video/1",
+              "media_key": "13_2032800398294286336",
+              "start": 101,
+              "url": "https://t.co/LBrtQ2Ad5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032806335985885469",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032801633214804018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Crazy_Kid__: KOP7th international ver. 决胜曲 Break the speakers 鸟+！！！\n#KOP7th #maimaiでらっくす #舞萌dx https://t.co/LBrtQ2Ad5V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032800398294286336"
+          ]
+        },
+        "author_id": "1144143792",
+        "conversation_id": "2032801633214804018",
+        "created_at": "2026-03-14T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032801633214804018"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "KOP7th",
+              "probability": 0.6781,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "KOP7th",
+              "probability": 0.4051,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "maimaiでらっくす",
+              "probability": 0.3729,
+              "start": 64,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "KOP7th"
+            },
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "maimaiでらっくす"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "舞萌dx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBrtQ2Ad5V",
+              "end": 105,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2032801633214804018/video/1",
+              "media_key": "13_2032800398294286336",
+              "start": 82,
+              "url": "https://t.co/LBrtQ2Ad5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032801633214804018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "KOP7th international ver. 决胜曲 Break the speakers 鸟+！！！\n#KOP7th #maimaiでらっくす #舞萌dx https://t.co/LBrtQ2Ad5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4220,
+          "following_count": 2618,
+          "like_count": 38538,
+          "listed_count": 20,
+          "media_count": 2077,
+          "tweet_count": 9144
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / sbwmc / 全网第一台maimaiでらっくす四轮痛车车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live / 同好大概会回关，扩列私信就行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4912,
+          "following_count": 1524,
+          "like_count": 18387,
+          "listed_count": 30,
+          "media_count": 10410,
+          "tweet_count": 48459
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

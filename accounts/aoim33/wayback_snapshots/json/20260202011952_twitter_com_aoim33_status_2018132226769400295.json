@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2018132226769400295",
+    "created_at": "2026-02-02T01:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T02:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018132226769400295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1144143792",
+          "start": 3,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018132226769400295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018130615867203770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Crazy_Kid__: 昨天粤车南下，整体行程都很愉快，不过中间出了点小插曲。\n\n在白加道影像位拍车时，我们被路人拍了小视频，并发到 Facebook 出警（图一）。主要问题有两个：\n1）路边违例停车；\n2）路肩违停。\n\n客观来说，这两点确实存在。在车顶架三角，看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2470,
+        "media_key": "3_2018128063968706560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAHUyBwaAAAGpG-.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2018128074626490368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAHUypda4AAK_ew.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2018132226769400295",
+        "created_at": "2026-02-02T01:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018132226769400295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1144143792",
+              "start": 3,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018132226769400295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018130615867203770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Crazy_Kid__: 昨天粤车南下，整体行程都很愉快，不过中间出了点小插曲。\n\n在白加道影像位拍车时，我们被路人拍了小视频，并发到 Facebook 出警（图一）。主要问题有两个：\n1）路边违例停车；\n2）路肩违停。\n\n客观来说，这两点确实存在。在车顶架三角，看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018128063968706560",
+            "3_2018128074626490368"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2018130615867203770",
+        "created_at": "2026-02-02T01:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:10:59.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018129988848177155",
+          "2018130244088340731",
+          "2018130615867203770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwXrZg8R7g",
+              "end": 171,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2018130615867203770/photo/1",
+              "media_key": "3_2018128063968706560",
+              "start": 148,
+              "url": "https://t.co/cwXrZg8R7g"
+            },
+            {
+              "display_url": "pic.x.com/cwXrZg8R7g",
+              "end": 171,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2018130615867203770/photo/1",
+              "media_key": "3_2018128074626490368",
+              "start": 148,
+              "url": "https://t.co/cwXrZg8R7g"
+            },
+            {
+              "display_url": "x.com/__Crazy_Kid__/…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/__Crazy_Kid__/status/2017914721618591984",
+              "start": 172,
+              "url": "https://t.co/4SxQPH6PYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018130615867203770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 698,
+                "start": 693,
+                "tag": "粤车南下"
+              }
+            ]
+          },
+          "text": "昨天粤车南下，整体行程都很愉快，不过中间出了点小插曲。\n\n在白加道影像位拍车时，我们被路人拍了小视频，并发到 Facebook 出警（图一）。主要问题有两个：\n1）路边违例停车；\n2）路肩违停。\n\n客观来说，这两点确实存在。在车顶架三角，看上去也确实有点夸张。但也请允许我针对这两点做一些说明：\n\n当时我们之所以把车停过去，是因为看到有香港本地车也停在同一位置拍照。我的正前方一直停着一辆本地车（见图二车 cam），车上是一对情侣，在车旁摆 pos 拍照。不过这辆车在 FB 的出警帖里并没有被提及。\n\n另外，车辆停在路肩架三脚架，是因为后方斜坡高位实际属于私家路段。我们拍照时有保安过来劝离。为了临时找机位，同时尽量避免占用主路、影响通行，才选择在路肩架三脚架拍摄。\n\n对于被出警，我个人没有太多想法。犯错挨打要立正，后续有收到任何罚单本人也认。\n\n反而我挺欣赏香港有这种舆论监督的环境。大家对不文明行为比较敏感，也愿意公开提醒。如果内地也能有类似的公共监督氛围，相信很多不文明现象都会明显减少。\n\n这次也顺便说说在香港的驾驶感受：香港整体驾驶文化真的很好。没有成群的电动车穿插，红绿灯起步大家都舍得给油，节奏快而不乱；变道只要提前打灯，不是恶意加塞的情况下，后车基本都会停得很远示意礼让；并线成功后，很多司机还会双闪两下表示感谢，氛围很友好。对内地司机来说，是非常新奇的驾驶体验。\n\n最后也在此呼吁一下，内地同胞粤车南下时注意文明打卡、提前学习和尊重香港的驾驶文化；同时也欢迎香港同胞港车北上来内地游玩交流。\n\n（图二车 cam 只是为了说明现象，不是为了出警，故车牌打码处理）\n\n#粤车南下"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017914721618591984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天粤车南下，整体行程都很愉快，不过中间出了点小插曲。\n\n在白加道影像位拍车时，我们被路人拍了小视频，并发到 Facebook 出警（图一）。主要问题有两个：\n1）路边违例停车；\n2）路肩违停。\n\n客观来说，这两点确实存在。在车顶架三角，看上去也确实有点夸张。但也请允许我针对这两点做一些说明： https://t.co/cwXrZg8R7g https://t.co/4SxQPH6PYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,742 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 2389,
+          "like_count": 31454,
+          "listed_count": 17,
+          "media_count": 1556,
+          "tweet_count": 7007
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / 打舞萌的 / 全网首台maimaiでらっくす痛四轮车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live / 扩列私信就行 / 欢迎蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 1364,
+          "like_count": 18231,
+          "listed_count": 31,
+          "media_count": 10239,
+          "tweet_count": 47891
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2074348838836699615",
+    "created_at": "2026-07-07T06:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074385932770504981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074385932770504981",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074348838836699615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 关于这条推文你有什么想补充的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074348838836699615",
+        "created_at": "2026-07-07T06:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074385932770504981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074385932770504981",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074348838836699615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 关于这条推文你有什么想补充的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2074348838836699615",
+        "created_at": "2026-07-07T04:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074348838836699615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/aoim33/status/2074344154449199578",
+              "start": 142,
+              "url": "https://t.co/iwypHWCj3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074348838836699615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "docs.stripe.com/disputes/how-d…",
+                "end": 802,
+                "expanded_url": "https://docs.stripe.com/disputes/how-disputes-work",
+                "start": 779,
+                "url": "https://t.co/tGeZ6Mnf5K"
+              },
+              {
+                "display_url": "ielts.idp.com/book/Candidate…",
+                "end": 826,
+                "expanded_url": "https://ielts.idp.com/book/Candidate/Registration/TermsConditions",
+                "start": 803,
+                "url": "https://t.co/k52vz0DiWQ"
+              }
+            ]
+          },
+          "text": "补充一点：比起这种通过延迟扣款的形式白嫖，我们真正需要防范的是对方登陆你的账号，氪金购买了认证之后直接向银行发起 dispute，也就是交易争议退款的行为\n为什么这个才是要防的呢？因为 Stripe 文档写得很直接：当持卡人正式发起争议的时候，卡组织会把这笔钱从商家的 Stripe 余额里划走，并且在整个争议期间一直冻结这笔资金，同时还会扣一笔争议手续费\n钱是先被强制退回去的，商家事后才轮到去申诉\n\n放到推特这个场景里看。你账号上的认证是花钱买的，现在这笔钱被争议退款硬退掉了，站在推特那一边，这就等于你账号上出现了一笔被撤销、甚至带欺诈嫌疑的付款\n到这一步推特没什么理由继续维持你的账号状态，直接冻结是完全可能的。而这一次被冻的，就是你本人的号了\n\n争议退款还有个更麻烦的地方，就是它的时间窗口很长。卡组织通常允许持卡人在原始付款之后的 120 天内发起争议，在某些情况下规则还会给更长的时间。而在商家侧，这一笔交易的资金会被暂扣180天\n也就是说，这颗雷可以埋很久，对商家持续的影响时间也很长，因而完全是一个定时炸弹\n\n想知道正规机构有多认真地对待争议退款，可以直接看雅思的报名条款。里面白纸黑字要求考生同意，不会对报名付款发起争议或者申请 dispute\n如果考生真的这么做了，雅思写明的后果是这样的：他们可以取消这个人的考试或者成绩，并且可以自行决定拒绝这个账户今后的一切报名，连同任何一个报了名之后又把付款撤销掉的人，一起挡在门外\n\n一次争议退款，换来的是长期被拉黑\n\n把雅思这套处理方式挪到推特上就很好理解了\n一个花钱买来的服务，只要它对应那笔付款被争议退款撤销掉，提供服务的一方通常不会跟你慢慢商量，很多时候会直接把账户关掉\n所以这次大家该上心的地方，是别人有没有可能登进你的账号，再用这种方式在你号上留下一笔被撤销的付款记录\n\n参考资料\nhttps://t.co/tGeZ6Mnf5K\nhttps://t.co/k52vz0DiWQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344154449199578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一点：比起这种通过延迟扣款的形式白嫖，我们真正需要防范的是对方登陆你的账号，氪金购买了认证之后直接向银行发起 dispute，也就是交易争议退款的行为\n为什么这个才是要防的呢？因为 Stripe 文档写得很直接：当持卡人正式发起争议的时候，卡组织会把这笔钱从商家的 Stripe https://t.co/iwypHWCj3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6420,
+          "following_count": 3099,
+          "like_count": 55156,
+          "listed_count": 21,
+          "media_count": 3478,
+          "tweet_count": 14285
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8842617,
+          "following_count": 5,
+          "like_count": 110,
+          "listed_count": 7110,
+          "media_count": 9130892,
+          "tweet_count": 130823947
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

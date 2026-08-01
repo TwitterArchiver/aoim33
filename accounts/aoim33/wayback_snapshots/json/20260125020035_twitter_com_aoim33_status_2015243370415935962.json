@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2015243370415935962",
+    "created_at": "2026-01-25T02:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T03:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015243370415935962"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "小松市",
+          "probability": 0.8651,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 31,
+          "normalized_text": "東京",
+          "probability": 0.9802,
+          "start": 30,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2381999474",
+          "start": 3,
+          "username": "ayumu_matsuyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015243370415935962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015243317085384847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayumu_matsuyama: 小松市は大雪ですが東京は快晴。梅の花が咲き始めています。日本海側と太平洋側でこうも違うかというくらい違う気候。日本海側の鉛色の空と荒れ狂う日本海の白波がたまに恋しくなります。大雪の被害が無いと良いですが。。。 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015243307517898752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_eVHGiWcAAxBBH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2015243370415935962",
+        "created_at": "2026-01-25T02:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015243370415935962"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "小松市",
+              "probability": 0.8651,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "東京",
+              "probability": 0.9802,
+              "start": 30,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2381999474",
+              "start": 3,
+              "username": "ayumu_matsuyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015243370415935962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015243317085384847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayumu_matsuyama: 小松市は大雪ですが東京は快晴。梅の花が咲き始めています。日本海側と太平洋側でこうも違うかというくらい違う気候。日本海側の鉛色の空と荒れ狂う日本海の白波がたまに恋しくなります。大雪の被害が無いと良いですが。。。 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015243307517898752"
+          ]
+        },
+        "author_id": "2381999474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2015243317085384847",
+        "created_at": "2026-01-25T02:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015243317085384847"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "小松市",
+              "probability": 0.8808,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 10,
+              "normalized_text": "東京",
+              "probability": 0.9789,
+              "start": 9,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mSpN7TFKS",
+              "end": 128,
+              "expanded_url": "https://x.com/ayumu_matsuyama/status/2015243317085384847/photo/1",
+              "media_key": "3_2015243307517898752",
+              "start": 105,
+              "url": "https://t.co/5mSpN7TFKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015243317085384847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小松市は大雪ですが東京は快晴。梅の花が咲き始めています。日本海側と太平洋側でこうも違うかというくらい違う気候。日本海側の鉛色の空と荒れ狂う日本海の白波がたまに恋しくなります。大雪の被害が無いと良いですが。。。 https://t.co/5mSpN7TFKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 2332,
+          "like_count": 29937,
+          "listed_count": 10,
+          "media_count": 1483,
+          "tweet_count": 6582
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-10T11:29:25.000Z",
+        "description": "Head of JAPAC @X / 日本及びアジア太平洋地域統括 @X、X Corp. Japan株式会社 (X日本法人) 代表取締役 / Hiker & Surfer, Karaoke singer, graduated from the university of Tokyo, 石川県小松市出身",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 14,
+                "username": "X"
+              },
+              {
+                "end": 36,
+                "start": 34,
+                "username": "X"
+              }
+            ]
+          }
+        },
+        "id": "2381999474",
+        "location": "Tokyo",
+        "name": "Ayumu Matsuyama 松山歩",
+        "pinned_tweet_id": "1907050775483719774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1213976120074235904/pHD-NPzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6104,
+          "following_count": 963,
+          "like_count": 16837,
+          "listed_count": 116,
+          "media_count": 841,
+          "tweet_count": 6502
+        },
+        "username": "ayumu_matsuyama",
+        "verified": true
+      }
+    ]
+  }
+}

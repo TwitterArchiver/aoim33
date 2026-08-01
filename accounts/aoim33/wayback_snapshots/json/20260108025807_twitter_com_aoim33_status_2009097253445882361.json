@@ -1,0 +1,958 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009006602410745856"
+      ],
+      "media_source_tweet_id": [
+        "2009006604377571724"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10043119787",
+          "name": "JPMorgan Chase"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1398361783774060544",
+          "name": "Apple Card"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026615333",
+          "name": "J.P. Morgan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041116623",
+          "name": "Goldman Sachs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026615333",
+          "name": "J.P. Morgan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      }
+    ],
+    "conversation_id": "2009097253445882361",
+    "created_at": "2026-01-08T02:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009097253445882361"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Apple Card",
+          "probability": 0.537,
+          "start": 15,
+          "type": "Organization"
+        },
+        {
+          "end": 53,
+          "normalized_text": "Goldman Sachs",
+          "probability": 0.9292,
+          "start": 41,
+          "type": "Organization"
+        },
+        {
+          "end": 71,
+          "normalized_text": "JPMorgan Chase",
+          "probability": 0.7591,
+          "start": 58,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "14861285",
+          "start": 3,
+          "username": "MacRumors"
+        }
+      ],
+      "urls": [
+        {
+          "description": "JPMorgan Chase has reached a deal to take over operation of the Apple Card, reports The Wall Street Journal. Barring any \"last minute hiccups,\" the deal should be announced shortly after over a year of negotiations. Reports began circulating over two years ago that current Apple Card issuer Goldman Sachs was looking to end its partnership with Apple as part of an effort to scale back on consumer banking products amid steep losses.",
+          "display_url": "macrumors.com/2026/01/07/jpm…",
+          "end": 96,
+          "expanded_url": "https://www.macrumors.com/2026/01/07/jpmorgan-chase-apple-card-takeover/",
+          "images": [
+            {
+              "height": 1153,
+              "url": "https://pbs.twimg.com/news_img/2009006648279367681/SS8Dr1Kn?format=jpg&name=orig",
+              "width": 2049
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009006648279367681/SS8Dr1Kn?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 73,
+          "status": 200,
+          "title": "Apple Card Will Move From Goldman Sachs to JPMorgan Chase",
+          "unwound_url": "https://www.macrumors.com/2026/01/07/jpmorgan-chase-apple-card-takeover/",
+          "url": "https://t.co/g7NJdM1Ptt"
+        },
+        {
+          "display_url": "pic.x.com/k8ldAwoLxb",
+          "end": 120,
+          "expanded_url": "https://x.com/MacRumors/status/2009006604377571724/photo/1",
+          "media_key": "3_2009006602410745856",
+          "start": 97,
+          "url": "https://t.co/k8ldAwoLxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009097253445882361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009006604377571724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MacRumors: Apple Card Will Move From Goldman Sachs to JPMorgan Chase https://t.co/g7NJdM1Ptt https://t.co/k8ldAwoLxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2009006602410745856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Fs3FgbYAA7isf.jpg",
+        "width": 2049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009006602410745856"
+          ],
+          "media_source_tweet_id": [
+            "2009006604377571724"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043119787",
+              "name": "JPMorgan Chase"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1398361783774060544",
+              "name": "Apple Card"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026615333",
+              "name": "J.P. Morgan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116623",
+              "name": "Goldman Sachs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026615333",
+              "name": "J.P. Morgan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          }
+        ],
+        "conversation_id": "2009097253445882361",
+        "created_at": "2026-01-08T02:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009097253445882361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Apple Card",
+              "probability": 0.537,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Goldman Sachs",
+              "probability": 0.9292,
+              "start": 41,
+              "type": "Organization"
+            },
+            {
+              "end": 71,
+              "normalized_text": "JPMorgan Chase",
+              "probability": 0.7591,
+              "start": 58,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "14861285",
+              "start": 3,
+              "username": "MacRumors"
+            }
+          ],
+          "urls": [
+            {
+              "description": "JPMorgan Chase has reached a deal to take over operation of the Apple Card, reports The Wall Street Journal. Barring any \"last minute hiccups,\" the deal should be announced shortly after over a year of negotiations. Reports began circulating over two years ago that current Apple Card issuer Goldman Sachs was looking to end its partnership with Apple as part of an effort to scale back on consumer banking products amid steep losses.",
+              "display_url": "macrumors.com/2026/01/07/jpm…",
+              "end": 96,
+              "expanded_url": "https://www.macrumors.com/2026/01/07/jpmorgan-chase-apple-card-takeover/",
+              "images": [
+                {
+                  "height": 1153,
+                  "url": "https://pbs.twimg.com/news_img/2009006648279367681/SS8Dr1Kn?format=jpg&name=orig",
+                  "width": 2049
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009006648279367681/SS8Dr1Kn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "Apple Card Will Move From Goldman Sachs to JPMorgan Chase",
+              "unwound_url": "https://www.macrumors.com/2026/01/07/jpmorgan-chase-apple-card-takeover/",
+              "url": "https://t.co/g7NJdM1Ptt"
+            },
+            {
+              "display_url": "pic.x.com/k8ldAwoLxb",
+              "end": 120,
+              "expanded_url": "https://x.com/MacRumors/status/2009006604377571724/photo/1",
+              "media_key": "3_2009006602410745856",
+              "start": 97,
+              "url": "https://t.co/k8ldAwoLxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009097253445882361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009006604377571724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MacRumors: Apple Card Will Move From Goldman Sachs to JPMorgan Chase https://t.co/g7NJdM1Ptt https://t.co/k8ldAwoLxb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009006602410745856"
+          ]
+        },
+        "author_id": "14861285",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043119787",
+              "name": "JPMorgan Chase"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1398361783774060544",
+              "name": "Apple Card"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026615333",
+              "name": "J.P. Morgan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116623",
+              "name": "Goldman Sachs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026615333",
+              "name": "J.P. Morgan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          }
+        ],
+        "conversation_id": "2009006604377571724",
+        "created_at": "2026-01-07T20:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009006604377571724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Apple Card",
+              "probability": 0.5322,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Goldman Sachs",
+              "probability": 0.9082,
+              "start": 26,
+              "type": "Organization"
+            },
+            {
+              "end": 56,
+              "normalized_text": "JPMorgan Chase",
+              "probability": 0.7094,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "JPMorgan Chase has reached a deal to take over operation of the Apple Card, reports The Wall Street Journal. Barring any \"last minute hiccups,\" the deal should be announced shortly after over a year of negotiations. Reports began circulating over two years ago that current Apple Card issuer Goldman Sachs was looking to end its partnership with Apple as part of an effort to scale back on consumer banking products amid steep losses.",
+              "display_url": "macrumors.com/2026/01/07/jpm…",
+              "end": 81,
+              "expanded_url": "https://www.macrumors.com/2026/01/07/jpmorgan-chase-apple-card-takeover/",
+              "images": [
+                {
+                  "height": 1153,
+                  "url": "https://pbs.twimg.com/news_img/2009006648279367681/SS8Dr1Kn?format=jpg&name=orig",
+                  "width": 2049
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009006648279367681/SS8Dr1Kn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "Apple Card Will Move From Goldman Sachs to JPMorgan Chase",
+              "unwound_url": "https://www.macrumors.com/2026/01/07/jpmorgan-chase-apple-card-takeover/",
+              "url": "https://t.co/g7NJdM1Ptt"
+            },
+            {
+              "display_url": "pic.x.com/k8ldAwoLxb",
+              "end": 105,
+              "expanded_url": "https://x.com/MacRumors/status/2009006604377571724/photo/1",
+              "media_key": "3_2009006602410745856",
+              "start": 82,
+              "url": "https://t.co/k8ldAwoLxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009006604377571724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 177068,
+          "like_count": 934,
+          "quote_count": 13,
+          "reply_count": 22,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Card Will Move From Goldman Sachs to JPMorgan Chase https://t.co/g7NJdM1Ptt https://t.co/k8ldAwoLxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 2139,
+          "like_count": 26239,
+          "listed_count": 9,
+          "media_count": 1251,
+          "tweet_count": 5745
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2008-05-21T20:01:19.000Z",
+        "description": "Apple, iPhone, iPad and Mac rumors, news, tips and videos. Tap Follow! Message us with questions / comments.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "macrumors.com",
+                "end": 23,
+                "expanded_url": "https://www.macrumors.com",
+                "start": 0,
+                "url": "https://t.co/d9I2nVZLCu"
+              }
+            ]
+          }
+        },
+        "id": "14861285",
+        "location": "Virginia, USA",
+        "name": "MacRumors.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1171574992821194752/rVrN8JVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354147,
+          "following_count": 93,
+          "like_count": 1135,
+          "listed_count": 17563,
+          "media_count": 38884,
+          "tweet_count": 64811
+        },
+        "url": "https://t.co/d9I2nVZLCu",
+        "username": "MacRumors",
+        "verified": true
+      }
+    ]
+  }
+}

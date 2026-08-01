@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1972462935651082393",
+    "created_at": "2025-09-29T00:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T01:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972462935651082393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokanaino/stat…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/tokanaino/status/1972175042651083209",
+          "start": 119,
+          "url": "https://t.co/Pd9HOBs59x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972462935651082393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "很多时候所谓的「弱势群体」就是需要装出弱势的样子才能让社会觉得他们是弱势群体的一员\n这就和大学里申请助学金的人用自己的努力买到了iPhone却被周围的人提出再审置疑是同样的道理\n本质上就是社会大众在并不符合他们认知的行为上的认知失调罢了\n\n多くの場合、「弱者」とされる人々は、自分が弱者であると社会に認識させるために、弱々しい姿を演じざるを得ないように見える\n例えば、大学で奨学金を申請する学生が、自分の努力で iPhone を買っただけで周囲から「本当に支援が必要なのか」と疑われることがあり、結局のところ、これは社会の大衆が、自分たちの認識に合わない行動を前にして認知的不協和に陥っているだけなのだと思う"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972175042651083209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多时候所谓的「弱势群体」就是需要装出弱势的样子才能让社会觉得他们是弱势群体的一员\n这就和大学里申请助学金的人用自己的努力买到了iPhone却被周围的人提出再审置疑是同样的道理\n本质上就是社会大众在并不符合他们认知的行为上的认知失调罢了 https://t.co/Pd9HOBs59x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1972462935651082393",
+        "created_at": "2025-09-29T00:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T01:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972462935651082393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokanaino/stat…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/tokanaino/status/1972175042651083209",
+              "start": 119,
+              "url": "https://t.co/Pd9HOBs59x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972462935651082393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多时候所谓的「弱势群体」就是需要装出弱势的样子才能让社会觉得他们是弱势群体的一员\n这就和大学里申请助学金的人用自己的努力买到了iPhone却被周围的人提出再审置疑是同样的道理\n本质上就是社会大众在并不符合他们认知的行为上的认知失调罢了\n\n多くの場合、「弱者」とされる人々は、自分が弱者であると社会に認識させるために、弱々しい姿を演じざるを得ないように見える\n例えば、大学で奨学金を申請する学生が、自分の努力で iPhone を買っただけで周囲から「本当に支援が必要なのか」と疑われることがあり、結局のところ、これは社会の大衆が、自分たちの認識に合わない行動を前にして認知的不協和に陥っているだけなのだと思う"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972175042651083209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多时候所谓的「弱势群体」就是需要装出弱势的样子才能让社会觉得他们是弱势群体的一员\n这就和大学里申请助学金的人用自己的努力买到了iPhone却被周围的人提出再审置疑是同样的道理\n本质上就是社会大众在并不符合他们认知的行为上的认知失调罢了 https://t.co/Pd9HOBs59x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206058125842759681",
+        "conversation_id": "1972175042651083209",
+        "created_at": "2025-09-28T05:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972175042651083209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KandaStars/sta…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/KandaStars/status/1971826504809210355",
+              "start": 85,
+              "url": "https://t.co/Qe6Rkq4qZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972175042651083209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22305,
+          "like_count": 215,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971826504809210355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "彼はなーんにも悪いことしていないのに凄まじい数の誹謗中傷とヘイトスピーチが寄せられている。\n弱者の幸せは何がなんでも許せない。弱者の利益は悪行である。\n日本人らしいや。 https://t.co/Qe6Rkq4qZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1154,
+          "like_count": 11940,
+          "listed_count": 3,
+          "media_count": 585,
+          "tweet_count": 2963
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-15T03:48:03.000Z",
+        "description": "生活保護を取得し、ナマポ道を極めるナマポ信徒のゴージャスな日記帳🏅労働はオワコン😎ｸﾞﾍﾍｯ\n★筋トレ、英語学習、映画評論、VAPE(電子タバコ)漫画描くのが趣味",
+        "id": "1206058125842759681",
+        "location": "マッド・シティ NAGOYA",
+        "name": "ナマポマン歯茎",
+        "pinned_tweet_id": "1919350915930206634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658497971917586432/A9cxBMRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 796,
+          "like_count": 11925,
+          "listed_count": 56,
+          "media_count": 1794,
+          "tweet_count": 15801
+        },
+        "username": "tokanaino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993658999666003969"
+      ],
+      "media_source_tweet_id": [
+        "1993659112216019105"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "1993725782410273053",
+    "created_at": "2025-11-26T16:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993725782410273053"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "zzzero"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "ゼンゼロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468797044303482882",
+          "start": 3,
+          "username": "zeroartwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s0OwY1Z6fN",
+          "end": 53,
+          "expanded_url": "https://x.com/zeroartwo/status/1993659112216019105/photo/1",
+          "media_key": "3_1993658999666003969",
+          "start": 30,
+          "url": "https://t.co/s0OwY1Z6fN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993725782410273053",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993659112216019105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeroartwo: ⚡#zzzero #ゼンゼロ https://t.co/s0OwY1Z6fN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993658999666003969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rmTB5aUAE5eEG.jpg",
+        "width": 2828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993658999666003969"
+          ],
+          "media_source_tweet_id": [
+            "1993659112216019105"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1993725782410273053",
+        "created_at": "2025-11-26T16:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993725782410273053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "zzzero"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468797044303482882",
+              "start": 3,
+              "username": "zeroartwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0OwY1Z6fN",
+              "end": 53,
+              "expanded_url": "https://x.com/zeroartwo/status/1993659112216019105/photo/1",
+              "media_key": "3_1993658999666003969",
+              "start": 30,
+              "url": "https://t.co/s0OwY1Z6fN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993725782410273053",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993659112216019105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeroartwo: ⚡#zzzero #ゼンゼロ https://t.co/s0OwY1Z6fN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993658999666003969"
+          ]
+        },
+        "author_id": "1468797044303482882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1993659112216019105",
+        "created_at": "2025-11-26T12:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993659112216019105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 1,
+              "tag": "zzzero"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0OwY1Z6fN",
+              "end": 38,
+              "expanded_url": "https://x.com/zeroartwo/status/1993659112216019105/photo/1",
+              "media_key": "3_1993658999666003969",
+              "start": 15,
+              "url": "https://t.co/s0OwY1Z6fN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993659112216019105",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 10905,
+          "like_count": 1198,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "⚡#zzzero #ゼンゼロ https://t.co/s0OwY1Z6fN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1816,
+          "like_count": 19849,
+          "listed_count": 4,
+          "media_count": 996,
+          "tweet_count": 4738
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-09T04:18:10.000Z",
+        "description": "絵を描きます https://t.co/XDTdG2EetC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/zeroartwo",
+                "end": 30,
+                "expanded_url": "https://lit.link/zeroartwo",
+                "start": 7,
+                "url": "https://t.co/XDTdG2EetC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/106104963",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/106104963",
+                "start": 0,
+                "url": "https://t.co/2LZZcMDTth"
+              }
+            ]
+          }
+        },
+        "id": "1468797044303482882",
+        "name": "円【c107(火) W-34a-東8】",
+        "pinned_tweet_id": "1993659112216019105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972821940525223936/dbr21XDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21430,
+          "following_count": 709,
+          "like_count": 19013,
+          "listed_count": 165,
+          "media_count": 987,
+          "tweet_count": 6297
+        },
+        "url": "https://t.co/2LZZcMDTth",
+        "username": "zeroartwo",
+        "verified": true
+      }
+    ]
+  }
+}

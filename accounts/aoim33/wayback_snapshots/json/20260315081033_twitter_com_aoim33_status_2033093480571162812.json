@@ -1,0 +1,786 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Channels",
+          "id": "23",
+          "name": "TV Channels"
+        },
+        "entity": {
+          "id": "1283510758643396608",
+          "name": "Netflix JP"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2033093390607512032",
+    "created_at": "2026-03-15T08:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T09:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033093480571162812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899011546505998336",
+          "start": 0,
+          "username": "AstraeaSZK"
+        },
+        {
+          "end": 27,
+          "id": "1918274202580467713",
+          "start": 12,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 38,
+          "id": "3254815086",
+          "start": 28,
+          "username": "NetflixJP"
+        },
+        {
+          "end": 52,
+          "id": "1941466399924506624",
+          "start": 39,
+          "username": "rrrriiinn308"
+        },
+        {
+          "end": 63,
+          "id": "1791886253547233280",
+          "start": 53,
+          "username": "InFrieren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033093480571162812",
+    "in_reply_to_user_id": "1899011546505998336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033093390607512032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstraeaSZK @CyberKanjousen @NetflixJP @rrrriiinn308 @InFrieren 哦不和一位"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2033093387965050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb_qiDaMAAC-8b.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1283510758643396608",
+              "name": "Netflix JP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2033093390607512032",
+        "created_at": "2026-03-15T08:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033093480571162812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899011546505998336",
+              "start": 0,
+              "username": "AstraeaSZK"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 38,
+              "id": "3254815086",
+              "start": 28,
+              "username": "NetflixJP"
+            },
+            {
+              "end": 52,
+              "id": "1941466399924506624",
+              "start": 39,
+              "username": "rrrriiinn308"
+            },
+            {
+              "end": 63,
+              "id": "1791886253547233280",
+              "start": 53,
+              "username": "InFrieren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033093480571162812",
+        "in_reply_to_user_id": "1899011546505998336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033093390607512032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstraeaSZK @CyberKanjousen @NetflixJP @rrrriiinn308 @InFrieren 哦不和一位"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033093387965050880"
+          ]
+        },
+        "author_id": "1899011546505998336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1283510758643396608",
+              "name": "Netflix JP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2033093390607512032",
+        "created_at": "2026-03-15T08:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033093390607512032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1918274202580467713",
+              "start": 26,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 52,
+              "id": "3254815086",
+              "start": 42,
+              "username": "NetflixJP"
+            },
+            {
+              "end": 73,
+              "id": "1941466399924506624",
+              "start": 60,
+              "username": "rrrriiinn308"
+            },
+            {
+              "end": 91,
+              "id": "1791886253547233280",
+              "start": 81,
+              "username": "InFrieren"
+            },
+            {
+              "end": 99,
+              "id": "1902568136450424832",
+              "start": 92,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2030913625502973952/-joZoe7B?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030913625502973952/-joZoe7B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=ja",
+              "url": "https://t.co/zzMGHcTzLt"
+            },
+            {
+              "display_url": "pic.x.com/50qOy2iAsQ",
+              "end": 151,
+              "expanded_url": "https://x.com/AstraeaSZK/status/2033093390607512032/photo/1",
+              "media_key": "3_2033093387965050880",
+              "start": 128,
+              "url": "https://t.co/50qOy2iAsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033093390607512032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 私のTwitter家族:\n👫 親: @CyberKanjousen @NetflixJP\n👰 配偶者: @rrrriiinn308\n👶 子ども: @InFrieren @aoim33\n\n➡️ https://t.co/zzMGHcTzLt https://t.co/50qOy2iAsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4218,
+          "following_count": 2622,
+          "like_count": 38651,
+          "listed_count": 20,
+          "media_count": 2084,
+          "tweet_count": 9184
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:17:03.000Z",
+        "description": "19歳|アメリカの大学生|バックエンド開発|EN/JP|ロボットアニメ(ガンダム/エバンゲリオン/マジンカーZ/ゲッターロボ/機動警察) 百合作品(ささ恋/citrus/志乃と恋)|ゲーム(CS2/ゼルダの伝説/Fate Stay Night/Loopers|皆さんと仲良くなりたいですね！(๑˃̵ᴗ˂̵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astraea.nexus",
+                "end": 23,
+                "expanded_url": "http://astraea.nexus",
+                "start": 0,
+                "url": "https://t.co/RpfJ6sh5x9"
+              }
+            ]
+          }
+        },
+        "id": "1899011546505998336",
+        "location": "Anaheim Electronics",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓮𝓪🏳️‍⚧️🌸",
+        "pinned_tweet_id": "2004819420359925959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993422452400308224/0mRcMmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 989,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/RpfJ6sh5x9",
+        "username": "AstraeaSZK",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 148,
+          "like_count": 4593,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 2333
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-24T18:48:04.000Z",
+        "description": "See what's next https://t.co/zLXfwOmg2Z 🎬 https://t.co/gsgkwacLXv 📷 https://t.co/IOhRbE8osO 💥 https://t.co/grTGD3wfB5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "netflix.com",
+                "end": 39,
+                "expanded_url": "https://netflix.com",
+                "start": 16,
+                "url": "https://t.co/zLXfwOmg2Z"
+              },
+              {
+                "display_url": "youtube.com/@NetflixJP",
+                "end": 65,
+                "expanded_url": "http://youtube.com/@NetflixJP",
+                "start": 42,
+                "url": "https://t.co/gsgkwacLXv"
+              },
+              {
+                "display_url": "instagram.com/netflixjp",
+                "end": 91,
+                "expanded_url": "http://instagram.com/netflixjp",
+                "start": 68,
+                "url": "https://t.co/IOhRbE8osO"
+              },
+              {
+                "display_url": "tiktok.com/@netflixjapan",
+                "end": 117,
+                "expanded_url": "http://tiktok.com/@netflixjapan",
+                "start": 94,
+                "url": "https://t.co/grTGD3wfB5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "netflix.com",
+                "end": 23,
+                "expanded_url": "https://www.netflix.com",
+                "start": 0,
+                "url": "https://t.co/iWNi5g0Mg7"
+              }
+            ]
+          }
+        },
+        "id": "3254815086",
+        "location": "日本",
+        "name": "Netflix Japan | ネットフリックス",
+        "pinned_tweet_id": "2032721487497777652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998226244442406912/CSO66D5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371277,
+          "following_count": 226,
+          "like_count": 4630,
+          "listed_count": 3414,
+          "media_count": 70773,
+          "tweet_count": 131744
+        },
+        "url": "https://t.co/iWNi5g0Mg7",
+        "username": "NetflixJP",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-05T11:57:31.000Z",
+        "description": "08 高３ バイ 百合好きの女です。 メインは百合！雑談(?)多めかもしれません。ルパン大好きです。趣味:アニメ 漫画 ゲーム メイク お友達たくさん作りたいです。フォローしてくれると喜びます。無言フォロー失礼します🥹 @rin_da_yo308 👈相互様限定サブ垢❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "rin_da_yo308"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/xjxt4r8ev75rzn…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/xjxt4r8ev75rznr?t=MuXK3y&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/CBvOkXzOkb"
+              }
+            ]
+          }
+        },
+        "id": "1941466399924506624",
+        "name": "りん",
+        "pinned_tweet_id": "1953968794805973261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945364446299213824/ba9ociSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 642,
+          "like_count": 6552,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 8874
+        },
+        "url": "https://t.co/CBvOkXzOkb",
+        "username": "rrrriiinn308",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T17:39:40.000Z",
+        "description": "",
+        "id": "1791886253547233280",
+        "location": "Cathay",
+        "name": "Frieren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889610423336574976/StRXSTTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 184,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 193
+        },
+        "username": "InFrieren",
+        "verified": false
+      }
+    ]
+  }
+}

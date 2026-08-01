@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028605898369937408"
+      ],
+      "media_source_tweet_id": [
+        "2028605903738699897"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2028699055631839279",
+    "created_at": "2026-03-03T05:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028699055631839279"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "arcaea",
+          "probability": 0.9394,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "arcaea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1570286324732825600",
+          "start": 3,
+          "username": "bean_cheesecos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DK29JL5mlF",
+          "end": 91,
+          "expanded_url": "https://x.com/bean_cheesecos/status/2028605903738699897/photo/1",
+          "media_key": "3_2028605898369937408",
+          "start": 68,
+          "url": "https://t.co/DK29JL5mlF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028699055631839279",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028605903738699897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bean_cheesecos: it’s been over a year since i wore this #arcaea https://t.co/DK29JL5mlF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028605898369937408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcOUQmaMAAupQl.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028605898369937408"
+          ],
+          "media_source_tweet_id": [
+            "2028605903738699897"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2028699055631839279",
+        "created_at": "2026-03-03T05:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028699055631839279"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "arcaea",
+              "probability": 0.9394,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1570286324732825600",
+              "start": 3,
+              "username": "bean_cheesecos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK29JL5mlF",
+              "end": 91,
+              "expanded_url": "https://x.com/bean_cheesecos/status/2028605903738699897/photo/1",
+              "media_key": "3_2028605898369937408",
+              "start": 68,
+              "url": "https://t.co/DK29JL5mlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028699055631839279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028605903738699897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bean_cheesecos: it’s been over a year since i wore this #arcaea https://t.co/DK29JL5mlF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028605898369937408"
+          ]
+        },
+        "author_id": "1570286324732825600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2028605903738699897",
+        "created_at": "2026-03-02T22:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T23:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028605903738699897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "arcaea",
+              "probability": 0.9371,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK29JL5mlF",
+              "end": 71,
+              "expanded_url": "https://x.com/bean_cheesecos/status/2028605903738699897/photo/1",
+              "media_key": "3_2028605898369937408",
+              "start": 48,
+              "url": "https://t.co/DK29JL5mlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028605903738699897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1252,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "it’s been over a year since i wore this #arcaea https://t.co/DK29JL5mlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 2583,
+          "like_count": 36566,
+          "listed_count": 20,
+          "media_count": 1858,
+          "tweet_count": 8316
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-15T05:40:27.000Z",
+        "description": "certified yippeemaxxer / 22 she/her / EN/日本語少し / cosplay maker, anime expo ‘24 best in show / arcaea 12.63, wacca 2768(2804+), chuni 16.44",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Katie1923",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Katie1923",
+                "start": 0,
+                "url": "https://t.co/M5rZhwcVil"
+              }
+            ]
+          }
+        },
+        "id": "1570286324732825600",
+        "location": "Los Angeles, CA",
+        "name": "Katie (beanandcheese.burrito)",
+        "pinned_tweet_id": "1988710662982496628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898985336929386496/dJiM1Rdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 380,
+          "like_count": 114925,
+          "listed_count": 4,
+          "media_count": 537,
+          "tweet_count": 4906
+        },
+        "url": "https://t.co/M5rZhwcVil",
+        "username": "bean_cheesecos",
+        "verified": false
+      }
+    ]
+  }
+}

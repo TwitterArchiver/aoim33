@@ -1,0 +1,760 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996236147404742656",
+        "3_1996236147639627776",
+        "3_1996236147689918465",
+        "3_1996236147476094976"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1333167640588681217",
+          "name": "Spotify Wrapped"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405172481590140933",
+          "name": "Music streaming service"
+        }
+      }
+    ],
+    "conversation_id": "1996236159345647827",
+    "created_at": "2025-12-03T15:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996236159345647827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FLS3rI4jVy",
+          "end": 35,
+          "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+          "media_key": "3_1996236147404742656",
+          "start": 12,
+          "url": "https://t.co/FLS3rI4jVy"
+        },
+        {
+          "display_url": "pic.x.com/FLS3rI4jVy",
+          "end": 35,
+          "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+          "media_key": "3_1996236147639627776",
+          "start": 12,
+          "url": "https://t.co/FLS3rI4jVy"
+        },
+        {
+          "display_url": "pic.x.com/FLS3rI4jVy",
+          "end": 35,
+          "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+          "media_key": "3_1996236147689918465",
+          "start": 12,
+          "url": "https://t.co/FLS3rI4jVy"
+        },
+        {
+          "display_url": "pic.x.com/FLS3rI4jVy",
+          "end": 35,
+          "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+          "media_key": "3_1996236147476094976",
+          "start": 12,
+          "url": "https://t.co/FLS3rI4jVy"
+        },
+        {
+          "display_url": "x.com/hikarimazu/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hikarimazu/status/1996194958001529268",
+          "start": 36,
+          "url": "https://t.co/66ZHkJT323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996236159345647827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996194958001529268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Spotify 最高！ https://t.co/FLS3rI4jVy https://t.co/66ZHkJT323"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996236147404742656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QOMxXaoAAB9_D.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996236147639627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QOMyPasAA6B3a.jpg",
+        "width": 944
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996236147689918465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QOMybaEAEIqXz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996236147476094976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QOMxobYAA2pG-.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996194954536992769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PovB-awAEmCVT.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996194955061309440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PovD7bMAAK_ES.jpg",
+        "width": 931
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996194955120017408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PovEJbAAAsv0w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996194955380080642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PovFHbQAIeL2Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996236147404742656",
+            "3_1996236147639627776",
+            "3_1996236147689918465",
+            "3_1996236147476094976"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1333167640588681217",
+              "name": "Spotify Wrapped"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "1996236159345647827",
+        "created_at": "2025-12-03T15:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996236159345647827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FLS3rI4jVy",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+              "media_key": "3_1996236147404742656",
+              "start": 12,
+              "url": "https://t.co/FLS3rI4jVy"
+            },
+            {
+              "display_url": "pic.x.com/FLS3rI4jVy",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+              "media_key": "3_1996236147639627776",
+              "start": 12,
+              "url": "https://t.co/FLS3rI4jVy"
+            },
+            {
+              "display_url": "pic.x.com/FLS3rI4jVy",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+              "media_key": "3_1996236147689918465",
+              "start": 12,
+              "url": "https://t.co/FLS3rI4jVy"
+            },
+            {
+              "display_url": "pic.x.com/FLS3rI4jVy",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/1996236159345647827/photo/1",
+              "media_key": "3_1996236147476094976",
+              "start": 12,
+              "url": "https://t.co/FLS3rI4jVy"
+            },
+            {
+              "display_url": "x.com/hikarimazu/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/hikarimazu/status/1996194958001529268",
+              "start": 36,
+              "url": "https://t.co/66ZHkJT323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996236159345647827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996194958001529268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Spotify 最高！ https://t.co/FLS3rI4jVy https://t.co/66ZHkJT323"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996194954536992769",
+            "3_1996194955061309440",
+            "3_1996194955120017408",
+            "3_1996194955380080642"
+          ]
+        },
+        "author_id": "1686351299024179200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1333167640588681217",
+              "name": "Spotify Wrapped"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "1996194958001529268",
+        "created_at": "2025-12-03T12:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996194958001529268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXXPZHxMIn",
+              "end": 57,
+              "expanded_url": "https://x.com/hikarimazu/status/1996194958001529268/photo/1",
+              "media_key": "3_1996194954536992769",
+              "start": 34,
+              "url": "https://t.co/OXXPZHxMIn"
+            },
+            {
+              "display_url": "pic.x.com/OXXPZHxMIn",
+              "end": 57,
+              "expanded_url": "https://x.com/hikarimazu/status/1996194958001529268/photo/1",
+              "media_key": "3_1996194955061309440",
+              "start": 34,
+              "url": "https://t.co/OXXPZHxMIn"
+            },
+            {
+              "display_url": "pic.x.com/OXXPZHxMIn",
+              "end": 57,
+              "expanded_url": "https://x.com/hikarimazu/status/1996194958001529268/photo/1",
+              "media_key": "3_1996194955120017408",
+              "start": 34,
+              "url": "https://t.co/OXXPZHxMIn"
+            },
+            {
+              "display_url": "pic.x.com/OXXPZHxMIn",
+              "end": 57,
+              "expanded_url": "https://x.com/hikarimazu/status/1996194958001529268/photo/1",
+              "media_key": "3_1996194955380080642",
+              "start": 34,
+              "url": "https://t.co/OXXPZHxMIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996194958001529268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "盼星星盼月亮！终于盼来了！Spotify Wrapped 25！😋 https://t.co/OXXPZHxMIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / ko-fi blog ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/aoim33",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/aoim33",
+                "start": 0,
+                "url": "https://t.co/Yn6s0NWNpv"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1995021557874536905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1875,
+          "like_count": 20636,
+          "listed_count": 4,
+          "media_count": 1024,
+          "tweet_count": 4876
+        },
+        "url": "https://t.co/Yn6s0NWNpv",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T12:21:07.000Z",
+        "description": "時間是一朵不會枯萎的花 | 生活日記本 with @undulae | 浪漫回憶錄（里推） @kirarimazu | 永夜的帷幕（负能推） @renixanco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "undulae"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "kirarimazu"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "renixanco"
+              }
+            ]
+          }
+        },
+        "id": "1686351299024179200",
+        "name": "hikarimazu",
+        "pinned_tweet_id": "1996194958001529268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978107396418351105/gt3_KSJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3057,
+          "following_count": 929,
+          "like_count": 50917,
+          "listed_count": 5,
+          "media_count": 501,
+          "tweet_count": 1894
+        },
+        "username": "hikarimazu",
+        "verified": false
+      }
+    ]
+  }
+}

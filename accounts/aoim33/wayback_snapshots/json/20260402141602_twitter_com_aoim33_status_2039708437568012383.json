@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2039708437568012383",
+    "created_at": "2026-04-02T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039708437568012383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3076565779",
+          "start": 3,
+          "username": "tomonasisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039708437568012383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039590481030697376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomonasisan: 大人になってから診断されたADHD・ASD当事者で、診断が遅れた理由で最も多いのが、「その人たちが子供や学生だった時には、まだADHDやASDが一般社会や教育現場では知られていなかったため」ではないでしょうか？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2039708437568012383",
+        "created_at": "2026-04-02T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039708437568012383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3076565779",
+              "start": 3,
+              "username": "tomonasisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039708437568012383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039590481030697376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomonasisan: 大人になってから診断されたADHD・ASD当事者で、診断が遅れた理由で最も多いのが、「その人たちが子供や学生だった時には、まだADHDやASDが一般社会や教育現場では知られていなかったため」ではないでしょうか？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3076565779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2039590481030697376",
+        "created_at": "2026-04-02T06:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039590481030697376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nazologyinfo/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/nazologyinfo/status/2039455764922650954",
+              "start": 107,
+              "url": "https://t.co/q3jIooSWbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039590481030697376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 12883,
+          "like_count": 327,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039455764922650954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大人になってから診断されたADHD・ASD当事者で、診断が遅れた理由で最も多いのが、「その人たちが子供や学生だった時には、まだADHDやASDが一般社会や教育現場では知られていなかったため」ではないでしょうか？🤔 https://t.co/q3jIooSWbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4611,
+          "following_count": 2744,
+          "like_count": 41733,
+          "listed_count": 20,
+          "media_count": 2326,
+          "tweet_count": 10172
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-13T11:39:08.000Z",
+        "description": "発達障害(ADHD、ASD）、バイク（カワサキ・Ninja1000 2019年型→ヤマハ・NMAX155 2025年型）、アニメ、鉄道、生き物、駅メモ、プリコネR、ブルアカ、アリスギア、ポケモンGOなどの雑多垢です。北海道ツーリングや遠距離乗り鉄旅に再び行ける日が来ることを願って… 。",
+        "id": "3076565779",
+        "location": "虚妄のサンクトゥム",
+        "name": "hamusuke㌠",
+        "pinned_tweet_id": "2038986488822870160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031343413791223808/xnuTC-Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6834,
+          "following_count": 6884,
+          "like_count": 853069,
+          "listed_count": 96,
+          "media_count": 10955,
+          "tweet_count": 457424
+        },
+        "username": "tomonasisan",
+        "verified": false
+      }
+    ]
+  }
+}

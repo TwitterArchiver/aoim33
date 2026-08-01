@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Geology",
+          "id": "847897009281355776",
+          "name": "Geology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      }
+    ],
+    "conversation_id": "1983452270336610611",
+    "created_at": "2025-10-29T08:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983452270336610611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "248647906",
+          "start": 3,
+          "username": "Jesoooor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983452270336610611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983374093094400259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jesoooor: 去日本玩的次数多了，会愈发意识到，日式游戏里绝大多数的设定，都来自日本人的世界观。\n\n大的框架设定是这样：诸如四季分明的美术，有火山、雪国、森林、海岛。城镇和驿站的大体结构，也都有近现代日本的影子。你甚至可以说开放世界里「传送点」的设计是对轨道交通系…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "1983452270336610611",
+        "created_at": "2025-10-29T08:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983452270336610611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "248647906",
+              "start": 3,
+              "username": "Jesoooor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983452270336610611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983374093094400259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jesoooor: 去日本玩的次数多了，会愈发意识到，日式游戏里绝大多数的设定，都来自日本人的世界观。\n\n大的框架设定是这样：诸如四季分明的美术，有火山、雪国、森林、海岛。城镇和驿站的大体结构，也都有近现代日本的影子。你甚至可以说开放世界里「传送点」的设计是对轨道交通系…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "248647906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "1983374093094400259",
+        "created_at": "2025-10-29T03:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983374093094400259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983374093094400259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去日本玩的次数多了，会愈发意识到，日式游戏里绝大多数的设定，都来自日本人的世界观。\n\n大的框架设定是这样：诸如四季分明的美术，有火山、雪国、森林、海岛。城镇和驿站的大体结构，也都有近现代日本的影子。你甚至可以说开放世界里「传送点」的设计是对轨道交通系统的一种模仿。\n\n具体到活动也是。最典型一例莫过于泡温泉可以回血/增加血量上限。吃饭、休息、种植、钓鱼、烹饪、升级装备、训练技能、宗教祈祷……全都有日本人生活的影子。\n\n可以这么说，泛意义上的日式游戏设定，大多可追溯到《塞尔达》、《DQ》和《FF》，尽管这三部游戏的主角根本不是日本人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 16013,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "去日本玩的次数多了，会愈发意识到，日式游戏里绝大多数的设定，都来自日本人的世界观。\n\n大的框架设定是这样：诸如四季分明的美术，有火山、雪国、森林、海岛。城镇和驿站的大体结构，也都有近现代日本的影子。你甚至可以说开放世界里「传送点」的设计是对轨道交通系统的一种模仿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.24 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1688,
+          "like_count": 16880,
+          "listed_count": 3,
+          "media_count": 798,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-07T12:49:21.000Z",
+        "description": "写报道，做评测，追偶像，打游戏，总是戴着耳机，收藏模型、唱片和纸星星。早熟过，所以一直没长大。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesor.me",
+                "end": 23,
+                "expanded_url": "https://jesor.me",
+                "start": 0,
+                "url": "https://t.co/fGkIY8fSl2"
+              }
+            ]
+          }
+        },
+        "id": "248647906",
+        "location": "Mordor",
+        "name": "ᴊᴄ🍉",
+        "pinned_tweet_id": "1211966834947215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745502845716324352/8yNyDlje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20316,
+          "following_count": 703,
+          "like_count": 13816,
+          "listed_count": 137,
+          "media_count": 3846,
+          "tweet_count": 17668
+        },
+        "url": "https://t.co/fGkIY8fSl2",
+        "username": "Jesoooor",
+        "verified": false
+      }
+    ]
+  }
+}

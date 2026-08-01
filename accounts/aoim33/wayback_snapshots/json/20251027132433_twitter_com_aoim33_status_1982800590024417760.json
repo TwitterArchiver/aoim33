@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982598584106110976",
+        "3_1982598584110297088",
+        "3_1982598584148082689",
+        "3_1982598584085147649"
+      ],
+      "media_source_tweet_id": [
+        "1982598919633899586",
+        "1982598919633899586",
+        "1982598919633899586",
+        "1982598919633899586"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1982800590024417760",
+    "created_at": "2025-10-27T13:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982800590024417760"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "東京",
+          "probability": 0.9385,
+          "start": 37,
+          "type": "Place"
+        },
+        {
+          "end": 75,
+          "normalized_text": "秋葉原",
+          "probability": 0.8824,
+          "start": 73,
+          "type": "Place"
+        },
+        {
+          "end": 78,
+          "normalized_text": "池袋",
+          "probability": 0.8716,
+          "start": 77,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 16,
+          "tag": "10月も終わるので音ゲーマーフォロー祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645075755565731842",
+          "start": 3,
+          "username": "rimo353596"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HO1diHY3EW",
+          "end": 109,
+          "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+          "media_key": "3_1982598584106110976",
+          "start": 86,
+          "url": "https://t.co/HO1diHY3EW"
+        },
+        {
+          "display_url": "pic.x.com/HO1diHY3EW",
+          "end": 109,
+          "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+          "media_key": "3_1982598584110297088",
+          "start": 86,
+          "url": "https://t.co/HO1diHY3EW"
+        },
+        {
+          "display_url": "pic.x.com/HO1diHY3EW",
+          "end": 109,
+          "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+          "media_key": "3_1982598584148082689",
+          "start": 86,
+          "url": "https://t.co/HO1diHY3EW"
+        },
+        {
+          "display_url": "pic.x.com/HO1diHY3EW",
+          "end": 109,
+          "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+          "media_key": "3_1982598584085147649",
+          "start": 86,
+          "url": "https://t.co/HO1diHY3EW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982800590024417760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982598919633899586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rimo353596: #10月も終わるので音ゲーマーフォロー祭\n東京でmaimaiやってる学生です〜\nよかったら絡んでください！\nたまに秋葉原か池袋行ってます〜 https://t.co/HO1diHY3EW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_1982598584106110976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Oa6HHWUAAoqj5.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1982598584110297088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Oa6HIWMAASYmQ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1982598584148082689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Oa6HRWwAE4P2S.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1982598584085147649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Oa6HCWcAEkBlo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982598584106110976",
+            "3_1982598584110297088",
+            "3_1982598584148082689",
+            "3_1982598584085147649"
+          ],
+          "media_source_tweet_id": [
+            "1982598919633899586",
+            "1982598919633899586",
+            "1982598919633899586",
+            "1982598919633899586"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1982800590024417760",
+        "created_at": "2025-10-27T13:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982800590024417760"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "東京",
+              "probability": 0.9385,
+              "start": 37,
+              "type": "Place"
+            },
+            {
+              "end": 75,
+              "normalized_text": "秋葉原",
+              "probability": 0.8824,
+              "start": 73,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "池袋",
+              "probability": 0.8716,
+              "start": 77,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 16,
+              "tag": "10月も終わるので音ゲーマーフォロー祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645075755565731842",
+              "start": 3,
+              "username": "rimo353596"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 109,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584106110976",
+              "start": 86,
+              "url": "https://t.co/HO1diHY3EW"
+            },
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 109,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584110297088",
+              "start": 86,
+              "url": "https://t.co/HO1diHY3EW"
+            },
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 109,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584148082689",
+              "start": 86,
+              "url": "https://t.co/HO1diHY3EW"
+            },
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 109,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584085147649",
+              "start": 86,
+              "url": "https://t.co/HO1diHY3EW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982800590024417760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982598919633899586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rimo353596: #10月も終わるので音ゲーマーフォロー祭\n東京でmaimaiやってる学生です〜\nよかったら絡んでください！\nたまに秋葉原か池袋行ってます〜 https://t.co/HO1diHY3EW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982598584106110976",
+            "3_1982598584110297088",
+            "3_1982598584148082689",
+            "3_1982598584085147649"
+          ]
+        },
+        "author_id": "1645075755565731842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1982598919633899586",
+        "created_at": "2025-10-27T00:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982598919633899586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "東京",
+              "probability": 0.9383,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 59,
+              "normalized_text": "秋葉原",
+              "probability": 0.8636,
+              "start": 57,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "池袋",
+              "probability": 0.8525,
+              "start": 61,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "10月も終わるので音ゲーマーフォロー祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 93,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584106110976",
+              "start": 70,
+              "url": "https://t.co/HO1diHY3EW"
+            },
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 93,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584110297088",
+              "start": 70,
+              "url": "https://t.co/HO1diHY3EW"
+            },
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 93,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584148082689",
+              "start": 70,
+              "url": "https://t.co/HO1diHY3EW"
+            },
+            {
+              "display_url": "pic.x.com/HO1diHY3EW",
+              "end": 93,
+              "expanded_url": "https://x.com/rimo353596/status/1982598919633899586/photo/1",
+              "media_key": "3_1982598584085147649",
+              "start": 70,
+              "url": "https://t.co/HO1diHY3EW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982598919633899586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1579,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#10月も終わるので音ゲーマーフォロー祭\n東京でmaimaiやってる学生です〜\nよかったら絡んでください！\nたまに秋葉原か池袋行ってます〜 https://t.co/HO1diHY3EW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1661,
+          "like_count": 16731,
+          "listed_count": 3,
+          "media_count": 792,
+          "tweet_count": 3990
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T14:46:57.000Z",
+        "description": "橙桃暁白雪輝熊祝宴鏡将確定\n橙桃熊神確定\nリモホンです。主に音ゲーメインでやってます！\n気軽に絡んで来てください！！！\nたまに秋葉原と池袋行ってます！\nよろしくお願いします！！🙇\n※無言フォローする時があります",
+        "id": "1645075755565731842",
+        "name": "rimohon",
+        "pinned_tweet_id": "1930178411563233592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710595331854106624/G9XasqSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 293,
+          "like_count": 13581,
+          "listed_count": 1,
+          "media_count": 742,
+          "tweet_count": 5310
+        },
+        "username": "rimo353596",
+        "verified": false
+      }
+    ]
+  }
+}

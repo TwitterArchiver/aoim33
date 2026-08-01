@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028136561544437760"
+      ],
+      "media_source_tweet_id": [
+        "2028213689942180144"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028386871861203410",
+    "created_at": "2026-03-02T08:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028386871861203410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666657380216586240",
+          "start": 3,
+          "username": "de3dsoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rycj9L1RrP",
+          "end": 37,
+          "expanded_url": "https://x.com/de3dsoul/status/2028213689942180144/video/1",
+          "media_key": "13_2028136561544437760",
+          "start": 14,
+          "url": "https://t.co/rycj9L1RrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028386871861203410",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2208
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028213689942180144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de3dsoul: https://t.co/rycj9L1RrP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10900,
+        "height": 576,
+        "media_key": "13_2028136561544437760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028136561544437760/img/MR5ARbBoJS3lKiHi.jpg",
+        "public_metrics": {
+          "view_count": 265826
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028136561544437760/vid/avc1/454x270/qHOY6AO5E6JoD_Hf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028136561544437760/vid/avc1/606x360/UlJd-0CZ8Q6EnE-9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028136561544437760/vid/avc1/972x576/1AMfHSa8v4FeUbgo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028136561544437760/pl/om-qABWjfj0KrQdu.m3u8"
+          }
+        ],
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028136561544437760"
+          ],
+          "media_source_tweet_id": [
+            "2028213689942180144"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028386871861203410",
+        "created_at": "2026-03-02T08:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028386871861203410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666657380216586240",
+              "start": 3,
+              "username": "de3dsoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rycj9L1RrP",
+              "end": 37,
+              "expanded_url": "https://x.com/de3dsoul/status/2028213689942180144/video/1",
+              "media_key": "13_2028136561544437760",
+              "start": 14,
+              "url": "https://t.co/rycj9L1RrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028386871861203410",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2208
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028213689942180144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de3dsoul: https://t.co/rycj9L1RrP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028136561544437760"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028213689942180144",
+        "created_at": "2026-03-01T21:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T22:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028213689942180144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rycj9L1RrP",
+              "end": 23,
+              "expanded_url": "https://x.com/de3dsoul/status/2028213689942180144/video/1",
+              "media_key": "13_2028136561544437760",
+              "start": 0,
+              "url": "https://t.co/rycj9L1RrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028213689942180144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3062,
+          "impression_count": 494538,
+          "like_count": 23743,
+          "quote_count": 39,
+          "reply_count": 20,
+          "retweet_count": 2208
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rycj9L1RrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3899,
+          "following_count": 2577,
+          "like_count": 36370,
+          "listed_count": 19,
+          "media_count": 1835,
+          "tweet_count": 8246
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "location": "him",
+        "name": "定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116463,
+          "following_count": 51,
+          "like_count": 7897,
+          "listed_count": 192,
+          "media_count": 2452,
+          "tweet_count": 2846
+        },
+        "username": "de3dsoul",
+        "verified": true
+      }
+    ]
+  }
+}

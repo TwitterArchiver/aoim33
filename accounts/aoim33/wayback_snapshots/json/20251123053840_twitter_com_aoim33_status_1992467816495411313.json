@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992383096847515649"
+      ],
+      "media_source_tweet_id": [
+        "1992383099716378812"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1992467816495411313",
+    "created_at": "2025-11-23T05:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992467816495411313"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "DORO*C",
+          "probability": 0.5895,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 106,
+          "tag": "arcaea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "794253237880815617",
+          "start": 3,
+          "username": "arcaea_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ISw4WFGOG7",
+          "end": 137,
+          "expanded_url": "https://x.com/arcaea_jp/status/1992383099716378812/photo/1",
+          "media_key": "3_1992383096847515649",
+          "start": 114,
+          "url": "https://t.co/ISw4WFGOG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992467816495411313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992383099716378812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arcaea_jp: あのキャラクターが帰って来る！\nVer. 6.11で『DORO*C』が再登場。\n\n11/27より期間限定で、\n獲得マップと覚醒マップが復刻です！\n\n\"勝てない強さ、狂うほどの熱情\"\n#arcaea https://t.co/ISw4WFGOG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1992383096847515649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Zd3tgWwAE-nf-.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992383096847515649"
+          ],
+          "media_source_tweet_id": [
+            "1992383099716378812"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1992467816495411313",
+        "created_at": "2025-11-23T05:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992467816495411313"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "DORO*C",
+              "probability": 0.5895,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "794253237880815617",
+              "start": 3,
+              "username": "arcaea_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISw4WFGOG7",
+              "end": 137,
+              "expanded_url": "https://x.com/arcaea_jp/status/1992383099716378812/photo/1",
+              "media_key": "3_1992383096847515649",
+              "start": 114,
+              "url": "https://t.co/ISw4WFGOG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992467816495411313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992383099716378812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arcaea_jp: あのキャラクターが帰って来る！\nVer. 6.11で『DORO*C』が再登場。\n\n11/27より期間限定で、\n獲得マップと覚醒マップが復刻です！\n\n\"勝てない強さ、狂うほどの熱情\"\n#arcaea https://t.co/ISw4WFGOG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992383096847515649"
+          ]
+        },
+        "author_id": "794253237880815617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1992383099716378812",
+        "created_at": "2025-11-23T00:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992383099716378812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "DORO*C",
+              "probability": 0.651,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISw4WFGOG7",
+              "end": 122,
+              "expanded_url": "https://x.com/arcaea_jp/status/1992383099716378812/photo/1",
+              "media_key": "3_1992383096847515649",
+              "start": 99,
+              "url": "https://t.co/ISw4WFGOG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992383099716378812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 25105,
+          "like_count": 902,
+          "quote_count": 41,
+          "reply_count": 1,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "あのキャラクターが帰って来る！\nVer. 6.11で『DORO*C』が再登場。\n\n11/27より期間限定で、\n獲得マップと覚醒マップが復刻です！\n\n\"勝てない強さ、狂うほどの熱情\"\n#arcaea https://t.co/ISw4WFGOG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "srkmanno"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "watebird14760"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 1778,
+          "like_count": 19555,
+          "listed_count": 4,
+          "media_count": 974,
+          "tweet_count": 4671
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-03T19:01:43.000Z",
+        "description": "リズムゲーム「Arcaea」の日本語公式アカウントです。\nハッシュタグは #arcaea #arcaea_art にて。\n\nスタッフ: @lowiro_staff\nアプリ: https://t.co/U7N2ktpWAZ\n問い合わせ先: contact@lowiro.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "arcaea"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "arcaea_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "lowiro_staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arcaea.app",
+                "end": 110,
+                "expanded_url": "http://arcaea.app",
+                "start": 87,
+                "url": "https://t.co/U7N2ktpWAZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com",
+                "end": 23,
+                "expanded_url": "http://arcaea.lowiro.com",
+                "start": 0,
+                "url": "https://t.co/gWkVUOBOCO"
+              }
+            ]
+          }
+        },
+        "id": "794253237880815617",
+        "name": "Arcaea公式",
+        "pinned_tweet_id": "1970276928105185399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103981080565239808/FxtXDquZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171503,
+          "following_count": 27,
+          "like_count": 55,
+          "listed_count": 951,
+          "media_count": 998,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/gWkVUOBOCO",
+        "username": "arcaea_jp",
+        "verified": true
+      }
+    ]
+  }
+}

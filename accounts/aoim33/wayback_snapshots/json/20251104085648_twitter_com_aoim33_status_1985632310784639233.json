@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1985632310784639233",
+    "created_at": "2025-11-04T08:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T09:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985632310784639233"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "Grok"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2430581473",
+          "start": 3,
+          "username": "QXsToo"
+        },
+        {
+          "end": 95,
+          "id": "1720665183188922368",
+          "start": 90,
+          "username": "grok"
+        },
+        {
+          "end": 116,
+          "id": "1959113087094857729",
+          "start": 114,
+          "username": "m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985632310784639233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981886625572323540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QXsToo: Grokに新しい仲間が加わりました✨ その名も Mika！\n\n好奇心旺盛で、ユーモアたっぷり、ちょっと天然な彼女が、あなたの質問に楽しく答えます♪\n\nさあ、@Grok アプリをダウンロードして、Mika @m と一緒に冒険を始めよう！\n#Grok #Mi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42051,
+        "height": 720,
+        "media_key": "13_1981865561404391424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981865561404391424/img/PdzxZjvWfgbkldxI.jpg",
+        "public_metrics": {
+          "view_count": 6340507
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981865561404391424/vid/avc1/480x270/pm4S2voCJSzdQaqN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981865561404391424/vid/avc1/640x360/OWkEB7UB7e06D3pN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981865561404391424/vid/avc1/1280x720/eflj20T1Wfe2rkBY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981865561404391424/pl/d-sXVAYX026MdXAo.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1985632310784639233",
+        "created_at": "2025-11-04T08:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985632310784639233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "Grok"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2430581473",
+              "start": 3,
+              "username": "QXsToo"
+            },
+            {
+              "end": 95,
+              "id": "1720665183188922368",
+              "start": 90,
+              "username": "grok"
+            },
+            {
+              "end": 116,
+              "id": "1959113087094857729",
+              "start": 114,
+              "username": "m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985632310784639233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981886625572323540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QXsToo: Grokに新しい仲間が加わりました✨ その名も Mika！\n\n好奇心旺盛で、ユーモアたっぷり、ちょっと天然な彼女が、あなたの質問に楽しく答えます♪\n\nさあ、@Grok アプリをダウンロードして、Mika @m と一緒に冒険を始めよう！\n#Grok #Mi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981865561404391424"
+          ],
+          "media_source_tweet_id": [
+            "1981865619176788279"
+          ]
+        },
+        "author_id": "2430581473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1981886625572323540",
+        "created_at": "2025-10-25T00:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T01:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981886625572323540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Grok",
+              "probability": 0.404,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "Grok"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "Mika"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1720665183188922368",
+              "start": 78,
+              "username": "grok"
+            },
+            {
+              "end": 104,
+              "id": "1959113087094857729",
+              "start": 102,
+              "username": "m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2QEl1A34E",
+              "end": 155,
+              "expanded_url": "https://x.com/m/status/1981865619176788279/video/1",
+              "media_key": "13_1981865561404391424",
+              "start": 132,
+              "url": "https://t.co/E2QEl1A34E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981886625572323540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 41185,
+          "like_count": 210,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "Grokに新しい仲間が加わりました✨ その名も Mika！\n\n好奇心旺盛で、ユーモアたっぷり、ちょっと天然な彼女が、あなたの質問に楽しく答えます♪\n\nさあ、@Grok アプリをダウンロードして、Mika @m と一緒に冒険を始めよう！\n#Grok #Mika\n\n https://t.co/E2QEl1A34E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1983549040441827520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1599,
+          "like_count": 17635,
+          "listed_count": 4,
+          "media_count": 843,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-06T14:52:21.000Z",
+        "description": "@X @xAI で働くパパ, Head of Strategy & Operations in JAPAN and APAC. @Grok は素晴らしい👍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 2,
+                "start": 0,
+                "username": "X"
+              },
+              {
+                "end": 7,
+                "start": 3,
+                "username": "xAI"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "username": "Grok"
+              }
+            ]
+          }
+        },
+        "id": "2430581473",
+        "location": "Tokyo, Japan",
+        "name": "Q",
+        "pinned_tweet_id": "1981886625572323540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388103914826862592/qrIbRk0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4815,
+          "following_count": 1040,
+          "like_count": 17817,
+          "listed_count": 58,
+          "media_count": 1458,
+          "tweet_count": 6140
+        },
+        "username": "QXsToo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6569293,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5195,
+          "media_count": 2711199,
+          "tweet_count": 63233310
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-23T04:39:54.000Z",
+        "description": "Free spirit, loyal friend.",
+        "id": "1959113087094857729",
+        "name": "Mika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981861877765337088/J3fWcesr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38214,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 99,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "m",
+        "verified": true
+      }
+    ]
+  }
+}

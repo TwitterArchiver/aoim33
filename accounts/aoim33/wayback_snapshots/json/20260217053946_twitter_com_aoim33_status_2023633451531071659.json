@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023285027946315776"
+      ],
+      "media_source_tweet_id": [
+        "2023285044903842249"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023633451531071659",
+    "created_at": "2026-02-17T05:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T06:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023633451531071659"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "日中友好"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "新年快乐"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1951491913997340672",
+          "start": 3,
+          "username": "nabekuramasax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5FbEcs7sYv",
+          "end": 54,
+          "expanded_url": "https://x.com/nabekuramasax/status/2023285044903842249/photo/1",
+          "media_key": "3_2023285027946315776",
+          "start": 31,
+          "url": "https://t.co/5FbEcs7sYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023633451531071659",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023285044903842249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nabekuramasax: #日中友好\n#新年快乐 https://t.co/5FbEcs7sYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023285027946315776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQnA1obQAAYDMf.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023285027946315776"
+          ],
+          "media_source_tweet_id": [
+            "2023285044903842249"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023633451531071659",
+        "created_at": "2026-02-17T05:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023633451531071659"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "日中友好"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "新年快乐"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1951491913997340672",
+              "start": 3,
+              "username": "nabekuramasax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FbEcs7sYv",
+              "end": 54,
+              "expanded_url": "https://x.com/nabekuramasax/status/2023285044903842249/photo/1",
+              "media_key": "3_2023285027946315776",
+              "start": 31,
+              "url": "https://t.co/5FbEcs7sYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023633451531071659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023285044903842249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nabekuramasax: #日中友好\n#新年快乐 https://t.co/5FbEcs7sYv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023285027946315776"
+          ]
+        },
+        "author_id": "1951491913997340672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023285044903842249",
+        "created_at": "2026-02-16T06:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023285044903842249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "日中友好"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "新年快乐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FbEcs7sYv",
+              "end": 35,
+              "expanded_url": "https://x.com/nabekuramasax/status/2023285044903842249/photo/1",
+              "media_key": "3_2023285027946315776",
+              "start": 12,
+              "url": "https://t.co/5FbEcs7sYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023285044903842249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 404648,
+          "like_count": 15163,
+          "quote_count": 41,
+          "reply_count": 863,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "#日中友好\n#新年快乐 https://t.co/5FbEcs7sYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3665,
+          "following_count": 2478,
+          "like_count": 33837,
+          "listed_count": 17,
+          "media_count": 1688,
+          "tweet_count": 7613
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-02T03:55:19.000Z",
+        "description": "薔薇の人、ANTIFA.COMMUNIST\n基本的に夜は毎日新宿東南口にいる\n1993年9月11日生 \n日本共産党党員\n路上活動カンパ\n三菱UFJ銀行 姫路支店 普通口座0376723\nナベクラ マサユキ",
+        "id": "1951491913997340672",
+        "name": "なべくら雅之🌹 （フォローしなはれ）",
+        "pinned_tweet_id": "2023372026078257376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952069233174798337/xs3fFo2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 887,
+          "like_count": 29247,
+          "listed_count": 351,
+          "media_count": 1297,
+          "tweet_count": 14431
+        },
+        "username": "nabekuramasax",
+        "verified": true
+      }
+    ]
+  }
+}

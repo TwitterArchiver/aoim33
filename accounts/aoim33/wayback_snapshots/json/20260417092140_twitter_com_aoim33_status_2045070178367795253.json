@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2043703929129844737"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2045070178367795253",
+    "created_at": "2026-04-17T09:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045070178367795253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891407124821131264",
+          "start": 3,
+          "username": "tzug_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045070178367795253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043703929863847996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tzug_c: [需要調査]\n音ゲー大学(的な、機別種別問わない音ゲーマーが各学部に入学する架空の学校)あったら入りたいよーって方いますか？\n・音ゲーに因んだ学部学科編成\n・承認済有識者が(質は問わない)講義資料を投稿可\n・国信大の音ゲー版のイメージ\n・Discordメ…"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-04-20T14:52:41.000Z",
+        "id": "2043703929129844737",
+        "options": [
+          {
+            "label": "入りたいよ〜",
+            "position": 1,
+            "votes": 15
+          },
+          {
+            "label": "入らない",
+            "position": 2,
+            "votes": 8
+          },
+          {
+            "label": "興味ありあり",
+            "position": 3,
+            "votes": 38
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2043703929129844737"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2045070178367795253",
+        "created_at": "2026-04-17T09:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045070178367795253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891407124821131264",
+              "start": 3,
+              "username": "tzug_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045070178367795253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043703929863847996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tzug_c: [需要調査]\n音ゲー大学(的な、機別種別問わない音ゲーマーが各学部に入学する架空の学校)あったら入りたいよーって方いますか？\n・音ゲーに因んだ学部学科編成\n・承認済有識者が(質は問わない)講義資料を投稿可\n・国信大の音ゲー版のイメージ\n・Discordメ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2043703929129844737"
+          ]
+        },
+        "author_id": "1891407124821131264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2043703929863847996",
+        "created_at": "2026-04-13T14:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043703929863847996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043703929863847996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4541,
+          "like_count": 65,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "[需要調査]\n音ゲー大学(的な、機別種別問わない音ゲーマーが各学部に入学する架空の学校)あったら入りたいよーって方いますか？\n・音ゲーに因んだ学部学科編成\n・承認済有識者が(質は問わない)講義資料を投稿可\n・国信大の音ゲー版のイメージ\n・Discordメイン(公式サイトも用意)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2044289664308445259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4860,
+          "following_count": 2795,
+          "like_count": 43963,
+          "listed_count": 19,
+          "media_count": 2445,
+          "tweet_count": 10831
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T08:39:44.000Z",
+        "description": "#Arcaea共通テスト(ACT) 主催\n音楽ゲーム学園\n♂ 18↓ IE\n\n## Status\n- #Arcaea: ⭐️⭐️ \n- 学PLv.57\n\n## Stack\n- Music: 邦ロック / EDM / 国民楽派\n- Other: AtCoder / 読書 / DTM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 0,
+                "tag": "Arcaea共通テスト"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "Arcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Akino1729",
+                "end": 23,
+                "expanded_url": "https://github.com/Akino1729",
+                "start": 0,
+                "url": "https://t.co/UsVeWX3DxC"
+              }
+            ]
+          }
+        },
+        "id": "1891407124821131264",
+        "location": "日常鍵:@Reg_keys",
+        "name": "tzug",
+        "pinned_tweet_id": "2043703929863847996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036811336345329664/DrzboKVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 383,
+          "like_count": 8510,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/UsVeWX3DxC",
+        "username": "tzug_c",
+        "verified": false
+      }
+    ]
+  }
+}

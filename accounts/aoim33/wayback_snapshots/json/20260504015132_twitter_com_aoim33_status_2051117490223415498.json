@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2051117490223415498",
+    "created_at": "2026-05-04T01:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051117490223415498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BiYebi1/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/BiYebi1/status/2050950003393548566",
+          "start": 6,
+          "url": "https://t.co/oc1Zy7GSHs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051117490223415498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050950003393548566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赚钱新思路 https://t.co/oc1Zy7GSHs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2051117490223415498",
+        "created_at": "2026-05-04T01:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051117490223415498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BiYebi1/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/BiYebi1/status/2050950003393548566",
+              "start": 6,
+              "url": "https://t.co/oc1Zy7GSHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051117490223415498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050950003393548566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赚钱新思路 https://t.co/oc1Zy7GSHs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489611149704192005",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2050950003393548566",
+        "created_at": "2026-05-03T14:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050950003393548566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050950003393548566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我有个学心理学的朋友，在二手平台上专门低价收购“分手遗物”。\n\n那些失恋的女孩，为了发泄情绪，会把前男友送的上万块的项链、包包，以几百块的骨折价挂出来。\n\n朋友不仅买东西，还会花几个小时在后台听这些女孩哭诉，给她们提供极其专业的情绪疏导。\n\n女孩们觉得遇到了知音，往往会把东西直接白送给他，甚至还倒贴邮费。\n\n拿到这些奢侈品后，朋友转手就以市场价卖给二手回收店，每个月能净赚好几万。\n\n他从来不觉得自己是在骗人。\n\n他认为自己是用高超的心理咨询技巧，换取了这些商品的溢价。\n\n在绝对的理性面前，你的心碎、崩溃和眼泪，都只是一种可以被精准定价并低价抄底的资产。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 17859,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 100,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我有个学心理学的朋友，在二手平台上专门低价收购“分手遗物”。\n\n那些失恋的女孩，为了发泄情绪，会把前男友送的上万块的项链、包包，以几百块的骨折价挂出来。\n\n朋友不仅买东西，还会花几个小时在后台听这些女孩哭诉，给她们提供极其专业的情绪疏导。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / Education & Psychology / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 127,
+                "start": 120,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5101,
+          "following_count": 2866,
+          "like_count": 46964,
+          "listed_count": 19,
+          "media_count": 2656,
+          "tweet_count": 11584
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "欢迎来到我的精神世界",
+        "id": "1489611149704192005",
+        "name": "体面的人不解释",
+        "pinned_tweet_id": "2050602211818783165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997662808113377280/jXJb6SSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29150,
+          "following_count": 243,
+          "like_count": 1487,
+          "listed_count": 51,
+          "media_count": 629,
+          "tweet_count": 1158
+        },
+        "username": "BiYebi1",
+        "verified": true
+      }
+    ]
+  }
+}

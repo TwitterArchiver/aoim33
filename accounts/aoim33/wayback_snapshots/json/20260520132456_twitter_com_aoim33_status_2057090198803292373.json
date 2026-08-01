@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057086183013040128"
+      ],
+      "media_source_tweet_id": [
+        "2057086240567284188"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2057090198803292373",
+    "created_at": "2026-05-20T13:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057090198803292373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1626539044661239810",
+          "start": 3,
+          "username": "RyuSanKaiPou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pdlXPjwoV3",
+          "end": 45,
+          "expanded_url": "https://x.com/RyuSanKaiPou/status/2057086240567284188/photo/1",
+          "media_key": "3_2057086183013040128",
+          "start": 22,
+          "url": "https://t.co/pdlXPjwoV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057090198803292373",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057086240567284188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RyuSanKaiPou: 520 https://t.co/pdlXPjwoV3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057090198803292373].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057090198803292373",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057090198803292373"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2057086183013040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIw8_ArbQAAatBM.jpg",
+        "width": 2388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057086183013040128"
+          ]
+        },
+        "author_id": "1626539044661239810",
+        "conversation_id": "2057086240567284188",
+        "created_at": "2026-05-20T13:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057086240567284188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdlXPjwoV3",
+              "end": 27,
+              "expanded_url": "https://x.com/RyuSanKaiPou/status/2057086240567284188/photo/1",
+              "media_key": "3_2057086183013040128",
+              "start": 4,
+              "url": "https://t.co/pdlXPjwoV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057086240567284188",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "520 https://t.co/pdlXPjwoV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5547,
+          "following_count": 2958,
+          "like_count": 49470,
+          "listed_count": 19,
+          "media_count": 2912,
+          "tweet_count": 12461
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-17T11:08:35.000Z",
+        "description": "↑welcome…＝硫酸解剖/Dimethyl。\nftmですから「彼」で呼んでください！🏳️‍⚧️Use “HE” plz！！\n音ゲー丨法医学丨精神医学丨ヨルシカ丨カゲプロ丨Sakuzyo丨カンザキイオリ丨asd&adhd\n|日本語丨中文丨English | \n無言フォロー失礼。",
+        "id": "1626539044661239810",
+        "location": "Re：unnature",
+        "name": "硫酸解剖",
+        "pinned_tweet_id": "1722657968871952594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046847630827982849/8PcHXrM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 71,
+          "like_count": 901,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 246
+        },
+        "username": "RyuSanKaiPou",
+        "verified": true
+      }
+    ]
+  }
+}

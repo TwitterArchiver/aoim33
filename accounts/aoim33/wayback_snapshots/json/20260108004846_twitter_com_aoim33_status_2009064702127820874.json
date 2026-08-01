@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2009064702127820874",
+    "created_at": "2026-01-08T00:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T01:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009064702127820874"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "Tokyo Haneda",
+          "probability": 0.4236,
+          "start": 54,
+          "type": "Place"
+        },
+        {
+          "end": 85,
+          "normalized_text": "Seoul Incheon",
+          "probability": 0.488,
+          "start": 73,
+          "type": "Place"
+        },
+        {
+          "end": 108,
+          "normalized_text": "Singapore Changi",
+          "probability": 0.4335,
+          "start": 93,
+          "type": "Place"
+        },
+        {
+          "end": 125,
+          "normalized_text": "Doha Hamad",
+          "probability": 0.5079,
+          "start": 116,
+          "type": "Place"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Centra",
+          "probability": 0.7941,
+          "start": 133,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1626294277",
+          "start": 3,
+          "username": "spectatorindex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009064702127820874",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008916539177603519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spectatorindex: World's cleanest airports.\n\n1. 🇯🇵 Tokyo Haneda\n2. 🇰🇷 Seoul Incheon\n3. 🇸🇬 Singapore Changi\n4. 🇶🇦 Doha Hamad\n5. 🇯🇵 Centra…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2009064702127820874",
+        "created_at": "2026-01-08T00:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009064702127820874"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Tokyo Haneda",
+              "probability": 0.4236,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Seoul Incheon",
+              "probability": 0.488,
+              "start": 73,
+              "type": "Place"
+            },
+            {
+              "end": 108,
+              "normalized_text": "Singapore Changi",
+              "probability": 0.4335,
+              "start": 93,
+              "type": "Place"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Doha Hamad",
+              "probability": 0.5079,
+              "start": 116,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Centra",
+              "probability": 0.7941,
+              "start": 133,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1626294277",
+              "start": 3,
+              "username": "spectatorindex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009064702127820874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008916539177603519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spectatorindex: World's cleanest airports.\n\n1. 🇯🇵 Tokyo Haneda\n2. 🇰🇷 Seoul Incheon\n3. 🇸🇬 Singapore Changi\n4. 🇶🇦 Doha Hamad\n5. 🇯🇵 Centra…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626294277",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2008916539177603519",
+        "created_at": "2026-01-07T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008916539177603519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008916539177603519",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 296130,
+          "like_count": 4011,
+          "quote_count": 103,
+          "reply_count": 106,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "World's cleanest airports.\n\n1. 🇯🇵 Tokyo Haneda\n2. 🇰🇷 Seoul Incheon\n3. 🇸🇬 Singapore Changi\n4. 🇶🇦 Doha Hamad\n5. 🇯🇵 Centrair Nagoya\n6. 🇯🇵 Tokyo Narita\n7. 🇯🇵 Kansai\n8. 🇭🇰 Hong Kong\n9. 🇹🇼 Taiwan Taoyuan\n10. 🇨🇭 Zurich\n\n(SkyTrax)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 2133,
+          "like_count": 26200,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 5725
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-27T20:42:27.000Z",
+        "description": "News, media and data from around the globe. Covering politics, economics, science, tech and sport.",
+        "id": "1626294277",
+        "location": "Global",
+        "name": "The Spectator Index",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100384,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 18125,
+          "media_count": 2870,
+          "tweet_count": 36159
+        },
+        "username": "spectatorindex",
+        "verified": true
+      }
+    ]
+  }
+}

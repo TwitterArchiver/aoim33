@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2037183709565379029",
+    "created_at": "2026-03-26T15:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037188537825845704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037188537825845704",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037183709565379029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao 还有玄关大战环节"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2037183709565379029",
+        "created_at": "2026-03-26T15:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037188537825845704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037188537825845704",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037183709565379029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao 还有玄关大战环节"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558317849508122629",
+        "conversation_id": "2037183709565379029",
+        "created_at": "2026-03-26T15:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037183709565379029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yosugano_sora/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/yosugano_sora/status/2037104297947914590",
+              "start": 42,
+              "url": "https://t.co/LcHLj6dl94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037183709565379029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 879,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037104297947914590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧日啊？真的假的，抽象啊卧槽，家门口做爱那一集我真的卧槽，太顶了😭😭😭，我要去打卡 https://t.co/LcHLj6dl94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / Photography / 沪浙可飞 / Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 120,
+                "start": 113,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 2720,
+          "like_count": 40843,
+          "listed_count": 20,
+          "media_count": 2248,
+          "tweet_count": 9847
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer\nNVIDIA YES \n深度学习 \n\nTG学习群：https://t.co/Ha8LFayYSN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+sol4udt0WPw5M…",
+                "end": 61,
+                "expanded_url": "https://t.me/+sol4udt0WPw5MWE1",
+                "start": 38,
+                "url": "https://t.co/Ha8LFayYSN"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025112186520211456/kfP9BPWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46589,
+          "following_count": 1221,
+          "like_count": 9120,
+          "listed_count": 239,
+          "media_count": 1419,
+          "tweet_count": 12794
+        },
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

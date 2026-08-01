@@ -1,0 +1,690 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Nexon",
+          "id": "1034498142467588096",
+          "name": "Nexon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nexon",
+          "id": "1034498142467588096",
+          "name": "Nexon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1978729825553559998",
+    "created_at": "2025-10-16T07:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978729825553559998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "NEXON",
+          "probability": 0.6545,
+          "start": 18,
+          "type": "Organization"
+        },
+        {
+          "end": 27,
+          "normalized_text": "韓国企業",
+          "probability": 0.3067,
+          "start": 24,
+          "type": "Organization"
+        },
+        {
+          "end": 61,
+          "normalized_text": "NEXON Games",
+          "probability": 0.691,
+          "start": 51,
+          "type": "Organization"
+        },
+        {
+          "end": 77,
+          "normalized_text": "NEXON Korea",
+          "probability": 0.7097,
+          "start": 67,
+          "type": "Organization"
+        },
+        {
+          "end": 86,
+          "normalized_text": "ネクソン",
+          "probability": 0.5808,
+          "start": 83,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1438389777250668544",
+          "start": 3,
+          "username": "TwitteeJapan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978729825553559998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 824
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978450437406617984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwitteeJapan: NEXONは韓国企業って言おうとして調べてみたらブルアカ制作してるNEXON Gamesの親会社のNEXON Koreaの親会社のネクソンは日本企業らしくて顔ない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Nexon",
+              "id": "1034498142467588096",
+              "name": "Nexon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nexon",
+              "id": "1034498142467588096",
+              "name": "Nexon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1978729825553559998",
+        "created_at": "2025-10-16T07:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978729825553559998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "NEXON",
+              "probability": 0.6545,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 27,
+              "normalized_text": "韓国企業",
+              "probability": 0.3067,
+              "start": 24,
+              "type": "Organization"
+            },
+            {
+              "end": 61,
+              "normalized_text": "NEXON Games",
+              "probability": 0.691,
+              "start": 51,
+              "type": "Organization"
+            },
+            {
+              "end": 77,
+              "normalized_text": "NEXON Korea",
+              "probability": 0.7097,
+              "start": 67,
+              "type": "Organization"
+            },
+            {
+              "end": 86,
+              "normalized_text": "ネクソン",
+              "probability": 0.5808,
+              "start": 83,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1438389777250668544",
+              "start": 3,
+              "username": "TwitteeJapan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978729825553559998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 824
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978450437406617984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwitteeJapan: NEXONは韓国企業って言おうとして調べてみたらブルアカ制作してるNEXON Gamesの親会社のNEXON Koreaの親会社のネクソンは日本企業らしくて顔ない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438389777250668544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Nexon",
+              "id": "1034498142467588096",
+              "name": "Nexon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nexon",
+              "id": "1034498142467588096",
+              "name": "Nexon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1978450437406617984",
+        "created_at": "2025-10-15T13:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T14:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978450437406617984"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "NEXON",
+              "probability": 0.6894,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 9,
+              "normalized_text": "韓国企業",
+              "probability": 0.3105,
+              "start": 6,
+              "type": "Organization"
+            },
+            {
+              "end": 43,
+              "normalized_text": "NEXON Games",
+              "probability": 0.6771,
+              "start": 33,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "NEXON Korea",
+              "probability": 0.6993,
+              "start": 49,
+              "type": "Organization"
+            },
+            {
+              "end": 68,
+              "normalized_text": "ネクソン",
+              "probability": 0.5746,
+              "start": 65,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/monis__swgr_ez…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/monis__swgr_ez/status/1978449449383854142",
+              "start": 82,
+              "url": "https://t.co/F1wx7LYqXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978450437406617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 798,
+          "impression_count": 678467,
+          "like_count": 6637,
+          "quote_count": 83,
+          "reply_count": 34,
+          "retweet_count": 824
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978449449383854142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "NEXONは韓国企業って言おうとして調べてみたらブルアカ制作してるNEXON Gamesの親会社のNEXON Koreaの親会社のネクソンは日本企業らしくて顔ない https://t.co/F1wx7LYqXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1493,
+          "like_count": 14950,
+          "listed_count": 2,
+          "media_count": 720,
+          "tweet_count": 3608
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-16T06:30:54.000Z",
+        "description": "Mein Name bedeutet \"Zerstörerschiff\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/search?src=typ…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/search?src=typed_query&q=from%3AZ3O5RzOIH67srgJ",
+                "start": 0,
+                "url": "https://t.co/hMB1iFht4X"
+              }
+            ]
+          }
+        },
+        "id": "1438389777250668544",
+        "location": "South Ryukyu Islands (UTC+8)",
+        "name": "つぇるしゅてーらー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856699278573613056/je8R6QqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8905,
+          "following_count": 3343,
+          "like_count": 542679,
+          "listed_count": 43,
+          "media_count": 4738,
+          "tweet_count": 46504
+        },
+        "url": "https://t.co/hMB1iFht4X",
+        "username": "TwitteeJapan",
+        "verified": false
+      }
+    ]
+  }
+}

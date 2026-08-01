@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2076714112772694363",
+    "created_at": "2026-07-14T02:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076854536954880369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613462516163842050",
+          "start": 0,
+          "username": "sayaalauun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076854536954880369",
+    "in_reply_to_user_id": "1613462516163842050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076717696327250255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayaalauun 主讲英语和日语的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2076714112772694363",
+        "created_at": "2026-07-14T02:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076854536954880369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613462516163842050",
+              "start": 0,
+              "username": "sayaalauun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076854536954880369",
+        "in_reply_to_user_id": "1613462516163842050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076717696327250255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayaalauun 主讲英语和日语的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613462516163842050",
+        "conversation_id": "2076714112772694363",
+        "created_at": "2026-07-13T17:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076717696327250255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076717696327250255",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076714112772694363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 课堂带我一个（不是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6460,
+          "following_count": 3117,
+          "like_count": 55828,
+          "listed_count": 22,
+          "media_count": 3556,
+          "tweet_count": 14510
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-12T09:07:08.000Z",
+        "description": "✨ | NO_PRON | 19y | zh/en/jp | WTFPL | fo-back yes! 🤗\n游走互联网的赛博半凛 想要有人陪的可回收垃圾w\n@Rinkomo233 legacy acc. | #サカナクション fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "サカナクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Rinkomo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dashin_kita",
+                "end": 23,
+                "expanded_url": "http://t.me/dashin_kita",
+                "start": 0,
+                "url": "https://t.co/cqQHRFIGpL"
+              }
+            ]
+          }
+        },
+        "id": "1613462516163842050",
+        "location": "Loading...",
+        "name": "萌田 リン",
+        "pinned_tweet_id": "2076017239338496166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053985971390332929/VtJyMoRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 684,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/cqQHRFIGpL",
+        "username": "sayaalauun",
+        "verified": false
+      }
+    ]
+  }
+}

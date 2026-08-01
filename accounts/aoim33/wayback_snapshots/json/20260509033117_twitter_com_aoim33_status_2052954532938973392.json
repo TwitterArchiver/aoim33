@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052954520670687232"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400493319017222145",
+          "name": "Chain restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407432451467538432",
+          "name": "Family restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407775051349299200",
+          "name": "Saizeriya"
+        }
+      }
+    ],
+    "conversation_id": "2052954532938973392",
+    "created_at": "2026-05-09T03:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052954532938973392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yph2DXN9fb",
+          "end": 28,
+          "expanded_url": "https://x.com/aoim33/status/2052954532938973392/photo/1",
+          "media_key": "3_2052954520670687232",
+          "start": 5,
+          "url": "https://t.co/Yph2DXN9fb"
+        },
+        {
+          "display_url": "x.com/xiaoniao2020/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/xiaoniao2020/status/2052720215365238856",
+          "start": 29,
+          "url": "https://t.co/utdtnkQpbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052954532938973392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052720215365238856",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "不如这个 https://t.co/Yph2DXN9fb https://t.co/utdtnkQpbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052954520670687232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2PQnCb0AAONUQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052720203847581696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy6Jk2aQAA0Fq9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052954520670687232"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "2052954532938973392",
+        "created_at": "2026-05-09T03:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052954532938973392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yph2DXN9fb",
+              "end": 28,
+              "expanded_url": "https://x.com/aoim33/status/2052954532938973392/photo/1",
+              "media_key": "3_2052954520670687232",
+              "start": 5,
+              "url": "https://t.co/Yph2DXN9fb"
+            },
+            {
+              "display_url": "x.com/xiaoniao2020/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/xiaoniao2020/status/2052720215365238856",
+              "start": 29,
+              "url": "https://t.co/utdtnkQpbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052954532938973392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052720215365238856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "不如这个 https://t.co/Yph2DXN9fb https://t.co/utdtnkQpbu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052720203847581696"
+          ]
+        },
+        "author_id": "1265511784695377922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "2052720215365238856",
+        "created_at": "2026-05-08T12:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052720215365238856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xr8fIAbXco",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaoniao2020/status/2052720215365238856/photo/1",
+              "media_key": "3_2052720203847581696",
+              "start": 22,
+              "url": "https://t.co/Xr8fIAbXco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052720215365238856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 46449,
+          "like_count": 710,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "西安にもサイゼリヤあるんだ！と思ったのに… https://t.co/Xr8fIAbXco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2052301832165450210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5222,
+          "following_count": 2887,
+          "like_count": 47789,
+          "listed_count": 19,
+          "media_count": 2709,
+          "tweet_count": 11819
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-27T05:15:13.000Z",
+        "description": "陕西省出身中国人夫と1歳の子供との共同生活垂れ流しアカウントでございます😇家庭で作る中国料理、🇨🇳🇯🇵文化の違い、吉沢亮✨について呟きます（特定の政党は支持しておりません🤚）日本在住・夢見ぬアラサーです。 無言フォロー失礼します。知能低めのADHDですが、宜しくお願いします。我学习汉语5年了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/ja/q/fbbeceb6-…",
+                "end": 23,
+                "expanded_url": "https://peing.net/ja/q/fbbeceb6-b882-4810-9486-356ea9dad28e",
+                "start": 0,
+                "url": "https://t.co/9wV3Wuwxd2"
+              }
+            ]
+          }
+        },
+        "id": "1265511784695377922",
+        "name": "小鸟",
+        "pinned_tweet_id": "1300691051032715264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1269851282589642752/asClMWjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 393,
+          "like_count": 37990,
+          "listed_count": 12,
+          "media_count": 1118,
+          "tweet_count": 10549
+        },
+        "url": "https://t.co/9wV3Wuwxd2",
+        "username": "xiaoniao2020",
+        "verified": false
+      }
+    ]
+  }
+}

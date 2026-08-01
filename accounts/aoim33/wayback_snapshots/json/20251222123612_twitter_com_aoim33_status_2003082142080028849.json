@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2003082142080028849",
+    "created_at": "2025-12-22T12:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T13:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003082142080028849"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "X Originals",
+          "probability": 0.312,
+          "start": 33,
+          "type": "Organization"
+        },
+        {
+          "end": 62,
+          "normalized_text": "ホリプロボーカルスカウトキャラバン",
+          "probability": 0.6118,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7080152",
+          "start": 3,
+          "username": "XcorpJP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003082142080028849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003057943869104505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XcorpJP: 本日決選大会！\n\n10月から配信していたX Originalsの「ホリプロボーカルスカウトキャラバン」が本日ついにフィナーレ🎤\n果たしてデビューを掴み取る候補者は誰か！\n\n感動のフィナーレをポストで応援しながら見届けよう⚡️\nhttps://t.co/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2003082142080028849",
+        "created_at": "2025-12-22T12:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003082142080028849"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "X Originals",
+              "probability": 0.312,
+              "start": 33,
+              "type": "Organization"
+            },
+            {
+              "end": 62,
+              "normalized_text": "ホリプロボーカルスカウトキャラバン",
+              "probability": 0.6118,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7080152",
+              "start": 3,
+              "username": "XcorpJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003082142080028849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003057943869104505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XcorpJP: 本日決選大会！\n\n10月から配信していたX Originalsの「ホリプロボーカルスカウトキャラバン」が本日ついにフィナーレ🎤\n果たしてデビューを掴み取る候補者は誰か！\n\n感動のフィナーレをポストで応援しながら見届けよう⚡️\nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7080152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2003057943869104505",
+        "created_at": "2025-12-22T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003057943869104505"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "X Originals",
+              "probability": 0.3289,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 49,
+              "normalized_text": "ホリプロボーカルスカウトキャラバン",
+              "probability": 0.6244,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "✨12/22(月) 20:00からの決選大会で新たなグループが誕生✨ ホリプロ×エイベックスが共催する 男性ボーカル特化の新オーディション「Horipro Vocal Scout Caravan」を追うドキュメンタリー番組をX Originalsとして配信🎤",
+              "display_url": "x.com/i/events/19145…",
+              "end": 136,
+              "expanded_url": "https://x.com/i/events/1914593913903493120",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2002052902257614848/CQsFp75O?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002052902257614848/CQsFp75O?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 113,
+              "status": 200,
+              "title": "12/22(月) 20:00~ 決選大会！ ホリプロ ボーカルスカウトキャラバン",
+              "unwound_url": "https://twitter.com/i/events/1914593913903493120",
+              "url": "https://t.co/F6FWnbpqVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003057943869104505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7184,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "本日決選大会！\n\n10月から配信していたX Originalsの「ホリプロボーカルスカウトキャラバン」が本日ついにフィナーレ🎤\n果たしてデビューを掴み取る候補者は誰か！\n\n感動のフィナーレをポストで応援しながら見届けよう⚡️\nhttps://t.co/F6FWnbpqVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / SUPERNOVA team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 145,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 2057,
+          "like_count": 22907,
+          "listed_count": 4,
+          "media_count": 1137,
+          "tweet_count": 5185
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-26T01:54:35.000Z",
+        "description": "Xの日本公式アカウントです。",
+        "id": "7080152",
+        "name": "Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938979574983118848/o1ZhHEk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951428,
+          "following_count": 12,
+          "like_count": 1098,
+          "listed_count": 13963,
+          "media_count": 1223,
+          "tweet_count": 13198
+        },
+        "username": "XcorpJP",
+        "verified": true
+      }
+    ]
+  }
+}

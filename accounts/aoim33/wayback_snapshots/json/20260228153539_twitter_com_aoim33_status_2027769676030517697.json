@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2027769676030517697",
+    "created_at": "2026-02-28T15:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027769676030517697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778850117933838337",
+          "start": 7,
+          "username": "TBduyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rwayne/status/…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/rwayne/status/2027761587654955451",
+          "start": 93,
+          "url": "https://t.co/hEI7W00V4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027769676030517697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027761587654955451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许我可以让 @TBduyu 尝试一下学习如何用 Google Gemini 辅助他进行英语学习了\n\n或许我可以为此专门写一系列 article，关于如何用 AI 辅助英语学习这一类？ https://t.co/hEI7W00V4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2027761416057561088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQOQ61aoAA-6xN.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2027761444478193675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQOSktbEAswnw8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2027769676030517697",
+        "created_at": "2026-02-28T15:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027769676030517697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778850117933838337",
+              "start": 7,
+              "username": "TBduyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rwayne/status/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/rwayne/status/2027761587654955451",
+              "start": 93,
+              "url": "https://t.co/hEI7W00V4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027769676030517697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027761587654955451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许我可以让 @TBduyu 尝试一下学习如何用 Google Gemini 辅助他进行英语学习了\n\n或许我可以为此专门写一系列 article，关于如何用 AI 辅助英语学习这一类？ https://t.co/hEI7W00V4h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027761416057561088",
+            "3_2027761444478193675"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2027761587654955451",
+        "created_at": "2026-02-28T15:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027761587654955451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWxvANNJvk",
+              "end": 83,
+              "expanded_url": "https://x.com/rwayne/status/2027761587654955451/photo/1",
+              "media_key": "3_2027761416057561088",
+              "start": 60,
+              "url": "https://t.co/CWxvANNJvk"
+            },
+            {
+              "display_url": "pic.x.com/CWxvANNJvk",
+              "end": 83,
+              "expanded_url": "https://x.com/rwayne/status/2027761587654955451/photo/1",
+              "media_key": "3_2027761444478193675",
+              "start": 60,
+              "url": "https://t.co/CWxvANNJvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027761587654955451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己三千多个学生里面\n\n唯一一个不知道在哪刷到了我的X\n\n然后开始自己琢磨openclaw辅助学习\n\n早晚要成才的… https://t.co/CWxvANNJvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 / 上海地铁 上海铁路局 杭州地铁 bot / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3783,
+          "following_count": 2561,
+          "like_count": 35880,
+          "listed_count": 19,
+          "media_count": 1801,
+          "tweet_count": 8107
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，喜欢kobaryo、かめりあ、USAO等TANO*C曲师\nArcaea ptt 12.61//maimai 13.5k//音游淡坑中，总有一天会回来的\n  目前：在学英语，在学画画（画毛茸茸",
+        "id": "1778850117933838337",
+        "name": "tabiame",
+        "pinned_tweet_id": "2020481709247226330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 1605,
+          "like_count": 8668,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 668
+        },
+        "username": "TBduyu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️医学&经济学PhD｜📈美股投资｜💡跨界思考爱好者",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland的思考日记",
+        "pinned_tweet_id": "2027720734211248573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13233,
+          "following_count": 558,
+          "like_count": 4454,
+          "listed_count": 79,
+          "media_count": 353,
+          "tweet_count": 3081
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

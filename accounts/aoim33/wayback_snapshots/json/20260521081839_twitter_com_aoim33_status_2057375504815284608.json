@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2057375504815284608",
+    "created_at": "2026-05-21T08:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057375504815284608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fishchang1024/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/fishchang1024/status/2057146614813458518",
+          "start": 47,
+          "url": "https://t.co/3ZVJMpjtj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057375504815284608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057146614813458518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "Visa 的 120% 预授权 threshold 发力了\n\n以及\n英国是用欧元做本币的吗？ https://t.co/3ZVJMpjtj7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2057375504815284608",
+        "created_at": "2026-05-21T08:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057375504815284608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fishchang1024/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/fishchang1024/status/2057146614813458518",
+              "start": 47,
+              "url": "https://t.co/3ZVJMpjtj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057375504815284608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057146614813458518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "Visa 的 120% 预授权 threshold 发力了\n\n以及\n英国是用欧元做本币的吗？ https://t.co/3ZVJMpjtj7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840777737499508736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2057146614813458518",
+        "created_at": "2026-05-20T17:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057146614813458518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fishchang1024/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/fishchang1024/status/2057138103501090943",
+              "start": 169,
+              "url": "https://t.co/noPAnbM4Op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057146614813458518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "搞了张英国 Giffgaff 手机卡，激活很顺利，但充值踩了个几乎没人提过的坑。\n\n国内招行 Visa 信用卡，在 Giffgaff 上支付基本没戏。美国节点、英国节点都试了，全部失败。提前准备一张支持外币消费的虚拟卡（比如币安 SafePal 的 Fiat24）。\n\n但有了能用的卡也不一定顺利——真正坑的是汇率陷阱：Giffgaff 充值是 10 欧元，我卡上充了 10 美元。10 美元 ≈ 8 欧元，根本不够扣款，支付直接被拒。把余额充到 30 美元再试，秒过。连续成功充了 2 张卡。\n\n激活简单（官网输码→邮箱验证→设密码），套餐选 Pay as you go，国内 Visa 卡不行准备 U 卡，余额要够覆盖汇率差（10 欧 ≥ 14 美元），VPN 节点不影响支付。充 10 送 5，到账 15 欧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 10645,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057138103501090943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搞了张英国 Giffgaff 手机卡，激活很顺利，但充值踩了个几乎没人提过的坑。\n\n国内招行 Visa 信用卡，在 Giffgaff 上支付基本没戏。美国节点、英国节点都试了，全部失败。提前准备一张支持外币消费的虚拟卡（比如币安 SafePal 的 Fiat24）。\n\n但有了能用的卡也不一定顺利——真正坑的是汇率陷阱：Giffgaff https://t.co/noPAnbM4Op"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5551,
+          "following_count": 2958,
+          "like_count": 49593,
+          "listed_count": 20,
+          "media_count": 2921,
+          "tweet_count": 12497
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T15:36:57.000Z",
+        "description": "",
+        "id": "1840777737499508736",
+        "name": "fishchang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840778115414724608/RlSVybWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 346,
+          "like_count": 1693,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 158
+        },
+        "username": "fishchang1024",
+        "verified": true
+      }
+    ]
+  }
+}

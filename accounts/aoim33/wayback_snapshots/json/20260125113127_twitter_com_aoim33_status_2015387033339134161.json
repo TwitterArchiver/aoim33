@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2015387033339134161",
+    "created_at": "2026-01-25T11:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015387033339134161"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "花凛的玩卡理论"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1369824423952273410",
+          "start": 3,
+          "username": "Sena_n_Karin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015387033339134161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015376801724522584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sena_n_Karin: #花凛的玩卡理论\n\n讲清楚一下 MTR 的 Visa/MC 扣费机制：进站时并不会实时向发卡行做授权，只要卡支持 transit mode，就会直接放行。真正的扣款是在“第二天批量扣费”，如果失败，系统会“每天重试一次”，直到成功或放弃。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2015387033339134161",
+        "created_at": "2026-01-25T11:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015387033339134161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "花凛的玩卡理论"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1369824423952273410",
+              "start": 3,
+              "username": "Sena_n_Karin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015387033339134161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015376801724522584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sena_n_Karin: #花凛的玩卡理论\n\n讲清楚一下 MTR 的 Visa/MC 扣费机制：进站时并不会实时向发卡行做授权，只要卡支持 transit mode，就会直接放行。真正的扣款是在“第二天批量扣费”，如果失败，系统会“每天重试一次”，直到成功或放弃。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369824423952273410",
+        "conversation_id": "2015376801724522584",
+        "created_at": "2026-01-25T10:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015376801724522584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "花凛的玩卡理论"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/__Crazy_Kid__/…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/__Crazy_Kid__/status/2014929944347082808",
+              "start": 153,
+              "url": "https://t.co/rS6D178ckj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015376801724522584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "花凛的玩卡理论"
+              }
+            ]
+          },
+          "text": "#花凛的玩卡理论\n\n讲清楚一下 MTR 的 Visa/MC 扣费机制：进站时并不会实时向发卡行做授权，只要卡支持 transit mode，就会直接放行。真正的扣款是在“第二天批量扣费”，如果失败，系统会“每天重试一次”，直到成功或放弃。\n\n正常用户偶尔卡锁住也能进站，就是因为这个先放行、后清算的模型。\n\n而闲鱼卖家这次给的所谓“一日通”，其实不是票，而是一种可以无限生成虚拟卡号的加密货币预付卡。进站能刷，但清算时必然失败，因为这些卡根本不会准备余额。\n\n结果就是：卖家零成本获利 → MTR 承担损失 → 买家以为捡便宜。\n\n这不是技巧，这是在利用支付体系信任模型搞灰产。继续下去只会让 MTR 和卡组织加强风控，最后受影响的是所有正常用户。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929944347082808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#花凛的玩卡理论\n\n讲清楚一下 MTR 的 Visa/MC 扣费机制：进站时并不会实时向发卡行做授权，只要卡支持 transit mode，就会直接放行。真正的扣款是在“第二天批量扣费”，如果失败，系统会“每天重试一次”，直到成功或放弃。\n\n正常用户偶尔卡锁住也能进站，就是因为这个先放行、后清算的模型。 https://t.co/rS6D178ckj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 2334,
+          "like_count": 30020,
+          "listed_count": 10,
+          "media_count": 1488,
+          "tweet_count": 6609
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-11T01:36:18.000Z",
+        "description": "#Debian 爱好者，平时经常忙项目的样子。每天会写点自己开心的东西什么的，以及偶尔搞搞羞羞的东西吧。喜欢发表自己的一些看法。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Debian"
+              }
+            ]
+          }
+        },
+        "id": "1369824423952273410",
+        "location": "幻想仙境",
+        "name": "濑名 歌铃 | Karin Sena",
+        "pinned_tweet_id": "1786428148835586537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588784113816719360/GWf-I69K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 369,
+          "like_count": 487,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 2265
+        },
+        "username": "Sena_n_Karin",
+        "verified": true
+      }
+    ]
+  }
+}

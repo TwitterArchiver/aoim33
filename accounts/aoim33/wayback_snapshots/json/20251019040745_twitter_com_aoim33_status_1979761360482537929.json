@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1979761138452623360"
+      ],
+      "media_source_tweet_id": [
+        "1979761311560143217"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146505",
+          "name": "Southern All Stars"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146505",
+          "name": "Southern All Stars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146505",
+          "name": "Southern All Stars"
+        }
+      }
+    ],
+    "conversation_id": "1979761360482537929",
+    "created_at": "2025-10-19T04:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979761360482537929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "日本海",
+          "probability": 0.5673,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 82,
+          "normalized_text": "サザンオールスターズ",
+          "probability": 0.6942,
+          "start": 73,
+          "type": "Organization"
+        },
+        {
+          "end": 87,
+          "normalized_text": "湘南",
+          "probability": 0.3782,
+          "start": 86,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2381999474",
+          "start": 3,
+          "username": "ayumu_matsuyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TDtgXQptQG",
+          "end": 123,
+          "expanded_url": "https://x.com/ayumu_matsuyama/status/1979761311560143217/video/1",
+          "media_key": "13_1979761138452623360",
+          "start": 100,
+          "url": "https://t.co/TDtgXQptQG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979761360482537929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979761311560143217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayumu_matsuyama: 日本海。私の原点。鉛色の空、岩を砕く荒波。厳しさの象徴のような海です。このような海を見て育った反動としてサザンオールスターズに憧れ湘南を目指したのでしょう。 https://t.co/TDtgXQptQG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21131,
+        "height": 2160,
+        "media_key": "13_1979761138452623360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979761138452623360/img/2Ln7seSB8RzVoG-S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979761138452623360/pl/ZIDpLkLkA7KGYVrM.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979761138452623360/vid/avc1/1280x720/qdoIYqwTYAuS4FSD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979761138452623360/vid/avc1/640x360/4LKwT3m0xzyqckeT.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979761138452623360/vid/avc1/3840x2160/bz2G8NizQTk4I8sO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979761138452623360/vid/avc1/1920x1080/cAlDARopsRs4ntuX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979761138452623360/vid/avc1/480x270/FgCW17sJQuEX4UrA.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979761138452623360"
+          ],
+          "media_source_tweet_id": [
+            "1979761311560143217"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146505",
+              "name": "Southern All Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146505",
+              "name": "Southern All Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146505",
+              "name": "Southern All Stars"
+            }
+          }
+        ],
+        "conversation_id": "1979761360482537929",
+        "created_at": "2025-10-19T04:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979761360482537929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "日本海",
+              "probability": 0.5673,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "サザンオールスターズ",
+              "probability": 0.6942,
+              "start": 73,
+              "type": "Organization"
+            },
+            {
+              "end": 87,
+              "normalized_text": "湘南",
+              "probability": 0.3782,
+              "start": 86,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2381999474",
+              "start": 3,
+              "username": "ayumu_matsuyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDtgXQptQG",
+              "end": 123,
+              "expanded_url": "https://x.com/ayumu_matsuyama/status/1979761311560143217/video/1",
+              "media_key": "13_1979761138452623360",
+              "start": 100,
+              "url": "https://t.co/TDtgXQptQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979761360482537929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979761311560143217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayumu_matsuyama: 日本海。私の原点。鉛色の空、岩を砕く荒波。厳しさの象徴のような海です。このような海を見て育った反動としてサザンオールスターズに憧れ湘南を目指したのでしょう。 https://t.co/TDtgXQptQG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979761138452623360"
+          ]
+        },
+        "author_id": "2381999474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146505",
+              "name": "Southern All Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146505",
+              "name": "Southern All Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146505",
+              "name": "Southern All Stars"
+            }
+          }
+        ],
+        "conversation_id": "1979761311560143217",
+        "created_at": "2025-10-19T04:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979761311560143217"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "日本海",
+              "probability": 0.5332,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 61,
+              "normalized_text": "サザンオールスターズ",
+              "probability": 0.69,
+              "start": 52,
+              "type": "Organization"
+            },
+            {
+              "end": 66,
+              "normalized_text": "湘南",
+              "probability": 0.3674,
+              "start": 65,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDtgXQptQG",
+              "end": 102,
+              "expanded_url": "https://x.com/ayumu_matsuyama/status/1979761311560143217/video/1",
+              "media_key": "13_1979761138452623360",
+              "start": 79,
+              "url": "https://t.co/TDtgXQptQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979761311560143217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日本海。私の原点。鉛色の空、岩を砕く荒波。厳しさの象徴のような海です。このような海を見て育った反動としてサザンオールスターズに憧れ湘南を目指したのでしょう。 https://t.co/TDtgXQptQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1539,
+          "like_count": 15555,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 3737
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-10T11:29:25.000Z",
+        "description": "X日本法人（X Corp. Japan株式会社）代表取締役 / Representative Director, X Corp. Japan K. K. / Hiker & Surfer, Karaoke singer, graduated from the university of Tokyo, 石川県小松市出身",
+        "id": "2381999474",
+        "location": "Tokyo",
+        "name": "Ayumu Matsuyama 松山歩",
+        "pinned_tweet_id": "1907050775483719774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1213976120074235904/pHD-NPzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 933,
+          "like_count": 16246,
+          "listed_count": 108,
+          "media_count": 795,
+          "tweet_count": 6260
+        },
+        "username": "ayumu_matsuyama",
+        "verified": true
+      }
+    ]
+  }
+}

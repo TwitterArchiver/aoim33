@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2010996760890724406",
+    "created_at": "2026-01-13T15:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011095837108289748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "203780502",
+          "start": 0,
+          "username": "allen_aguai"
+        },
+        {
+          "end": 27,
+          "id": "3151608288",
+          "start": 13,
+          "username": "AppSaildotDEV"
+        },
+        {
+          "end": 38,
+          "id": "1782229084342538240",
+          "start": 28,
+          "username": "SafePalCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011095837108289748",
+    "in_reply_to_user_id": "203780502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010996760890724406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allen_aguai @AppSaildotDEV @SafePalCN 这一看就是钓鱼网站啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1858,
+        "media_key": "3_2010996750795030528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-h-49-aQAA4cUo.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010996750799294464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-h-49_bUAAHN1N.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2010996760890724406",
+        "created_at": "2026-01-13T15:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011095837108289748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "203780502",
+              "start": 0,
+              "username": "allen_aguai"
+            },
+            {
+              "end": 27,
+              "id": "3151608288",
+              "start": 13,
+              "username": "AppSaildotDEV"
+            },
+            {
+              "end": 38,
+              "id": "1782229084342538240",
+              "start": 28,
+              "username": "SafePalCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011095837108289748",
+        "in_reply_to_user_id": "203780502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010996760890724406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allen_aguai @AppSaildotDEV @SafePalCN 这一看就是钓鱼网站啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010996750795030528",
+            "3_2010996750799294464"
+          ]
+        },
+        "author_id": "203780502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2010996760890724406",
+        "created_at": "2026-01-13T08:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010996760890724406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "3151608288",
+              "start": 19,
+              "username": "AppSaildotDEV"
+            },
+            {
+              "end": 169,
+              "id": "1782229084342538240",
+              "start": 159,
+              "username": "SafePalCN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/67ISn2qjnF",
+              "end": 201,
+              "expanded_url": "https://x.com/allen_aguai/status/2010996760890724406/photo/1",
+              "media_key": "3_2010996750795030528",
+              "start": 178,
+              "url": "https://t.co/67ISn2qjnF"
+            },
+            {
+              "display_url": "pic.x.com/67ISn2qjnF",
+              "end": 201,
+              "expanded_url": "https://x.com/allen_aguai/status/2010996760890724406/photo/1",
+              "media_key": "3_2010996750799294464",
+              "start": 178,
+              "url": "https://t.co/67ISn2qjnF"
+            },
+            {
+              "display_url": "x.com/appsaildotdev/…",
+              "end": 225,
+              "expanded_url": "https://twitter.com/appsaildotdev/status/1985172620606841030",
+              "start": 202,
+              "url": "https://t.co/McdmIAzp6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010996760890724406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985172620606841030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在safePal的申请也过了，基本和@AppSaildotDEV  说的一样。具体可以看底部链接\n\n第一步认证ETH 我转了0.003， 秒到账safepal， 到了要升级打怪的激活卡片，现在从币安买了USDC ，转到safepal，没到账。\n\n客服要求我在wallet connect写下助记词 这个会不会钓鱼\n\n@SafePalCN 出来说两句看看 https://t.co/67ISn2qjnF https://t.co/McdmIAzp6O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 2224,
+          "like_count": 27518,
+          "listed_count": 9,
+          "media_count": 1317,
+          "tweet_count": 6012
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-17T03:32:27.000Z",
+        "description": "人生即体验，从事医疗，教育，食品，户外多个行业从业者，数字游民入门",
+        "id": "203780502",
+        "location": "Portland, OR",
+        "name": "阿怪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007821464070950913/JlU3Rv_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 104,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 211
+        },
+        "username": "allen_aguai",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T15:43:33.000Z",
+        "description": "Build  https://t.co/DHyfA0YqIu\nX BoostClub 400w+ 社区  #XBC Partner\n#独立开发者 #Payments #汇丰卓越\nDiscord：https://t.co/YqiLcnJofW\n🏂 🏄 🛹 Lover of boards & freedom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 53,
+                "tag": "XBC"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "独立开发者"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "tag": "Payments"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "汇丰卓越"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "3min.top",
+                "end": 30,
+                "expanded_url": "https://3min.top",
+                "start": 7,
+                "url": "https://t.co/DHyfA0YqIu"
+              },
+              {
+                "display_url": "discord.gg/8FnCgMvD6e",
+                "end": 120,
+                "expanded_url": "https://discord.gg/8FnCgMvD6e",
+                "start": 97,
+                "url": "https://t.co/YqiLcnJofW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x-boostclub.notion.site",
+                "end": 23,
+                "expanded_url": "https://x-boostclub.notion.site/",
+                "start": 0,
+                "url": "https://t.co/ADhVYv1I0Z"
+              }
+            ]
+          }
+        },
+        "id": "3151608288",
+        "name": "AppSail.dev",
+        "pinned_tweet_id": "2010152176149000664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004066300289753088/5qO6kRP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15650,
+          "following_count": 1447,
+          "like_count": 8614,
+          "listed_count": 128,
+          "media_count": 368,
+          "tweet_count": 6702
+        },
+        "url": "https://t.co/ADhVYv1I0Z",
+        "username": "AppSaildotDEV",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-22T02:05:29.000Z",
+        "description": "💎一站式加密钱包（硬件钱包 | APP 钱包 | 插件钱包）与数字资产服务，覆盖 100+ 公链，提供 Web3 钱包、银行服务等功能  \n👑 币安唯一投资的硬件钱包项目，获 @Binance @animocabrands @Superscrypt 支持\nTelegram: https://t.co/mYt3KsR3nc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "Binance"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "animocabrands"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Superscrypt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SafePalTG",
+                "end": 161,
+                "expanded_url": "http://t.me/SafePalTG",
+                "start": 138,
+                "url": "https://t.co/mYt3KsR3nc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "safepal.com/zh-cn/",
+                "end": 23,
+                "expanded_url": "http://safepal.com/zh-cn/",
+                "start": 0,
+                "url": "https://t.co/dk6D9Xk2Mo"
+              }
+            ]
+          }
+        },
+        "id": "1782229084342538240",
+        "location": "Not Financial Advice",
+        "name": "SafePal 中文",
+        "pinned_tweet_id": "2009185871724270065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005456238025515008/4zT7qS-w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13583,
+          "following_count": 239,
+          "like_count": 1985,
+          "listed_count": 61,
+          "media_count": 1220,
+          "tweet_count": 2770
+        },
+        "url": "https://t.co/dk6D9Xk2Mo",
+        "username": "SafePalCN",
+        "verified": true
+      }
+    ]
+  }
+}

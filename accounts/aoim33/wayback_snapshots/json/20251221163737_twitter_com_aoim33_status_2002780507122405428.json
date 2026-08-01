@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2002780507122405428",
+    "created_at": "2025-12-21T16:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002780507122405428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/outofofficedak…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/outofofficedaku/status/2002751413261349126",
+          "start": 13,
+          "url": "https://t.co/q9Q7QaDwki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002780507122405428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002751413261349126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国又又又又又又又又赢了 https://t.co/q9Q7QaDwki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1051,
+        "media_key": "3_2002750131490402304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8syojFaMAAeq2B.jpg",
+        "width": 270
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2002750194283405312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sysNAbYAA6901.jpg",
+        "width": 195
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2002750223333093376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8syt5OacAAC_yA.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2002780507122405428",
+        "created_at": "2025-12-21T16:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002780507122405428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/outofofficedak…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/outofofficedaku/status/2002751413261349126",
+              "start": 13,
+              "url": "https://t.co/q9Q7QaDwki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002780507122405428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002751413261349126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国又又又又又又又又赢了 https://t.co/q9Q7QaDwki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002750131490402304",
+            "3_2002750194283405312",
+            "3_2002750223333093376"
+          ]
+        },
+        "author_id": "919423583440343040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2002751413261349126",
+        "created_at": "2025-12-21T14:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002751413261349126"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "China",
+              "probability": 0.9848,
+              "start": 1,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Nihao",
+              "probability": 0.5098,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "China",
+              "probability": 0.6298,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 169,
+              "normalized_text": "JCB",
+              "probability": 0.3462,
+              "start": 167,
+              "type": "Other"
+            },
+            {
+              "end": 233,
+              "normalized_text": "China",
+              "probability": 0.9149,
+              "start": 229,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUjQTFSCVo",
+              "end": 298,
+              "expanded_url": "https://x.com/outofofficedaku/status/2002751413261349126/photo/1",
+              "media_key": "3_2002750131490402304",
+              "start": 275,
+              "url": "https://t.co/dUjQTFSCVo"
+            },
+            {
+              "display_url": "pic.x.com/dUjQTFSCVo",
+              "end": 298,
+              "expanded_url": "https://x.com/outofofficedaku/status/2002751413261349126/photo/1",
+              "media_key": "3_2002750194283405312",
+              "start": 275,
+              "url": "https://t.co/dUjQTFSCVo"
+            },
+            {
+              "display_url": "pic.x.com/dUjQTFSCVo",
+              "end": 298,
+              "expanded_url": "https://x.com/outofofficedaku/status/2002751413261349126/photo/1",
+              "media_key": "3_2002750223333093376",
+              "start": 275,
+              "url": "https://t.co/dUjQTFSCVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002751413261349126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "China"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 484,
+                "id": "938072041273430017",
+                "start": 468,
+                "username": "China_Amb_India"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 436,
+                "expanded_url": "https://play.google.com/store/apps/details?id=com.unionpay.intl",
+                "start": 413,
+                "url": "https://t.co/4ERXr7MJfI"
+              },
+              {
+                "display_url": "apps.apple.com/in/app/nihao-c…",
+                "end": 466,
+                "expanded_url": "https://apps.apple.com/in/app/nihao-china/id1187814659",
+                "start": 443,
+                "url": "https://t.co/ZlMEaXNkef"
+              }
+            ]
+          },
+          "text": "#China has launched “Nihao China” App for International Visitors\n\n- Can register with your country's number. Indian number worked seamless.\n- Add your Visa/MasterCard/JCB/Diners card to Top Up wallet for making payments while in China.\n- Citywise merchant offers etc \n- Book tickets for attractions and also use the app for public transport\n- AI Agent to help answer questions and help you accordingly \n\nAndroid: https://t.co/4ERXr7MJfI\n\niOS: https://t.co/ZlMEaXNkef\n\n@China_Amb_India"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 28315,
+          "like_count": 412,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "#China has launched “Nihao China” App for International Visitors\n\n- Can register with your country's number. Indian number worked seamless.\n- Add your Visa/MasterCard/JCB/Diners card to Top Up wallet for making payments while in China.\n- Citywise merchant offers etc \n- Book https://t.co/dUjQTFSCVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / SUPERNOVA team member / telegram ch ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 2046,
+          "like_count": 22736,
+          "listed_count": 4,
+          "media_count": 1127,
+          "tweet_count": 5162
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-15T04:43:59.000Z",
+        "description": "📋 Visa Assistance | ✈️ Free Flight Deals | 🗺️ Trip Planning | 🌍 50 Countries Explored | 🗞 Featured in Lonely Planet | 🫰Travel isn't costly |\nCheck 📌 Tweet",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "outofofficedaku.com",
+                "end": 23,
+                "expanded_url": "https://www.outofofficedaku.com",
+                "start": 0,
+                "url": "https://t.co/DWmZwDSuhT"
+              }
+            ]
+          }
+        },
+        "id": "919423583440343040",
+        "location": "Mumbai, India",
+        "name": "Backpacking Daku",
+        "pinned_tweet_id": "1718550826858467795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583638816975306755/_urDamDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90140,
+          "following_count": 24,
+          "like_count": 1131,
+          "listed_count": 356,
+          "media_count": 6433,
+          "tweet_count": 13066
+        },
+        "url": "https://t.co/DWmZwDSuhT",
+        "username": "outofofficedaku",
+        "verified": true
+      }
+    ]
+  }
+}

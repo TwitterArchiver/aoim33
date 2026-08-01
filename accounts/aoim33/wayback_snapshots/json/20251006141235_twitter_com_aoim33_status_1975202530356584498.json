@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity will include conversations for 추석 연휴 (Korean Thanksgiving) for all years. ",
+          "id": "1286643335591915522",
+          "name": " 추석 연휴 (Korean Thanksgiving)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975202530356584498",
+    "created_at": "2025-10-06T14:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975202530356584498"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "추석_트친소"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "트친소"
+        },
+        {
+          "end": 35,
+          "start": 33,
+          "tag": "짤"
+        },
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "리듬게임_트친소"
+        },
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "리듬게임_𝕏친소"
+        },
+        {
+          "end": 64,
+          "start": 57,
+          "tag": "일상계트친소"
+        },
+        {
+          "end": 73,
+          "start": 65,
+          "tag": "일상계_트친소"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1578761025591005185",
+          "start": 3,
+          "username": "igiung08760694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975202530356584498",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975174295669375098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igiung08760694: #추석_트친소 #트친소 #짤\n#리듬게임_트친소 #리듬게임_𝕏친소 \n#일상계트친소 #일상계_트친소\n추석 기념으로 트친소 올려봅니다!\n세가겜 위주로 하고, 마이마이 캐릭터들 좋아해요!\n서울 경기권 위주로 다녀요!\n⚠️…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1975173535736938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k53adaQAALzx-.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1975173570197405696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k55a1bQAAv6c3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 783,
+        "media_key": "3_1975173817191505920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k6Hy9aIAACrMJ.jpg",
+        "width": 600
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1975174220096450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k6fP5bsAALCzv.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity will include conversations for 추석 연휴 (Korean Thanksgiving) for all years. ",
+              "id": "1286643335591915522",
+              "name": " 추석 연휴 (Korean Thanksgiving)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975202530356584498",
+        "created_at": "2025-10-06T14:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975202530356584498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "추석_트친소"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "트친소"
+            },
+            {
+              "end": 35,
+              "start": 33,
+              "tag": "짤"
+            },
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "리듬게임_트친소"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "리듬게임_𝕏친소"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "일상계트친소"
+            },
+            {
+              "end": 73,
+              "start": 65,
+              "tag": "일상계_트친소"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1578761025591005185",
+              "start": 3,
+              "username": "igiung08760694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975202530356584498",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975174295669375098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igiung08760694: #추석_트친소 #트친소 #짤\n#리듬게임_트친소 #리듬게임_𝕏친소 \n#일상계트친소 #일상계_트친소\n추석 기념으로 트친소 올려봅니다!\n세가겜 위주로 하고, 마이마이 캐릭터들 좋아해요!\n서울 경기권 위주로 다녀요!\n⚠️…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975173535736938496",
+            "3_1975173570197405696",
+            "3_1975173817191505920",
+            "3_1975174220096450560"
+          ]
+        },
+        "author_id": "1578761025591005185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity will include conversations for 추석 연휴 (Korean Thanksgiving) for all years. ",
+              "id": "1286643335591915522",
+              "name": " 추석 연휴 (Korean Thanksgiving)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975174295669375098",
+        "created_at": "2025-10-06T12:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975174295669375098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "추석_트친소"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "트친소"
+            },
+            {
+              "end": 15,
+              "start": 13,
+              "tag": "짤"
+            },
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "리듬게임_트친소"
+            },
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "리듬게임_𝕏친소"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "일상계트친소"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "일상계_트친소"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnKWApG8bc",
+              "end": 187,
+              "expanded_url": "https://x.com/igiung08760694/status/1975174295669375098/photo/1",
+              "media_key": "3_1975173535736938496",
+              "start": 164,
+              "url": "https://t.co/EnKWApG8bc"
+            },
+            {
+              "display_url": "pic.x.com/EnKWApG8bc",
+              "end": 187,
+              "expanded_url": "https://x.com/igiung08760694/status/1975174295669375098/photo/1",
+              "media_key": "3_1975173570197405696",
+              "start": 164,
+              "url": "https://t.co/EnKWApG8bc"
+            },
+            {
+              "display_url": "pic.x.com/EnKWApG8bc",
+              "end": 187,
+              "expanded_url": "https://x.com/igiung08760694/status/1975174295669375098/photo/1",
+              "media_key": "3_1975173817191505920",
+              "start": 164,
+              "url": "https://t.co/EnKWApG8bc"
+            },
+            {
+              "display_url": "pic.x.com/EnKWApG8bc",
+              "end": 187,
+              "expanded_url": "https://x.com/igiung08760694/status/1975174295669375098/photo/1",
+              "media_key": "3_1975174220096450560",
+              "start": 164,
+              "url": "https://t.co/EnKWApG8bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975174295669375098",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1072,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "#추석_트친소 #트친소 #짤\n#리듬게임_트친소 #리듬게임_𝕏친소 \n#일상계트친소 #일상계_트친소\n추석 기념으로 트친소 올려봅니다!\n세가겜 위주로 하고, 마이마이 캐릭터들 좋아해요!\n서울 경기권 위주로 다녀요!\n⚠️짤 리트윗, 직접게시 많음\n무멘팔로 찾아갑니다!\n트친분들 인알 미리 감사드려요! https://t.co/EnKWApG8bc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1334,
+          "like_count": 13371,
+          "listed_count": 3,
+          "media_count": 655,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-08T14:55:49.000Z",
+        "description": "KR/EN/JP 세가겜 메인, 발판겜 가끔해요. AMUNAOSEYO 팀 팀장. 소금우유바이럴. 태릉 본진, 서울 경기권 위주로 다녀요. 일상&성과글 가끔, RT&맘찍 많아요. 그림은 위탁생산, 소재 제작&검토는 직접 해요. 선팔환영(검토후받음)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp/maimai_finale/",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/maimai_finale/",
+                "start": 0,
+                "url": "https://t.co/ZEnkepJtGA"
+              }
+            ]
+          }
+        },
+        "id": "1578761025591005185",
+        "location": "Cafe Milk",
+        "name": "DIYU4",
+        "pinned_tweet_id": "1952301188616953998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924012040969945088/2pvQFmuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1548,
+          "like_count": 17022,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 18980
+        },
+        "url": "https://t.co/ZEnkepJtGA",
+        "username": "igiung08760694",
+        "verified": false
+      }
+    ]
+  }
+}

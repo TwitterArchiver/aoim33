@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2006593093072773285",
+    "created_at": "2026-01-01T15:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T16:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006751857692258585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537770657198444545",
+          "start": 0,
+          "username": "chaoge_btc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006751857692258585",
+    "in_reply_to_user_id": "1537770657198444545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006593093072773285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaoge_btc 还好我用 public beta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006593082410807296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jZxu3aMAAPWbr.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2006593093072773285",
+        "created_at": "2026-01-01T15:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006751857692258585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537770657198444545",
+              "start": 0,
+              "username": "chaoge_btc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006751857692258585",
+        "in_reply_to_user_id": "1537770657198444545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006593093072773285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoge_btc 还好我用 public beta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006593082410807296"
+          ]
+        },
+        "author_id": "1537770657198444545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2006593093072773285",
+        "created_at": "2026-01-01T05:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006593093072773285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FCaoRxQFS",
+              "end": 175,
+              "expanded_url": "https://x.com/chaoge_btc/status/2006593093072773285/photo/1",
+              "media_key": "3_2006593082410807296",
+              "start": 152,
+              "url": "https://t.co/0FCaoRxQFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006593093072773285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2026年开年噩耗，iOS系统被攻克了，可以任意读取你的手机相册，钱包keystone，交易所App还有聊天记录，请尽快升级IOS 26.2系统。\n\n如果你因报案进派出所，千万不要被JC哄骗交出手机，因为现在各单位都配备有“手机取证塔”可对手机进行全机备份，任意读取数据。前段时间老牌钱包Imtoken 就爆出了，手机备份恢复到另外一台设备上可以直接使用钱包。只要你不交出手机，他们就拿你没办法。因为正常流程非常复杂，他们为了省事儿，只能采取哄骗你主动交出手机的办法。\n\n正常流程他们需要出示开具《调取证据通知书》和《扣押物品清单》上面详细记录手机品牌、型号、颜色、IMEI串号等特征。并且需要你签字确认。并给你一份回执。\n\n《公安机关办理刑事案件电子数据取证规则》第四十一条： 公安机关向有关单位和个人调取电子数据，应当经办案部门负责人批准，开具《调取证据通知书》\n\n《刑事诉讼法》第一百三十六条： 进行搜查，必须向被搜查人出示搜查证。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 48623,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "2026年开年噩耗，iOS系统被攻克了，可以任意读取你的手机相册，钱包keystone，交易所App还有聊天记录，请尽快升级IOS 26.2系统。\n\n如果你因报案进派出所，千万不要被JC哄骗交出手机，因为现在各单位都配备有“手机取证塔”可对手机进行全机备份，任意读取数据。前段时间老牌钱包Imtoken https://t.co/0FCaoRxQFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ US market / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1997,
+          "like_count": 24488,
+          "listed_count": 5,
+          "media_count": 1188,
+          "tweet_count": 5387
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-17T12:14:41.000Z",
+        "description": "13年买入BTC持有至今从未主动出售过 | 国内第一款比特币交易手机APP BitCat作者 | 前交易所CTO | 投资过矿场，媒体，钱包，交易所 | 商务TG @chaoge_btc | 十万一币社区https://t.co/roKfL0gFKp l 10BTC悬赏黄天威",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "chaoge_btc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Chaoge_Channel",
+                "end": 125,
+                "expanded_url": "https://t.me/Chaoge_Channel",
+                "start": 102,
+                "url": "https://t.co/roKfL0gFKp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chaoge_Channel",
+                "end": 23,
+                "expanded_url": "https://t.me/Chaoge_Channel",
+                "start": 0,
+                "url": "https://t.co/roKfL0gFKp"
+              }
+            ]
+          }
+        },
+        "id": "1537770657198444545",
+        "location": "Hong Kong",
+        "name": "超哥BTC",
+        "pinned_tweet_id": "1994731657530880276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537770768225882112/xJ3lFpur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18007,
+          "following_count": 1383,
+          "like_count": 11061,
+          "listed_count": 99,
+          "media_count": 375,
+          "tweet_count": 3500
+        },
+        "url": "https://t.co/roKfL0gFKp",
+        "username": "chaoge_btc",
+        "verified": true
+      }
+    ]
+  }
+}

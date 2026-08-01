@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1980455372650606775",
+    "created_at": "2025-10-21T02:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980455372650606775"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "Zhejiang University",
+          "probability": 0.9888,
+          "start": 50,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "851622726217342977",
+          "start": 3,
+          "username": "ZJU_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980455372650606775",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980454801184846044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZJU_China: As autumn deepens 🍂, the campus of Zhejiang University is once again bathed in golden hues.🌻 Don’t miss out on this autumn-e…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2345,
+        "media_key": "3_1980454790204190720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3v9I4fXcAA12ot.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2346,
+        "media_key": "3_1980454790304841728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3v9I43XQAAjGI_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2348,
+        "media_key": "3_1980454790086709248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3v9I4DW0AA-UuI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1980455372650606775",
+        "created_at": "2025-10-21T02:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980455372650606775"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "Zhejiang University",
+              "probability": 0.9888,
+              "start": 50,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "851622726217342977",
+              "start": 3,
+              "username": "ZJU_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980455372650606775",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980454801184846044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZJU_China: As autumn deepens 🍂, the campus of Zhejiang University is once again bathed in golden hues.🌻 Don’t miss out on this autumn-e…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980454790204190720",
+            "3_1980454790304841728",
+            "3_1980454790086709248"
+          ]
+        },
+        "author_id": "851622726217342977",
+        "conversation_id": "1980454801184846044",
+        "created_at": "2025-10-21T02:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980454801184846044"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "Zhejiang University",
+              "probability": 0.9868,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 160,
+              "normalized_text": "ZJU",
+              "probability": 0.6457,
+              "start": 158,
+              "type": "Organization"
+            },
+            {
+              "end": 171,
+              "normalized_text": "ZJUcampus",
+              "probability": 0.6703,
+              "start": 163,
+              "type": "Organization"
+            },
+            {
+              "end": 185,
+              "normalized_text": "SeasonsAtZJU",
+              "probability": 0.4893,
+              "start": 174,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "ZJU"
+            },
+            {
+              "end": 172,
+              "start": 162,
+              "tag": "ZJUcampus"
+            },
+            {
+              "end": 186,
+              "start": 173,
+              "tag": "SeasonsAtZJU"
+            },
+            {
+              "end": 197,
+              "start": 187,
+              "tag": "sunflower"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmlLRCDDxj",
+              "end": 221,
+              "expanded_url": "https://x.com/ZJU_China/status/1980454801184846044/photo/1",
+              "media_key": "3_1980454790204190720",
+              "start": 198,
+              "url": "https://t.co/gmlLRCDDxj"
+            },
+            {
+              "display_url": "pic.x.com/gmlLRCDDxj",
+              "end": 221,
+              "expanded_url": "https://x.com/ZJU_China/status/1980454801184846044/photo/1",
+              "media_key": "3_1980454790304841728",
+              "start": 198,
+              "url": "https://t.co/gmlLRCDDxj"
+            },
+            {
+              "display_url": "pic.x.com/gmlLRCDDxj",
+              "end": 221,
+              "expanded_url": "https://x.com/ZJU_China/status/1980454801184846044/photo/1",
+              "media_key": "3_1980454790086709248",
+              "start": 198,
+              "url": "https://t.co/gmlLRCDDxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980454801184846044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "As autumn deepens 🍂, the campus of Zhejiang University is once again bathed in golden hues.🌻 Don’t miss out on this autumn-exclusive romance~✨\n\nPhotos: 浙大后勤\n#ZJU #ZJUcampus #SeasonsAtZJU #sunflower https://t.co/gmlLRCDDxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 1563,
+          "like_count": 15825,
+          "listed_count": 2,
+          "media_count": 747,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-11T02:27:35.000Z",
+        "description": "⭐️FB: https://t.co/HwMLAo5Qwq ⭐️YouTube: https://t.co/iFxcEo8WgV ⭐️Instagram: https://t.co/smUtcXt8Ii ⭐️LinkedIn: https://t.co/b4Dq7UEDQO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.cn/A6GRYevh",
+                "end": 29,
+                "expanded_url": "http://t.cn/A6GRYevh",
+                "start": 6,
+                "url": "https://t.co/HwMLAo5Qwq"
+              },
+              {
+                "display_url": "t.cn/A6GRTpzA",
+                "end": 64,
+                "expanded_url": "http://t.cn/A6GRTpzA",
+                "start": 41,
+                "url": "https://t.co/iFxcEo8WgV"
+              },
+              {
+                "display_url": "t.cn/A6GRTinh",
+                "end": 101,
+                "expanded_url": "http://t.cn/A6GRTinh",
+                "start": 78,
+                "url": "https://t.co/smUtcXt8Ii"
+              },
+              {
+                "display_url": "t.cn/A6GRTK9E",
+                "end": 137,
+                "expanded_url": "http://t.cn/A6GRTK9E",
+                "start": 114,
+                "url": "https://t.co/b4Dq7UEDQO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zju.edu.cn/english",
+                "end": 23,
+                "expanded_url": "http://www.zju.edu.cn/english",
+                "start": 0,
+                "url": "https://t.co/vwq3mEH5N5"
+              }
+            ]
+          }
+        },
+        "id": "851622726217342977",
+        "name": "Zhejiang University",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/851624297822953472/qJOi1SuG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58383,
+          "following_count": 306,
+          "like_count": 641,
+          "listed_count": 97,
+          "media_count": 2860,
+          "tweet_count": 3631
+        },
+        "url": "https://t.co/vwq3mEH5N5",
+        "username": "ZJU_China",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985372411303501825",
+        "3_1985372411475398656",
+        "3_1985372411479592960",
+        "3_1985372411253137408"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1985372422808518818",
+    "created_at": "2025-11-03T15:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985372422808518818"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "中国",
+          "probability": 0.8968,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 50,
+          "normalized_text": "中国",
+          "probability": 0.8245,
+          "start": 49,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 0,
+          "tag": "11月になったので音ゲーマーフォロー祭"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DmZIOmdNeF",
+          "end": 151,
+          "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+          "media_key": "3_1985372411303501825",
+          "start": 128,
+          "url": "https://t.co/DmZIOmdNeF"
+        },
+        {
+          "display_url": "pic.x.com/DmZIOmdNeF",
+          "end": 151,
+          "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+          "media_key": "3_1985372411475398656",
+          "start": 128,
+          "url": "https://t.co/DmZIOmdNeF"
+        },
+        {
+          "display_url": "pic.x.com/DmZIOmdNeF",
+          "end": 151,
+          "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+          "media_key": "3_1985372411479592960",
+          "start": 128,
+          "url": "https://t.co/DmZIOmdNeF"
+        },
+        {
+          "display_url": "pic.x.com/DmZIOmdNeF",
+          "end": 151,
+          "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+          "media_key": "3_1985372411253137408",
+          "start": 128,
+          "url": "https://t.co/DmZIOmdNeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985372422808518818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#11月になったので音ゲーマーフォロー祭\n中国から日本音ゲー界隈の間で、みんなと仲良くしたい\n最近中国ではサーバエラーがめっちゃ発生しているからmaimaiがやっていない状態で、代わりに arcaea で遊ぶ\nお互いフォローは大歓迎で、宜しくお願いします https://t.co/DmZIOmdNeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985372411303501825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G411sGqbIAE6-Kb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1526,
+        "media_key": "3_1985372411475398656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G411sHTaEAAx7eF.jpg",
+        "width": 1400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985372411479592960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G411sHUaEAAgQV6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985372411253137408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G411sGeaoAABAZ-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985372411303501825",
+            "3_1985372411475398656",
+            "3_1985372411479592960",
+            "3_1985372411253137408"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1985372422808518818",
+        "created_at": "2025-11-03T15:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985372422808518818"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中国",
+              "probability": 0.8968,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 50,
+              "normalized_text": "中国",
+              "probability": 0.8245,
+              "start": 49,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "11月になったので音ゲーマーフォロー祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmZIOmdNeF",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+              "media_key": "3_1985372411303501825",
+              "start": 128,
+              "url": "https://t.co/DmZIOmdNeF"
+            },
+            {
+              "display_url": "pic.x.com/DmZIOmdNeF",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+              "media_key": "3_1985372411475398656",
+              "start": 128,
+              "url": "https://t.co/DmZIOmdNeF"
+            },
+            {
+              "display_url": "pic.x.com/DmZIOmdNeF",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+              "media_key": "3_1985372411479592960",
+              "start": 128,
+              "url": "https://t.co/DmZIOmdNeF"
+            },
+            {
+              "display_url": "pic.x.com/DmZIOmdNeF",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1985372422808518818/photo/1",
+              "media_key": "3_1985372411253137408",
+              "start": 128,
+              "url": "https://t.co/DmZIOmdNeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985372422808518818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#11月になったので音ゲーマーフォロー祭\n中国から日本音ゲー界隈の間で、みんなと仲良くしたい\n最近中国ではサーバエラーがめっちゃ発生しているからmaimaiがやっていない状態で、代わりに arcaea で遊ぶ\nお互いフォローは大歓迎で、宜しくお願いします https://t.co/DmZIOmdNeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1983549040441827520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1580,
+          "like_count": 17522,
+          "listed_count": 4,
+          "media_count": 836,
+          "tweet_count": 4168
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

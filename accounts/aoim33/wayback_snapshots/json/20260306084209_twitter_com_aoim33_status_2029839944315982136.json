@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2029592327220859183",
+    "created_at": "2026-03-06T08:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029839944315982136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "746265547860381696",
+          "start": 0,
+          "username": "Nancyshanghai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 38,
+          "expanded_url": "https://x.com/aoim33/status/2008896133679231199?s=46",
+          "start": 15,
+          "url": "https://t.co/tOZK6dDzTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029839944315982136",
+    "in_reply_to_user_id": "746265547860381696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008896133679231199",
+        "type": "quoted"
+      },
+      {
+        "id": "2029592327220859183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nancyshanghai https://t.co/tOZK6dDzTt\n下次发文章前记得贴一下参考文献"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2029592327220859183",
+        "created_at": "2026-03-06T08:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029839944315982136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "746265547860381696",
+              "start": 0,
+              "username": "Nancyshanghai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 38,
+              "expanded_url": "https://x.com/aoim33/status/2008896133679231199?s=46",
+              "start": 15,
+              "url": "https://t.co/tOZK6dDzTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029839944315982136",
+        "in_reply_to_user_id": "746265547860381696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008896133679231199",
+            "type": "quoted"
+          },
+          {
+            "id": "2029592327220859183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nancyshanghai https://t.co/tOZK6dDzTt\n下次发文章前记得贴一下参考文献"
+      },
+      {
+        "article": {
+          "title": "为 X （推特）收益化做好准备——如何通过其他服务注册 Stripe Express 并复用信息"
+        },
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2008896133679231199",
+        "created_at": "2026-01-07T13:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008896133679231199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2008891824593928192",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008891824593928192",
+              "url": "https://t.co/DNRppO1wP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008896133679231199",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 60533,
+          "like_count": 169,
+          "quote_count": 12,
+          "reply_count": 44,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DNRppO1wP7"
+      },
+      {
+        "article": {
+          "title": "你们不用再踩坑啦：我用一天时间，把Stripe困境熬成收款自由"
+        },
+        "attachments": {},
+        "author_id": "746265547860381696",
+        "conversation_id": "2029592327220859183",
+        "created_at": "2026-03-05T16:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029592327220859183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2029…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2029587232060063744",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2029587232060063744",
+              "url": "https://t.co/lP4ysg7uqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029592327220859183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 7487,
+          "like_count": 69,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lP4ysg7uqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4113,
+          "following_count": 2603,
+          "like_count": 37227,
+          "listed_count": 22,
+          "media_count": 1946,
+          "tweet_count": 8610
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-24T08:55:46.000Z",
+        "description": "Premium+/I post fun and far-reaching content as a teacher with many awards In GRE/GMAT/SAT/IELTS/TOEFL/IB/AP/IGCSE 公众号宁静怡知",
+        "id": "746265547860381696",
+        "location": "Hong Kong",
+        "name": "Nancy",
+        "pinned_tweet_id": "2029592327220859183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023856007542456320/ImJ23sI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866,
+          "following_count": 2828,
+          "like_count": 16931,
+          "listed_count": 8,
+          "media_count": 210,
+          "tweet_count": 9795
+        },
+        "username": "Nancyshanghai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,669 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2009919588478464504",
+    "created_at": "2026-01-10T09:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T10:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009919588478464504"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "VISA",
+          "probability": 0.7307,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 31,
+          "normalized_text": "Mastercard",
+          "probability": 0.5974,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 37,
+          "normalized_text": "日本",
+          "probability": 0.7784,
+          "start": 36,
+          "type": "Place"
+        },
+        {
+          "end": 51,
+          "normalized_text": "VISA",
+          "probability": 0.5492,
+          "start": 48,
+          "type": "Organization"
+        },
+        {
+          "end": 62,
+          "normalized_text": "Mastercard",
+          "probability": 0.4297,
+          "start": 53,
+          "type": "Organization"
+        },
+        {
+          "end": 110,
+          "normalized_text": "メロンブックス",
+          "probability": 0.4766,
+          "start": 104,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1012426771466108928",
+          "start": 3,
+          "username": "SFumoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009919588478464504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1943
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009861973861904812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SFumoto: 【悲報】VISAとMastercard、今度は日本の同人誌を集中攻撃\nVISAとMastercardによる表現規制が止まりません。\nすでに多くの人が指摘している通り、同人誌販売大手「メロンブックス」において、一部ジャンルの通信販売が停止されました。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009859728495783937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-R0xj1asAECnBz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2009919588478464504",
+        "created_at": "2026-01-10T09:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009919588478464504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "VISA",
+              "probability": 0.7307,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 31,
+              "normalized_text": "Mastercard",
+              "probability": 0.5974,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 37,
+              "normalized_text": "日本",
+              "probability": 0.7784,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "VISA",
+              "probability": 0.5492,
+              "start": 48,
+              "type": "Organization"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Mastercard",
+              "probability": 0.4297,
+              "start": 53,
+              "type": "Organization"
+            },
+            {
+              "end": 110,
+              "normalized_text": "メロンブックス",
+              "probability": 0.4766,
+              "start": 104,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1012426771466108928",
+              "start": 3,
+              "username": "SFumoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009919588478464504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1943
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009861973861904812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SFumoto: 【悲報】VISAとMastercard、今度は日本の同人誌を集中攻撃\nVISAとMastercardによる表現規制が止まりません。\nすでに多くの人が指摘している通り、同人誌販売大手「メロンブックス」において、一部ジャンルの通信販売が停止されました。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009859728495783937"
+          ]
+        },
+        "author_id": "1012426771466108928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2009861973861904812",
+        "created_at": "2026-01-10T05:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T06:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009861973861904812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "VISA",
+              "probability": 0.749,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 18,
+              "normalized_text": "Mastercard",
+              "probability": 0.6022,
+              "start": 9,
+              "type": "Organization"
+            },
+            {
+              "end": 24,
+              "normalized_text": "日本",
+              "probability": 0.7519,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 38,
+              "normalized_text": "VISA",
+              "probability": 0.5481,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Mastercard",
+              "probability": 0.4111,
+              "start": 40,
+              "type": "Organization"
+            },
+            {
+              "end": 97,
+              "normalized_text": "メロンブックス",
+              "probability": 0.489,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejqUI2FwSk",
+              "end": 148,
+              "expanded_url": "https://x.com/SFumoto/status/2009861973861904812/photo/1",
+              "media_key": "3_2009859728495783937",
+              "start": 125,
+              "url": "https://t.co/ejqUI2FwSk"
+            },
+            {
+              "display_url": "x.com/zkurishi/statu…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/zkurishi/status/2009302851823255775",
+              "start": 149,
+              "url": "https://t.co/qjhK7qmclj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009861973861904812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【悲報】VISAとMastercard、今度は日本の同人誌を集中攻撃\nVISAとMastercardによる表現規制が止まりません。\nすでに多くの人が指摘している通り、同人誌販売大手「メロンブックス」において、一部ジャンルの通信販売が停止されました。\n引用元のくりした善行氏が触れているように、この措置はVISAおよびMastercardが定める決済規制と整合しており、今回対象となったのは「獣姦」ジャンルと見られています。\n\nニッチな特殊性癖が対象だから問題ない、と考える人もいるかもしれません。しかし、この規制の本質はそこではありません。\n\nこれは海外の「Collective Shout」のような表現規制団体が掲げる「反ポルノ」思想や、その背景にあるキリスト教保守の価値観に根ざしたものです。\n彼らの教義や過去の行動、そして表現規制の歴史を踏まえれば、次に何が起きるかは容易に想像できます。\nBLや性的少数者表現への締め付け、さらには暴力表現など、創作やエンタメの根幹に関わる表現が、連鎖的に規制対象となっていく可能性が高いでしょう。\n\nこれは単なる憶測ではなく、彼ら自身の行動やこれまでの経緯が示してきた現実です。\n\nここで時系列にも目を向けて見ましょう。\nメロンブックスがVISAおよびMastercardから取引停止を受けたのは、2024年12月19日とされています。今回の新たな取り扱い停止の訴えは、取引停止から1年以上経っていることから、この背景には、これらのカード会社から、再び何らかの圧力が加えられた可能性が推測できます。\n\nこのクレジットカード規制問題については、前首相の岸田氏や山田太郎氏を軸に、政府側も対応に動いているとされています。\nそれにもかかわらず、現在もメロンブックスのような事例が続いているという事実は、政府の取り組みが現場レベルでは十分な歯止めになっていないことを浮き彫りにしています。\n\n私たち漫画アニメのファンは、この海外からの一方的な価値観の押し付けや、創作文化を破壊しようとする圧力に対し、無関心でいるべきではありません。\n日本の同人誌文化、ひいては創作の自由そのものを守るために、正面から向き合い、対抗していかなければならない時が来ています。\n\n日本の同人文化には、お金では測れない価値がある。\n買えるものはJCBカードで。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 165739,
+          "like_count": 2750,
+          "quote_count": 76,
+          "reply_count": 33,
+          "retweet_count": 1943
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009302851823255775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【悲報】VISAとMastercard、今度は日本の同人誌を集中攻撃\nVISAとMastercardによる表現規制が止まりません。\nすでに多くの人が指摘している通り、同人誌販売大手「メロンブックス」において、一部ジャンルの通信販売が停止されました。 https://t.co/ejqUI2FwSk https://t.co/qjhK7qmclj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 2175,
+          "like_count": 26773,
+          "listed_count": 9,
+          "media_count": 1287,
+          "tweet_count": 5896
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-28T20:05:27.000Z",
+        "description": "オタク文化は黙っていたら悪者にされ規制されて終わりです。\nアニメ・漫画・小説・写真その他サブカル文化を守るために\nサブカル文化への偏見や誹謗中傷に抵抗し、声を上げる事に決めました。今後はエンタメ＆政治や雑多な話題を取り扱っていきます。\n写真は写真アカウントへ移行中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fumoto-lab.com",
+                "end": 23,
+                "expanded_url": "https://fumoto-lab.com/",
+                "start": 0,
+                "url": "https://t.co/jpCH8Zyh84"
+              }
+            ]
+          }
+        },
+        "id": "1012426771466108928",
+        "location": "リンクはアマゾンアソシエイトを使用",
+        "name": "フモト",
+        "pinned_tweet_id": "2004486734965531067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643102218919505920/ndTzpwL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14505,
+          "following_count": 7743,
+          "like_count": 159155,
+          "listed_count": 95,
+          "media_count": 3556,
+          "tweet_count": 30544
+        },
+        "url": "https://t.co/jpCH8Zyh84",
+        "username": "SFumoto",
+        "verified": true
+      }
+    ]
+  }
+}

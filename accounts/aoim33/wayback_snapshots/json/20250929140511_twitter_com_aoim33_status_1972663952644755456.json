@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "1972663952644755456",
+    "created_at": "2025-09-29T14:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T15:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972663952644755456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642497509011636225",
+          "start": 3,
+          "username": "wanzi0209"
+        },
+        {
+          "end": 22,
+          "id": "1902568136450424832",
+          "start": 15,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972663952644755456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972627447821853020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanzi0209: @aoim33 全然知らない垢はタイムラインでよく見つけて、困った。友達のツイートは見たい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1972663952644755456",
+        "created_at": "2025-09-29T14:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972663952644755456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642497509011636225",
+              "start": 3,
+              "username": "wanzi0209"
+            },
+            {
+              "end": 22,
+              "id": "1902568136450424832",
+              "start": 15,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972663952644755456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972627447821853020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanzi0209: @aoim33 全然知らない垢はタイムラインでよく見つけて、困った。友達のツイートは見たい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642497509011636225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1972246459669229669",
+        "created_at": "2025-09-29T11:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972627447821853020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972627447821853020",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972246459669229669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 全然知らない垢はタイムラインでよく見つけて、困った。友達のツイートは見たい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1187,
+          "like_count": 12111,
+          "listed_count": 3,
+          "media_count": 593,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T12:01:51.000Z",
+        "description": "不键政和黄赌毒，我是尊纪守法好学生🙂🤍@aoim33 @Kazumasski",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "aoim33"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Kazumasski"
+              }
+            ]
+          }
+        },
+        "id": "1642497509011636225",
+        "location": "キヴォトス",
+        "name": "丸子",
+        "pinned_tweet_id": "1960981582270832730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960272495677689856/QaRYl1B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 56,
+          "like_count": 1059,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 599
+        },
+        "username": "wanzi0209",
+        "verified": false
+      }
+    ]
+  }
+}

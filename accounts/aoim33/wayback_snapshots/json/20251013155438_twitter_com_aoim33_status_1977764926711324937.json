@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1977764926711324937",
+    "created_at": "2025-10-13T15:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T16:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977764926711324937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1626539044661239810",
+          "start": 3,
+          "username": "RyuSanKaiPou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977764926711324937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977490676255457702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RyuSanKaiPou: 練習了作文。這是一篇寫給醫生用來看病的文章，用作為留學生的視角書寫了自己的訴求。我第一次寫作文，狗屁不通，但是我寫得很有成就感。會加油的。\n——\n作文を練習した。これは医者さんへの、診察のための文章。留学生の視点で自分の訴求を書いた。初めて作…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1977764926711324937].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1977764926711324937",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977764926711324937"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1977490671251656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3F1Sc6akAAnqgu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1728,
+        "media_key": "3_1977490673231368194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3F1SkSakAIRSoE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977490671251656704",
+            "3_1977490673231368194"
+          ]
+        },
+        "author_id": "1626539044661239810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1977490676255457702",
+        "created_at": "2025-10-12T21:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T22:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977490676255457702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0DP3oMq1g",
+              "end": 166,
+              "expanded_url": "https://x.com/RyuSanKaiPou/status/1977490676255457702/photo/1",
+              "media_key": "3_1977490671251656704",
+              "start": 143,
+              "url": "https://t.co/V0DP3oMq1g"
+            },
+            {
+              "display_url": "pic.x.com/V0DP3oMq1g",
+              "end": 166,
+              "expanded_url": "https://x.com/RyuSanKaiPou/status/1977490676255457702/photo/1",
+              "media_key": "3_1977490673231368194",
+              "start": 143,
+              "url": "https://t.co/V0DP3oMq1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977490676255457702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "練習了作文。這是一篇寫給醫生用來看病的文章，用作為留學生的視角書寫了自己的訴求。我第一次寫作文，狗屁不通，但是我寫得很有成就感。會加油的。\n——\n作文を練習した。これは医者さんへの、診察のための文章。留学生の視点で自分の訴求を書いた。初めて作文を書いて、でたらめじゃない、でも楽しい。 https://t.co/V0DP3oMq1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1484,
+          "like_count": 14721,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 3565
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-17T11:08:35.000Z",
+        "description": "↑welcome…＝硫酸解剖/Dimethyl。\n性別不定ですから「彼」で呼んでください！🏳️‍⚧️Use “HE” plz！！\n音ゲー丨法医学丨精神医学丨ヨルシカ丨陽炎project丨Sakuzyo丨カンザキイオリ丨asd&adhd\n|日本語丨中文丨English | \n無言フォロー失礼。怒りっぽい。",
+        "id": "1626539044661239810",
+        "location": "Re：unnature",
+        "name": "硫酸解剖",
+        "pinned_tweet_id": "1722657968871952594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964893174033485825/c8FM7ZW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 43,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 142
+        },
+        "username": "RyuSanKaiPou",
+        "verified": false
+      }
+    ]
+  }
+}

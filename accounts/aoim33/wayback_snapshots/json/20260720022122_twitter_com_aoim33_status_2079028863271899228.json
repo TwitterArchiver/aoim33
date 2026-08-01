@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078863165895684097",
+        "3_2078863165916577792",
+        "3_2078863166587752448"
+      ],
+      "media_source_tweet_id": [
+        "2078863172384305423",
+        "2078863172384305423",
+        "2078863172384305423"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2079028863271899228",
+    "created_at": "2026-07-20T02:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079028863271899228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1704730002452029440",
+          "start": 3,
+          "username": "KIREIMU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LrLo5FIDfG",
+          "end": 120,
+          "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+          "media_key": "3_2078863165895684097",
+          "start": 97,
+          "url": "https://t.co/LrLo5FIDfG"
+        },
+        {
+          "display_url": "pic.x.com/LrLo5FIDfG",
+          "end": 120,
+          "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+          "media_key": "3_2078863165916577792",
+          "start": 97,
+          "url": "https://t.co/LrLo5FIDfG"
+        },
+        {
+          "display_url": "pic.x.com/LrLo5FIDfG",
+          "end": 120,
+          "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+          "media_key": "3_2078863166587752448",
+          "start": 97,
+          "url": "https://t.co/LrLo5FIDfG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079028863271899228",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078863172384305423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KIREIMU: 여러분들 원더프리 멤버들은 리듬게임 캐릭터예요\nみんなさんワンダープリのメンバーたちは音ゲーのキャラクターであります\n\n3 SEGA 1 BANDAI NAMCO https://t.co/LrLo5FIDfG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2078863165895684097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmbCPvbMAERTC6.png",
+        "width": 525
+      },
+      {
+        "height": 286,
+        "media_key": "3_2078863165916577792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmbCP0aAAA5mIM.png",
+        "width": 499
+      },
+      {
+        "height": 342,
+        "media_key": "3_2078863166587752448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmbCSUbUAAC0Lo.jpg",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078863165895684097",
+            "3_2078863165916577792",
+            "3_2078863166587752448"
+          ]
+        },
+        "author_id": "1704730002452029440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2078863172384305423",
+        "created_at": "2026-07-19T15:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078863172384305423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrLo5FIDfG",
+              "end": 107,
+              "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+              "media_key": "3_2078863165895684097",
+              "start": 84,
+              "url": "https://t.co/LrLo5FIDfG"
+            },
+            {
+              "display_url": "pic.x.com/LrLo5FIDfG",
+              "end": 107,
+              "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+              "media_key": "3_2078863165916577792",
+              "start": 84,
+              "url": "https://t.co/LrLo5FIDfG"
+            },
+            {
+              "display_url": "pic.x.com/LrLo5FIDfG",
+              "end": 107,
+              "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+              "media_key": "3_2078863166587752448",
+              "start": 84,
+              "url": "https://t.co/LrLo5FIDfG"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/aoim33/status/2078377679041294749",
+              "start": 108,
+              "url": "https://t.co/YuVVwd3D5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078863172384305423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078377679041294749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "여러분들 원더프리 멤버들은 리듬게임 캐릭터예요\nみんなさんワンダープリのメンバーたちは音ゲーのキャラクターであります\n\n3 SEGA 1 BANDAI NAMCO https://t.co/LrLo5FIDfG https://t.co/YuVVwd3D5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078863165895684097",
+            "3_2078863165916577792",
+            "3_2078863166587752448"
+          ],
+          "media_source_tweet_id": [
+            "2078863172384305423",
+            "2078863172384305423",
+            "2078863172384305423"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2079028863271899228",
+        "created_at": "2026-07-20T02:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079028863271899228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1704730002452029440",
+              "start": 3,
+              "username": "KIREIMU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrLo5FIDfG",
+              "end": 120,
+              "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+              "media_key": "3_2078863165895684097",
+              "start": 97,
+              "url": "https://t.co/LrLo5FIDfG"
+            },
+            {
+              "display_url": "pic.x.com/LrLo5FIDfG",
+              "end": 120,
+              "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+              "media_key": "3_2078863165916577792",
+              "start": 97,
+              "url": "https://t.co/LrLo5FIDfG"
+            },
+            {
+              "display_url": "pic.x.com/LrLo5FIDfG",
+              "end": 120,
+              "expanded_url": "https://x.com/KIREIMU/status/2078863172384305423/photo/1",
+              "media_key": "3_2078863166587752448",
+              "start": 97,
+              "url": "https://t.co/LrLo5FIDfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079028863271899228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078863172384305423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KIREIMU: 여러분들 원더프리 멤버들은 리듬게임 캐릭터예요\nみんなさんワンダープリのメンバーたちは音ゲーのキャラクターであります\n\n3 SEGA 1 BANDAI NAMCO https://t.co/LrLo5FIDfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 3131,
+          "like_count": 56536,
+          "listed_count": 22,
+          "media_count": 3622,
+          "tweet_count": 14715
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-21T05:31:35.000Z",
+        "description": "최애 리스트)\n마이마이 - 라즈, 루키 / 츄니즘 - 아스트라이아 / 온게키 - 세츠나, 리오 / 사운드 볼텍스 - 레이시스, 오르트린데 | 겜 캐릭터들 더 데려와 쩝쩝",
+        "id": "1704730002452029440",
+        "location": "기고 총본점 가고 싶다",
+        "name": "미소엔 (회천 보기 전에 부산 7/31~8/3 가냐 청년)",
+        "pinned_tweet_id": "2073743184870703534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041456978246172672/8EkhE_iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 176,
+          "like_count": 46060,
+          "listed_count": 0,
+          "media_count": 699,
+          "tweet_count": 24827
+        },
+        "url": "",
+        "username": "KIREIMU",
+        "verified": false
+      }
+    ]
+  }
+}

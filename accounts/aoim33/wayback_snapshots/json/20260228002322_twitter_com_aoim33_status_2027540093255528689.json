@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2027540093255528689",
+    "created_at": "2026-02-28T00:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T01:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027540093255528689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749082203990974464",
+          "start": 3,
+          "username": "SophiaFioren"
+        },
+        {
+          "end": 57,
+          "id": "44196397",
+          "start": 48,
+          "username": "elonmusk"
+        },
+        {
+          "end": 73,
+          "id": "636513296",
+          "start": 62,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027540093255528689",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027396606874530124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SophiaFioren: I have a genuine question for @elonmusk and @nikitabier. 😤👇\n\nRT this if you’re tired of being ignored as a Premium user o…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027396599081562112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLCdxsXcAAE4xo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 263,
+        "media_key": "3_2027396599068901376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLCdxpWQAA6TSv.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2027540093255528689",
+        "created_at": "2026-02-28T00:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027540093255528689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749082203990974464",
+              "start": 3,
+              "username": "SophiaFioren"
+            },
+            {
+              "end": 57,
+              "id": "44196397",
+              "start": 48,
+              "username": "elonmusk"
+            },
+            {
+              "end": 73,
+              "id": "636513296",
+              "start": 62,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027540093255528689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027396606874530124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SophiaFioren: I have a genuine question for @elonmusk and @nikitabier. 😤👇\n\nRT this if you’re tired of being ignored as a Premium user o…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027396599081562112",
+            "3_2027396599068901376"
+          ]
+        },
+        "author_id": "1749082203990974464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          }
+        ],
+        "conversation_id": "2027396606874530124",
+        "created_at": "2026-02-27T14:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027396606874530124"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 186,
+              "normalized_text": "X",
+              "probability": 0.484,
+              "start": 186,
+              "type": "Other"
+            },
+            {
+              "end": 191,
+              "normalized_text": "Beta",
+              "probability": 0.4802,
+              "start": 188,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "44196397",
+              "start": 30,
+              "username": "elonmusk"
+            },
+            {
+              "end": 55,
+              "id": "636513296",
+              "start": 44,
+              "username": "nikitabier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGsG1oEplU",
+              "end": 298,
+              "expanded_url": "https://x.com/SophiaFioren/status/2027396606874530124/photo/1",
+              "media_key": "3_2027396599081562112",
+              "start": 275,
+              "url": "https://t.co/YGsG1oEplU"
+            },
+            {
+              "display_url": "pic.x.com/YGsG1oEplU",
+              "end": 298,
+              "expanded_url": "https://x.com/SophiaFioren/status/2027396606874530124/photo/1",
+              "media_key": "3_2027396599068901376",
+              "start": 275,
+              "url": "https://t.co/YGsG1oEplU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027396606874530124",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 39,
+                "id": "44196397",
+                "start": 30,
+                "username": "elonmusk"
+              },
+              {
+                "end": 55,
+                "id": "636513296",
+                "start": 44,
+                "username": "nikitabier"
+              }
+            ]
+          },
+          "text": "I have a genuine question for @elonmusk and @nikitabier. 😤👇\n\nRT this if you’re tired of being ignored as a Premium user on X.\n\nIs X a social platform or a never ending experiment called X(Beta)?\n\nMonths ago, I was posting hundreds of replies a day to grow engagement.\nThen I read your rules.\nI stopped forced interaction.\nI started acting like a “natural user.”\nI focused on original, educational content.\n\nI followed the rules. The result?\n\nEven with 13,000+ Premium followers, my posts barely reach 100–200 views not even my own audience.\n\nSupport says: “Wait, it will fix itself.”\nIt’s been one month. Nothing changed.\n\nIn February 2026, you announced over $1 billion in annual revenue from Premium subscriptions.\nBut let’s be honest this is not success.\n\nWhen algorithms constantly change, people don’t grow they restart.\nNew accounts. New subscriptions. Same disappointment.\n\nIf this is real success, then why don’t you also publish\nhow many users cancelled their Premium subscriptions?\nBe transparent.\n\nRevenue earned from confusion and instability is not innovation!\nit’s profit built on user frustration.\n\nWhile low effort repost accounts get boosted endlessly,\nrule following creators quietly disappear.\n\nSo I’ll ask again:\nIs X a platform for creators or a private island(!) where user frustration is the entertainment?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 92783,
+          "like_count": 1486,
+          "quote_count": 109,
+          "reply_count": 656,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "I have a genuine question for @elonmusk and @nikitabier. 😤👇\n\nRT this if you’re tired of being ignored as a Premium user on X.\n\nIs X a social platform or a never ending experiment called X(Beta)?\n\nMonths ago, I was posting hundreds of replies a day to grow engagement.\nThen I https://t.co/YGsG1oEplU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 / 上海地铁 上海铁路局 杭州地铁 bot / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3758,
+          "following_count": 2561,
+          "like_count": 35647,
+          "listed_count": 18,
+          "media_count": 1789,
+          "tweet_count": 8025
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-21T14:51:24.000Z",
+        "description": "👩🏻‍🦳 | 🏛️𝐇𝐢𝐬𝐭𝐨𝐫𝐲 · 🖼️𝐀𝐫𝐭 · 💎𝐁𝐞𝐚𝐮𝐭𝐲 ·🏺𝐂𝐮𝐥𝐭𝐮𝐫𝐞 | 🌎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/SophiaFioren",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/SophiaFioren",
+                "start": 0,
+                "url": "https://t.co/vy3fPXiFJA"
+              }
+            ]
+          }
+        },
+        "id": "1749082203990974464",
+        "name": "Sophia",
+        "pinned_tweet_id": "2027396606874530124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014022354754568192/ksI936Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29845,
+          "following_count": 2336,
+          "like_count": 17935,
+          "listed_count": 124,
+          "media_count": 1367,
+          "tweet_count": 447631
+        },
+        "url": "https://t.co/vy3fPXiFJA",
+        "username": "SophiaFioren",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008546467615580160/57KcqsTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235487893,
+          "following_count": 1290,
+          "like_count": 213286,
+          "listed_count": 167512,
+          "media_count": 4370,
+          "tweet_count": 98125
+        },
+        "username": "elonmusk",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "solana"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "lightspeedvp"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "gasappteam"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "thetbhapp"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "1481118406749220868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832584,
+          "following_count": 2022,
+          "like_count": 37603,
+          "listed_count": 5083,
+          "media_count": 1382,
+          "tweet_count": 10605
+        },
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

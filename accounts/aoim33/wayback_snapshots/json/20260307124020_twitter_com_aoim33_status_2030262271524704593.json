@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030124164770844677"
+      ],
+      "media_source_tweet_id": [
+        "2030252121032159603"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030262271524704593",
+    "created_at": "2026-03-07T12:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030262271524704593"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "上海",
+          "probability": 0.5736,
+          "start": 26,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "shanghai"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2459061450",
+          "start": 3,
+          "username": "ChnEmbassy_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oMYoEE5J2k",
+          "end": 67,
+          "expanded_url": "https://x.com/ChnEmbassy_jp/status/2030252121032159603/video/1",
+          "media_key": "13_2030124164770844677",
+          "start": 44,
+          "url": "https://t.co/oMYoEE5J2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030262271524704593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030252121032159603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChnEmbassy_jp: 躍動する都市・上海。\n#shanghai #上海 https://t.co/oMYoEE5J2k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 180000,
+        "height": 544,
+        "media_key": "13_2030124164770844677",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030124164770844677/img/w9Vz-TCCrD6SS7AI.jpg",
+        "public_metrics": {
+          "view_count": 283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030124164770844677/vid/avc1/476x270/TADtox1BHazr77c2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030124164770844677/vid/avc1/634x360/auoALy1SKIZsUBMq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030124164770844677/vid/avc1/960x544/naAKnpGWNu2mGMFD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030124164770844677/pl/6ZKK4AeHenJcZzaM.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030124164770844677"
+          ],
+          "media_source_tweet_id": [
+            "2030252121032159603"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030262271524704593",
+        "created_at": "2026-03-07T12:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030262271524704593"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "上海",
+              "probability": 0.5736,
+              "start": 26,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "shanghai"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "上海"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2459061450",
+              "start": 3,
+              "username": "ChnEmbassy_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMYoEE5J2k",
+              "end": 67,
+              "expanded_url": "https://x.com/ChnEmbassy_jp/status/2030252121032159603/video/1",
+              "media_key": "13_2030124164770844677",
+              "start": 44,
+              "url": "https://t.co/oMYoEE5J2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030262271524704593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030252121032159603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChnEmbassy_jp: 躍動する都市・上海。\n#shanghai #上海 https://t.co/oMYoEE5J2k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030124164770844677"
+          ]
+        },
+        "author_id": "2459061450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030252121032159603",
+        "created_at": "2026-03-07T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030252121032159603"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "上海",
+              "probability": 0.4968,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "shanghai"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "上海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMYoEE5J2k",
+              "end": 48,
+              "expanded_url": "https://x.com/ChnEmbassy_jp/status/2030252121032159603/video/1",
+              "media_key": "13_2030124164770844677",
+              "start": 25,
+              "url": "https://t.co/oMYoEE5J2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030252121032159603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 946,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "躍動する都市・上海。\n#shanghai #上海 https://t.co/oMYoEE5J2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 2604,
+          "like_count": 37364,
+          "listed_count": 21,
+          "media_count": 1973,
+          "tweet_count": 8678
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-23T02:45:07.000Z",
+        "description": "中華人民共和国駐日本国大使館の公式Twitterです。 中日関係、国民交流、また中国経済・文化・社会及び大使館行事などを皆様にご紹介させていただきます。大使館HPはこちらへhttps://t.co/z6AjpxEDjk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 109,
+                "expanded_url": "http://china-embassy.or.jp/jpn/",
+                "start": 86,
+                "url": "https://t.co/z6AjpxEDjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.or.jp/jpn/",
+                "start": 0,
+                "url": "https://t.co/jGw04z9RfY"
+              }
+            ]
+          }
+        },
+        "id": "2459061450",
+        "location": "Japan",
+        "name": "中華人民共和国駐日本国大使館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246448063079563270/qEePxpv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158862,
+          "following_count": 788,
+          "like_count": 103,
+          "listed_count": 1674,
+          "media_count": 5212,
+          "tweet_count": 13247
+        },
+        "url": "https://t.co/jGw04z9RfY",
+        "username": "ChnEmbassy_jp",
+        "verified": true
+      }
+    ]
+  }
+}

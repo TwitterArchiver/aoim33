@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2038424587789390109",
+    "created_at": "2026-03-30T01:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T02:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038425684759171406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494372011531018240",
+          "start": 0,
+          "username": "Kanjousen_dwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038425684759171406",
+    "in_reply_to_user_id": "1494372011531018240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038425315513684464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanjousen_dwb 互相借鉴这一块\n\n此事在英剧『是，大臣』里已有记载"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038425315513684464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038425315513684464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038425315513684464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2038424587789390109",
+        "created_at": "2026-03-30T01:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038425684759171406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494372011531018240",
+              "start": 0,
+              "username": "Kanjousen_dwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038425684759171406",
+        "in_reply_to_user_id": "1494372011531018240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038425315513684464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanjousen_dwb 互相借鉴这一块\n\n此事在英剧『是，大臣』里已有记载"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4549,
+          "following_count": 2737,
+          "like_count": 41366,
+          "listed_count": 21,
+          "media_count": 2280,
+          "tweet_count": 10041
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-17T18:04:02.000Z",
+        "description": "サイバー環状線（ @CyberKanjousen ）里推。原用户名@d_w__b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 40,
+                "start": 33,
+                "username": "d_w__b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "http://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/vkDIjzsFSK"
+              }
+            ]
+          }
+        },
+        "id": "1494372011531018240",
+        "name": "環状線 dwb 号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027037269367152640/EQv24qo5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 22,
+          "like_count": 851,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/vkDIjzsFSK",
+        "username": "Kanjousen_dwb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "1972626554195951992",
+    "created_at": "2025-09-29T11:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972626554195951992"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ゼンレスゾーンゼロ",
+          "probability": 0.6289,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 43,
+          "normalized_text": "いまでも夢を覚えていますか",
+          "probability": 0.6534,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "YouTube",
+          "probability": 0.4917,
+          "start": 52,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "ゼンゼロ"
+        },
+        {
+          "end": 121,
+          "start": 112,
+          "tag": "ゼンゼロ予告番組"
+        },
+        {
+          "end": 137,
+          "start": 123,
+          "tag": "いまでも夢を覚えていますか"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1508389995228315662",
+          "start": 3,
+          "username": "ZZZ_JP"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組は、9月29日20:30（JST）より配信される予定です！※視聴する際は字幕機能をご利用いただくと、よりお楽しみいただけます。——新エリー都へようこそ！——PlayStation®5・iOS・Android・PC・Xbox | HoYove...",
+          "display_url": "youtu.be/Q7j12ouR0QM",
+          "end": 104,
+          "expanded_url": "https://youtu.be/Q7j12ouR0QM",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1972595865887125504/LFJm2uqw?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1972595865887125504/LFJm2uqw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 81,
+          "status": 200,
+          "title": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組",
+          "unwound_url": "https://www.youtube.com/watch?v=Q7j12ouR0QM&feature=youtu.be",
+          "url": "https://t.co/fl712CuHWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972626554195951992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972624700259156044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZZ_JP: 『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組、公式YouTubeチャンネルにて配信中！\n\n▼今すぐ視聴する\nhttps://t.co/fl712CuHWu\n\n#ゼンゼロ #ゼンゼロ予告番組 \n#いまでも夢を覚えていますか h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1972604613494022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AZcdWboAA1qwL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1972626554195951992",
+        "created_at": "2025-09-29T11:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972626554195951992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ゼンレスゾーンゼロ",
+              "probability": 0.6289,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "いまでも夢を覚えていますか",
+              "probability": 0.6534,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "YouTube",
+              "probability": 0.4917,
+              "start": 52,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "ゼンゼロ"
+            },
+            {
+              "end": 121,
+              "start": 112,
+              "tag": "ゼンゼロ予告番組"
+            },
+            {
+              "end": 137,
+              "start": 123,
+              "tag": "いまでも夢を覚えていますか"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1508389995228315662",
+              "start": 3,
+              "username": "ZZZ_JP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組は、9月29日20:30（JST）より配信される予定です！※視聴する際は字幕機能をご利用いただくと、よりお楽しみいただけます。——新エリー都へようこそ！——PlayStation®5・iOS・Android・PC・Xbox | HoYove...",
+              "display_url": "youtu.be/Q7j12ouR0QM",
+              "end": 104,
+              "expanded_url": "https://youtu.be/Q7j12ouR0QM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1972595865887125504/LFJm2uqw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972595865887125504/LFJm2uqw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組",
+              "unwound_url": "https://www.youtube.com/watch?v=Q7j12ouR0QM&feature=youtu.be",
+              "url": "https://t.co/fl712CuHWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972626554195951992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972624700259156044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZZ_JP: 『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組、公式YouTubeチャンネルにて配信中！\n\n▼今すぐ視聴する\nhttps://t.co/fl712CuHWu\n\n#ゼンゼロ #ゼンゼロ予告番組 \n#いまでも夢を覚えていますか h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972604613494022144"
+          ]
+        },
+        "author_id": "1508389995228315662",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1972624700259156044",
+        "created_at": "2025-09-29T11:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972624700259156044"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "ゼンレスゾーンゼロ",
+              "probability": 0.685,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "いまでも夢を覚えていますか",
+              "probability": 0.6978,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "YouTube",
+              "probability": 0.4644,
+              "start": 40,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "ゼンゼロ"
+            },
+            {
+              "end": 109,
+              "start": 100,
+              "tag": "ゼンゼロ予告番組"
+            },
+            {
+              "end": 125,
+              "start": 111,
+              "tag": "いまでも夢を覚えていますか"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組は、9月29日20:30（JST）より配信される予定です！※視聴する際は字幕機能をご利用いただくと、よりお楽しみいただけます。——新エリー都へようこそ！——PlayStation®5・iOS・Android・PC・Xbox | HoYove...",
+              "display_url": "youtu.be/Q7j12ouR0QM",
+              "end": 92,
+              "expanded_url": "https://youtu.be/Q7j12ouR0QM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1972595865887125504/LFJm2uqw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972595865887125504/LFJm2uqw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組",
+              "unwound_url": "https://www.youtube.com/watch?v=Q7j12ouR0QM&feature=youtu.be",
+              "url": "https://t.co/fl712CuHWu"
+            },
+            {
+              "display_url": "pic.x.com/1kt19Xw3kW",
+              "end": 149,
+              "expanded_url": "https://x.com/ZZZ_JP/status/1972624700259156044/photo/1",
+              "media_key": "3_1972604613494022144",
+              "start": 126,
+              "url": "https://t.co/1kt19Xw3kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972624700259156044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25381,
+          "like_count": 921,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "『ゼンレスゾーンゼロ』Ver.2.3「いまでも夢を覚えていますか」予告番組、公式YouTubeチャンネルにて配信中！\n\n▼今すぐ視聴する\nhttps://t.co/fl712CuHWu\n\n#ゼンゼロ #ゼンゼロ予告番組 \n#いまでも夢を覚えていますか https://t.co/1kt19Xw3kW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1173,
+          "like_count": 12062,
+          "listed_count": 3,
+          "media_count": 592,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-28T10:26:31.000Z",
+        "description": "PlayStation®5・iOS・Android・PC・Xbox | HoYoverseが贈る最新都市ファンタジーアクションRPG『ゼンレスゾーンゼロ』Ver.2.2「穏やかな夜をよしとせず」がリリースされました！YouTube∶https://t.co/qcK0P8bqvr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZZZ_JP",
+                "end": 139,
+                "expanded_url": "https://youtube.com/@ZZZ_JP",
+                "start": 116,
+                "url": "https://t.co/qcK0P8bqvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/BTRSmHqvXy"
+              }
+            ]
+          }
+        },
+        "id": "1508389995228315662",
+        "location": "新エリー都",
+        "name": "ゼンレスゾーンゼロ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945264261220970496/KJwkesN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883619,
+          "following_count": 46,
+          "like_count": 28,
+          "listed_count": 3132,
+          "media_count": 1422,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/BTRSmHqvXy",
+        "username": "ZZZ_JP",
+        "verified": true
+      }
+    ]
+  }
+}

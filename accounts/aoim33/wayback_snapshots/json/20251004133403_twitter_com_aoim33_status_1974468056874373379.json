@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1974468056874373379",
+    "created_at": "2025-10-04T13:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T14:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974468056874373379"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "中国",
+          "probability": 0.633,
+          "start": 14,
+          "type": "Place"
+        },
+        {
+          "end": 133,
+          "normalized_text": "中国",
+          "probability": 0.827,
+          "start": 132,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "89631590",
+          "start": 3,
+          "username": "kozochan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974468056874373379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974456048909189509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kozochan: 中国住み24年です。好きも嫌いもあると思う。人口多いし、良い人悪い人どっちもたくさんいる。言えるのは日本人の価値観で接するとだいたい嫌悪感が出ること。私も今だに気分悪くなるときもあります。外国人として尊重してこそうまく付き合える、これは中国に限らず。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1974468056874373379",
+        "created_at": "2025-10-04T13:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974468056874373379"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "中国",
+              "probability": 0.633,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 133,
+              "normalized_text": "中国",
+              "probability": 0.827,
+              "start": 132,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "89631590",
+              "start": 3,
+              "username": "kozochan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974468056874373379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974456048909189509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kozochan: 中国住み24年です。好きも嫌いもあると思う。人口多いし、良い人悪い人どっちもたくさんいる。言えるのは日本人の価値観で接するとだいたい嫌悪感が出ること。私も今だに気分悪くなるときもあります。外国人として尊重してこそうまく付き合える、これは中国に限らず。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89631590",
+        "conversation_id": "1974456048909189509",
+        "created_at": "2025-10-04T12:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974456048909189509"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.6616,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 119,
+              "normalized_text": "中国",
+              "probability": 0.8247,
+              "start": 118,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tsiberia/statu…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/tsiberia/status/1974298768926519785",
+              "start": 126,
+              "url": "https://t.co/Ss2QoVydMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974456048909189509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974298768926519785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国住み24年です。好きも嫌いもあると思う。人口多いし、良い人悪い人どっちもたくさんいる。言えるのは日本人の価値観で接するとだいたい嫌悪感が出ること。私も今だに気分悪くなるときもあります。外国人として尊重してこそうまく付き合える、これは中国に限らず。 https://t.co/Ss2QoVydMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー 社会観察 白猫 タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1293,
+          "like_count": 12991,
+          "listed_count": 3,
+          "media_count": 637,
+          "tweet_count": 3203
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-13T05:09:39.000Z",
+        "description": "海外生活25年 中国ASEAN在住投資家 2026年春FIRE予定 株式/債券/海外不動産/暗号資産、分散投資による資産形成中 やりたい事リストただ今24個 誰でもできる”世界で暮らす＆増やす&遊ぶ”術を発信中",
+        "id": "89631590",
+        "location": "china",
+        "name": "小野寺まっさ＠海外生活Lv25",
+        "pinned_tweet_id": "1874109734774858213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538792762824224768/Ld9zIuz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6513,
+          "following_count": 4939,
+          "like_count": 186150,
+          "listed_count": 87,
+          "media_count": 3418,
+          "tweet_count": 27146
+        },
+        "username": "kozochan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064980835091337216",
+        "3_2064980835795959808"
+      ],
+      "media_source_tweet_id": [
+        "2064980844478103998",
+        "2064980844478103998"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064980967434142117",
+    "created_at": "2026-06-11T08:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064980967434142117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778850117933838337",
+          "start": 3,
+          "username": "TBduyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByoheK4oOC",
+          "end": 42,
+          "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+          "media_key": "3_2064980835091337216",
+          "start": 19,
+          "url": "https://t.co/ByoheK4oOC"
+        },
+        {
+          "display_url": "pic.x.com/ByoheK4oOC",
+          "end": 42,
+          "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+          "media_key": "3_2064980835795959808",
+          "start": 19,
+          "url": "https://t.co/ByoheK4oOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064980967434142117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064980844478103998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TBduyu: 疑似全班最惨 https://t.co/ByoheK4oOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2064980835091337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhJIPeb0AATT-m.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2064980835795959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhJISGbgAAoKi1.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064980835091337216",
+            "3_2064980835795959808"
+          ],
+          "media_source_tweet_id": [
+            "2064980844478103998",
+            "2064980844478103998"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064980967434142117",
+        "created_at": "2026-06-11T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064980967434142117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778850117933838337",
+              "start": 3,
+              "username": "TBduyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByoheK4oOC",
+              "end": 42,
+              "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+              "media_key": "3_2064980835091337216",
+              "start": 19,
+              "url": "https://t.co/ByoheK4oOC"
+            },
+            {
+              "display_url": "pic.x.com/ByoheK4oOC",
+              "end": 42,
+              "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+              "media_key": "3_2064980835795959808",
+              "start": 19,
+              "url": "https://t.co/ByoheK4oOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064980967434142117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064980844478103998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TBduyu: 疑似全班最惨 https://t.co/ByoheK4oOC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064980835091337216",
+            "3_2064980835795959808"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064980844478103998",
+        "created_at": "2026-06-11T07:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064980844478103998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByoheK4oOC",
+              "end": 30,
+              "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+              "media_key": "3_2064980835091337216",
+              "start": 7,
+              "url": "https://t.co/ByoheK4oOC"
+            },
+            {
+              "display_url": "pic.x.com/ByoheK4oOC",
+              "end": 30,
+              "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+              "media_key": "3_2064980835795959808",
+              "start": 7,
+              "url": "https://t.co/ByoheK4oOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064980844478103998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "疑似全班最惨 https://t.co/ByoheK4oOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6023,
+          "following_count": 3031,
+          "like_count": 52414,
+          "listed_count": 21,
+          "media_count": 3181,
+          "tweet_count": 13337
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生\n 喜欢毛茸茸 \n  目前：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机（几乎懒得搞了现在）\n开个蓝v，加点曝光，说不定能火一把呢？当然也没抱太大希望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "username": "aoim33"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "My home/school",
+        "name": "tabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1597,
+          "like_count": 16210,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1511
+        },
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

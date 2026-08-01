@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "1987757499278385582",
+    "created_at": "2025-11-10T05:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987757499278385582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/103_matcha/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/103_matcha/status/1987756346717229517",
+          "start": 3,
+          "url": "https://t.co/97QS5l5z4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987757499278385582",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987756346717229517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥳🧡 https://t.co/97QS5l5z4d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1987757499278385582",
+        "created_at": "2025-11-10T05:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987757499278385582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/103_matcha/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/103_matcha/status/1987756346717229517",
+              "start": 3,
+              "url": "https://t.co/97QS5l5z4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987757499278385582",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987756346717229517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥳🧡 https://t.co/97QS5l5z4d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565930647599738880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1987700686289846590",
+        "created_at": "2025-11-10T05:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987756346717229517"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 108,
+              "normalized_text": "LINE",
+              "probability": 0.81,
+              "start": 105,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987756346717229517",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987755937466335252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 名前、読み方： みすみさん\n好感度1～100： 85\n信頼度1～100： 80\n告白されたら： メノムスメ好きなのだ\n通話できるか： かも\nリアルで会える？：かも\nガチ本音： よく絡みたいのだ\nLINE交換できるか： 考えさせて\nこのツイートやるか：やって欲しいのだ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1632,
+          "like_count": 18097,
+          "listed_count": 4,
+          "media_count": 877,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T05:12:31.000Z",
+        "description": "アイコン:くぐつ92 電波系ボカロP より可愛くなりたいのだ",
+        "id": "1565930647599738880",
+        "location": "東雲研究所",
+        "name": "神楽坂茉莉@ボカコレ2025夏位487",
+        "pinned_tweet_id": "1958897131747779072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966688656917491713/M2XLZdgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 512,
+          "like_count": 15288,
+          "listed_count": 5,
+          "media_count": 1303,
+          "tweet_count": 7229
+        },
+        "username": "103_matcha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041046235",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "1979914574590779520",
+    "created_at": "2025-10-19T14:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T15:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979919874454675559"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 193,
+          "normalized_text": "Stripe Express",
+          "probability": 0.9323,
+          "start": 180,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "564392197",
+          "start": 0,
+          "username": "stripesupport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979919874454675559",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "564392197",
+            "start": 0,
+            "username": "stripesupport"
+          }
+        ]
+      },
+      "text": "@stripesupport \nHi, sorry for mentioning you under my personal related stuff\nBut as the previous post mentioned, I would like to ask if there is any way to disconnect the original Stripe Express account by just providing my passport and email during the registration, without accessing the Twitter account itself?"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979914574590779520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stripesupport \nHi, sorry for mentioning you under my personal related stuff\nBut as the previous post mentioned, I would like to ask if there is any way to disconnect the original Stripe Express account by just providing my passport and email during the registration, without"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "1979914574590779520",
+        "created_at": "2025-10-19T14:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979919874454675559"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 193,
+              "normalized_text": "Stripe Express",
+              "probability": 0.9323,
+              "start": 180,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "564392197",
+              "start": 0,
+              "username": "stripesupport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979919874454675559",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "564392197",
+                "start": 0,
+                "username": "stripesupport"
+              }
+            ]
+          },
+          "text": "@stripesupport \nHi, sorry for mentioning you under my personal related stuff\nBut as the previous post mentioned, I would like to ask if there is any way to disconnect the original Stripe Express account by just providing my passport and email during the registration, without accessing the Twitter account itself?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979914574590779520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stripesupport \nHi, sorry for mentioning you under my personal related stuff\nBut as the previous post mentioned, I would like to ask if there is any way to disconnect the original Stripe Express account by just providing my passport and email during the registration, without"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1979914574590779520",
+        "created_at": "2025-10-19T14:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979914574590779520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 110,
+              "normalized_text": "Kumohato",
+              "probability": 0.6665,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/aoim33/status/1979913905720926513",
+              "start": 279,
+              "url": "https://t.co/usOVy0NAfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979914574590779520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I am writing this to address recent inquiries from some mutual friends regarding my relationship with \"Kumohato.\"\n\nTo be clear: we have mutually unfollowed and blocked each other on Chinese social media platforms. There is absolutely no personal contact between us at this time.\n\nThe only remaining connection is a technical and historical issue concerning the transfer of Twitter/X monetization revenue. This is because he registered using my identity information when he met the threshold as a minor.\nWhile he has submitted a new tax form, Stripe regulations prevent changing the linked identity/bank account once monetization is set up, even after he has become an adult.\n\nI have repeatedly suggested he simply close the account and restart—given his influence, this would not be difficult. However, he refuses, claiming that deleting the account would \"erase all evidence of the harm done to him.\" I will offer no further comment on his personal reasons.\n\nAs my workload increases with my personal research projects and career, I will not have the time to oversee these finances, which could lead to unnecessary complications.\nI sincerely hope this technical issue can be resolved promptly and amicably.\n\nThank you for your understanding."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979913905720926513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I am writing this to address recent inquiries from some mutual friends regarding my relationship with \"Kumohato.\"\n\nTo be clear: we have mutually unfollowed and blocked each other on Chinese social media platforms. There is absolutely no personal contact between us at this time. https://t.co/usOVy0NAfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1543,
+          "like_count": 15681,
+          "listed_count": 2,
+          "media_count": 742,
+          "tweet_count": 3763
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-27T08:02:03.000Z",
+        "description": "We're here to help. Updates: @stripe. Ideas: @stripepress. Status: @stripestatus.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "stripe"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "stripepress"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "stripestatus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "support.stripe.com",
+                "end": 23,
+                "expanded_url": "http://support.stripe.com",
+                "start": 0,
+                "url": "https://t.co/qmExEmauEA"
+              }
+            ]
+          }
+        },
+        "id": "564392197",
+        "location": "San Francisco US + Dublin IE",
+        "name": "Stripe Support",
+        "pinned_tweet_id": "1808169748213182896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971574145428144128/0_VZOyRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13430,
+          "following_count": 5,
+          "like_count": 27,
+          "listed_count": 27,
+          "media_count": 15,
+          "tweet_count": 16693
+        },
+        "url": "https://t.co/qmExEmauEA",
+        "username": "stripesupport",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056783640986603520"
+      ],
+      "media_source_tweet_id": [
+        "2056783643381543253"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Be the first to learn about Google’s new products, hardware and AI advancements. \nGoogle I/O is open to everyone online.\nTune in to watch the keynotes streaming live from Mountain View, CA. \nMay 10, 2023 @ 10am PT #GoogleIO\t\n\t\t\n\t\t\n\t\t",
+          "id": "1630698183142563840",
+          "name": "Google I/O 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+          "id": "2053241348807864323",
+          "name": "Google I/O 2026"
+        }
+      }
+    ],
+    "conversation_id": "2056785999297147073",
+    "created_at": "2026-05-19T17:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056785999297147073"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 95,
+          "tag": "GoogleIO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "20536157",
+          "start": 3,
+          "username": "Google"
+        },
+        {
+          "end": 38,
+          "id": "1806359170830172162",
+          "start": 28,
+          "username": "GeminiApp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZoixMPv0d",
+          "end": 128,
+          "expanded_url": "https://x.com/Google/status/2056783643381543253/photo/1",
+          "media_key": "3_2056783640986603520",
+          "start": 105,
+          "url": "https://t.co/SZoixMPv0d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056785999297147073",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056783643381543253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Google: In just a year, @GeminiApp users have more than doubled, surpassing 900 million. \n\n#GoogleIO https://t.co/SZoixMPv0d"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Chart of “Gemini App usage - Monthly active users” showing growth from 400M in May 2025 to 900M+ in Apr 2026",
+        "height": 1080,
+        "media_key": "3_2056783640986603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsp0vzXUAAfa3Q.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056783640986603520"
+          ],
+          "media_source_tweet_id": [
+            "2056783643381543253"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Be the first to learn about Google’s new products, hardware and AI advancements. \nGoogle I/O is open to everyone online.\nTune in to watch the keynotes streaming live from Mountain View, CA. \nMay 10, 2023 @ 10am PT #GoogleIO\t\n\t\t\n\t\t\n\t\t",
+              "id": "1630698183142563840",
+              "name": "Google I/O 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+              "id": "2053241348807864323",
+              "name": "Google I/O 2026"
+            }
+          }
+        ],
+        "conversation_id": "2056785999297147073",
+        "created_at": "2026-05-19T17:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056785999297147073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 95,
+              "tag": "GoogleIO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "20536157",
+              "start": 3,
+              "username": "Google"
+            },
+            {
+              "end": 38,
+              "id": "1806359170830172162",
+              "start": 28,
+              "username": "GeminiApp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZoixMPv0d",
+              "end": 128,
+              "expanded_url": "https://x.com/Google/status/2056783643381543253/photo/1",
+              "media_key": "3_2056783640986603520",
+              "start": 105,
+              "url": "https://t.co/SZoixMPv0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056785999297147073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056783643381543253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Google: In just a year, @GeminiApp users have more than doubled, surpassing 900 million. \n\n#GoogleIO https://t.co/SZoixMPv0d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056783640986603520"
+          ]
+        },
+        "author_id": "20536157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Be the first to learn about Google’s new products, hardware and AI advancements. \nGoogle I/O is open to everyone online.\nTune in to watch the keynotes streaming live from Mountain View, CA. \nMay 10, 2023 @ 10am PT #GoogleIO\t\n\t\t\n\t\t\n\t\t",
+              "id": "1630698183142563840",
+              "name": "Google I/O 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+              "id": "2053241348807864323",
+              "name": "Google I/O 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Be the first to learn about Google’s new products, hardware and AI advancements. \nGoogle I/O is open to everyone online.\nTune in to watch the keynotes streaming live from Mountain View, CA. \nMay 10, 2023 @ 10am PT #GoogleIO\t\n\t\t\n\t\t\n\t\t",
+              "id": "1630698183142563840",
+              "name": "Google I/O 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+              "id": "2053241348807864323",
+              "name": "Google I/O 2026"
+            }
+          }
+        ],
+        "conversation_id": "2056783643381543253",
+        "created_at": "2026-05-19T17:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056783643381543253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 83,
+              "tag": "GoogleIO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1806359170830172162",
+              "start": 16,
+              "username": "GeminiApp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZoixMPv0d",
+              "end": 116,
+              "expanded_url": "https://x.com/Google/status/2056783643381543253/photo/1",
+              "media_key": "3_2056783640986603520",
+              "start": 93,
+              "url": "https://t.co/SZoixMPv0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056783643381543253",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10999,
+          "like_count": 169,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "In just a year, @GeminiApp users have more than doubled, surpassing 900 million. \n\n#GoogleIO https://t.co/SZoixMPv0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 2954,
+          "like_count": 49333,
+          "listed_count": 19,
+          "media_count": 2896,
+          "tweet_count": 12424
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T19:14:39.000Z",
+        "description": "Here to help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.google/newsletter-sub…",
+                "end": 23,
+                "expanded_url": "https://blog.google/newsletter-subscribe/",
+                "start": 0,
+                "url": "https://t.co/RS3iU87BGe"
+              }
+            ]
+          }
+        },
+        "id": "20536157",
+        "location": "Mountain View, CA",
+        "name": "Google",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31909313,
+          "following_count": 295,
+          "like_count": 4432,
+          "listed_count": 89769,
+          "media_count": 37931,
+          "tweet_count": 250796
+        },
+        "url": "https://t.co/RS3iU87BGe",
+        "username": "Google",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T16:10:25.000Z",
+        "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/lc7BAJqH5u"
+              }
+            ]
+          }
+        },
+        "id": "1806359170830172162",
+        "location": "Mountain View, CA",
+        "name": "Google Gemini",
+        "pinned_tweet_id": "2056782037525368975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497306,
+          "following_count": 47,
+          "like_count": 3683,
+          "listed_count": 4374,
+          "media_count": 446,
+          "tweet_count": 14884
+        },
+        "url": "https://t.co/lc7BAJqH5u",
+        "username": "GeminiApp",
+        "verified": true
+      }
+    ]
+  }
+}

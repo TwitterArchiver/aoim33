@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2028136902642332153",
+    "created_at": "2026-03-01T15:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028136902642332153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dashen_wang/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/dashen_wang/status/2028097552147730646",
+          "start": 20,
+          "url": "https://t.co/luyyUka5j3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028136902642332153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028097552147730646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "预测市场我也不知道怎么搞诶，可以试一试 https://t.co/luyyUka5j3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2028136902642332153",
+        "created_at": "2026-03-01T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028136902642332153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dashen_wang/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/dashen_wang/status/2028097552147730646",
+              "start": 20,
+              "url": "https://t.co/luyyUka5j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028136902642332153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028097552147730646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "预测市场我也不知道怎么搞诶，可以试一试 https://t.co/luyyUka5j3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762817339882602496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2028097552147730646",
+        "created_at": "2026-03-01T13:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028097552147730646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028097552147730646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Polymarket 官方出了 CLI，结果全网安静得跟没发生一样。 可能因为它不炫、不酷、不适合截图，但它做的事全是硬核工程量：\n\n查市场、看盘口、跑历史数据\n\n下单、撤单、查仓位\n\n全量 JSON 输出，脚本一接就能跑\n\n直接把 Polymarket 从“网页”变成“接口”\n\n真正离谱的是 接上 OpenClaw 之后，它变成一条完整的自动化交易流水线： Agent 读行情、判断赔率、自动下单、自动止损、自动监控仓位，你只需要写规则，它们自己跑。\n\n大家都在讨论“AI 交易的未来”，但真正能落地的工具就在这里： CLI 负责执行，OpenClaw 负责大脑，你负责喝水。\n\n为什么没人说？ 因为这玩意儿太实用、太工程化、太不花哨。 但做系统的人都懂： UI 是给人用的，CLI 才是给系统用的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 2916,
+          "like_count": 62,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Polymarket 官方出了 CLI，结果全网安静得跟没发生一样。 可能因为它不炫、不酷、不适合截图，但它做的事全是硬核工程量：\n\n查市场、看盘口、跑历史数据\n\n下单、撤单、查仓位\n\n全量 JSON 输出，脚本一接就能跑\n\n直接把 Polymarket 从“网页”变成“接口”\n\n真正离谱的是 接上 OpenClaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 / 上海地铁 上海铁路局 杭州地铁 bot / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3876,
+          "following_count": 2571,
+          "like_count": 36153,
+          "listed_count": 19,
+          "media_count": 1820,
+          "tweet_count": 8180
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-28T12:30:02.000Z",
+        "description": "🛠️ 技术架构 / 自动化体系\n🤖 研究 AI、架构、人类行为模式\n📦 擅长把复杂拆开，把混乱整理成能落地的结构\n📈 股票 & 加密货币投机者\n📌 内容方向：AI、工具、自动化、投机逻辑\n🌍 常驻技术世界，偶尔经过情绪地",
+        "id": "1762817339882602496",
+        "name": "AI最严厉的父亲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025512788534448128/RVb6JJiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 106,
+          "like_count": 51,
+          "listed_count": 17,
+          "media_count": 15,
+          "tweet_count": 235
+        },
+        "username": "dashen_wang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple - #TodayAtApple",
+          "id": "1075040567065686016",
+          "name": "Apple - #TodayAtApple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology",
+          "id": "857879456773357569",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2037488567270953353",
+    "created_at": "2026-03-27T11:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037488567270953353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 34,
+          "tag": "AppleOmotesando"
+        },
+        {
+          "end": 97,
+          "start": 89,
+          "tag": "Apple50"
+        },
+        {
+          "end": 107,
+          "start": 98,
+          "tag": "Apple表参道"
+        },
+        {
+          "end": 121,
+          "start": 108,
+          "tag": "todayatapple"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582637002209382400",
+          "start": 3,
+          "username": "Nao_9615"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/rAxI",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/rAxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037488567270953353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037480067425857966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nao_9615: Mori Calliope ライブ @ #AppleOmotesando\n圧倒的な迫力と盛り上がりで、めちゃくちゃ楽しかったです！！！！！！！！！\n\n#Apple50 #Apple表参道 #todayatapple https://t.co/rAxI…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037480062031974400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaVUkZbUAAK-ht.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037480062023548928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaVUkXawAAwvH2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037480062027698176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaVUkYaEAAAWN-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037480062061359104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaVUkgbsAAKIzu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple - #TodayAtApple",
+              "id": "1075040567065686016",
+              "name": "Apple - #TodayAtApple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037488567270953353",
+        "created_at": "2026-03-27T11:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037488567270953353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 34,
+              "tag": "AppleOmotesando"
+            },
+            {
+              "end": 97,
+              "start": 89,
+              "tag": "Apple50"
+            },
+            {
+              "end": 107,
+              "start": 98,
+              "tag": "Apple表参道"
+            },
+            {
+              "end": 121,
+              "start": 108,
+              "tag": "todayatapple"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582637002209382400",
+              "start": 3,
+              "username": "Nao_9615"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/rAxI",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/rAxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037488567270953353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037480067425857966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nao_9615: Mori Calliope ライブ @ #AppleOmotesando\n圧倒的な迫力と盛り上がりで、めちゃくちゃ楽しかったです！！！！！！！！！\n\n#Apple50 #Apple表参道 #todayatapple https://t.co/rAxI…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037480062031974400",
+            "3_2037480062023548928",
+            "3_2037480062027698176",
+            "3_2037480062061359104"
+          ]
+        },
+        "author_id": "1582637002209382400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple - #TodayAtApple",
+              "id": "1075040567065686016",
+              "name": "Apple - #TodayAtApple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037480067425857966",
+        "created_at": "2026-03-27T10:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037480067425857966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 20,
+              "tag": "AppleOmotesando"
+            },
+            {
+              "end": 83,
+              "start": 75,
+              "tag": "Apple50"
+            },
+            {
+              "end": 93,
+              "start": 84,
+              "tag": "Apple表参道"
+            },
+            {
+              "end": 107,
+              "start": 94,
+              "tag": "todayatapple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAxIACIXhA",
+              "end": 131,
+              "expanded_url": "https://x.com/Nao_9615/status/2037480067425857966/photo/1",
+              "media_key": "3_2037480062031974400",
+              "start": 108,
+              "url": "https://t.co/rAxIACIXhA"
+            },
+            {
+              "display_url": "pic.x.com/rAxIACIXhA",
+              "end": 131,
+              "expanded_url": "https://x.com/Nao_9615/status/2037480067425857966/photo/1",
+              "media_key": "3_2037480062023548928",
+              "start": 108,
+              "url": "https://t.co/rAxIACIXhA"
+            },
+            {
+              "display_url": "pic.x.com/rAxIACIXhA",
+              "end": 131,
+              "expanded_url": "https://x.com/Nao_9615/status/2037480067425857966/photo/1",
+              "media_key": "3_2037480062027698176",
+              "start": 108,
+              "url": "https://t.co/rAxIACIXhA"
+            },
+            {
+              "display_url": "pic.x.com/rAxIACIXhA",
+              "end": 131,
+              "expanded_url": "https://x.com/Nao_9615/status/2037480067425857966/photo/1",
+              "media_key": "3_2037480062061359104",
+              "start": 108,
+              "url": "https://t.co/rAxIACIXhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037480067425857966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 541,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Mori Calliope ライブ @ #AppleOmotesando\n圧倒的な迫力と盛り上がりで、めちゃくちゃ楽しかったです！！！！！！！！！\n\n#Apple50 #Apple表参道 #todayatapple https://t.co/rAxIACIXhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 138,
+                "start": 131,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 2724,
+          "like_count": 40951,
+          "listed_count": 20,
+          "media_count": 2255,
+          "tweet_count": 9890
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-19T07:37:37.000Z",
+        "description": "現高1のガジェオタでApple信者。🎥東海オンエア🤎 ⚾️ソフトバンク🦅 鍵: @Nao_9615_Key iPhone 17 | iPad Pro (11”, M1) | AirPods 4 with ANC | Apple Watch Series 10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "Nao_9615_Key"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nao9615.tech",
+                "end": 23,
+                "expanded_url": "https://nao9615.tech",
+                "start": 0,
+                "url": "https://t.co/jYwREQVrK5"
+              }
+            ]
+          }
+        },
+        "id": "1582637002209382400",
+        "location": "Standard SKU",
+        "name": "Nao",
+        "pinned_tweet_id": "2029216428629606788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036457778278174720/A1_o4hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3326,
+          "following_count": 1696,
+          "like_count": 284021,
+          "listed_count": 14,
+          "media_count": 5575,
+          "tweet_count": 47321
+        },
+        "url": "https://t.co/jYwREQVrK5",
+        "username": "Nao_9615",
+        "verified": true
+      }
+    ]
+  }
+}

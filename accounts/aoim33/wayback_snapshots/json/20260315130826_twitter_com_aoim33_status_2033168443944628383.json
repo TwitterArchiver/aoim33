@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033168434750799872"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2033168443944628383",
+    "created_at": "2026-03-15T13:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033168443944628383"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "野外"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "福瑞"
+        },
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "裸体"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "草地"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHQ5qhNHQ6",
+          "end": 39,
+          "expanded_url": "https://x.com/aoim33/status/2033168443944628383/photo/1",
+          "media_key": "3_2033168434750799872",
+          "start": 16,
+          "url": "https://t.co/YHQ5qhNHQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033168443944628383",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#野外 #福瑞 #裸体 #草地 https://t.co/YHQ5qhNHQ6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033168443944628383].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033168443944628383",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033168443944628383"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2033168434750799872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdD61HbwAApPKl.jpg",
+        "width": 1279
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 2632,
+          "like_count": 38760,
+          "listed_count": 20,
+          "media_count": 2087,
+          "tweet_count": 9196
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

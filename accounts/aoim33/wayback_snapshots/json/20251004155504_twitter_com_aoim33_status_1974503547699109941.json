@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1951244778546315760",
+    "created_at": "2025-10-04T15:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974503547699109941"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "澄 葵",
+          "probability": 0.395,
+          "start": 28,
+          "type": "Person"
+        },
+        {
+          "end": 75,
+          "normalized_text": "Arcaea",
+          "probability": 0.4981,
+          "start": 70,
+          "type": "Person"
+        },
+        {
+          "end": 98,
+          "normalized_text": "ソルトちゃん",
+          "probability": 0.5076,
+          "start": 93,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1502568215075254273",
+          "start": 0,
+          "username": "mgsccr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974503547699109941",
+    "in_reply_to_user_id": "1502568215075254273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951244778546315760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mgsccr 2ヶ月の時差があっちゃった…\n\n名前：三澄 葵 \n呼ばれたい呼び方：以前の「あの名前」もいい\nやってるゲーム：maimai、Arcaeaとホヨバの\n推し：maimaiでのソルトちゃん\n最近ハマっているもの：音ゲーと心理学、教育学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1951244778546315760",
+        "created_at": "2025-10-04T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974503547699109941"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "澄 葵",
+              "probability": 0.395,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Arcaea",
+              "probability": 0.4981,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "ソルトちゃん",
+              "probability": 0.5076,
+              "start": 93,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1502568215075254273",
+              "start": 0,
+              "username": "mgsccr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974503547699109941",
+        "in_reply_to_user_id": "1502568215075254273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951244778546315760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mgsccr 2ヶ月の時差があっちゃった…\n\n名前：三澄 葵 \n呼ばれたい呼び方：以前の「あの名前」もいい\nやってるゲーム：maimai、Arcaeaとホヨバの\n推し：maimaiでのソルトちゃん\n最近ハマっているもの：音ゲーと心理学、教育学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502568215075254273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951244778546315760",
+        "created_at": "2025-08-01T11:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951244778546315760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951244778546315760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1663,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ゆるーく把握会します\n\n名前：\n呼ばれたい呼び方：\nやってるゲーム：\n推し：\n最近ハマっているもの："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー 社会観察 白猫 タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 1299,
+          "like_count": 13036,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-12T08:53:26.000Z",
+        "description": "実はね、「兎の目」の所有者はみんな、兎になる資格を持っているんだよ。その者たちは「原兎」と呼ばれて、天空の島に登る資格があるんだ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/zcb2xxb2dibxni…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/zcb2xxb2dibxnij?t=djteFZ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/x8lzqKlPyM"
+              }
+            ]
+          }
+        },
+        "id": "1502568215075254273",
+        "name": "原兎Mira",
+        "pinned_tweet_id": "1951244778546315760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961809172909158400/RkB24kZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 726,
+          "like_count": 76158,
+          "listed_count": 21,
+          "media_count": 641,
+          "tweet_count": 32691
+        },
+        "url": "https://t.co/x8lzqKlPyM",
+        "username": "mgsccr",
+        "verified": false
+      }
+    ]
+  }
+}

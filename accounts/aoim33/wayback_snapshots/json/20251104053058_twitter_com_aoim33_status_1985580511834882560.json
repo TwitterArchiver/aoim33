@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Handstands",
+          "id": "872573517132320768",
+          "name": "Handstands"
+        }
+      }
+    ],
+    "conversation_id": "1985580511834882560",
+    "created_at": "2025-11-04T05:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T06:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985580511834882560"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "中国",
+          "probability": 0.9429,
+          "start": 15,
+          "type": "Place"
+        },
+        {
+          "end": 20,
+          "normalized_text": "中国",
+          "probability": 0.8447,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 39,
+          "normalized_text": "上海",
+          "probability": 0.8649,
+          "start": 38,
+          "type": "Place"
+        },
+        {
+          "end": 54,
+          "normalized_text": "中国",
+          "probability": 0.8675,
+          "start": 53,
+          "type": "Place"
+        },
+        {
+          "end": 64,
+          "normalized_text": "中国",
+          "probability": 0.8218,
+          "start": 63,
+          "type": "Place"
+        },
+        {
+          "end": 71,
+          "normalized_text": "日本",
+          "probability": 0.8827,
+          "start": 70,
+          "type": "Place"
+        },
+        {
+          "end": 80,
+          "normalized_text": "中国",
+          "probability": 0.9325,
+          "start": 79,
+          "type": "Place"
+        },
+        {
+          "end": 90,
+          "normalized_text": "中国",
+          "probability": 0.9248,
+          "start": 89,
+          "type": "Place"
+        },
+        {
+          "end": 105,
+          "normalized_text": "中国",
+          "probability": 0.8843,
+          "start": 104,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1012765651994214402",
+          "start": 3,
+          "username": "ESPRIMO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985580511834882560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985265386825400737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ESPRIMO7: 「中国が！中国が！」とやたらと煩い人がいるけど\n上海でも何処でもいいから、一度中国に行ってみな\n\n中国に行けば、日本は逆立ちしても中国に追いつけない、中国に勝てない事が理解出来る\n中国の国力の凄さが解る"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Handstands",
+              "id": "872573517132320768",
+              "name": "Handstands"
+            }
+          }
+        ],
+        "conversation_id": "1985580511834882560",
+        "created_at": "2025-11-04T05:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985580511834882560"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "中国",
+              "probability": 0.9429,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 20,
+              "normalized_text": "中国",
+              "probability": 0.8447,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "上海",
+              "probability": 0.8649,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 54,
+              "normalized_text": "中国",
+              "probability": 0.8675,
+              "start": 53,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "中国",
+              "probability": 0.8218,
+              "start": 63,
+              "type": "Place"
+            },
+            {
+              "end": 71,
+              "normalized_text": "日本",
+              "probability": 0.8827,
+              "start": 70,
+              "type": "Place"
+            },
+            {
+              "end": 80,
+              "normalized_text": "中国",
+              "probability": 0.9325,
+              "start": 79,
+              "type": "Place"
+            },
+            {
+              "end": 90,
+              "normalized_text": "中国",
+              "probability": 0.9248,
+              "start": 89,
+              "type": "Place"
+            },
+            {
+              "end": 105,
+              "normalized_text": "中国",
+              "probability": 0.8843,
+              "start": 104,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1012765651994214402",
+              "start": 3,
+              "username": "ESPRIMO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985580511834882560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985265386825400737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ESPRIMO7: 「中国が！中国が！」とやたらと煩い人がいるけど\n上海でも何処でもいいから、一度中国に行ってみな\n\n中国に行けば、日本は逆立ちしても中国に追いつけない、中国に勝てない事が理解出来る\n中国の国力の凄さが解る"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012765651994214402",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Handstands",
+              "id": "872573517132320768",
+              "name": "Handstands"
+            }
+          }
+        ],
+        "conversation_id": "1985265386825400737",
+        "created_at": "2025-11-03T08:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985265386825400737"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "中国",
+              "probability": 0.9618,
+              "start": 1,
+              "type": "Place"
+            },
+            {
+              "end": 6,
+              "normalized_text": "中国",
+              "probability": 0.8343,
+              "start": 5,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "上海",
+              "probability": 0.8625,
+              "start": 24,
+              "type": "Place"
+            },
+            {
+              "end": 40,
+              "normalized_text": "中国",
+              "probability": 0.8676,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 50,
+              "normalized_text": "中国",
+              "probability": 0.8193,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "日本",
+              "probability": 0.8818,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "中国",
+              "probability": 0.9315,
+              "start": 65,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "中国",
+              "probability": 0.9243,
+              "start": 75,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "中国",
+              "probability": 0.8829,
+              "start": 90,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985265386825400737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 147498,
+          "like_count": 1945,
+          "quote_count": 253,
+          "reply_count": 999,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "「中国が！中国が！」とやたらと煩い人がいるけど\n上海でも何処でもいいから、一度中国に行ってみな\n\n中国に行けば、日本は逆立ちしても中国に追いつけない、中国に勝てない事が理解出来る\n中国の国力の凄さが解る"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1983549040441827520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1596,
+          "like_count": 17609,
+          "listed_count": 4,
+          "media_count": 841,
+          "tweet_count": 4191
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-29T18:32:02.000Z",
+        "description": "江戸回帰による日本版ルネサンスを提唱するナショナリスト \n\n対米自立、自主防衛、核武装、積極財政、消費税廃止、一水会\n\n福田恆存、石橋湛山、頭山満、中川昭一\n・皇室を敬戴すべし。\n・本国を愛重すべし。\n・人民の権利を固守すべし。",
+        "id": "1012765651994214402",
+        "location": "大江戸 人形町",
+        "name": "エスプリモ＠ 江戸回帰派",
+        "pinned_tweet_id": "1898918690592268607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953040849086128128/uZ-4sXCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13708,
+          "following_count": 1315,
+          "like_count": 201654,
+          "listed_count": 256,
+          "media_count": 4532,
+          "tweet_count": 206096
+        },
+        "username": "ESPRIMO7",
+        "verified": false
+      }
+    ]
+  }
+}

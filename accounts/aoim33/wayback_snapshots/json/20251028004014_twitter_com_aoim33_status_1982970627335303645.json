@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357835469099134977",
+          "name": "English language learning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "1982970627335303645",
+    "created_at": "2025-10-28T00:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T01:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982970627335303645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "837955578328555520",
+          "start": 3,
+          "username": "nippon_ukuraina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982970627335303645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4734
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982793164865085532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nippon_ukuraina: 高市総理の英語を笑っている奴は、他人を見下せる程の語学力を本当に持っているかね？\n\n私は4カ国語を喋れますが（18歳の時点でTOEIC915点、2年で日本語能力試験N2合格、4年でN1合格。二国間会談の通訳経験あり）、外国語でスピーチす…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "1982970627335303645",
+        "created_at": "2025-10-28T00:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T01:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982970627335303645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "837955578328555520",
+              "start": 3,
+              "username": "nippon_ukuraina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982970627335303645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4734
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982793164865085532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nippon_ukuraina: 高市総理の英語を笑っている奴は、他人を見下せる程の語学力を本当に持っているかね？\n\n私は4カ国語を喋れますが（18歳の時点でTOEIC915点、2年で日本語能力試験N2合格、4年でN1合格。二国間会談の通訳経験あり）、外国語でスピーチす…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "837955578328555520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "1982793164865085532",
+        "created_at": "2025-10-27T12:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982793164865085532"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "高市総理",
+              "probability": 0.6124,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982793164865085532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "高市総理の英語を笑っている奴は、他人を見下せる程の語学力を本当に持っているかね？\n\n私は4カ国語を喋れますが（18歳の時点でTOEIC915点、2年で日本語能力試験N2合格、4年でN1合格。二国間会談の通訳経験あり）、外国語でスピーチする人を嘲笑するのは恥ずかしすぎて絶対にできない。\n\n言語ってのは\n意思疎通のための道具。発音のネイティブっぽさよりも、伝えたい内容が正しく伝わっているかどうかのほうが遥かに重要。\nネイティブの喋り方を真似できたって、内容が空っぽなら、世界中に「私はバカです」と宣伝することになるだけ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 827,
+          "impression_count": 2109923,
+          "like_count": 48122,
+          "quote_count": 371,
+          "reply_count": 576,
+          "retweet_count": 4734
+        },
+        "reply_settings": "everyone",
+        "text": "高市総理の英語を笑っている奴は、他人を見下せる程の語学力を本当に持っているかね？\n\n私は4カ国語を喋れますが（18歳の時点でTOEIC915点、2年で日本語能力試験N2合格、4年でN1合格。二国間会談の通訳経験あり）、外国語でスピーチする人を嘲笑するのは恥ずかしすぎて絶対にできない。\n\n言語ってのは"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.24 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 1673,
+          "like_count": 16766,
+          "listed_count": 3,
+          "media_count": 792,
+          "tweet_count": 3997
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-04T09:19:13.000Z",
+        "description": "ウクライナ系日本国民。政治評論家、行政通訳人、国際貿易従事者。\n\n#StandWithUkraine\n\n著書：\n「В лучах восходящего солнца」（2018年、ロシア語）\n「自由を守る戦い」（2019年、続2022年、日本語）\n「プーチンの戦争」（2022年、日本語）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 33,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@NazarenkoChan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@NazarenkoChannel",
+                "start": 0,
+                "url": "https://t.co/wKce9ISW0F"
+              }
+            ]
+          }
+        },
+        "id": "837955578328555520",
+        "location": "日本  埼玉",
+        "name": "ナザレンコ・アンドリー🇯🇵🤝🇺🇦",
+        "pinned_tweet_id": "1981293293578399878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943230235849428993/gtjpw5YU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322567,
+          "following_count": 626,
+          "like_count": 21501,
+          "listed_count": 2386,
+          "media_count": 2477,
+          "tweet_count": 14646
+        },
+        "url": "https://t.co/wKce9ISW0F",
+        "username": "nippon_ukuraina",
+        "verified": true
+      }
+    ]
+  }
+}

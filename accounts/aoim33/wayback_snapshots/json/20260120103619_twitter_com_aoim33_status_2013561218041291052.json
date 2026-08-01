@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2013560887701819533",
+    "created_at": "2026-01-20T10:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013561218041291052"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "ジェミナイさん",
+          "probability": 0.3228,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "50791157",
+          "start": 0,
+          "username": "googlejapan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013561218041291052",
+    "in_reply_to_user_id": "50791157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013560887701819533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@googlejapan Ok ジェミナイさん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2013560887701819533",
+        "created_at": "2026-01-20T10:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013561218041291052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "ジェミナイさん",
+              "probability": 0.3228,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "50791157",
+              "start": 0,
+              "username": "googlejapan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013561218041291052",
+        "in_reply_to_user_id": "50791157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013560887701819533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@googlejapan Ok ジェミナイさん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50791157",
+        "conversation_id": "2013560887701819533",
+        "created_at": "2026-01-20T10:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013560887701819533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/383151853/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/383151853/status/2012116205063348282",
+              "start": 62,
+              "url": "https://t.co/HjSWfLIl22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013560887701819533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 583,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012116205063348282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini の日本語表記は「ジェミニ」です。\nこれからもたくさん呼んであげてください。とてもとても喜びます。\n\n公式より https://t.co/HjSWfLIl22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 2279,
+          "like_count": 28819,
+          "listed_count": 8,
+          "media_count": 1416,
+          "tweet_count": 6318
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-25T22:23:54.000Z",
+        "description": "Google Japan の公式アカウントです。Google の使命は、世界中の情報を整理し、世界中の人がアクセスできて使えるようにすること。\n\nより多くの人々の、より良い毎日のために。\nみなさんのお役に立てるような情報を発信します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.google.co.jp/",
+                "start": 0,
+                "url": "https://t.co/ngK1wikzAY"
+              }
+            ]
+          }
+        },
+        "id": "50791157",
+        "location": "Japan",
+        "name": "Google Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976184082162909185/77E81PNB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452425,
+          "following_count": 11,
+          "like_count": 783,
+          "listed_count": 4926,
+          "media_count": 5206,
+          "tweet_count": 40890
+        },
+        "url": "https://t.co/ngK1wikzAY",
+        "username": "googlejapan",
+        "verified": true
+      }
+    ]
+  }
+}

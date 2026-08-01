@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978567463865569280"
+      ],
+      "media_source_tweet_id": [
+        "1978567468449972356"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      }
+    ],
+    "conversation_id": "1978730363514998976",
+    "created_at": "2025-10-16T07:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978730363514998976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1661572036676952069",
+          "start": 3,
+          "username": "kukanotintinvec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2rPiaJbIi",
+          "end": 76,
+          "expanded_url": "https://x.com/kukanotintinvec/status/1978567468449972356/photo/1",
+          "media_key": "3_1978567463865569280",
+          "start": 53,
+          "url": "https://t.co/d2rPiaJbIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978730363514998976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 563
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978567468449972356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukanotintinvec: これ、ASD診断済みの米津玄師も同じようなこと言ってたんだよな https://t.co/d2rPiaJbIi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1978567463865569280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3VIoB_aUAALbMX.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978567463865569280"
+          ],
+          "media_source_tweet_id": [
+            "1978567468449972356"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "1978730363514998976",
+        "created_at": "2025-10-16T07:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978730363514998976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1661572036676952069",
+              "start": 3,
+              "username": "kukanotintinvec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2rPiaJbIi",
+              "end": 76,
+              "expanded_url": "https://x.com/kukanotintinvec/status/1978567468449972356/photo/1",
+              "media_key": "3_1978567463865569280",
+              "start": 53,
+              "url": "https://t.co/d2rPiaJbIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978730363514998976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978567468449972356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukanotintinvec: これ、ASD診断済みの米津玄師も同じようなこと言ってたんだよな https://t.co/d2rPiaJbIi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978567463865569280"
+          ]
+        },
+        "author_id": "1661572036676952069",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "1978567468449972356",
+        "created_at": "2025-10-15T21:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T22:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978567468449972356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2rPiaJbIi",
+              "end": 55,
+              "expanded_url": "https://x.com/kukanotintinvec/status/1978567468449972356/photo/1",
+              "media_key": "3_1978567463865569280",
+              "start": 32,
+              "url": "https://t.co/d2rPiaJbIi"
+            },
+            {
+              "display_url": "x.com/kanedo_/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/kanedo_/status/1978282068388819350",
+              "start": 56,
+              "url": "https://t.co/a9rw87Y5Tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978567468449972356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2440,
+          "impression_count": 658418,
+          "like_count": 5904,
+          "quote_count": 36,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978282068388819350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これ、ASD診断済みの米津玄師も同じようなこと言ってたんだよな https://t.co/d2rPiaJbIi https://t.co/a9rw87Y5Tc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1494,
+          "like_count": 14954,
+          "listed_count": 2,
+          "media_count": 720,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-25T03:17:05.000Z",
+        "description": "ポンコツ 知り合いには見せにくいツイートをする場所",
+        "id": "1661572036676952069",
+        "name": "敗走ちゃん♡",
+        "pinned_tweet_id": "1941158702272438573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707428917508964352/nmhFaZ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 498,
+          "like_count": 1779,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 551
+        },
+        "username": "kukanotintinvec",
+        "verified": false
+      }
+    ]
+  }
+}

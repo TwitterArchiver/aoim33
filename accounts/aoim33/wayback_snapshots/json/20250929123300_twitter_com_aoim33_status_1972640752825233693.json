@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1972640752825233693",
+    "created_at": "2025-09-29T12:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T13:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972640752825233693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750066500613058560",
+          "start": 3,
+          "username": "ZZZ_CHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972640752825233693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972637482442187061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZZ_CHT: 《絕區零》2.3版本「可曾記得夢」前瞻特別節目｜情報總覽\n\n全新代理人「盧西婭」、「伊德海莉」、「狛野真斗」即將登場，更有全新劇情、全新玩法活動等內容，都將在2.3版本與繩匠見面，敬請期待！\n\n本次特別節目中的兌換碼將於10月01日23:59:59（U…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972640752825233693].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972640752825233693",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972640752825233693"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1972565522584629248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_15EXW8AA1O1s.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972565527223480320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_15VpWMAA6I_l.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972565531782733825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_15moW4AEL-uU.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972565536442613760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_153_XAAA6hfa.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972565522584629248",
+            "3_1972565527223480320",
+            "3_1972565531782733825",
+            "3_1972565536442613760"
+          ]
+        },
+        "author_id": "1750066500613058560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972637482442187061",
+        "created_at": "2025-09-29T12:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972637482442187061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnUOuMb1Cw",
+              "end": 166,
+              "expanded_url": "https://x.com/ZZZ_CHT/status/1972637482442187061/photo/1",
+              "media_key": "3_1972565522584629248",
+              "start": 143,
+              "url": "https://t.co/BnUOuMb1Cw"
+            },
+            {
+              "display_url": "pic.x.com/BnUOuMb1Cw",
+              "end": 166,
+              "expanded_url": "https://x.com/ZZZ_CHT/status/1972637482442187061/photo/1",
+              "media_key": "3_1972565527223480320",
+              "start": 143,
+              "url": "https://t.co/BnUOuMb1Cw"
+            },
+            {
+              "display_url": "pic.x.com/BnUOuMb1Cw",
+              "end": 166,
+              "expanded_url": "https://x.com/ZZZ_CHT/status/1972637482442187061/photo/1",
+              "media_key": "3_1972565531782733825",
+              "start": 143,
+              "url": "https://t.co/BnUOuMb1Cw"
+            },
+            {
+              "display_url": "pic.x.com/BnUOuMb1Cw",
+              "end": 166,
+              "expanded_url": "https://x.com/ZZZ_CHT/status/1972637482442187061/photo/1",
+              "media_key": "3_1972565536442613760",
+              "start": 143,
+              "url": "https://t.co/BnUOuMb1Cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972637482442187061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 201,
+                "start": 197,
+                "tag": "絕區零"
+              },
+              {
+                "end": 212,
+                "start": 202,
+                "tag": "絕區零前瞻特別節目"
+              },
+              {
+                "end": 219,
+                "start": 213,
+                "tag": "可曾記得夢"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hoyo.link/Jukr9Iqo1",
+                "end": 195,
+                "expanded_url": "https://hoyo.link/Jukr9Iqo1",
+                "start": 172,
+                "url": "https://t.co/5CSJRHulM0"
+              }
+            ]
+          },
+          "text": "《絕區零》2.3版本「可曾記得夢」前瞻特別節目｜情報總覽\n\n全新代理人「盧西婭」、「伊德海莉」、「狛野真斗」即將登場，更有全新劇情、全新玩法活動等內容，都將在2.3版本與繩匠見面，敬請期待！\n\n本次特別節目中的兌換碼將於10月01日23:59:59（UTC+8）失效，記得及時兌換哦～\n查看下方圖片，回顧本次特別節目精彩內容！\n\n▼閱讀全文 \nhttps://t.co/5CSJRHulM0\n\n#絕區零 #絕區零前瞻特別節目 #可曾記得夢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "《絕區零》2.3版本「可曾記得夢」前瞻特別節目｜情報總覽\n\n全新代理人「盧西婭」、「伊德海莉」、「狛野真斗」即將登場，更有全新劇情、全新玩法活動等內容，都將在2.3版本與繩匠見面，敬請期待！\n\n本次特別節目中的兌換碼將於10月01日23:59:59（UTC+8）失效，記得及時兌換哦～ https://t.co/BnUOuMb1Cw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1178,
+          "like_count": 12084,
+          "listed_count": 3,
+          "media_count": 593,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-24T08:02:29.000Z",
+        "description": "PS5·iOS·Android·PC·Xbox｜HoYoverse都市幻想ARPG《絕區零》2.2版本「不要溫和地走入那良夜」已正式上線：https://t.co/k2lzoJuTFC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 92,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 69,
+                "url": "https://t.co/k2lzoJuTFC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/k2lzoJuTFC"
+              }
+            ]
+          }
+        },
+        "id": "1750066500613058560",
+        "name": "絕區零",
+        "pinned_tweet_id": "1972636224855884232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945261920233111554/QObWYIsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39835,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 45,
+          "media_count": 1147,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/k2lzoJuTFC",
+        "username": "ZZZ_CHT",
+        "verified": true
+      }
+    ]
+  }
+}

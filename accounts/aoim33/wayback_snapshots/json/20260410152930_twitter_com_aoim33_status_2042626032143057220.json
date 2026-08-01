@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2042626032143057220",
+    "created_at": "2026-04-10T15:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042626032143057220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wendys/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/wendys/status/2042276646711894177",
+          "start": 8,
+          "url": "https://t.co/dNZcWenfxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042626032143057220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042276646711894177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麦当劳何时跟进 https://t.co/dNZcWenfxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042276592659898371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFefvZaWoAMu7ZX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2042626032143057220",
+        "created_at": "2026-04-10T15:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042626032143057220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wendys/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wendys/status/2042276646711894177",
+              "start": 8,
+              "url": "https://t.co/dNZcWenfxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042626032143057220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042276646711894177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麦当劳何时跟进 https://t.co/dNZcWenfxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042276592659898371"
+          ]
+        },
+        "author_id": "59553554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026339562",
+              "name": "Wendy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026339562",
+              "name": "Wendy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2042276646711894177",
+        "created_at": "2026-04-09T16:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042276646711894177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdeIQgJBnp",
+              "end": 106,
+              "expanded_url": "https://x.com/Wendys/status/2042276646711894177/photo/1",
+              "media_key": "3_2042276592659898371",
+              "start": 83,
+              "url": "https://t.co/jdeIQgJBnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042276646711894177",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 1196181,
+          "like_count": 1606,
+          "quote_count": 70,
+          "reply_count": 172,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "WE’VE GOT OUR WINNER🏆 the Pretzel Bacon Pub Burger is coming back to the menu soon https://t.co/jdeIQgJBnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 2761,
+          "like_count": 42851,
+          "listed_count": 19,
+          "media_count": 2382,
+          "tweet_count": 10471
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-23T18:54:01.000Z",
+        "description": "We like our tweets the way we like our tendys: hot, crispy, and better than anyone expects from a fast food restaurant.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wendyschieftastingofficer.com",
+                "end": 23,
+                "expanded_url": "https://www.wendyschieftastingofficer.com/",
+                "start": 0,
+                "url": "https://t.co/rNLBzjNw5m"
+              }
+            ]
+          }
+        },
+        "id": "59553554",
+        "location": "Sir This Is A ",
+        "name": "Wendy’s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030020800963592192/NnAcvwdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3592468,
+          "following_count": 455,
+          "like_count": 36868,
+          "listed_count": 5078,
+          "media_count": 2934,
+          "tweet_count": 229644
+        },
+        "url": "https://t.co/rNLBzjNw5m",
+        "username": "Wendys",
+        "verified": true
+      }
+    ]
+  }
+}

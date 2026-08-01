@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2006413268466938329",
+    "created_at": "2025-12-31T17:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T18:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006413268466938329"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "府中",
+          "probability": 0.8243,
+          "start": 126,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "885350556419506176",
+          "start": 3,
+          "username": "Kaede_x0317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006413268466938329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006339201579774335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaede_x0317: 2025年maimai納め！ｷﾀ━━ヾ(≧∀≦)ﾉ━!!\n今年の6月から本格的に初めて半年(今年中)に\n虹レ達成することができました！\n音ゲーセンス皆無でバカみたいにクレ数かかってしまいましたが無事達成できました😭\n府中勢にも最後に納め所見て貰…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006339177428971520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fy2hGacAAFjtj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006339179811352576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fy2p-asAAVNa_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006339181442920449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fy2wDacAEEGBM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006339182449565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fy2zzaoAApbwH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2006413268466938329",
+        "created_at": "2025-12-31T17:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006413268466938329"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "府中",
+              "probability": 0.8243,
+              "start": 126,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "885350556419506176",
+              "start": 3,
+              "username": "Kaede_x0317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006413268466938329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006339201579774335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaede_x0317: 2025年maimai納め！ｷﾀ━━ヾ(≧∀≦)ﾉ━!!\n今年の6月から本格的に初めて半年(今年中)に\n虹レ達成することができました！\n音ゲーセンス皆無でバカみたいにクレ数かかってしまいましたが無事達成できました😭\n府中勢にも最後に納め所見て貰…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006339177428971520",
+            "3_2006339179811352576",
+            "3_2006339181442920449",
+            "3_2006339182449565696"
+          ]
+        },
+        "author_id": "885350556419506176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2006339201579774335",
+        "created_at": "2025-12-31T12:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006339201579774335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 110,
+              "normalized_text": "府中",
+              "probability": 0.8113,
+              "start": 109,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7KIczSwLe",
+              "end": 156,
+              "expanded_url": "https://x.com/Kaede_x0317/status/2006339201579774335/photo/1",
+              "media_key": "3_2006339177428971520",
+              "start": 133,
+              "url": "https://t.co/j7KIczSwLe"
+            },
+            {
+              "display_url": "pic.x.com/j7KIczSwLe",
+              "end": 156,
+              "expanded_url": "https://x.com/Kaede_x0317/status/2006339201579774335/photo/1",
+              "media_key": "3_2006339179811352576",
+              "start": 133,
+              "url": "https://t.co/j7KIczSwLe"
+            },
+            {
+              "display_url": "pic.x.com/j7KIczSwLe",
+              "end": 156,
+              "expanded_url": "https://x.com/Kaede_x0317/status/2006339201579774335/photo/1",
+              "media_key": "3_2006339181442920449",
+              "start": 133,
+              "url": "https://t.co/j7KIczSwLe"
+            },
+            {
+              "display_url": "pic.x.com/j7KIczSwLe",
+              "end": 156,
+              "expanded_url": "https://x.com/Kaede_x0317/status/2006339201579774335/photo/1",
+              "media_key": "3_2006339182449565696",
+              "start": 133,
+              "url": "https://t.co/j7KIczSwLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006339201579774335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1836,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "2025年maimai納め！ｷﾀ━━ヾ(≧∀≦)ﾉ━!!\n今年の6月から本格的に初めて半年(今年中)に\n虹レ達成することができました！\n音ゲーセンス皆無でバカみたいにクレ数かかってしまいましたが無事達成できました😭\n府中勢にも最後に納め所見て貰えたので満足です☺️ https://t.co/j7KIczSwLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ US market / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 1966,
+          "like_count": 24192,
+          "listed_count": 5,
+          "media_count": 1182,
+          "tweet_count": 5356
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-13T04:09:56.000Z",
+        "description": "maimai白金レ Since PRISM＋ お酒弱いから🚬",
+        "id": "885350556419506176",
+        "location": "東京の西の方",
+        "name": "かえで",
+        "pinned_tweet_id": "1929125501320286481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827059088158797824/kXku2G2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 828,
+          "like_count": 14665,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 2297
+        },
+        "username": "Kaede_x0317",
+        "verified": false
+      }
+    ]
+  }
+}

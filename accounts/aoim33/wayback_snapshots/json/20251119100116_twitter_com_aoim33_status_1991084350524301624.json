@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1991084350524301624",
+    "created_at": "2025-11-19T10:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T11:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991084350524301624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "32499999",
+          "start": 20,
+          "username": "Cloudflare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/arcaea_en/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/arcaea_en/status/1991084193850278052",
+          "start": 37,
+          "url": "https://t.co/kp2jO6aL1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991084350524301624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991084193850278052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "We should reference @Cloudflare here https://t.co/kp2jO6aL1q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1991084350524301624",
+        "created_at": "2025-11-19T10:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991084350524301624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "32499999",
+              "start": 20,
+              "username": "Cloudflare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/arcaea_en/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/arcaea_en/status/1991084193850278052",
+              "start": 37,
+              "url": "https://t.co/kp2jO6aL1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991084350524301624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991084193850278052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We should reference @Cloudflare here https://t.co/kp2jO6aL1q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "794253014303379456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1991084193850278052",
+        "created_at": "2025-11-19T10:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991084193850278052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "World",
+              "probability": 0.5799,
+              "start": 76,
+              "type": "Other"
+            },
+            {
+              "end": 175,
+              "normalized_text": "World",
+              "probability": 0.619,
+              "start": 171,
+              "type": "Other"
+            },
+            {
+              "end": 262,
+              "normalized_text": "arcaea",
+              "probability": 0.7813,
+              "start": 257,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 263,
+              "start": 256,
+              "tag": "arcaea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991084193850278052",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Due to global internet outages experienced yesterday, the currently running World Extend maps will be extended by 12 hours.\nTake this time catch up on any rewards left in World Extend 4!\n\nThe new end time for the ongoing maps is November 21 at 3:00AM GMT.\n#arcaea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "srkmanno"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "watebird14760"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 1718,
+          "like_count": 19053,
+          "listed_count": 4,
+          "media_count": 929,
+          "tweet_count": 4540
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-17T17:58:28.000Z",
+        "description": "Cloudflare is the world’s leading #ConnectivityCloud, and we have our eyes set on an ambitious goal — to help build a #BetterInternet.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 34,
+                "tag": "ConnectivityCloud"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "tag": "BetterInternet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com/",
+                "start": 0,
+                "url": "https://t.co/6WEmQXqEvH"
+              }
+            ]
+          }
+        },
+        "id": "32499999",
+        "location": "300+ cities in 100+ countries",
+        "name": "Cloudflare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600539069217480704/RzK50Sks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250941,
+          "following_count": 5406,
+          "like_count": 5894,
+          "listed_count": 2629,
+          "media_count": 5872,
+          "tweet_count": 47363
+        },
+        "url": "https://t.co/6WEmQXqEvH",
+        "username": "Cloudflare",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-03T19:00:49.000Z",
+        "description": "Official account for the rhythm game Arcaea. Hashtags: #arcaea #arcaea_art\n\nStaff: @lowiro_staff\nApp: https://t.co/q0Y7wwyt9k\nContact: contact@lowiro.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "arcaea"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "tag": "arcaea_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "lowiro_staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arcaea.app",
+                "end": 125,
+                "expanded_url": "http://arcaea.app",
+                "start": 102,
+                "url": "https://t.co/q0Y7wwyt9k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com",
+                "end": 23,
+                "expanded_url": "http://arcaea.lowiro.com",
+                "start": 0,
+                "url": "https://t.co/YoelMA75sO"
+              }
+            ]
+          }
+        },
+        "id": "794253014303379456",
+        "name": "Arcaea",
+        "pinned_tweet_id": "1970276930214670364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547151910855233537/EkxN3tzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90088,
+          "following_count": 23,
+          "like_count": 15,
+          "listed_count": 225,
+          "media_count": 975,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/YoelMA75sO",
+        "username": "arcaea_en",
+        "verified": true
+      }
+    ]
+  }
+}

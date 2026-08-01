@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      }
+    ],
+    "conversation_id": "1974420428337951214",
+    "created_at": "2025-10-04T10:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T11:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974420428337951214"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "韓国",
+          "probability": 0.9487,
+          "start": 14,
+          "type": "Place"
+        },
+        {
+          "end": 23,
+          "normalized_text": "中国",
+          "probability": 0.5811,
+          "start": 22,
+          "type": "Place"
+        },
+        {
+          "end": 40,
+          "normalized_text": "中国",
+          "probability": 0.8912,
+          "start": 39,
+          "type": "Place"
+        },
+        {
+          "end": 65,
+          "normalized_text": "中国",
+          "probability": 0.843,
+          "start": 64,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "130429386",
+          "start": 3,
+          "username": "Tsiberia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974420428337951214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974298768926519785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsiberia: 韓国も同じだが、中国嫌いを公言する人々の共通点は、中国に行ったこともなく、中国人と話したこともなく、中国についてきちんと学んだこともない人々であること。無知だからこそ可能な行動に過ぎない。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "1974420428337951214",
+        "created_at": "2025-10-04T10:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T11:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974420428337951214"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "韓国",
+              "probability": 0.9487,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 23,
+              "normalized_text": "中国",
+              "probability": 0.5811,
+              "start": 22,
+              "type": "Place"
+            },
+            {
+              "end": 40,
+              "normalized_text": "中国",
+              "probability": 0.8912,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 65,
+              "normalized_text": "中国",
+              "probability": 0.843,
+              "start": 64,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "130429386",
+              "start": 3,
+              "username": "Tsiberia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974420428337951214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974298768926519785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsiberia: 韓国も同じだが、中国嫌いを公言する人々の共通点は、中国に行ったこともなく、中国人と話したこともなく、中国についてきちんと学んだこともない人々であること。無知だからこそ可能な行動に過ぎない。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "130429386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "1974298768926519785",
+        "created_at": "2025-10-04T02:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T03:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974298768926519785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "韓国",
+              "probability": 0.9599,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 9,
+              "normalized_text": "中国",
+              "probability": 0.5901,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 26,
+              "normalized_text": "中国",
+              "probability": 0.8975,
+              "start": 25,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "中国",
+              "probability": 0.8491,
+              "start": 50,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/superwangbadan…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/superwangbadan/status/1973731050162630811",
+              "start": 95,
+              "url": "https://t.co/H9PId7VlVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974298768926519785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9037,
+          "like_count": 429,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973731050162630811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "韓国も同じだが、中国嫌いを公言する人々の共通点は、中国に行ったこともなく、中国人と話したこともなく、中国についてきちんと学んだこともない人々であること。無知だからこそ可能な行動に過ぎない。 https://t.co/H9PId7VlVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー 社会観察 白猫 タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1973768677700087909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1290,
+          "like_count": 12946,
+          "listed_count": 3,
+          "media_count": 637,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-07T07:58:40.000Z",
+        "description": "하고 싶은 거 하면서 즐겁게 살려고 노력합니다.\n여행, 영화, 책읽기, 외국어배우기 좋아합니다.  \n개인보다 집단을 우선시 하는 사람들을 경계합니다.\n\n好きなことをしながら楽しく過ごしたい。\n旅行、映画、読書好き。外国語勉強好き。\n人より集団を重視する人を警戒。韓国、日本に居住(現)",
+        "id": "130429386",
+        "name": "파란달",
+        "pinned_tweet_id": "1284683455238832133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263405965136719873/VvSQmeOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 752,
+          "like_count": 74426,
+          "listed_count": 62,
+          "media_count": 1256,
+          "tweet_count": 27332
+        },
+        "username": "Tsiberia",
+        "verified": true
+      }
+    ]
+  }
+}

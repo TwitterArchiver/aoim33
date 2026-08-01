@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023635372023181442",
+    "created_at": "2026-02-17T05:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T06:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023635372023181442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "106379129",
+          "start": 3,
+          "username": "Jaemyung_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023635372023181442",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1056
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023617606905983319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaemyung_Lee: &lt;소원성취&gt;\n사랑하는 국민 여러분, \n희망의 새해, 모두 소원성취 하시기 바랍니다. \n\n저에게도 소원이 있었습니다.\n제가 살아왔던 어둡고 헝클어진 세상을 누구에게도 물려주지 않는 것,\n저나 제 가족, 이웃들 그리고 모…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023635372023181442",
+        "created_at": "2026-02-17T05:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023635372023181442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "106379129",
+              "start": 3,
+              "username": "Jaemyung_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023635372023181442",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1056
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023617606905983319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaemyung_Lee: &lt;소원성취&gt;\n사랑하는 국민 여러분, \n희망의 새해, 모두 소원성취 하시기 바랍니다. \n\n저에게도 소원이 있었습니다.\n제가 살아왔던 어둡고 헝클어진 세상을 누구에게도 물려주지 않는 것,\n저나 제 가족, 이웃들 그리고 모…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106379129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023617606905983319",
+        "created_at": "2026-02-17T04:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:21:56.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023613861845430681",
+          "2023614442093900003",
+          "2023617606905983319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023617606905983319",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "<소원성취>\n사랑하는 국민 여러분, \n희망의 새해, 모두 소원성취 하시기 바랍니다. \n\n저에게도 소원이 있었습니다.\n제가 살아왔던 어둡고 헝클어진 세상을 누구에게도 물려주지 않는 것,\n저나 제 가족, 이웃들 그리고 모든 세상사람들이 그 어떤 불의와 부당함에도 고통받지 않고, 누구도 부당하게 남의 것을 빼앗지 못하는 제대로 된 세상을 만드는 것, 그것이 저의 간절한 소원이었습니다.\n\n저는 대통령이 되려고 대통령이 된 것이 아닙니다.\n대통령의 권한으로 하고 싶은 일이 있었기 때문입니다.\n\n\"권력이 아니라 일 할 수 있는 권한이 필요합니다\"\n\n20년전 성남시장에 출마해 엎드려 절하며 드렸던 호소입니다.\n\n이제 대한민국을 바꿀 기회가 왔습니다. \n오직 하나의 소원을 안고, 무수한 죽음의 고개를 넘으며 여기까지 왔는데, 이제 기회가 생겼는데 그 절실한 일을 왜 하지 않겠습니까. \n\n부동산공화국을 극복하는 것이든, 안전하고 평화로운 나라를 만드는 것이든, 공정하고 합리적인 세상을 만드는 것이든, 성장ㆍ발전하는 나라를 만드는 것이든, 두려움을 모두 떨쳐내고 촌음까지 아껴 사력을 다하겠습니다.\n\n국민 여러분의 은혜로 저는 소원을 이루었습니다.\n이제 전력질주만 남았습니다.\n\n존경하는 국민 여러분, \n모두가 함께 행복한 나라, \n우리 서로 굳게 손 잡고 함께 만들어 가시지요.\n\n고맙습니다.\n사랑합니다."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 46201,
+          "like_count": 3218,
+          "quote_count": 111,
+          "reply_count": 322,
+          "retweet_count": 1056
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;소원성취&gt;\n사랑하는 국민 여러분, \n희망의 새해, 모두 소원성취 하시기 바랍니다. \n\n저에게도 소원이 있었습니다.\n제가 살아왔던 어둡고 헝클어진 세상을 누구에게도 물려주지 않는 것,\n저나 제 가족, 이웃들 그리고 모든 세상사람들이 그 어떤 불의와 부당함에도 고통받지 않고, 누구도 부당하게"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3665,
+          "following_count": 2478,
+          "like_count": 33842,
+          "listed_count": 17,
+          "media_count": 1688,
+          "tweet_count": 7615
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-19T10:59:13.000Z",
+        "description": "대한민국 제21대 대통령",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.go.kr",
+                "end": 23,
+                "expanded_url": "https://www.president.go.kr/",
+                "start": 0,
+                "url": "https://t.co/NJ7qyiAoIk"
+              }
+            ]
+          }
+        },
+        "id": "106379129",
+        "location": "대한민국 ",
+        "name": "이재명",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003152,
+          "following_count": 455806,
+          "like_count": 9286,
+          "listed_count": 2788,
+          "media_count": 7127,
+          "tweet_count": 63008
+        },
+        "url": "https://t.co/NJ7qyiAoIk",
+        "username": "Jaemyung_Lee",
+        "verified": true
+      }
+    ]
+  }
+}

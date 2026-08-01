@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1972660156388532555",
+    "created_at": "2025-09-29T13:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972660156388532555"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "中国",
+          "probability": 0.6355,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/Cldeop/status/1972631140252147858",
+          "start": 91,
+          "url": "https://t.co/k2rH1BGPNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972660156388532555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "旅行ハックとして大変興味深い内容ですが、長年中国の鉄道を利用してきた者として、また皆様の安全な旅を心から願う者として、いくつかの点について重要な補足とリスク点明をさせていただきたい\n\n特にガイドで紹介されているプランのうち「区間外乗車」（短い切符で長く乗る、またはその逆）と「同一ホームでの乗り換え便乗」には、中国国家鉄路集団の公式規定に照らし合わせると、深刻なリスクが伴う可能性がある\n中国の規則では、車内で差額を支払うことで乗り越し（乗り越し精算）が可能ですが、それは座席に空きがある場合に限られる \n春節や国慶節などの繁忙期には、満席の列車内で切符の区間外乗車が発覚した場合、規則に基づき、切符記載の駅で強制的に下車させられる可能性がある\nまた、逆のケース（長い切符で途中下車）では、差額の払い戻しはないと決まられている \n\nそして「同一ホームでの便乗」という方法は、本質的に「無札乗車」（キセル乗車）とみなされる極めてリスクの高い行為 \nこれは単なるマナー違反ではなく、明確な規則違反なのである\n\n鉄道公式がこれを発覚した場合、中国の「鉄道旅客輸送規程」に基づき、以下の厳しい罰則が科されます： \n運賃に加え、50%の割増運賃の支払いと、特に悪質と判断された場合、鉄道の「信用失墜者リスト」に登録される可能性がある \n\n一度このリストに登録されてしまうと、将来中国国内での列車チケットの購入が困難になるなど、計り知れない不利益を被る恐れがあるので \nこの情報は、決して特定の個人を非難するためではなく中国で旅行される皆様が、意図せずトラブルに巻き込まれることを防ぐための純粋な注意喚起である"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972631140252147858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旅行ハックとして大変興味深い内容ですが、長年中国の鉄道を利用してきた者として、また皆様の安全な旅を心から願う者として、いくつかの点について重要な補足とリスク点明をさせていただきたい https://t.co/k2rH1BGPNx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_1972631127350476800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AxjxKagAAcBkf.jpg",
+        "width": 2420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1972660156388532555",
+        "created_at": "2025-09-29T13:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972660156388532555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "中国",
+              "probability": 0.6355,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/Cldeop/status/1972631140252147858",
+              "start": 91,
+              "url": "https://t.co/k2rH1BGPNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972660156388532555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "旅行ハックとして大変興味深い内容ですが、長年中国の鉄道を利用してきた者として、また皆様の安全な旅を心から願う者として、いくつかの点について重要な補足とリスク点明をさせていただきたい\n\n特にガイドで紹介されているプランのうち「区間外乗車」（短い切符で長く乗る、またはその逆）と「同一ホームでの乗り換え便乗」には、中国国家鉄路集団の公式規定に照らし合わせると、深刻なリスクが伴う可能性がある\n中国の規則では、車内で差額を支払うことで乗り越し（乗り越し精算）が可能ですが、それは座席に空きがある場合に限られる \n春節や国慶節などの繁忙期には、満席の列車内で切符の区間外乗車が発覚した場合、規則に基づき、切符記載の駅で強制的に下車させられる可能性がある\nまた、逆のケース（長い切符で途中下車）では、差額の払い戻しはないと決まられている \n\nそして「同一ホームでの便乗」という方法は、本質的に「無札乗車」（キセル乗車）とみなされる極めてリスクの高い行為 \nこれは単なるマナー違反ではなく、明確な規則違反なのである\n\n鉄道公式がこれを発覚した場合、中国の「鉄道旅客輸送規程」に基づき、以下の厳しい罰則が科されます： \n運賃に加え、50%の割増運賃の支払いと、特に悪質と判断された場合、鉄道の「信用失墜者リスト」に登録される可能性がある \n\n一度このリストに登録されてしまうと、将来中国国内での列車チケットの購入が困難になるなど、計り知れない不利益を被る恐れがあるので \nこの情報は、決して特定の個人を非難するためではなく中国で旅行される皆様が、意図せずトラブルに巻き込まれることを防ぐための純粋な注意喚起である"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972631140252147858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旅行ハックとして大変興味深い内容ですが、長年中国の鉄道を利用してきた者として、また皆様の安全な旅を心から願う者として、いくつかの点について重要な補足とリスク点明をさせていただきたい https://t.co/k2rH1BGPNx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972631127350476800"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1972631140252147858",
+        "created_at": "2025-09-29T11:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972631140252147858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2fsiuqicI",
+              "end": 165,
+              "expanded_url": "https://x.com/Cldeop/status/1972631140252147858/photo/1",
+              "media_key": "3_1972631127350476800",
+              "start": 142,
+              "url": "https://t.co/W2fsiuqicI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972631140252147858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【云鸠の火车票买票指南】\n国庆、春节、暑假出游，手慢后车票全变候补，进站前几小时偶遇列车停运，人流中如何才能乘上前往旅途目的地或是回家的火车？这里是云鸠多年乘车经验汇总，汇聚了几种不同的买票方法，几乎能保证在列车无票且时间紧急情况下仍能按时抵达！\n⬇️欢迎阅读并点赞转发收藏支持⬇️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2532,
+          "like_count": 31,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【云鸠の火车票买票指南】\n国庆、春节、暑假出游，手慢后车票全变候补，进站前几小时偶遇列车停运，人流中如何才能乘上前往旅途目的地或是回家的火车？这里是云鸠多年乘车经验汇总，汇聚了几种不同的买票方法，几乎能保证在列车无票且时间紧急情况下仍能按时抵达！\n⬇️欢迎阅读并点赞转发收藏支持⬇️ https://t.co/W2fsiuqicI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1184,
+          "like_count": 12104,
+          "listed_count": 3,
+          "media_count": 593,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81432,
+          "following_count": 641,
+          "like_count": 30666,
+          "listed_count": 255,
+          "media_count": 12485,
+          "tweet_count": 17683
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

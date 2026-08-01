@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1987444933549260813",
+    "created_at": "2025-11-10T07:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T08:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987785815590830235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1027079865021779968",
+          "start": 0,
+          "username": "maimai_ngmns_sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987785815590830235",
+    "in_reply_to_user_id": "1027079865021779968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987444933549260813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maimai_ngmns_sv TLの巡りにあったから反応及びフォローしましたよー\n宜しくお願いします"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987444911617220608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TSnf-aIAAJRep.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987444911621480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TSnf_bIAAND6x.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987444911537545216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TSnfraYAAVM3m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 402,
+        "media_key": "3_1987444911520768000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TSnfnaYAAyYTL.jpg",
+        "width": 378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1987444933549260813",
+        "created_at": "2025-11-10T07:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987785815590830235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1027079865021779968",
+              "start": 0,
+              "username": "maimai_ngmns_sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987785815590830235",
+        "in_reply_to_user_id": "1027079865021779968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987444933549260813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimai_ngmns_sv TLの巡りにあったから反応及びフォローしましたよー\n宜しくお願いします"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987444911617220608",
+            "3_1987444911621480448",
+            "3_1987444911537545216",
+            "3_1987444911520768000"
+          ]
+        },
+        "author_id": "1027079865021779968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1987444933549260813",
+        "created_at": "2025-11-09T08:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987444933549260813"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "大阪",
+              "probability": 0.9588,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "仙台",
+              "probability": 0.9513,
+              "start": 46,
+              "type": "Place"
+            },
+            {
+              "end": 53,
+              "normalized_text": "大阪",
+              "probability": 0.8688,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "宮城",
+              "probability": 0.8257,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "仙台",
+              "probability": 0.843,
+              "start": 68,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "11月になったので音ゲーマーフォロー祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyGlj2Rczv",
+              "end": 121,
+              "expanded_url": "https://x.com/maimai_ngmns_sv/status/1987444933549260813/photo/1",
+              "media_key": "3_1987444911617220608",
+              "start": 98,
+              "url": "https://t.co/iyGlj2Rczv"
+            },
+            {
+              "display_url": "pic.x.com/iyGlj2Rczv",
+              "end": 121,
+              "expanded_url": "https://x.com/maimai_ngmns_sv/status/1987444933549260813/photo/1",
+              "media_key": "3_1987444911621480448",
+              "start": 98,
+              "url": "https://t.co/iyGlj2Rczv"
+            },
+            {
+              "display_url": "pic.x.com/iyGlj2Rczv",
+              "end": 121,
+              "expanded_url": "https://x.com/maimai_ngmns_sv/status/1987444933549260813/photo/1",
+              "media_key": "3_1987444911537545216",
+              "start": 98,
+              "url": "https://t.co/iyGlj2Rczv"
+            },
+            {
+              "display_url": "pic.x.com/iyGlj2Rczv",
+              "end": 121,
+              "expanded_url": "https://x.com/maimai_ngmns_sv/status/1987444933549260813/photo/1",
+              "media_key": "3_1987444911520768000",
+              "start": 98,
+              "url": "https://t.co/iyGlj2Rczv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987444933549260813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1832,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#11月になったので音ゲーマーフォロー祭\n大阪でmaimaiやってます🙋‍♀️\n12月末に仙台行くので大阪勢と宮城勢の友達欲しい😖\n仙台勢でエンカできる人も募集しております🤝\n\nお友達ください🙌 https://t.co/iyGlj2Rczv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1636,
+          "like_count": 18141,
+          "listed_count": 4,
+          "media_count": 880,
+          "tweet_count": 4319
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-08T06:31:36.000Z",
+        "description": "腰痛持ちまいまい",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/18ZS1HREHATT?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/7UPkbEWfkF"
+              }
+            ]
+          }
+        },
+        "id": "1027079865021779968",
+        "location": "欲しいもの☞",
+        "name": "ながみん(12/24~28仙台！)",
+        "pinned_tweet_id": "1876948872167039158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985469447214415872/uDMk9GC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 839,
+          "like_count": 6940,
+          "listed_count": 10,
+          "media_count": 1108,
+          "tweet_count": 7722
+        },
+        "url": "https://t.co/7UPkbEWfkF",
+        "username": "maimai_ngmns_sv",
+        "verified": false
+      }
+    ]
+  }
+}

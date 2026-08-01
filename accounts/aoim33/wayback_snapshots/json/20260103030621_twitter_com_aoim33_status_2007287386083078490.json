@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007287376973049857"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2007082078098350486",
+    "created_at": "2026-01-03T03:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007287386083078490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "883603486109298688",
+          "start": 0,
+          "username": "ShishirShelke1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M7K2twLcoM",
+          "end": 61,
+          "expanded_url": "https://x.com/aoim33/status/2007287386083078490/photo/1",
+          "media_key": "3_2007287376973049857",
+          "start": 38,
+          "url": "https://t.co/M7K2twLcoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007287386083078490",
+    "in_reply_to_user_id": "883603486109298688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007082078098350486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShishirShelke1 We need them actually https://t.co/M7K2twLcoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007287376973049857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tRO_qasAE975J.jpg",
+        "width": 945
+      },
+      {
+        "height": 2122,
+        "media_key": "3_2007082069353242626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qWghLbIAIXZ_e.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007287376973049857"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2007082078098350486",
+        "created_at": "2026-01-03T03:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007287386083078490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "883603486109298688",
+              "start": 0,
+              "username": "ShishirShelke1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7K2twLcoM",
+              "end": 61,
+              "expanded_url": "https://x.com/aoim33/status/2007287386083078490/photo/1",
+              "media_key": "3_2007287376973049857",
+              "start": 38,
+              "url": "https://t.co/M7K2twLcoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007287386083078490",
+        "in_reply_to_user_id": "883603486109298688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007082078098350486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShishirShelke1 We need them actually https://t.co/M7K2twLcoM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007082069353242626"
+          ]
+        },
+        "author_id": "883603486109298688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2007082078098350486",
+        "created_at": "2026-01-02T13:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007082078098350486"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Apple",
+              "probability": 0.876,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 77,
+              "normalized_text": "iPhone",
+              "probability": 0.9593,
+              "start": 72,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxnFfnqHS2",
+              "end": 102,
+              "expanded_url": "https://x.com/ShishirShelke1/status/2007082078098350486/photo/1",
+              "media_key": "3_2007082069353242626",
+              "start": 79,
+              "url": "https://t.co/cxnFfnqHS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007082078098350486",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1311,
+          "impression_count": 1657739,
+          "like_count": 15148,
+          "quote_count": 89,
+          "reply_count": 167,
+          "retweet_count": 647
+        },
+        "reply_settings": "everyone",
+        "text": "It’s high time Apple introduces a proper clear cache option for apps on iPhone https://t.co/cxnFfnqHS2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ US market / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 2006,
+          "like_count": 24630,
+          "listed_count": 5,
+          "media_count": 1199,
+          "tweet_count": 5410
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-08T08:27:42.000Z",
+        "description": "",
+        "id": "883603486109298688",
+        "name": "Shishir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869269497154351104/Bt-G6hb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17536,
+          "following_count": 147,
+          "like_count": 71708,
+          "listed_count": 65,
+          "media_count": 4308,
+          "tweet_count": 9357
+        },
+        "username": "ShishirShelke1",
+        "verified": true
+      }
+    ]
+  }
+}

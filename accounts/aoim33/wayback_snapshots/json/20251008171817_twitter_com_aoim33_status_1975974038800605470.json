@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "1975974038800605470",
+    "created_at": "2025-10-08T17:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975974038800605470"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "FCKGW",
+          "probability": 0.5156,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "158808511",
+          "start": 3,
+          "username": "davepl1968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975974038800605470",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975953400312606730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @davepl1968: The story of FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8.\n\nIf you're not the type to pay for your software, you probably know this key.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1975953162373881856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2v-7qAa4AAXGeM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1975974038800605470",
+        "created_at": "2025-10-08T17:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975974038800605470"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "FCKGW",
+              "probability": 0.5156,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "158808511",
+              "start": 3,
+              "username": "davepl1968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975974038800605470",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975953400312606730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @davepl1968: The story of FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8.\n\nIf you're not the type to pay for your software, you probably know this key.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975953162373881856"
+          ]
+        },
+        "author_id": "158808511",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "1975953400312606730",
+        "created_at": "2025-10-08T15:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975953400312606730"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "FCKGW",
+              "probability": 0.6369,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 213,
+              "normalized_text": "Windows Product Activation",
+              "probability": 0.7534,
+              "start": 188,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJoGGO5c9o",
+              "end": 300,
+              "expanded_url": "https://x.com/davepl1968/status/1975953400312606730/photo/1",
+              "media_key": "3_1975953162373881856",
+              "start": 277,
+              "url": "https://t.co/bJoGGO5c9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975953400312606730",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The story of FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8.\n\nIf you're not the type to pay for your software, you probably know this key.  What you might not know is that I worked on the first version of Windows Product Activation, and this was our first major \"hack\".  \n\nAnd yet, it wasn't a 'hack' at all - it was a disastrous leak.\n\nThe FCKGW key was a valid volume licensing key, so all you needed was special volume media to go with it.  Eventually, they were bundled and put online by pirates.\n\nWPA worked by generating a hardware ID from your CPU, RAM, and other components, then sending it to Microsoft alongside your product key for validation. A mismatched or suspicious key would flag the install as pirated. \n\nBut as a legitimate VLK, FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8 was whitelisted in XP's activation logic—it told the system, \"This is corporate volume licensing; no need to phone home.\" During installation, users selected the \"Yes, I have a product key\" option, entered the code, and WPA simply... skipped the activation prompt. \n\nThe OS booted fully functional, with no 30-day timer or watermarks. It even fooled early validation checks for updates. This loophole let pirates distribute \"pre-activated\" ISOs, making XP as easy to \"acquire\" as a free mixtape. Technically, you could still use it today on an old XP disc (if you can find one), but Microsoft's servers shut down validation years ago, and the key's long since been blacklisted."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 464,
+          "impression_count": 48248,
+          "like_count": 1132,
+          "quote_count": 10,
+          "reply_count": 62,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "The story of FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8.\n\nIf you're not the type to pay for your software, you probably know this key.  What you might not know is that I worked on the first version of Windows Product Activation, and this was our first major \"hack\".  \n\nAnd yet, it wasn't a https://t.co/bJoGGO5c9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1410,
+          "like_count": 13867,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-23T18:17:08.000Z",
+        "description": "Hi!  I'm Dave Plummer.  You might remember me from such Windows components as Task Manager, Windows Pinball, Calc, ZIPFolders, Product Activation, etc. Cheers!",
+        "id": "158808511",
+        "name": "Dave W Plummer",
+        "pinned_tweet_id": "1947796576321384603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888336090257633280/rRQTDQ3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89386,
+          "following_count": 75,
+          "like_count": 456,
+          "listed_count": 442,
+          "media_count": 1722,
+          "tweet_count": 10063
+        },
+        "username": "davepl1968",
+        "verified": true
+      }
+    ]
+  }
+}

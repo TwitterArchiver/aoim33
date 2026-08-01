@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068650308516085760"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2068650318016184436",
+    "created_at": "2026-06-21T11:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068650318016184436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1332855474916532224",
+          "start": 11,
+          "username": "ChenQian_X"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZeOOfUptmJ",
+          "end": 162,
+          "expanded_url": "https://x.com/aoim33/status/2068650318016184436/photo/1",
+          "media_key": "3_2068650308516085760",
+          "start": 139,
+          "url": "https://t.co/ZeOOfUptmJ"
+        },
+        {
+          "display_url": "x.com/yunjiu/status/…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/yunjiu/status/2065508808252883378",
+          "start": 163,
+          "url": "https://t.co/D8DKXI03RM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068650318016184436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 22,
+            "id": "1332855474916532224",
+            "start": 11,
+            "username": "ChenQian_X"
+          }
+        ]
+      },
+      "text": "晚饭时间，和我的学生 @ChenQian_X 在边吃酸菜鱼边讨论引用文所谓「正义的判断」的定义的\n\n他开头说了句，判断的后果，首先是要承担自己判断背后的前提，然后引入了电车难题的变体思想实验：\n如果我们把场景换一下，把一边设成一百个普通人，另一边设成高官子弟，那会发生什么呢？\n在中国语境下大部分人会选择牺牲那一百个，他说\n\n这个设定真正可疑之处，藏在最后选哪一边之前：它悄悄把现实里的权力落差、恐惧、服从、求生本能，打包成了一道干净的道德选择题\n轨道是假的，恐惧却是真的\n拿假轨道当真前提去推正义，得出的结论再怎么自洽，也只是空转一场\n\n一个人有没有正义的判断，因此算不上什么标准\n能把人分出高下的，是他有没有想过，自己嘴里的正义立在什么地基上\n经验，恐惧，又或者是仅仅一句听起来很正确的话，都可以让自己在自己的光环下伟光正\n\n同样，「三观正」也遵循同一套逻辑。它本该是一种内在的稳定，用来约束自己，而非用来展示、引用、转发\n一旦「我三观正」开始充当一个人公共形象的支点，它就悄悄完成了转换：从约束自己的尺度，变成审判他人的许可证\n\n可以随意否定一段关系里的另一个人，把对方的过去和现在一并抹黑，再转身把自己立成那个更清醒、更克制的人\n戈夫曼说人在公共场域表演自我，前台总比后台干净\n「这条推文的前台，干净得有些刻意」\n他夹了一片鱼片，边吃边说\n\n后来我们打成了这样的共识：\n如果真正想讨论判断的后果，推文就不应该停在这里\n判断的前提、代价、被牺牲的那一方、自己在整件事里的位置，都该老老实实写清楚，再拿出来给人挑刺\n\n只发一个开头，留一句「后续再展开」剩下的交给订阅去发酵——这已经不再是判断的后果，是账号的算法在借判断生息：因为看到了就一定能赚钱，是从一个个一美刀里赚进来的\n\n「金额很小，事情很大」，我学生得出了这样的结论「把这些用作订阅者福利未免太磕碜了一些」\n\n于是我觉得，三观说到底决定的，是一个人愿不愿意，把流量也算进自己判断的成本里\n这一点，我也算是从我学生身上学到了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065508808252883378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚饭时间，和我的学生 @ChenQian_X 在边吃酸菜鱼边讨论引用文所谓「正义的判断」的定义的\n\n他开头说了句，判断的后果，首先是要承担自己判断背后的前提，然后引入了电车难题的变体思想实验：\n如果我们把场景换一下，把一边设成一百个普通人，另一边设成高官子弟，那会发生什么呢？ https://t.co/ZeOOfUptmJ https://t.co/D8DKXI03RM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2065508808252883378].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065508808252883378",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065508808252883378"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2068650308516085760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVSftOagAA_q96.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068650308516085760"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2068650318016184436",
+        "created_at": "2026-06-21T11:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068650318016184436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1332855474916532224",
+              "start": 11,
+              "username": "ChenQian_X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZeOOfUptmJ",
+              "end": 162,
+              "expanded_url": "https://x.com/aoim33/status/2068650318016184436/photo/1",
+              "media_key": "3_2068650308516085760",
+              "start": 139,
+              "url": "https://t.co/ZeOOfUptmJ"
+            },
+            {
+              "display_url": "x.com/yunjiu/status/…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/yunjiu/status/2065508808252883378",
+              "start": 163,
+              "url": "https://t.co/D8DKXI03RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068650318016184436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 22,
+                "id": "1332855474916532224",
+                "start": 11,
+                "username": "ChenQian_X"
+              }
+            ]
+          },
+          "text": "晚饭时间，和我的学生 @ChenQian_X 在边吃酸菜鱼边讨论引用文所谓「正义的判断」的定义的\n\n他开头说了句，判断的后果，首先是要承担自己判断背后的前提，然后引入了电车难题的变体思想实验：\n如果我们把场景换一下，把一边设成一百个普通人，另一边设成高官子弟，那会发生什么呢？\n在中国语境下大部分人会选择牺牲那一百个，他说\n\n这个设定真正可疑之处，藏在最后选哪一边之前：它悄悄把现实里的权力落差、恐惧、服从、求生本能，打包成了一道干净的道德选择题\n轨道是假的，恐惧却是真的\n拿假轨道当真前提去推正义，得出的结论再怎么自洽，也只是空转一场\n\n一个人有没有正义的判断，因此算不上什么标准\n能把人分出高下的，是他有没有想过，自己嘴里的正义立在什么地基上\n经验，恐惧，又或者是仅仅一句听起来很正确的话，都可以让自己在自己的光环下伟光正\n\n同样，「三观正」也遵循同一套逻辑。它本该是一种内在的稳定，用来约束自己，而非用来展示、引用、转发\n一旦「我三观正」开始充当一个人公共形象的支点，它就悄悄完成了转换：从约束自己的尺度，变成审判他人的许可证\n\n可以随意否定一段关系里的另一个人，把对方的过去和现在一并抹黑，再转身把自己立成那个更清醒、更克制的人\n戈夫曼说人在公共场域表演自我，前台总比后台干净\n「这条推文的前台，干净得有些刻意」\n他夹了一片鱼片，边吃边说\n\n后来我们打成了这样的共识：\n如果真正想讨论判断的后果，推文就不应该停在这里\n判断的前提、代价、被牺牲的那一方、自己在整件事里的位置，都该老老实实写清楚，再拿出来给人挑刺\n\n只发一个开头，留一句「后续再展开」剩下的交给订阅去发酵——这已经不再是判断的后果，是账号的算法在借判断生息：因为看到了就一定能赚钱，是从一个个一美刀里赚进来的\n\n「金额很小，事情很大」，我学生得出了这样的结论「把这些用作订阅者福利未免太磕碜了一些」\n\n于是我觉得，三观说到底决定的，是一个人愿不愿意，把流量也算进自己判断的成本里\n这一点，我也算是从我学生身上学到了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065508808252883378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚饭时间，和我的学生 @ChenQian_X 在边吃酸菜鱼边讨论引用文所谓「正义的判断」的定义的\n\n他开头说了句，判断的后果，首先是要承担自己判断背后的前提，然后引入了电车难题的变体思想实验：\n如果我们把场景换一下，把一边设成一百个普通人，另一边设成高官子弟，那会发生什么呢？ https://t.co/ZeOOfUptmJ https://t.co/D8DKXI03RM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6204,
+          "following_count": 3070,
+          "like_count": 53757,
+          "listed_count": 21,
+          "media_count": 3297,
+          "tweet_count": 13786
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-29T01:14:51.000Z",
+        "description": "嗨嗨！很高兴认识你，這裡尘千！音遊癡，平常喜欢中二/舞萌/CSGO等，中文简繁/英文。\nGreetings! ChenQian here. chuni/maimai/CSGO player etc.. EN/CH (Simp/Trad)",
+        "id": "1332855474916532224",
+        "name": "尘千 / ChenQian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975111352281858048/pS4x_5ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 40,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "ChenQian_X",
+        "verified": false
+      }
+    ]
+  }
+}

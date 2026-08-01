@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2009502073201517049",
+    "created_at": "2026-01-09T05:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009502354463506835"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Larry the Cat",
+          "probability": 0.6581,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "752567226",
+          "start": 0,
+          "username": "xDaily"
+        },
+        {
+          "end": 75,
+          "id": "252521025",
+          "start": 63,
+          "username": "Number10cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009502354463506835",
+    "in_reply_to_user_id": "752567226",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009502073201517049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xDaily We need to invite Larry the Cat now to take a comment \n@Number10cat"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_2009502069523202048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MvfEVXwAAN_kg.png",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2009502073201517049",
+        "created_at": "2026-01-09T05:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009502354463506835"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Larry the Cat",
+              "probability": 0.6581,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "752567226",
+              "start": 0,
+              "username": "xDaily"
+            },
+            {
+              "end": 75,
+              "id": "252521025",
+              "start": 63,
+              "username": "Number10cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009502354463506835",
+        "in_reply_to_user_id": "752567226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009502073201517049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xDaily We need to invite Larry the Cat now to take a comment \n@Number10cat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009502069523202048"
+          ]
+        },
+        "author_id": "752567226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881102098055168",
+              "name": "UK national news"
+            }
+          }
+        ],
+        "conversation_id": "2009502073201517049",
+        "created_at": "2026-01-09T05:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009502073201517049"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "Grok",
+              "probability": 0.4898,
+              "start": 101,
+              "type": "Other"
+            },
+            {
+              "end": 200,
+              "normalized_text": "Britain",
+              "probability": 0.9054,
+              "start": 194,
+              "type": "Place"
+            },
+            {
+              "end": 215,
+              "normalized_text": "Keir Starmer",
+              "probability": 0.9794,
+              "start": 204,
+              "type": "Person"
+            },
+            {
+              "end": 235,
+              "normalized_text": "Grok",
+              "probability": 0.3955,
+              "start": 232,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cH95kyH829",
+              "end": 295,
+              "expanded_url": "https://x.com/xDaily/status/2009502073201517049/photo/1",
+              "media_key": "3_2009502069523202048",
+              "start": 272,
+              "url": "https://t.co/cH95kyH829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009502073201517049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "NEWS: The British government is reportedly considering taking severe action against X for the recent Grok image undressing controversy - going as far as billions in fines, or even a ban on X in Britain.\n\nKeir Starmer said about the Grok images: “This is disgraceful. It’s disgusting and it’s not to be tolerated.\"\n\n“X need to get their act together and get this material down – and we will take action on this because it’s simply not tolerable.”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 141,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "NEWS: The British government is reportedly considering taking severe action against X for the recent Grok image undressing controversy - going as far as billions in fines, or even a ban on X in Britain.\n\nKeir Starmer said about the Grok images: “This is disgraceful. It’s https://t.co/cH95kyH829"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 2165,
+          "like_count": 26490,
+          "listed_count": 8,
+          "media_count": 1269,
+          "tweet_count": 5826
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-12T06:01:46.000Z",
+        "description": "Your #1 News source on everything 𝕏 + xAI | Contributors: @HXMnCK, @LohanSimpson @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "HXMnCK"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "LohanSimpson"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "xUpdatesRadar"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "swak_12"
+              }
+            ]
+          }
+        },
+        "id": "752567226",
+        "location": "X HQ",
+        "name": "X Daily News",
+        "pinned_tweet_id": "2008629865679913193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515124606583152648/4bZaW28-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329017,
+          "following_count": 5291,
+          "like_count": 66234,
+          "listed_count": 1786,
+          "media_count": 4563,
+          "tweet_count": 14735
+        },
+        "username": "xDaily",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-15T11:00:56.000Z",
+        "description": "Chief Mouser to the Cabinet Office. 18 year old tabby. Living with my sixth Prime Minister. Unofficial. I am the media, miaow.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/Number10cat",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/Number10cat",
+                "start": 0,
+                "url": "https://t.co/klIpFabwzH"
+              }
+            ]
+          }
+        },
+        "id": "252521025",
+        "location": "Westminster, London",
+        "name": "Larry the Cat",
+        "pinned_tweet_id": "1979977962767216699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875624659357581314/FCZGd6pr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867719,
+          "following_count": 145,
+          "like_count": 86765,
+          "listed_count": 2798,
+          "media_count": 6592,
+          "tweet_count": 34569
+        },
+        "url": "https://t.co/klIpFabwzH",
+        "username": "Number10cat",
+        "verified": true
+      }
+    ]
+  }
+}

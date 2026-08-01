@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "1972518135808037145",
+    "created_at": "2025-09-29T04:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972518135808037145"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "中国",
+          "probability": 0.7518,
+          "start": 68,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "63492447",
+          "start": 3,
+          "username": "xiaolong761216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972518135808037145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972150313022091754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaolong761216: 以下はWeChatの\"公众号\"で公開されていた映画≪731≫のレビューを翻訳したものです。これが中国の人の一般的な感想なのかなと思います。ひどい映画だということがよくわかりますね。。\n\n《731》映画観劇レビュー：二言のみ—「気まずさ」と…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1972148448947478528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G156kL_aIAADBiN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1352,
+        "media_key": "3_1972148546649706496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G156p39b0AAlcSS.png",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "1972518135808037145",
+        "created_at": "2025-09-29T04:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972518135808037145"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "中国",
+              "probability": 0.7518,
+              "start": 68,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "63492447",
+              "start": 3,
+              "username": "xiaolong761216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972518135808037145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972150313022091754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaolong761216: 以下はWeChatの\"公众号\"で公開されていた映画≪731≫のレビューを翻訳したものです。これが中国の人の一般的な感想なのかなと思います。ひどい映画だということがよくわかりますね。。\n\n《731》映画観劇レビュー：二言のみ—「気まずさ」と…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972148448947478528",
+            "3_1972148546649706496"
+          ]
+        },
+        "author_id": "63492447",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "1972150313022091754",
+        "created_at": "2025-09-28T04:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:00:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972149318644912579",
+          "1972150313022091754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "中国",
+              "probability": 0.7492,
+              "start": 48,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2c0dM8zyw",
+              "end": 155,
+              "expanded_url": "https://x.com/xiaolong761216/status/1972150313022091754/photo/1",
+              "media_key": "3_1972148448947478528",
+              "start": 132,
+              "url": "https://t.co/W2c0dM8zyw"
+            },
+            {
+              "display_url": "pic.x.com/W2c0dM8zyw",
+              "end": 155,
+              "expanded_url": "https://x.com/xiaolong761216/status/1972150313022091754/photo/1",
+              "media_key": "3_1972148546649706496",
+              "start": 132,
+              "url": "https://t.co/W2c0dM8zyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972150313022091754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mp.weixin.qq.com/s/OB-VYbVoLEfj…",
+                "end": 1377,
+                "expanded_url": "https://mp.weixin.qq.com/s/OB-VYbVoLEfjA2qeQqbt8Q",
+                "start": 1354,
+                "url": "https://t.co/isoxcw4bII"
+              }
+            ]
+          },
+          "text": "以下はWeChatの\"公众号\"で公開されていた映画≪731≫のレビューを翻訳したものです。これが中国の人の一般的な感想なのかなと思います。ひどい映画だということがよくわかりますね。。\n\n《731》映画観劇レビュー：二言のみ—「気まずさ」と「退屈さ」\n\n文／卞翔東\n\n私は普段あまり映画評を書かないのですが、今日は家族と一緒に映画『731』を観て、正直、とても失望しました。かなり長い間話題にされ、宣伝でも「監督やスタッフが命の危険を冒して公開に漕ぎつけた」など陰謀論めいたことまで大々的に打ち出していました。世界には反戦映画は数多く存在し、もっと過激な描写の作品もありますから、その宣伝手法自体が奇抜だったと思います。\n\nしかし、このような歴史題材を扱いながら、史実をきちんと描き出すことができていません。監督やスタッフは歴史への敬意がまるで感じられません。シーンは公式的で形式ばった構図ばかり、ストーリーは空虚で中身がなく、場違いなBGMが流れ、俳優は力みすぎるか、逆に棒読みのように硬すぎるかのどちらかです。10年かけて準備したというわりには、『南京写真館』の方がずっと良かったと思います。\n\n監督が何かを伝えたいという意図は見えますが、映像表現の力量が伴わず、かえって失敗しています。例えば「日本人女性将校」という設定ですが、第二次世界大戦期に日本に女性将校は存在しません。しかもその人物は日本軍の残虐さを全く表現しておらず、抗日ドラマに出てくるような架空の将校にしか見えません。登場人物の顔は皆白くて清潔感たっぷり、刑務所の環境は私の学校の寮よりも快適で、食事まで栄養バランスが整っているという有様。これは明らかに歴史の事実と合致せず、むしろ観客を誤った方向に導くだけです。\n\nストーリーについても、多くのカットで（検閲による）削除があったせいか、断片的で前後のつながりが不自然でしたが、それでも基本的な論理構造は必須なはずです。あれほど大規模な監獄であり、日本にとって重要な実験施設であるはずなのに、見張りが少年兵ばかり。そこへ“ご都合主義”的な展開が入り込み、主人公が一人で次々と二、三人の看守を倒してしまう。日本兵がまるで学校の警備員より弱いかのようです。さらにシーンに不釣り合いなユーモラスで軽い描写が多すぎました。監督は「喜で悲を引き立てる」手法を狙ったのかもしれませんが、「喜」は軽薄で大げさすぎ、「悲」は薄っぺらく淡白で、全く効果を発揮していません。同じ歴史題材でも『南京写真館』は全体を通じて重苦しい空気感を保ち、優れた仕上がりでしたが、『731』は全体として何を伝えたいのか分からない作品になっていました。\n\n私は『南京写真館』を観たとき、本当に心からの衝撃と恐怖を覚え、侵略者の残虐行為と被害者の苦難が強烈に胸に迫ってきました。しかし『731』を観終えた後に残ったのは「気まずさ」と「退屈さ」の二言だけです。\n\n商業映画であるなら、まずは態度とクオリティを示すべきです。歴史題材の映画であるなら、最低限「尊重」と「真摯さ」が不可欠です。『731』の監督と制作陣は『南京写真館』から学ぶべきでしょう。歴史映画とは厳粛なものであり、感傷を消費して金を稼ぐための道具ではないのです。\n\nhttps://t.co/isoxcw4bII"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 16560,
+          "like_count": 131,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "以下はWeChatの\"公众号\"で公開されていた映画≪731≫のレビューを翻訳したものです。これが中国の人の一般的な感想なのかなと思います。ひどい映画だということがよくわかりますね。。\n\n《731》映画観劇レビュー：二言のみ—「気まずさ」と「退屈さ」\n\n文／卞翔東 https://t.co/W2c0dM8zyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1157,
+          "like_count": 11976,
+          "listed_count": 3,
+          "media_count": 586,
+          "tweet_count": 2969
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-06T17:49:22.000Z",
+        "description": "小龍科技公司🇭🇰代表。ブログ小龍茶館運営。中国歴30年の日中バイリンガル。タピオカ🧋と四川火鍋最初期日本伝道者。1coinVPN等運営。趣味：125ccレーシングカート🏎|講道館🥋弐段|⛷️。お仕事：投資(不動産/実業/金融)|ネットサービス運営|ものづくり|貿易|飲食店経営|日中音楽コーディネート|日中通訳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/xiaolong1216",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/xiaolong1216",
+                "start": 0,
+                "url": "https://t.co/Ik5aoAVvhT"
+              }
+            ]
+          }
+        },
+        "id": "63492447",
+        "location": "広東省中山市/東京/マレーシア(ペナン)/タイ/カンボジア",
+        "name": "小龍(しゃおろん)🇯🇵in🇨🇳 VPN運営|レーシングカート🏎💨",
+        "pinned_tweet_id": "1926904225524523393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961773938738085888/fZd5qEax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16720,
+          "following_count": 3096,
+          "like_count": 231701,
+          "listed_count": 312,
+          "media_count": 12582,
+          "tweet_count": 148179
+        },
+        "url": "https://t.co/Ik5aoAVvhT",
+        "username": "xiaolong761216",
+        "verified": true
+      }
+    ]
+  }
+}

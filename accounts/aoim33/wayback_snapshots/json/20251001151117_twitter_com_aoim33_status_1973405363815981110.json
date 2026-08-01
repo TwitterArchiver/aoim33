@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1973405363815981110",
+    "created_at": "2025-10-01T15:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973405363815981110"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "初投稿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973373332285431814",
+          "start": 3,
+          "username": "maimai_14165"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973405363815981110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973379378886410488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimai_14165: #初投稿\n自分は音ゲーが大好きな学生です‼️\nよくやる音ゲーは\n・maimai\n・CHUNITHM\n主にmaimaiです！音ゲー界隈に限らず色んな界隈の方と絡めれば嬉しいです‼️\nよろしくお願いします‼️✨🙇‍♂️\nmaimai歴は約1年です…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_1973379375484772352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LaFiraIAAK1vj.jpg",
+        "width": 1079
+      },
+      {
+        "height": 624,
+        "media_key": "3_1973379375740698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LaFjobQAADsEZ.jpg",
+        "width": 1079
+      },
+      {
+        "height": 611,
+        "media_key": "3_1973379376424296455",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LaFmLaIAcw0TN.jpg",
+        "width": 1079
+      },
+      {
+        "height": 303,
+        "media_key": "3_1973379375820353536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LaFj7asAAX8sK.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1973405363815981110",
+        "created_at": "2025-10-01T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973405363815981110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "初投稿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973373332285431814",
+              "start": 3,
+              "username": "maimai_14165"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973405363815981110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973379378886410488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimai_14165: #初投稿\n自分は音ゲーが大好きな学生です‼️\nよくやる音ゲーは\n・maimai\n・CHUNITHM\n主にmaimaiです！音ゲー界隈に限らず色んな界隈の方と絡めれば嬉しいです‼️\nよろしくお願いします‼️✨🙇‍♂️\nmaimai歴は約1年です…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973379375484772352",
+            "3_1973379375740698624",
+            "3_1973379376424296455",
+            "3_1973379375820353536"
+          ]
+        },
+        "author_id": "1973373332285431814",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1973379378886410488",
+        "created_at": "2025-10-01T13:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973379378886410488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "初投稿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpdR1tbB0T",
+              "end": 146,
+              "expanded_url": "https://x.com/maimai_14165/status/1973379378886410488/photo/1",
+              "media_key": "3_1973379375484772352",
+              "start": 123,
+              "url": "https://t.co/YpdR1tbB0T"
+            },
+            {
+              "display_url": "pic.x.com/YpdR1tbB0T",
+              "end": 146,
+              "expanded_url": "https://x.com/maimai_14165/status/1973379378886410488/photo/1",
+              "media_key": "3_1973379375740698624",
+              "start": 123,
+              "url": "https://t.co/YpdR1tbB0T"
+            },
+            {
+              "display_url": "pic.x.com/YpdR1tbB0T",
+              "end": 146,
+              "expanded_url": "https://x.com/maimai_14165/status/1973379378886410488/photo/1",
+              "media_key": "3_1973379376424296455",
+              "start": 123,
+              "url": "https://t.co/YpdR1tbB0T"
+            },
+            {
+              "display_url": "pic.x.com/YpdR1tbB0T",
+              "end": 146,
+              "expanded_url": "https://x.com/maimai_14165/status/1973379378886410488/photo/1",
+              "media_key": "3_1973379375820353536",
+              "start": 123,
+              "url": "https://t.co/YpdR1tbB0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973379378886410488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#初投稿\n自分は音ゲーが大好きな学生です‼️\nよくやる音ゲーは\n・maimai\n・CHUNITHM\n主にmaimaiです！音ゲー界隈に限らず色んな界隈の方と絡めれば嬉しいです‼️\nよろしくお願いします‼️✨🙇‍♂️\nmaimai歴は約1年です！ https://t.co/YpdR1tbB0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー 社会観察 白猫 タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 1253,
+          "like_count": 12523,
+          "listed_count": 3,
+          "media_count": 609,
+          "tweet_count": 3088
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T13:04:35.000Z",
+        "description": "人と関わる事と音ゲーが大好きな学生です‼️\n是非気軽に絡んでくれると嬉しいです‼️✨",
+        "id": "1973373332285431814",
+        "name": "☽꙳𝕞𝕒𝕚𓈒 𓂂𓏸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973375464447283200/gRFzB7GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "maimai_14165",
+        "verified": false
+      }
+    ]
+  }
+}

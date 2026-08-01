@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10034936730",
+          "name": "サンデー・ジャポン"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "読売テレビ・日本テレビ系で放送、青山剛昌さんによる漫画が原作のアニメ",
+          "id": "10035860210",
+          "name": "名探偵コナン"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2055131633288978930",
+    "created_at": "2026-05-15T03:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055131633288978930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oricon/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/oricon/status/2055121114561655059",
+          "start": 14,
+          "url": "https://t.co/0YrSYtE47e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055131633288978930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055121114561655059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "属于我们的时代正在逐渐远去 https://t.co/0YrSYtE47e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3330,
+        "media_key": "3_2055121101521551360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVBwNqaAAAToLF.jpg",
+        "width": 2350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034936730",
+              "name": "サンデー・ジャポン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "読売テレビ・日本テレビ系で放送、青山剛昌さんによる漫画が原作のアニメ",
+              "id": "10035860210",
+              "name": "名探偵コナン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2055131633288978930",
+        "created_at": "2026-05-15T03:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055131633288978930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oricon/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/oricon/status/2055121114561655059",
+              "start": 14,
+              "url": "https://t.co/0YrSYtE47e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055131633288978930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055121114561655059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "属于我们的时代正在逐渐远去 https://t.co/0YrSYtE47e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055121101521551360"
+          ]
+        },
+        "author_id": "95207674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034936730",
+              "name": "サンデー・ジャポン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "読売テレビ・日本テレビ系で放送、青山剛昌さんによる漫画が原作のアニメ",
+              "id": "10035860210",
+              "name": "名探偵コナン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2055121114561655059",
+        "created_at": "2026-05-15T03:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055121114561655059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ニュース｜　アニメ『名探偵コナン』の毛利蘭役を務める声優の山崎和佳奈さんが、死去した。15日、所属事務所・青二プロダクションが報告した。　山崎さんは3月21日生まれ、神奈川県出身。出演作品は、アニメ『名探偵コナン』（毛利蘭）、アニメ『わたしとわたし　ふたりのロッテ』（ブリギッテ）、ゲーム『熱血江湖ONLINE』（女性キャラクター）など。",
+              "display_url": "oricon.co.jp/news/2454772/f…",
+              "end": 49,
+              "expanded_url": "https://www.oricon.co.jp/news/2454772/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "images": [
+                {
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/news_img/2055121114880471040/59LIdZPS?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055121114880471040/59LIdZPS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "『名探偵コナン』毛利蘭役・声優の山崎和佳奈さん死去",
+              "unwound_url": "https://www.oricon.co.jp/news/2454772/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "url": "https://t.co/nPdNACIvKz"
+            },
+            {
+              "display_url": "pic.x.com/a7QkmD5n9k",
+              "end": 179,
+              "expanded_url": "https://x.com/oricon/status/2055121114561655059/photo/1",
+              "media_key": "3_2055121101521551360",
+              "start": 156,
+              "url": "https://t.co/a7QkmD5n9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055121114561655059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1482,
+          "impression_count": 2460746,
+          "like_count": 24603,
+          "quote_count": 5392,
+          "reply_count": 528,
+          "retweet_count": 22799
+        },
+        "reply_settings": "everyone",
+        "text": "声優・山崎和佳奈さん死去\n『名探偵コナン』毛利蘭役\nhttps://t.co/nPdNACIvKz\n\n山崎さんは2月に病気療養のため活動休止を発表。『名探偵コナン』”蘭姉ちゃん”、『ひみつのアッコちゃん』加賀美あつこ役、『ママレード・ボーイ』秋月茗子役などのほか、『サンジャポ』ナレーションなども担当していた。 https://t.co/a7QkmD5n9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 2926,
+          "like_count": 48608,
+          "listed_count": 19,
+          "media_count": 2803,
+          "tweet_count": 12126
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-07T14:15:16.000Z",
+        "description": "オリコン【公式】です👑 芸能ニュースやオリコンランキング、音楽、ドラマ、アニメ、お笑い、映画など、最新エンタメ情報を中心に配信👩‍🍳\n\n試写会やイベント、チェキなどプレゼントもチェックしてね⇒ #オリコンプレゼント🎁",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 97,
+                "tag": "オリコンプレゼント"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oricon.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.oricon.co.jp/",
+                "start": 0,
+                "url": "https://t.co/lP08ujpcGi"
+              }
+            ]
+          }
+        },
+        "id": "95207674",
+        "location": "東京都港区六本木",
+        "name": "オリコンニュース",
+        "pinned_tweet_id": "2054841647427657793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973257109249859584/WFHRjCtC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795940,
+          "following_count": 2783,
+          "like_count": 6924,
+          "listed_count": 7598,
+          "media_count": 147759,
+          "tweet_count": 771600
+        },
+        "url": "https://t.co/lP08ujpcGi",
+        "username": "oricon",
+        "verified": true
+      }
+    ]
+  }
+}

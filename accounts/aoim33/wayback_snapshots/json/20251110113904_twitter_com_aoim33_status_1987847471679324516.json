@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1390799556326019072",
+          "name": "PayPay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390799556326019072",
+          "name": "PayPay"
+        }
+      }
+    ],
+    "conversation_id": "1987847471679324516",
+    "created_at": "2025-11-10T11:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T12:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987847471679324516"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "Alipay mania",
+          "probability": 0.5889,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nikkei/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nikkei/status/1987808269918965893",
+          "start": 14,
+          "url": "https://t.co/TvyTVA4AjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987847471679324516",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987808269918965893",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Alipay mania? https://t.co/TvyTVA4AjE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          }
+        ],
+        "conversation_id": "1987847471679324516",
+        "created_at": "2025-11-10T11:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987847471679324516"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Alipay mania",
+              "probability": 0.5889,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nikkei/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nikkei/status/1987808269918965893",
+              "start": 14,
+              "url": "https://t.co/TvyTVA4AjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987847471679324516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987808269918965893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Alipay mania? https://t.co/TvyTVA4AjE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "169480493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "JR東日本によると、10日に発生した停電による首都圏の複数路線での運転見合わせは、約23万6000人の利用客に影響し、午後8時半までに及びました。11日は始発から平常通りの運行となっています。このモーメントは自動でツイートを掲載しています。",
+              "id": "1447072927766122510",
+              "name": "JR東日本 首都圏の複数駅で停電 約23万6000人に影響"
+            }
+          }
+        ],
+        "conversation_id": "1987808269918965893",
+        "created_at": "2025-11-10T09:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987808269918965893"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "JR東日本",
+              "probability": 0.8591,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 10,
+              "normalized_text": "Suica",
+              "probability": 0.4146,
+              "start": 6,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "JR東日本は2026年秋をメドに、交通系ICサービス「Suica（スイカ）」にコード決済機能を設ける。新たに数十万円の決済枠を設けて高額な支払いを可能にし、送金機能もつける。鉄道移動時の利用を想定したスイカを駅ビルなどで高額な買い物もできるようにし、キャッシュレス決済で先行するPayPayなどに対抗する。スマホアプリ「モバイルスイカ」における決済の上限額を引き上げる。現在のスイカでは鉄道での移",
+              "display_url": "nikkei.com/article/DGXZQO…",
+              "end": 60,
+              "expanded_url": "https://www.nikkei.com/article/DGXZQOUC310HN0R31C25A0000000/?n_cid=SNSTW001&n_tw=1762765395",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1987808312457617409/GB6wbx_y?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1987808312457617409/GB6wbx_y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "JR東日本、Suicaにバーコード決済　数十万円上限でPayPayに対抗",
+              "unwound_url": "https://www.nikkei.com/article/DGXZQOUC310HN0R31C25A0000000/?n_cid=SNSTW001&n_tw=1762765395",
+              "url": "https://t.co/o0bEd2RlEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987808269918965893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 149609,
+          "like_count": 800,
+          "quote_count": 158,
+          "reply_count": 34,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "JR東日本、Suicaにバーコード決済　数十万円上限でPayPayに対抗\nhttps://t.co/o0bEd2RlEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 1641,
+          "like_count": 18202,
+          "listed_count": 4,
+          "media_count": 883,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-22T12:58:30.000Z",
+        "description": "日経電子版の公式アカウントです。トップページで報じたニュースを中心に注目コンテンツを24時間発信。記事は会員向けを含みます。日経公式アカウント一覧は https://t.co/3H13iCnaMC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nikkei.com/edit/sns/?n_ci…",
+                "end": 98,
+                "expanded_url": "https://www.nikkei.com/edit/sns/?n_cid=DSSCN001",
+                "start": 75,
+                "url": "https://t.co/3H13iCnaMC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikkei.com",
+                "end": 23,
+                "expanded_url": "http://www.nikkei.com",
+                "start": 0,
+                "url": "https://t.co/Iajvc1gZ1K"
+              }
+            ]
+          }
+        },
+        "id": "169480493",
+        "name": "日本経済新聞 電子版（日経電子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161879315933351936/CQbpby6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068231,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 45715,
+          "media_count": 17574,
+          "tweet_count": 492869
+        },
+        "url": "https://t.co/Iajvc1gZ1K",
+        "username": "nikkei",
+        "verified": true
+      }
+    ]
+  }
+}

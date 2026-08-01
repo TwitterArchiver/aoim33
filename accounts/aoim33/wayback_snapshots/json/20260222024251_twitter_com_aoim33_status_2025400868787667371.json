@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2025400868787667371",
+    "created_at": "2026-02-22T02:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025400868787667371"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Call Up Girls",
+          "probability": 0.8632,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "日本",
+          "probability": 0.674,
+          "start": 54,
+          "type": "Place"
+        },
+        {
+          "end": 107,
+          "normalized_text": "中国",
+          "probability": 0.9128,
+          "start": 106,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1061910000933646337",
+          "start": 3,
+          "username": "jo_gayu1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025400868787667371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025192483064570314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jo_gayu1204: 話題の中国アニメ「Call Up Girls」を観てみた！\n映像だけ見ると日本のアニメのような作風だから言葉が全く分からなくても面白かった！まるできららアニメのようだった...。中国では評判がイマイチらしいけど、日本風の中国アニメって考えればお…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2025189716740722688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrUUUa0AAbEjR.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025189734524608512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrVWkbYAA3cd_.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025189750278422531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrWRQbgAMvKxj.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025189761460355072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrW66aQAAq3G8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2025400868787667371",
+        "created_at": "2026-02-22T02:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025400868787667371"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Call Up Girls",
+              "probability": 0.8632,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "日本",
+              "probability": 0.674,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 107,
+              "normalized_text": "中国",
+              "probability": 0.9128,
+              "start": 106,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1061910000933646337",
+              "start": 3,
+              "username": "jo_gayu1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025400868787667371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025192483064570314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jo_gayu1204: 話題の中国アニメ「Call Up Girls」を観てみた！\n映像だけ見ると日本のアニメのような作風だから言葉が全く分からなくても面白かった！まるできららアニメのようだった...。中国では評判がイマイチらしいけど、日本風の中国アニメって考えればお…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025189716740722688",
+            "3_2025189734524608512",
+            "3_2025189750278422531",
+            "3_2025189761460355072"
+          ]
+        },
+        "author_id": "1061910000933646337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2025192483064570314",
+        "created_at": "2026-02-21T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025192483064570314"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Call Up Girls",
+              "probability": 0.8866,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "日本",
+              "probability": 0.6643,
+              "start": 37,
+              "type": "Place"
+            },
+            {
+              "end": 90,
+              "normalized_text": "中国",
+              "probability": 0.9107,
+              "start": 89,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189716740722688",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            },
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189734524608512",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            },
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189750278422531",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            },
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189761460355072",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025192483064570314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 10567,
+          "like_count": 257,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "話題の中国アニメ「Call Up Girls」を観てみた！\n映像だけ見ると日本のアニメのような作風だから言葉が全く分からなくても面白かった！まるできららアニメのようだった...。中国では評判がイマイチらしいけど、日本風の中国アニメって考えればおかしくはないか。どんな会話してたのか気になる...！ https://t.co/j6Jsn8RAtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 2503,
+          "like_count": 34541,
+          "listed_count": 17,
+          "media_count": 1730,
+          "tweet_count": 7775
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-12T09:14:08.000Z",
+        "description": "恋アス/きんモザ/ひびめし/れるとりetc...日常・ほのぼの系が好きな田舎民。最近は\\ｱｯｶﾘｰﾝ/しがち。詳細はツイフィール(下記リンク)をご覧下さい。※フォロバ100ではありません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/jo_gayu1204",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/jo_gayu1204",
+                "start": 0,
+                "url": "https://t.co/69R4nl8Wpv"
+              }
+            ]
+          }
+        },
+        "id": "1061910000933646337",
+        "location": "秋田",
+        "name": "じょーがゆ🐳",
+        "pinned_tweet_id": "1851962245825335681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006380407328210944/3wtlCkn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4943,
+          "following_count": 3555,
+          "like_count": 125488,
+          "listed_count": 39,
+          "media_count": 13313,
+          "tweet_count": 106996
+        },
+        "url": "https://t.co/69R4nl8Wpv",
+        "username": "jo_gayu1204",
+        "verified": false
+      }
+    ]
+  }
+}

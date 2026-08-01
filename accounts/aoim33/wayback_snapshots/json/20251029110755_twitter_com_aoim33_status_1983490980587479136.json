@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1983207833383375025",
+    "created_at": "2025-10-29T11:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983490980587479136"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "中国",
+          "probability": 0.8974,
+          "start": 10,
+          "type": "Place"
+        },
+        {
+          "end": 19,
+          "normalized_text": "Twitter",
+          "probability": 0.7434,
+          "start": 13,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867960391726440448",
+          "start": 0,
+          "username": "80yorozv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983490980587479136",
+    "in_reply_to_user_id": "1867960391726440448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983473096930783300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@80yorozv 中国でTwitterなどのSNSを利用する人々は、警察官が潜入捜査 などで偽アカウント （「出会い目的」など）を使って接触してくる リスクを回避するため\nエンドツーエンド暗号化機能を持つTelegramのようなSNSアプリを好んで使います"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1983207833383375025",
+        "created_at": "2025-10-29T11:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983490980587479136"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "中国",
+              "probability": 0.8974,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 19,
+              "normalized_text": "Twitter",
+              "probability": 0.7434,
+              "start": 13,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867960391726440448",
+              "start": 0,
+              "username": "80yorozv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983490980587479136",
+        "in_reply_to_user_id": "1867960391726440448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983473096930783300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@80yorozv 中国でTwitterなどのSNSを利用する人々は、警察官が潜入捜査 などで偽アカウント （「出会い目的」など）を使って接触してくる リスクを回避するため\nエンドツーエンド暗号化機能を持つTelegramのようなSNSアプリを好んで使います"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867960391726440448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1983207833383375025",
+        "created_at": "2025-10-29T09:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983473096930783300"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "中国内地",
+              "probability": 0.4068,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 23,
+              "normalized_text": "LINE",
+              "probability": 0.8362,
+              "start": 20,
+              "type": "Product"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Telegram",
+              "probability": 0.349,
+              "start": 34,
+              "type": "Product"
+            },
+            {
+              "end": 61,
+              "normalized_text": "日本",
+              "probability": 0.8323,
+              "start": 60,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983473096930783300",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983207833383375025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 中国内地の人はあくまでもLINEやwechat感覚でTelegramを連絡手段のひとつとしているの？米や日本や東亜では割と反社御用達なので。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.24 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 1687,
+          "like_count": 16882,
+          "listed_count": 3,
+          "media_count": 798,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-14T15:50:44.000Z",
+        "description": "安んぞ能く是非を辨えん🎌百人ありがとう😹",
+        "id": "1867960391726440448",
+        "name": "ごでぃば@基地害mania",
+        "pinned_tweet_id": "1979141644004786352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982739408794132480/llz7QtN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 45,
+          "like_count": 54209,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "80yorozv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2024890558431547753",
+    "created_at": "2026-02-20T16:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024890558431547753"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Twitter",
+          "probability": 0.9883,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1760971125729976320",
+          "start": 3,
+          "username": "heart2428soul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024890558431547753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024676463405125901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heart2428soul: To the Twitter real ones, no, we don't care about having 0 likes; this isn't a social network, this is our diary."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2024890558431547753",
+        "created_at": "2026-02-20T16:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024890558431547753"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Twitter",
+              "probability": 0.9883,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1760971125729976320",
+              "start": 3,
+              "username": "heart2428soul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024890558431547753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024676463405125901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heart2428soul: To the Twitter real ones, no, we don't care about having 0 likes; this isn't a social network, this is our diary."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760971125729976320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2024676463405125901",
+        "created_at": "2026-02-20T02:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024676463405125901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Twitter",
+              "probability": 0.9919,
+              "start": 7,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024676463405125901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 80268,
+          "like_count": 4974,
+          "quote_count": 88,
+          "reply_count": 121,
+          "retweet_count": 1290
+        },
+        "reply_settings": "everyone",
+        "text": "To the Twitter real ones, no, we don't care about having 0 likes; this isn't a social network, this is our diary."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 2500,
+          "like_count": 34325,
+          "listed_count": 17,
+          "media_count": 1719,
+          "tweet_count": 7736
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T10:13:49.000Z",
+        "description": "I know I'm unloveable\n-You don't have to tell me",
+        "id": "1760971125729976320",
+        "location": "Deep sea 𓊝",
+        "name": "♡Jee⭒๋",
+        "pinned_tweet_id": "2011002324739830082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019001169109291008/E_v9RdeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 225,
+          "like_count": 12555,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 9475
+        },
+        "username": "heart2428soul",
+        "verified": false
+      }
+    ]
+  }
+}

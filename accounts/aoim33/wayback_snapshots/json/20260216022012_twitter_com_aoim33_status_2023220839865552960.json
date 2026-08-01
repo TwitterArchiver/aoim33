@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023220839865552960",
+    "created_at": "2026-02-16T02:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023220839865552960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "282161299",
+          "start": 3,
+          "username": "LawrenceWongST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023220839865552960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023192228605329592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LawrenceWongST: 新年快乐! 🧧 Wishing everyone a joyful Year of the Horse filled with health, peace &amp; prosperity. May Chinese New Year bring…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54433,
+        "height": 1280,
+        "media_key": "13_2023192147722399744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023192147722399744/img/S0oiCPucXuZ8XGOj.jpg",
+        "public_metrics": {
+          "view_count": 1122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192147722399744/vid/avc1/320x568/O1Q2jRsEyc2p-5ou.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192147722399744/vid/avc1/480x852/DFq-8Et9jufvU-Zo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023192147722399744/vid/avc1/720x1280/TektA8SuiVa89Q2k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023192147722399744/pl/Tl9ofWsJo1cpiNy4.m3u8?v=e59"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023220839865552960",
+        "created_at": "2026-02-16T02:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023220839865552960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "282161299",
+              "start": 3,
+              "username": "LawrenceWongST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023220839865552960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023192228605329592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LawrenceWongST: 新年快乐! 🧧 Wishing everyone a joyful Year of the Horse filled with health, peace &amp; prosperity. May Chinese New Year bring…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023192147722399744"
+          ]
+        },
+        "author_id": "282161299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023192228605329592",
+        "created_at": "2026-02-16T00:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023192228605329592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "新年快乐! 🧧 Wishing everyone a joyful Year of the Horse — filled with health, peace & prosperity. May Chinese New Year bring families together, honoring traditi...",
+              "display_url": "go.gov.sg/cnymessage2026",
+              "end": 230,
+              "expanded_url": "https://go.gov.sg/cnymessage2026",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2023192274612666368/_xl7zPXp?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023192274612666368/_xl7zPXp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 207,
+              "status": 200,
+              "title": "Year of the Horse: Strength in Unity",
+              "unwound_url": "https://www.youtube.com/watch?v=94otPQNqR6Y&feature=youtu.be",
+              "url": "https://t.co/c4V40jxrEB"
+            },
+            {
+              "display_url": "pic.x.com/hNZmhaEAkV",
+              "end": 254,
+              "expanded_url": "https://x.com/LawrenceWongST/status/2023192228605329592/video/1",
+              "media_key": "13_2023192147722399744",
+              "start": 231,
+              "url": "https://t.co/hNZmhaEAkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023192228605329592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3487,
+          "like_count": 147,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐! 🧧 Wishing everyone a joyful Year of the Horse filled with health, peace &amp; prosperity. May Chinese New Year bring families together, honoring traditions &amp; renewing bonds. Watch my full message: https://t.co/c4V40jxrEB https://t.co/hNZmhaEAkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3666,
+          "following_count": 2474,
+          "like_count": 33691,
+          "listed_count": 17,
+          "media_count": 1679,
+          "tweet_count": 7575
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-14T17:27:45.000Z",
+        "description": "Prime Minister of Singapore, Minister for Finance and Member of Parliament for Marsiling–Yew Tee GRC.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/LawrenceWongST",
+                "end": 23,
+                "expanded_url": "http://www.facebook.com/LawrenceWongST",
+                "start": 0,
+                "url": "https://t.co/2umnLqDlRE"
+              }
+            ]
+          }
+        },
+        "id": "282161299",
+        "location": "Singapore ",
+        "name": "Lawrence Wong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019338301036277760/u0wBggk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112857,
+          "following_count": 337,
+          "like_count": 778,
+          "listed_count": 383,
+          "media_count": 1744,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/2umnLqDlRE",
+        "username": "LawrenceWongST",
+        "verified": true
+      }
+    ]
+  }
+}

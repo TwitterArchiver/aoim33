@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10037262557",
+          "name": "響け!ユーフォニアム"
+        }
+      }
+    ],
+    "conversation_id": "1979132674397868174",
+    "created_at": "2025-10-17T10:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979132674397868174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eupd_official/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/eupd_official/status/1979110147948458447",
+          "start": 7,
+          "url": "https://t.co/Np1h5MYKhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979132674397868174",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979110147948458447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！！！！！！ https://t.co/Np1h5MYKhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1979072299044118529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cTxTlXIAE-F5t.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10037262557",
+              "name": "響け!ユーフォニアム"
+            }
+          }
+        ],
+        "conversation_id": "1979132674397868174",
+        "created_at": "2025-10-17T10:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979132674397868174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eupd_official/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/eupd_official/status/1979110147948458447",
+              "start": 7,
+              "url": "https://t.co/Np1h5MYKhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979132674397868174",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979110147948458447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！！！！！！ https://t.co/Np1h5MYKhK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979072299044118529"
+          ]
+        },
+        "author_id": "1850859161283932160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10037262557",
+              "name": "響け!ユーフォニアム"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979110147948458447",
+        "created_at": "2025-10-17T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979110147948458447"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "北宇治高校吹奏楽部 上海",
+              "probability": 0.3754,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "響け！ユーフォニアム　公式吹奏楽コンサート 北宇治高校吹奏楽部　上海演奏会",
+              "probability": 0.0878,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "上海交通銀行前滩",
+              "probability": 0.3792,
+              "start": 87,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbaSH3Fv3s",
+              "end": 163,
+              "expanded_url": "https://x.com/EUPD_official/status/1979110147948458447/photo/1",
+              "media_key": "3_1979072299044118529",
+              "start": 140,
+              "url": "https://t.co/wbaSH3Fv3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979110147948458447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 173,
+                "start": 163,
+                "tag": "響けユーフォニアム"
+              },
+              {
+                "end": 186,
+                "start": 174,
+                "tag": "anime_eupho"
+              }
+            ]
+          },
+          "text": "北宇治高校吹奏楽部 上海演奏会 開催決定！\n\n響け！ユーフォニアム　公式吹奏楽コンサート\n北宇治高校吹奏楽部　上海演奏会～10周年記念公演～\n\n日時：12月6日（土）\n会場：上海交通銀行前滩（ゼンタン）31文化芸能センター 大劇場\n\n主催：EUPHORIC PRODUCTION\n\n詳細情報は後日公開予定です。お楽しみに！\n\n#響けユーフォニアム #anime_eupho"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 38013,
+          "like_count": 135,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "北宇治高校吹奏楽部 上海演奏会 開催決定！\n\n響け！ユーフォニアム　公式吹奏楽コンサート\n北宇治高校吹奏楽部　上海演奏会～10周年記念公演～\n\n日時：12月6日（土）\n会場：上海交通銀行前滩（ゼンタン）31文化芸能センター 大劇場\n\n主催：EUPHORIC PRODUCTION https://t.co/wbaSH3Fv3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 1523,
+          "like_count": 15184,
+          "listed_count": 2,
+          "media_count": 723,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-28T11:16:46.000Z",
+        "description": "EUPHORIC PRODUCTIONは、「二次元」コンテンツと日系文化・日本発IPに特化する企画・制作チームとなり、ファンの皆さまにより高品質なライブパフォーマンスをお届けすることを目指しています。",
+        "id": "1850859161283932160",
+        "name": "Euphoric Production",
+        "pinned_tweet_id": "1934568734108340249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892414965556137984/pbA2Va82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 116
+        },
+        "username": "EUPD_official",
+        "verified": true
+      }
+    ]
+  }
+}

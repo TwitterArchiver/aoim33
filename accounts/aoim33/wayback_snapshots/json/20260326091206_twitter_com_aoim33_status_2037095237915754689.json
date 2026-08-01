@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2037088786761605147",
+    "created_at": "2026-03-26T09:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037095237915754689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "851054131418505216",
+          "start": 0,
+          "username": "0xCheshire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037095237915754689",
+    "in_reply_to_user_id": "851054131418505216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037088786761605147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@0xCheshire 你好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2037088607698300928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUxS7XaMAAsDq1.png",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2037088786761605147",
+        "created_at": "2026-03-26T09:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037095237915754689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "851054131418505216",
+              "start": 0,
+              "username": "0xCheshire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037095237915754689",
+        "in_reply_to_user_id": "851054131418505216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037088786761605147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@0xCheshire 你好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037088607698300928"
+          ]
+        },
+        "author_id": "851054131418505216",
+        "conversation_id": "2037088786761605147",
+        "created_at": "2026-03-26T08:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037088786761605147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMPZoi7zTL",
+              "end": 62,
+              "expanded_url": "https://x.com/0xCheshire/status/2037088786761605147/photo/1",
+              "media_key": "3_2037088607698300928",
+              "start": 39,
+              "url": "https://t.co/YMPZoi7zTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037088786761605147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "测试一下人际网络。\n\n这是一条只有我关注了的人和他们关注的人才能回复的推文。 https://t.co/YMPZoi7zTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 2713,
+          "like_count": 40734,
+          "listed_count": 20,
+          "media_count": 2241,
+          "tweet_count": 9801
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-09T12:48:11.000Z",
+        "description": "你要更相信你自己！ \n\n商务合作 | 联系我：https://t.co/bL19amkOzs\n\n电报交流群：https://t.co/lkMXOPWONd\n\n#Binance 近3亿用户共同选择，出入金安全：https://t.co/WIPio1MiCP\n\n#OKX 专属邀请：https://t.co/IspkjNJMTs",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "Binance"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/CheshireMEW",
+                "end": 46,
+                "expanded_url": "http://t.me/CheshireMEW",
+                "start": 23,
+                "url": "https://t.co/bL19amkOzs"
+              },
+              {
+                "display_url": "t.me/CheshireBTC",
+                "end": 77,
+                "expanded_url": "http://t.me/CheshireBTC",
+                "start": 54,
+                "url": "https://t.co/lkMXOPWONd"
+              },
+              {
+                "display_url": "binance.com/join?ref=A9999…",
+                "end": 127,
+                "expanded_url": "http://binance.com/join?ref=A999998",
+                "start": 104,
+                "url": "https://t.co/WIPio1MiCP"
+              },
+              {
+                "display_url": "okx.com/join/A999998",
+                "end": 162,
+                "expanded_url": "http://okx.com/join/A999998",
+                "start": 139,
+                "url": "https://t.co/IspkjNJMTs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blacknico.com",
+                "end": 23,
+                "expanded_url": "http://blacknico.com",
+                "start": 0,
+                "url": "https://t.co/2t7c16saZp"
+              }
+            ]
+          }
+        },
+        "id": "851054131418505216",
+        "location": "个人网站✨",
+        "name": "柴郡🔔｜Crypto+AI Plus",
+        "pinned_tweet_id": "2036714214627389918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144280,
+          "following_count": 1132,
+          "like_count": 26614,
+          "listed_count": 767,
+          "media_count": 18813,
+          "tweet_count": 44536
+        },
+        "url": "https://t.co/2t7c16saZp",
+        "username": "0xCheshire",
+        "verified": true
+      }
+    ]
+  }
+}

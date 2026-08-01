@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      }
+    ],
+    "conversation_id": "2008560347796697552",
+    "created_at": "2026-01-06T15:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008560347796697552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "106379129",
+          "start": 3,
+          "username": "Jaemyung_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008560347796697552",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008471090847510678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaemyung_Lee: 자오러지 중국 전인대 상무위원장님을 만나 함께 한중 관계를 더욱 성숙히 발전시켜 나가자고 합의했습니다. 양국 의회 간 교류에서부터 인적 교류와 경제 협력까지, 양국의 우호 증진에 큰 기여를 해오신 위원장님이기에 더욱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2008469345647915009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-EOoGa8AE0lmv.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2008560347796697552",
+        "created_at": "2026-01-06T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008560347796697552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "106379129",
+              "start": 3,
+              "username": "Jaemyung_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008560347796697552",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008471090847510678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaemyung_Lee: 자오러지 중국 전인대 상무위원장님을 만나 함께 한중 관계를 더욱 성숙히 발전시켜 나가자고 합의했습니다. 양국 의회 간 교류에서부터 인적 교류와 경제 협력까지, 양국의 우호 증진에 큰 기여를 해오신 위원장님이기에 더욱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008469345647915009"
+          ]
+        },
+        "author_id": "106379129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2008471090847510678",
+        "created_at": "2026-01-06T09:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:23:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008469375532298463",
+          "2008471090847510678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePYpuwauOs",
+              "end": 183,
+              "expanded_url": "https://x.com/Jaemyung_Lee/status/2008471090847510678/photo/1",
+              "media_key": "3_2008469345647915009",
+              "start": 160,
+              "url": "https://t.co/ePYpuwauOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008471090847510678",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "자오러지 중국 전인대 상무위원장님을 만나 함께 한중 관계를 더욱 성숙히 발전시켜 나가자고 합의했습니다. 양국 의회 간 교류에서부터 인적 교류와 경제 협력까지, 양국의 우호 증진에 큰 기여를 해오신 위원장님이기에 더욱 뜻깊은 만남이었습니다.\n\n민의를 대표하는 기관으로서 한중 관계 발전에 전인대의 역할이 어느 때보다 중요합니다. 공고한 신뢰의 기반 위에 양국의 우정이 더욱 돈독해질 수 있도록 위원장님과 전인대가 적극적인 역할을 해주실 것으로 믿습니다.\n\n今天，我同赵乐际中国全国人大常委会委员长举行会晤，确认了进一步推动韩中关系成熟发展的意愿。一直以来，赵乐际委员长为推进两国议会交流、经济合作、增进两国友好作出贡献，与他的会见觉得更加富有意义。\n\n在推动韩中关系发展方面，代表中国民意的全国人大的作用尤为重要。我相信，赵委员长和全国人大为推动两国基于坚实互信、夯实韩中友谊发挥积极作用。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 109843,
+          "like_count": 2112,
+          "quote_count": 25,
+          "reply_count": 200,
+          "retweet_count": 449
+        },
+        "reply_settings": "everyone",
+        "text": "자오러지 중국 전인대 상무위원장님을 만나 함께 한중 관계를 더욱 성숙히 발전시켜 나가자고 합의했습니다. 양국 의회 간 교류에서부터 인적 교류와 경제 협력까지, 양국의 우호 증진에 큰 기여를 해오신 위원장님이기에 더욱 뜻깊은 만남이었습니다.\n\n민의를 대표하는 기관으로서 한중 관계 발전에 https://t.co/ePYpuwauOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 2121,
+          "like_count": 25808,
+          "listed_count": 8,
+          "media_count": 1240,
+          "tweet_count": 5639
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-19T10:59:13.000Z",
+        "description": "대한민국 제21대 대통령",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.go.kr",
+                "end": 23,
+                "expanded_url": "https://www.president.go.kr/",
+                "start": 0,
+                "url": "https://t.co/NJ7qyiAoIk"
+              }
+            ]
+          }
+        },
+        "id": "106379129",
+        "location": "대한민국 ",
+        "name": "이재명",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943136,
+          "following_count": 456220,
+          "like_count": 9302,
+          "listed_count": 2717,
+          "media_count": 7103,
+          "tweet_count": 62880
+        },
+        "url": "https://t.co/NJ7qyiAoIk",
+        "username": "Jaemyung_Lee",
+        "verified": true
+      }
+    ]
+  }
+}

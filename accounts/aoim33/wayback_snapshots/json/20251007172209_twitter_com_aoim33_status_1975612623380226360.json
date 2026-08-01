@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1975612623380226360",
+    "created_at": "2025-10-07T17:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975612623380226360"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "X",
+          "probability": 0.5644,
+          "start": 22,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "95731075",
+          "start": 3,
+          "username": "Safety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975612623380226360",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975560373760893236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Safety: Update on X's Efforts to Combat Terrorism on the Platform\n\nOn the anniversary of the October 7 attack, we're sharing an update…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1975612623380226360",
+        "created_at": "2025-10-07T17:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975612623380226360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "X",
+              "probability": 0.5644,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "95731075",
+              "start": 3,
+              "username": "Safety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975612623380226360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975560373760893236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Safety: Update on X's Efforts to Combat Terrorism on the Platform\n\nOn the anniversary of the October 7 attack, we're sharing an update…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "95731075",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1975560373760893236",
+        "created_at": "2025-10-07T13:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975560373760893236"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "X",
+              "probability": 0.5972,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "X",
+              "probability": 0.4712,
+              "start": 130,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975560373760893236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Update on X's Efforts to Combat Terrorism on the Platform\n\nOn the anniversary of the October 7 attack, we're sharing an update on X's ongoing work to tackle terrorist activity across our platform.\n\nX has zero tolerance for terrorist organizations, violent extremist groups, those responsible for violent attacks, or anyone who supports or promotes their illicit activities. From the onset of the conflict, we activated our crisis protocol and stood up the company to address the rapidly evolving situation with the highest level of urgency. As a result, we've suspended over 22,500 accounts linked to violent entities in the region—including those affiliated with Hamas. We’ve also proactively identified and acted on more than 3.5 million pieces of content that breached our X Rules, such as Violent Content and Hateful Conduct. This is consistent with our policies and enforcement being built on broad principles of violence and criminal behavior, enabling a comprehensive approach to addressing harmful content.\n\nAutomation plays a central role in proactively identifying and suspending violating accounts and content—stopping terrorists and their propaganda at the gates. The vast majority of suspensions for terrorism promotion come from a mix of automated detection and purpose-built internal proprietary tools. In fact, more than 90% of our actions against designated terrorist entities are proactive. We're dedicated to continuing to invest in advanced technologies to better detect and remove terrorist and violent extremist content before it can harm users.\n\nWe also maintain a highly trained team for countering terrorism on X. This group includes experts in policy, counterterrorism, law enforcement, legal matters, product development, and engineering.\n\nAnyone—whether they have an X account or not—can report suspected policy violations through our tools."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 24871,
+          "like_count": 394,
+          "quote_count": 18,
+          "reply_count": 79,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Update on X's Efforts to Combat Terrorism on the Platform\n\nOn the anniversary of the October 7 attack, we're sharing an update on X's ongoing work to tackle terrorist activity across our platform.\n\nX has zero tolerance for terrorist organizations, violent extremist groups, those"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1369,
+          "like_count": 13609,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-09T21:00:57.000Z",
+        "description": "Providing the latest safety tools, resources, and updates from X.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "http://help.x.com",
+                "start": 0,
+                "url": "https://t.co/YQ0rgq2Q9t"
+              }
+            ]
+          }
+        },
+        "id": "95731075",
+        "location": "X HQ",
+        "name": "Safety",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683507906891718658/ZS9jJfar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640337,
+          "following_count": 132,
+          "like_count": 179,
+          "listed_count": 8156,
+          "media_count": 165,
+          "tweet_count": 1633
+        },
+        "url": "https://t.co/YQ0rgq2Q9t",
+        "username": "Safety",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2008345251908645369",
+    "created_at": "2026-01-06T01:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008345251908645369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7080152",
+          "start": 3,
+          "username": "XcorpJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008345251908645369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008344904767049792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XcorpJP: Xでは、違法コンテンツ（児童性的虐待素材（CSAM）を含む）が含まれる投稿に対して、投稿の削除、アカウントの永久凍結などを含む対応を行うことに加え、行政や法執行機関と協力するなどの措置をとります。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2008345251908645369",
+        "created_at": "2026-01-06T01:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008345251908645369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7080152",
+              "start": 3,
+              "username": "XcorpJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008345251908645369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008344904767049792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XcorpJP: Xでは、違法コンテンツ（児童性的虐待素材（CSAM）を含む）が含まれる投稿に対して、投稿の削除、アカウントの永久凍結などを含む対応を行うことに加え、行政や法執行機関と協力するなどの措置をとります。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7080152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2008344904767049792",
+        "created_at": "2026-01-06T01:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008344904767049792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Safety/status/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Safety/status/2007648212421587223",
+              "start": 99,
+              "url": "https://t.co/EZRQ4TE1Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008344904767049792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "help.x.com/ja/rules-and-p…",
+                "end": 258,
+                "expanded_url": "https://help.x.com/ja/rules-and-policies/x-rules",
+                "start": 235,
+                "url": "https://t.co/3scRhNfB5y"
+              },
+              {
+                "display_url": "help.x.com/ja/rules-and-p…",
+                "end": 282,
+                "expanded_url": "https://help.x.com/ja/rules-and-policies/enforcement-options",
+                "start": 259,
+                "url": "https://t.co/iCTuGlVE03"
+              }
+            ]
+          },
+          "text": "Xでは、違法コンテンツ（児童性的虐待素材（CSAM）を含む）が含まれる投稿に対して、投稿の削除、アカウントの永久凍結などを含む対応を行うことに加え、行政や法執行機関と協力するなどの措置をとります。\n\nGrokを使用して違法コンテンツを作成したり、Grokに違法コンテンツの作成を促すなどの行為を行った場合、違法コンテンツをアップロードした場合と同様の措置がとられます。\n\n当社のポリシーに関する詳細については、Xルールと強制的対応について記した下記をご確認ください。\n\nhttps://t.co/3scRhNfB5y\nhttps://t.co/iCTuGlVE03"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 484,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007648212421587223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Xでは、違法コンテンツ（児童性的虐待素材（CSAM）を含む）が含まれる投稿に対して、投稿の削除、アカウントの永久凍結などを含む対応を行うことに加え、行政や法執行機関と協力するなどの措置をとります。 https://t.co/EZRQ4TE1Dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 2093,
+          "like_count": 25529,
+          "listed_count": 8,
+          "media_count": 1231,
+          "tweet_count": 5597
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-26T01:54:35.000Z",
+        "description": "Xの日本公式アカウントです。",
+        "id": "7080152",
+        "name": "X Corp. Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938979574983118848/o1ZhHEk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951238,
+          "following_count": 12,
+          "like_count": 1102,
+          "listed_count": 13956,
+          "media_count": 1224,
+          "tweet_count": 13202
+        },
+        "username": "XcorpJP",
+        "verified": true
+      }
+    ]
+  }
+}

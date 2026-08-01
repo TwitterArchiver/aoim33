@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "1996637003425972455",
+    "created_at": "2025-12-04T17:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T18:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996637003425972455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "리듬게임_𝕏친소"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "리듬게임_트친소"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1769913853427826688",
+          "start": 3,
+          "username": "Lomi_rhythm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996637003425972455",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996598768528162825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomi_rhythm: #리듬게임_𝕏친소\n#리듬게임_트친소\n\n마이마이 주력, 최근에 160층 찍었어요😆\n오락실 지박령이고 어뮤즈, 우게 자주 다녀요\n선팔 ㄴㄴ요 맘찍 해주시면 찾아갈게요~\n트친분들 알티 인용 미리 감사합니다_🙇‍♀️ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996598760370253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VX_n7asAAgVdU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996598760366096384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VX_n6bQAAmWX7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996598760370241536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VX_n7agAAjEpE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1175,
+        "media_key": "3_1996598760366092288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VX_n6bMAA2VXq.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "1996637003425972455",
+        "created_at": "2025-12-04T17:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996637003425972455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "리듬게임_𝕏친소"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "리듬게임_트친소"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769913853427826688",
+              "start": 3,
+              "username": "Lomi_rhythm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996637003425972455",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996598768528162825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomi_rhythm: #리듬게임_𝕏친소\n#리듬게임_트친소\n\n마이마이 주력, 최근에 160층 찍었어요😆\n오락실 지박령이고 어뮤즈, 우게 자주 다녀요\n선팔 ㄴㄴ요 맘찍 해주시면 찾아갈게요~\n트친분들 알티 인용 미리 감사합니다_🙇‍♀️ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996598760370253824",
+            "3_1996598760366096384",
+            "3_1996598760370241536",
+            "3_1996598760366092288"
+          ]
+        },
+        "author_id": "1769913853427826688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "1996598768528162825",
+        "created_at": "2025-12-04T15:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996598768528162825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "리듬게임_𝕏친소"
+            },
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "리듬게임_트친소"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6PJj7ULbv",
+              "end": 140,
+              "expanded_url": "https://x.com/Lomi_rhythm/status/1996598768528162825/photo/1",
+              "media_key": "3_1996598760370253824",
+              "start": 117,
+              "url": "https://t.co/G6PJj7ULbv"
+            },
+            {
+              "display_url": "pic.x.com/G6PJj7ULbv",
+              "end": 140,
+              "expanded_url": "https://x.com/Lomi_rhythm/status/1996598768528162825/photo/1",
+              "media_key": "3_1996598760366096384",
+              "start": 117,
+              "url": "https://t.co/G6PJj7ULbv"
+            },
+            {
+              "display_url": "pic.x.com/G6PJj7ULbv",
+              "end": 140,
+              "expanded_url": "https://x.com/Lomi_rhythm/status/1996598768528162825/photo/1",
+              "media_key": "3_1996598760370241536",
+              "start": 117,
+              "url": "https://t.co/G6PJj7ULbv"
+            },
+            {
+              "display_url": "pic.x.com/G6PJj7ULbv",
+              "end": 140,
+              "expanded_url": "https://x.com/Lomi_rhythm/status/1996598768528162825/photo/1",
+              "media_key": "3_1996598760366092288",
+              "start": 117,
+              "url": "https://t.co/G6PJj7ULbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996598768528162825",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1208,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#리듬게임_𝕏친소\n#리듬게임_트친소\n\n마이마이 주력, 최근에 160층 찍었어요😆\n오락실 지박령이고 어뮤즈, 우게 자주 다녀요\n선팔 ㄴㄴ요 맘찍 해주시면 찾아갈게요~\n트친분들 알티 인용 미리 감사합니다_🙇‍♀️ https://t.co/G6PJj7ULbv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / ko-fi blog ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/aoim33",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/aoim33",
+                "start": 0,
+                "url": "https://t.co/Yn6s0NWNpv"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1995021557874536905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 1881,
+          "like_count": 20693,
+          "listed_count": 4,
+          "media_count": 1032,
+          "tweet_count": 4889
+        },
+        "url": "https://t.co/Yn6s0NWNpv",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-19T02:28:58.000Z",
+        "description": "2024.10.14~ maimai / 16000",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCABQm…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCABQmC1UCmTI77K3jwKiqOg?si=Yy6pImW0AS9F1v0v",
+                "start": 0,
+                "url": "https://t.co/es47c5IkiD"
+              }
+            ]
+          }
+        },
+        "id": "1769913853427826688",
+        "name": "Lomi",
+        "pinned_tweet_id": "1993625712545456612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995492457367396352/pMFTW5_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 460,
+          "like_count": 8056,
+          "listed_count": 0,
+          "media_count": 736,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/es47c5IkiD",
+        "username": "Lomi_rhythm",
+        "verified": false
+      }
+    ]
+  }
+}

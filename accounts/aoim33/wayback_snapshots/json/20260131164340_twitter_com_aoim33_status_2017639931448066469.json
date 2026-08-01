@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2017637490665132145",
+    "created_at": "2026-01-31T16:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T17:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017639931448066469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322365696983003136",
+          "start": 0,
+          "username": "bryanwangxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017639931448066469",
+    "in_reply_to_user_id": "1322365696983003136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017637490665132145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bryanwangxin 😂，所以我的建议是这东西放 article 里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2017637490665132145",
+        "created_at": "2026-01-31T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017639931448066469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322365696983003136",
+              "start": 0,
+              "username": "bryanwangxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017639931448066469",
+        "in_reply_to_user_id": "1322365696983003136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017637490665132145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bryanwangxin 😂，所以我的建议是这东西放 article 里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322365696983003136",
+        "conversation_id": "2017637490665132145",
+        "created_at": "2026-01-31T16:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017637490665132145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomlin9988/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/tomlin9988/status/2017583258813534577",
+              "start": 10,
+              "url": "https://t.co/BHf8hJBymS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017637490665132145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017583258813534577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文案都不修改下啊🤨 https://t.co/BHf8hJBymS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 2382,
+          "like_count": 31291,
+          "listed_count": 17,
+          "media_count": 1548,
+          "tweet_count": 6964
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T02:32:14.000Z",
+        "description": "出海赚钱 · 3C数码 · 潜水 · 生活 · 美食 · 风景 · 人文 · 马来西亚 · YouTube: @laurainkitchen\n | #Photography #Diving #Tech #EverydayLife",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 74,
+                "tag": "Photography"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "Diving"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "Tech"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "tag": "EverydayLife"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "laurainkitchen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laurainkitchen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laurainkitchen",
+                "start": 0,
+                "url": "https://t.co/XgZII4GyBH"
+              }
+            ]
+          }
+        },
+        "id": "1322365696983003136",
+        "location": "Selango, Kuala Lumpur",
+        "name": "Bryan",
+        "pinned_tweet_id": "2013617837395660952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538993840278884357/pnrcd42T_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 2228,
+          "like_count": 3075,
+          "listed_count": 5,
+          "media_count": 740,
+          "tweet_count": 14318
+        },
+        "url": "https://t.co/XgZII4GyBH",
+        "username": "bryanwangxin",
+        "verified": true
+      }
+    ]
+  }
+}

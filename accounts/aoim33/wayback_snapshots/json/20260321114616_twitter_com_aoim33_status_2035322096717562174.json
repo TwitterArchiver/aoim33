@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2035321897832071552",
+    "created_at": "2026-03-21T11:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035322096717562174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010625193467867136",
+          "start": 0,
+          "username": "NingTeaqwq"
+        },
+        {
+          "end": 24,
+          "id": "2014989014286454784",
+          "start": 12,
+          "username": "laozhaizhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035322096717562174",
+    "in_reply_to_user_id": "2010625193467867136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035321897832071552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NingTeaqwq @laozhaizhai 羡慕了，我在上课 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035321887858020352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7qeTFa0AAc3Cq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2035321897832071552",
+        "created_at": "2026-03-21T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035322096717562174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010625193467867136",
+              "start": 0,
+              "username": "NingTeaqwq"
+            },
+            {
+              "end": 24,
+              "id": "2014989014286454784",
+              "start": 12,
+              "username": "laozhaizhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035322096717562174",
+        "in_reply_to_user_id": "2010625193467867136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035321897832071552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NingTeaqwq @laozhaizhai 羡慕了，我在上课 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035321887858020352"
+          ]
+        },
+        "author_id": "2010625193467867136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035321897832071552",
+        "created_at": "2026-03-21T11:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035321897832071552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2014989014286454784",
+              "start": 22,
+              "username": "laozhaizhai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQfWUKiqVv",
+              "end": 58,
+              "expanded_url": "https://x.com/NingTeaqwq/status/2035321897832071552/photo/1",
+              "media_key": "3_2035321887858020352",
+              "start": 35,
+              "url": "https://t.co/TQfWUKiqVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035321897832071552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牢宅生日快乐 （PS：别问我为什么干香菜） @laozhaizhai https://t.co/TQfWUKiqVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 2671,
+          "like_count": 39864,
+          "listed_count": 20,
+          "media_count": 2170,
+          "tweet_count": 9503
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "A Xia | 我爱大家 =ᗜωᗜ= | \n喜欢可爱的事物，永远的纯爱党，希望给大家带来快乐！\n分享各种有趣的、日常、以及……（隐藏）\n小伙伴 @aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "阿夏夏夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030545875668549632/S7mm6i_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 405,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 378
+        },
+        "username": "NingTeaqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-24T09:10:07.000Z",
+        "description": "烤p、舞萌吃一枚，喜欢的角色是pjsk里面的宵崎奏，喜欢玩cosplay，平时也会经常健身和跑步",
+        "id": "2014989014286454784",
+        "location": "浙江",
+        "name": "牢宅宅宅宅宅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014990331222294528/5vO7T83p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 186,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 173
+        },
+        "username": "laozhaizhai",
+        "verified": true
+      }
+    ]
+  }
+}

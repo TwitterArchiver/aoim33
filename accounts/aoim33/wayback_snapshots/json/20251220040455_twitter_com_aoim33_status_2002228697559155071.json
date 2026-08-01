@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2002222069451489342",
+    "created_at": "2025-12-20T04:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T05:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002228697559155071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "136473839",
+          "start": 0,
+          "username": "MrGafish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002228697559155071",
+    "in_reply_to_user_id": "136473839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002222069451489342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrGafish 蹲一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2002222069451489342",
+        "created_at": "2025-12-20T04:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002228697559155071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "136473839",
+              "start": 0,
+              "username": "MrGafish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002228697559155071",
+        "in_reply_to_user_id": "136473839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002222069451489342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrGafish 蹲一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136473839",
+        "conversation_id": "2002222069451489342",
+        "created_at": "2025-12-20T03:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002222069451489342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002222069451489342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝不到 1.8K 的\n\n来打个招呼 👋\n\n我们互相关注吧 🤍🔰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / BMC blog ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 2016,
+          "like_count": 22353,
+          "listed_count": 4,
+          "media_count": 1112,
+          "tweet_count": 5111
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T01:51:43.000Z",
+        "description": "开发者 Gafish ，中年程序员，编程 | 副业 | 理财 | Ai | 生活",
+        "id": "136473839",
+        "name": "Mr Gafish",
+        "pinned_tweet_id": "1995089214678200336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888247810040152064/mwSBtOtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7970,
+          "following_count": 1931,
+          "like_count": 5130,
+          "listed_count": 51,
+          "media_count": 297,
+          "tweet_count": 6971
+        },
+        "username": "MrGafish",
+        "verified": true
+      }
+    ]
+  }
+}

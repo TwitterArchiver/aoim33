@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1990655074222420329",
+    "created_at": "2025-11-18T05:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990655074222420329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "168070091",
+          "start": 3,
+          "username": "ritsuki0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990655074222420329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990257991472541766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ritsuki0130: 🇨🇳亲爱的中国朋友们，日本也有许多人希望与大家保持友好关系。对我们来说，高市首相只会制造敌意、煽动对中国的憎恨。对不起，我们绝不会让战争发生。让我们选择和平\n\n🇹🇼親愛的台灣朋友們，很抱歉日本政府企圖把你們捲入戰爭。日本也有許多人希望同時與中國…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1990655074222420329",
+        "created_at": "2025-11-18T05:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990655074222420329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "168070091",
+              "start": 3,
+              "username": "ritsuki0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990655074222420329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990257991472541766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ritsuki0130: 🇨🇳亲爱的中国朋友们，日本也有许多人希望与大家保持友好关系。对我们来说，高市首相只会制造敌意、煽动对中国的憎恨。对不起，我们绝不会让战争发生。让我们选择和平\n\n🇹🇼親愛的台灣朋友們，很抱歉日本政府企圖把你們捲入戰爭。日本也有許多人希望同時與中國…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "168070091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1990257991472541766",
+        "created_at": "2025-11-17T03:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990257991472541766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GUTS_1997/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/GUTS_1997/status/1989845346189762697",
+              "start": 143,
+              "url": "https://t.co/gjWEwY8YO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990257991472541766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 42200,
+          "like_count": 704,
+          "quote_count": 10,
+          "reply_count": 191,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989845346189762697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇨🇳亲爱的中国朋友们，日本也有许多人希望与大家保持友好关系。对我们来说，高市首相只会制造敌意、煽动对中国的憎恨。对不起，我们绝不会让战争发生。让我们选择和平\n\n🇹🇼親愛的台灣朋友們，很抱歉日本政府企圖把你們捲入戰爭。日本也有許多人希望同時與中國、台灣維持友好。一起阻止這種異常的動向吧 https://t.co/gjWEwY8YO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "srkmanno"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "watebird14760"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1712,
+          "like_count": 19019,
+          "listed_count": 4,
+          "media_count": 924,
+          "tweet_count": 4522
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T08:49:54.000Z",
+        "description": "れいわ動画ボランティア🐾れいわ政権下で推し活したいオタク/上村さん.櫛渕さん.八幡さん.ういこさん.塩崎さん推し/腐女子/レイヤー/ハロプロ/娘。(楓神推し)/らいりー.🐼さん.くるみ.ほのぴ.ももも.🍎/25↑/うたプリ⭐︎春ちゃん好き四ノ宮クラスタ/恋乱🦊恭一郎さん/他好きな作品多数",
+        "id": "168070091",
+        "location": "長野県の真ん中",
+        "name": "りつき🐾政治に物申すコスプレイヤー",
+        "pinned_tweet_id": "1905091387336651030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297911984348778496/fqqQolFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 566,
+          "like_count": 98670,
+          "listed_count": 52,
+          "media_count": 3288,
+          "tweet_count": 134365
+        },
+        "username": "ritsuki0130",
+        "verified": false
+      }
+    ]
+  }
+}

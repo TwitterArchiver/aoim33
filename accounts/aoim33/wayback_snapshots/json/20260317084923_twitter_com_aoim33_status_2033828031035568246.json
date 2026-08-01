@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1118168384414216192",
+          "name": "Digital Transformation"
+        }
+      }
+    ],
+    "conversation_id": "2033828031035568246",
+    "created_at": "2026-03-17T08:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T09:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033828031035568246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starknight/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/starknight/status/2033812164985954592",
+          "start": 21,
+          "url": "https://t.co/Prm9DwCLe7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033828031035568246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033812164985954592",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以这个数字化最后落到了舞萌DX头上了？ https://t.co/Prm9DwCLe7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1118168384414216192",
+              "name": "Digital Transformation"
+            }
+          }
+        ],
+        "conversation_id": "2033828031035568246",
+        "created_at": "2026-03-17T08:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033828031035568246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starknight/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/starknight/status/2033812164985954592",
+              "start": 21,
+              "url": "https://t.co/Prm9DwCLe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033828031035568246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033812164985954592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以这个数字化最后落到了舞萌DX头上了？ https://t.co/Prm9DwCLe7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8956502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1118168384414216192",
+              "name": "Digital Transformation"
+            }
+          }
+        ],
+        "conversation_id": "2033812164985954592",
+        "created_at": "2026-03-17T07:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033812164985954592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033812164985954592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4789,
+          "like_count": 20,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和人聊到在日本企业推进数字化（他们叫“DX”=Digital Transformation）时遇到的困境之一：\n引入一个好用工具（解决方案），现场立省30%的时间！而且还不贵。\n普通领导：牛逼，快引进！\n日企领导：呃，那员工闲下来之后干啥？\n普通领导：两个人可以干五个人的活，裁掉三个人啊。\n日企领导：哎那怎么行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4218,
+          "following_count": 2653,
+          "like_count": 39149,
+          "listed_count": 20,
+          "media_count": 2107,
+          "tweet_count": 9288
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2007-09-18T17:50:58.000Z",
+        "description": "人们对我说：你不过是尘与土。可是他们忘了告诉我，那其实是星星的尘埃。時々日本語。两个小朋友的爸爸。",
+        "id": "8956502",
+        "name": "StarKnight",
+        "pinned_tweet_id": "2019583115069718588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014879396814061569/D9PxYnO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91468,
+          "following_count": 3088,
+          "like_count": 33001,
+          "listed_count": 682,
+          "media_count": 9144,
+          "tweet_count": 85106
+        },
+        "username": "StarKnight",
+        "verified": true
+      }
+    ]
+  }
+}

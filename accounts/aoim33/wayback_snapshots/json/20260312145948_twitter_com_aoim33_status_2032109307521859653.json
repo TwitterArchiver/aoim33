@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032109300198621189",
+        "3_2032109300202815488"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041046235",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "2032109307521859653",
+    "created_at": "2026-03-12T14:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032109307521859653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HI9dhRCI6S",
+          "end": 183,
+          "expanded_url": "https://x.com/aoim33/status/2032109307521859653/photo/1",
+          "media_key": "3_2032109300198621189",
+          "start": 160,
+          "url": "https://t.co/HI9dhRCI6S"
+        },
+        {
+          "display_url": "pic.x.com/HI9dhRCI6S",
+          "end": 183,
+          "expanded_url": "https://x.com/aoim33/status/2032109307521859653/photo/1",
+          "media_key": "3_2032109300202815488",
+          "start": 160,
+          "url": "https://t.co/HI9dhRCI6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032109307521859653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个新发现！\niFAST Global Bank 的银行账户支持 Direct Debit 了\n\n这样一来，这个账户就有了接受推特创作者收益打款的功能\n尝试在后台修改了相关信息和默认币种，也顺利通过了\n这样一来，我们注册推特账号收益的 stripe express 就更应该选择英国区，能获得更好的保障\n期待能顺利收款 https://t.co/HI9dhRCI6S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2032109300198621189",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOApFcbQAUzAcc.jpg",
+        "width": 576
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2032109300202815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOApFdbQAAHLg0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032109300198621189",
+            "3_2032109300202815488"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2032109307521859653",
+        "created_at": "2026-03-12T14:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032109307521859653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HI9dhRCI6S",
+              "end": 183,
+              "expanded_url": "https://x.com/aoim33/status/2032109307521859653/photo/1",
+              "media_key": "3_2032109300198621189",
+              "start": 160,
+              "url": "https://t.co/HI9dhRCI6S"
+            },
+            {
+              "display_url": "pic.x.com/HI9dhRCI6S",
+              "end": 183,
+              "expanded_url": "https://x.com/aoim33/status/2032109307521859653/photo/1",
+              "media_key": "3_2032109300202815488",
+              "start": 160,
+              "url": "https://t.co/HI9dhRCI6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032109307521859653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个新发现！\niFAST Global Bank 的银行账户支持 Direct Debit 了\n\n这样一来，这个账户就有了接受推特创作者收益打款的功能\n尝试在后台修改了相关信息和默认币种，也顺利通过了\n这样一来，我们注册推特账号收益的 stripe express 就更应该选择英国区，能获得更好的保障\n期待能顺利收款 https://t.co/HI9dhRCI6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4205,
+          "following_count": 2619,
+          "like_count": 38267,
+          "listed_count": 21,
+          "media_count": 2061,
+          "tweet_count": 9027
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

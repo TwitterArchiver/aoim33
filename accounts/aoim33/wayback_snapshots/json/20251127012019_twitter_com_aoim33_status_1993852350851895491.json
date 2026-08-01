@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993794854732877827"
+      ],
+      "media_source_tweet_id": [
+        "1993794863704531071"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1993852350851895491",
+    "created_at": "2025-11-27T01:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T02:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993852350851895491"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Lagrange",
+          "probability": 0.5706,
+          "start": 17,
+          "type": "Place"
+        },
+        {
+          "end": 43,
+          "normalized_text": "arcaea",
+          "probability": 0.8177,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "Arcaea",
+          "probability": 0.8185,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "arcaea_art"
+        },
+        {
+          "end": 57,
+          "start": 50,
+          "tag": "Arcaea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557571013541789697",
+          "start": 3,
+          "username": "NaneonAster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2z0pHJvTuz",
+          "end": 81,
+          "expanded_url": "https://x.com/NaneonAster/status/1993794863704531071/photo/1",
+          "media_key": "3_1993794854732877827",
+          "start": 58,
+          "url": "https://t.co/2z0pHJvTuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993852350851895491",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993794863704531071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NaneonAster: Lagrange loves you💜\n#arcaea_art \n#Arcaea https://t.co/2z0pHJvTuz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_1993794854732877827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6th21da0AMFi0z.jpg",
+        "width": 1813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993794854732877827"
+          ],
+          "media_source_tweet_id": [
+            "1993794863704531071"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1993852350851895491",
+        "created_at": "2025-11-27T01:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993852350851895491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Lagrange",
+              "probability": 0.5706,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "arcaea",
+              "probability": 0.8177,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Arcaea",
+              "probability": 0.8185,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "arcaea_art"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "Arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557571013541789697",
+              "start": 3,
+              "username": "NaneonAster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2z0pHJvTuz",
+              "end": 81,
+              "expanded_url": "https://x.com/NaneonAster/status/1993794863704531071/photo/1",
+              "media_key": "3_1993794854732877827",
+              "start": 58,
+              "url": "https://t.co/2z0pHJvTuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993852350851895491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993794863704531071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NaneonAster: Lagrange loves you💜\n#arcaea_art \n#Arcaea https://t.co/2z0pHJvTuz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993794854732877827"
+          ]
+        },
+        "author_id": "1557571013541789697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1993794863704531071",
+        "created_at": "2025-11-26T21:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T22:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993794863704531071"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Lagrange",
+              "probability": 0.4592,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 26,
+              "normalized_text": "arcaea",
+              "probability": 0.7878,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Arcaea",
+              "probability": 0.8271,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "arcaea_art"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "Arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2z0pHJvTuz",
+              "end": 64,
+              "expanded_url": "https://x.com/NaneonAster/status/1993794863704531071/photo/1",
+              "media_key": "3_1993794854732877827",
+              "start": 41,
+              "url": "https://t.co/2z0pHJvTuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993794863704531071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 742,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Lagrange loves you💜\n#arcaea_art \n#Arcaea https://t.co/2z0pHJvTuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1817,
+          "like_count": 19877,
+          "listed_count": 4,
+          "media_count": 996,
+          "tweet_count": 4742
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T03:34:18.000Z",
+        "description": "05 0701诞生日,ENTP-T，wota艺/helltaker/Arcaea💜Lagrange、68/MaimaiDX💙白法院ラグ推し/Arknights",
+        "id": "1557571013541789697",
+        "location": "白法院ラグ的卧室的床底下",
+        "name": "Naneon-Aster💫",
+        "pinned_tweet_id": "1989034931834745114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993761329505816577/cs6D13BF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 218,
+          "like_count": 26506,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 4224
+        },
+        "username": "NaneonAster",
+        "verified": false
+      }
+    ]
+  }
+}

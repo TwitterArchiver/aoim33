@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      }
+    ],
+    "conversation_id": "2031607870706561095",
+    "created_at": "2026-03-11T05:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031607870706561095"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "韓国",
+          "probability": 0.6104,
+          "start": 27,
+          "type": "Place"
+        },
+        {
+          "end": 38,
+          "normalized_text": "ILLIT",
+          "probability": 0.4716,
+          "start": 34,
+          "type": "Other"
+        },
+        {
+          "end": 49,
+          "normalized_text": "日本",
+          "probability": 0.7236,
+          "start": 48,
+          "type": "Place"
+        },
+        {
+          "end": 79,
+          "normalized_text": "中国",
+          "probability": 0.8681,
+          "start": 78,
+          "type": "Place"
+        },
+        {
+          "end": 115,
+          "normalized_text": "韓",
+          "probability": 0.4631,
+          "start": 115,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615639552227704832",
+          "start": 3,
+          "username": "snsnokyoufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031607870706561095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031509023401587106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snsnokyoufu: 中国女子(18) 、韓国アイドル『ILLIT』の曲に合わせて、日本の『着物』で踊る。\nZ世代はもう反日感情は無い感じ。\n「中国を侮辱している」とか、「動画を消せ」というコメントも皆無だった。\n日中韓の若者たちがお互いの文化を尊重し、世代交代で平…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11100,
+        "height": 900,
+        "media_key": "7_1819701703496921088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1819701703496921088/pu/img/k7NzwofzpWLoqHy9.jpg",
+        "public_metrics": {
+          "view_count": 4233949
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819701703496921088/pu/vid/avc1/320x400/pMbI1y2ZYPFxaIiw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819701703496921088/pu/vid/avc1/480x600/8MeLDxfoovDkVpOb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819701703496921088/pu/vid/avc1/720x900/os1dYRNmYGxIKcvE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1819701703496921088/pu/pl/D1ZjGxhahm8N6atA.m3u8?tag=12&v=19d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          }
+        ],
+        "conversation_id": "2031607870706561095",
+        "created_at": "2026-03-11T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031607870706561095"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "韓国",
+              "probability": 0.6104,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 38,
+              "normalized_text": "ILLIT",
+              "probability": 0.4716,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "日本",
+              "probability": 0.7236,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 79,
+              "normalized_text": "中国",
+              "probability": 0.8681,
+              "start": 78,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "韓",
+              "probability": 0.4631,
+              "start": 115,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615639552227704832",
+              "start": 3,
+              "username": "snsnokyoufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031607870706561095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031509023401587106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snsnokyoufu: 中国女子(18) 、韓国アイドル『ILLIT』の曲に合わせて、日本の『着物』で踊る。\nZ世代はもう反日感情は無い感じ。\n「中国を侮辱している」とか、「動画を消せ」というコメントも皆無だった。\n日中韓の若者たちがお互いの文化を尊重し、世代交代で平…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819701703496921088"
+          ],
+          "media_source_tweet_id": [
+            "1819701726276174096"
+          ]
+        },
+        "author_id": "1615639552227704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          }
+        ],
+        "conversation_id": "2031509023401587106",
+        "created_at": "2026-03-10T23:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031509023401587106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "韓国",
+              "probability": 0.6074,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 21,
+              "normalized_text": "ILLIT",
+              "probability": 0.5199,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "日本",
+              "probability": 0.7196,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "中国",
+              "probability": 0.8728,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 98,
+              "normalized_text": "韓",
+              "probability": 0.5033,
+              "start": 98,
+              "type": "Place"
+            },
+            {
+              "end": 126,
+              "normalized_text": "アジア",
+              "probability": 0.7082,
+              "start": 124,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgT6QNbgjS",
+              "end": 159,
+              "expanded_url": "https://x.com/shi_shang_/status/1819701726276174096/video/1",
+              "media_key": "7_1819701703496921088",
+              "start": 136,
+              "url": "https://t.co/jgT6QNbgjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031509023401587106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 709,
+          "impression_count": 1033360,
+          "like_count": 7670,
+          "quote_count": 110,
+          "reply_count": 220,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "中国女子(18) 、韓国アイドル『ILLIT』の曲に合わせて、日本の『着物』で踊る。\nZ世代はもう反日感情は無い感じ。\n「中国を侮辱している」とか、「動画を消せ」というコメントも皆無だった。\n日中韓の若者たちがお互いの文化を尊重し、世代交代で平和なアジアになりそう。\n\n https://t.co/jgT6QNbgjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4212,
+          "following_count": 2619,
+          "like_count": 37965,
+          "listed_count": 21,
+          "media_count": 2033,
+          "tweet_count": 8920
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-18T09:17:51.000Z",
+        "description": "話題のツイートを投稿してます。提供はDMこちら✉️",
+        "id": "1615639552227704832",
+        "name": "面白ツイート図鑑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993541758006050816/p4wOGIhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67735,
+          "following_count": 2049,
+          "like_count": 7536,
+          "listed_count": 102,
+          "media_count": 4599,
+          "tweet_count": 16536
+        },
+        "username": "snsnokyoufu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265692717071265792",
+          "name": "NBA players"
+        }
+      }
+    ],
+    "conversation_id": "2043917052906483912",
+    "created_at": "2026-04-14T04:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043917052906483912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kobebryant/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/kobebryant/status/1221276426164269056",
+          "start": 15,
+          "url": "https://t.co/ktOG0DTgSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043917052906483912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1221276426164269056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "What can I say https://t.co/ktOG0DTgSe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265692717071265792",
+              "name": "NBA players"
+            }
+          }
+        ],
+        "conversation_id": "2043917052906483912",
+        "created_at": "2026-04-14T04:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043917052906483912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kobebryant/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kobebryant/status/1221276426164269056",
+              "start": 15,
+              "url": "https://t.co/ktOG0DTgSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043917052906483912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1221276426164269056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What can I say https://t.co/ktOG0DTgSe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1059194370",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1167954145988333568",
+              "name": "Lakers at 76ers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "LeBron James",
+              "id": "788447816561467392",
+              "name": "LeBron James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kobe Bryant",
+              "id": "809497120285696001",
+              "name": "Kobe Bryant"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1167954145988333568",
+              "name": "Lakers at 76ers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Basketball games",
+              "id": "39",
+              "name": "Basketball Game"
+            },
+            "entity": {
+              "id": "1167954145988333568",
+              "name": "Lakers at 76ers"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "LeBron James",
+              "id": "788447816561467392",
+              "name": "LeBron James"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Kobe Bryant",
+              "id": "809497120285696001",
+              "name": "Kobe Bryant"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LeBron James",
+              "id": "788447816561467392",
+              "name": "LeBron James"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kobe Bryant",
+              "id": "809497120285696001",
+              "name": "Kobe Bryant"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1221276426164269056",
+        "created_at": "2020-01-26T03:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2020-01-26T04:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1221276426164269056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "23083404",
+              "start": 36,
+              "username": "KingJames"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1221276426164269056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13438,
+          "impression_count": 0,
+          "like_count": 2396078,
+          "quote_count": 80606,
+          "reply_count": 71160,
+          "retweet_count": 456856
+        },
+        "reply_settings": "everyone",
+        "text": "Continuing to move the game forward @KingJames. Much respect my brother 💪🏾 #33644"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 2782,
+          "like_count": 43440,
+          "listed_count": 19,
+          "media_count": 2424,
+          "tweet_count": 10654
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-04T01:09:40.000Z",
+        "description": "@Granity Studios - CEO, Writer, Producer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Granity"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "granitystudios.com",
+                "end": 23,
+                "expanded_url": "http://www.granitystudios.com",
+                "start": 0,
+                "url": "https://t.co/usJHBHZXu8"
+              }
+            ]
+          }
+        },
+        "id": "1059194370",
+        "name": "Kobe Bryant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082170661856890884/UA8DEgjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12530990,
+          "following_count": 490,
+          "like_count": 296,
+          "listed_count": 15057,
+          "media_count": 302,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/usJHBHZXu8",
+        "username": "kobebryant",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1998573533094633898",
+    "created_at": "2025-12-10T02:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T03:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998573533094633898"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "ZJU Tide Music Festival",
+          "probability": 0.7573,
+          "start": 34,
+          "type": "Other"
+        },
+        {
+          "end": 94,
+          "normalized_text": "Bell Tower",
+          "probability": 0.8592,
+          "start": 85,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "851622726217342977",
+          "start": 3,
+          "username": "ZJU_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998573533094633898",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998573461929693306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZJU_China: Recently, the 11th ZJU Tide Music Festival wrapped up in style on the Bell Tower lawn 🎉⛪. From the warmth of the afternoon s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1998573449954861056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xb9r4WIAAkd7a.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1998573450101751808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xb9sbXgAAc3q-.jpg",
+        "width": 2160
+      },
+      {
+        "height": 720,
+        "media_key": "3_1998573449900408833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xb9rrXQAExABC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "media_key": "3_1998573450072334337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xb9sUWoAE_Yj1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1998573533094633898",
+        "created_at": "2025-12-10T02:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998573533094633898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "ZJU Tide Music Festival",
+              "probability": 0.7573,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "Bell Tower",
+              "probability": 0.8592,
+              "start": 85,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "851622726217342977",
+              "start": 3,
+              "username": "ZJU_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998573533094633898",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998573461929693306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZJU_China: Recently, the 11th ZJU Tide Music Festival wrapped up in style on the Bell Tower lawn 🎉⛪. From the warmth of the afternoon s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998573449954861056",
+            "3_1998573450101751808",
+            "3_1998573449900408833",
+            "3_1998573450072334337"
+          ]
+        },
+        "author_id": "851622726217342977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1998573461929693306",
+        "created_at": "2025-12-10T02:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998573461929693306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "ZJU Tide Music Festival",
+              "probability": 0.7619,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Bell Tower",
+              "probability": 0.8771,
+              "start": 70,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaTN8g9LNa",
+              "end": 297,
+              "expanded_url": "https://x.com/ZJU_China/status/1998573461929693306/photo/1",
+              "media_key": "3_1998573449954861056",
+              "start": 274,
+              "url": "https://t.co/eaTN8g9LNa"
+            },
+            {
+              "display_url": "pic.x.com/eaTN8g9LNa",
+              "end": 297,
+              "expanded_url": "https://x.com/ZJU_China/status/1998573461929693306/photo/1",
+              "media_key": "3_1998573450101751808",
+              "start": 274,
+              "url": "https://t.co/eaTN8g9LNa"
+            },
+            {
+              "display_url": "pic.x.com/eaTN8g9LNa",
+              "end": 297,
+              "expanded_url": "https://x.com/ZJU_China/status/1998573461929693306/photo/1",
+              "media_key": "3_1998573449900408833",
+              "start": 274,
+              "url": "https://t.co/eaTN8g9LNa"
+            },
+            {
+              "display_url": "pic.x.com/eaTN8g9LNa",
+              "end": 297,
+              "expanded_url": "https://x.com/ZJU_China/status/1998573461929693306/photo/1",
+              "media_key": "3_1998573450072334337",
+              "start": 274,
+              "url": "https://t.co/eaTN8g9LNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998573461929693306",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 328,
+                "start": 324,
+                "tag": "ZJU"
+              },
+              {
+                "end": 335,
+                "start": 329,
+                "tag": "ZJUer"
+              },
+              {
+                "end": 346,
+                "start": 336,
+                "tag": "ZJUcampus"
+              },
+              {
+                "end": 360,
+                "start": 347,
+                "tag": "ZJUcommunity"
+              },
+              {
+                "end": 372,
+                "start": 361,
+                "tag": "StudyatZJU"
+              }
+            ]
+          },
+          "text": "Recently, the 11th ZJU Tide Music Festival wrapped up in style on the Bell Tower lawn 🎉⛪. From the warmth of the afternoon sun ☀️ to the glow of the evening stars ✨🌙, more than ten campus bands took turns taking the stage 🎤🎸.\n\nGlow sticks and cheers rose, creating a sea of youthful energy across the lawn. 🌊\n\nPhotos: 浙大微学工\n#ZJU #ZJUer #ZJUcampus #ZJUcommunity #StudyatZJU"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Recently, the 11th ZJU Tide Music Festival wrapped up in style on the Bell Tower lawn 🎉⛪. From the warmth of the afternoon sun ☀️ to the glow of the evening stars ✨🌙, more than ten campus bands took turns taking the stage 🎤🎸.\n\nGlow sticks and cheers rose, creating a sea of https://t.co/eaTN8g9LNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / BMC blog ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1995021557874536905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1929,
+          "like_count": 21278,
+          "listed_count": 4,
+          "media_count": 1060,
+          "tweet_count": 4954
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-11T02:27:35.000Z",
+        "description": "⭐️FB: https://t.co/HwMLAo5Qwq ⭐️YouTube: https://t.co/iFxcEo8WgV ⭐️Instagram: https://t.co/smUtcXt8Ii ⭐️LinkedIn: https://t.co/b4Dq7UEDQO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.cn/A6GRYevh",
+                "end": 29,
+                "expanded_url": "http://t.cn/A6GRYevh",
+                "start": 6,
+                "url": "https://t.co/HwMLAo5Qwq"
+              },
+              {
+                "display_url": "t.cn/A6GRTpzA",
+                "end": 64,
+                "expanded_url": "http://t.cn/A6GRTpzA",
+                "start": 41,
+                "url": "https://t.co/iFxcEo8WgV"
+              },
+              {
+                "display_url": "t.cn/A6GRTinh",
+                "end": 101,
+                "expanded_url": "http://t.cn/A6GRTinh",
+                "start": 78,
+                "url": "https://t.co/smUtcXt8Ii"
+              },
+              {
+                "display_url": "t.cn/A6GRTK9E",
+                "end": 137,
+                "expanded_url": "http://t.cn/A6GRTK9E",
+                "start": 114,
+                "url": "https://t.co/b4Dq7UEDQO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zju.edu.cn/english",
+                "end": 23,
+                "expanded_url": "http://www.zju.edu.cn/english",
+                "start": 0,
+                "url": "https://t.co/vwq3mEH5N5"
+              }
+            ]
+          }
+        },
+        "id": "851622726217342977",
+        "name": "Zhejiang University",
+        "pinned_tweet_id": "1987729284530573671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/851624297822953472/qJOi1SuG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57754,
+          "following_count": 307,
+          "like_count": 643,
+          "listed_count": 96,
+          "media_count": 2965,
+          "tweet_count": 3749
+        },
+        "url": "https://t.co/vwq3mEH5N5",
+        "username": "ZJU_China",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1974298410116338006",
+    "created_at": "2025-10-04T02:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T03:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974298410116338006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xmin240286/sta…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/xmin240286/status/1974146749548933559",
+          "start": 152,
+          "url": "https://t.co/uLLIKM9RAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974298410116338006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这其实就是 ASD 人士与 NT 之间的典型区别\n心理学上的「共情能力」细分为「共情力」和「共感力」\n前者的能力是「我知道你为什么会这样」，后者的能力是「我有和你一样的感受」\n大多数的 NT 是点满后者，但前者的能力很弱，几乎没有\n而 ASD 在大多数情况下正好相反\n但是在公众的认知里「共情」就是后者\n所以这就造成了一个很悲哀的局面：\n很多 ASD 手握更好地拆解局势和洞察细节的能力，但这个能力被主流社会所排斥，顺带着把整个人都给排斥了\n\n引用的推文中也提到了「共情能力」弱，但是这里所描述的应该是「共感」而非共情"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974146749548933559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这其实就是 ASD 人士与 NT 之间的典型区别\n心理学上的「共情能力」细分为「共情力」和「共感力」\n前者的能力是「我知道你为什么会这样」，后者的能力是「我有和你一样的感受」\n大多数的 NT 是点满后者，但前者的能力很弱，几乎没有\n而 ASD 在大多数情况下正好相反\n但是在公众的认知里「共情」就是后者 https://t.co/uLLIKM9RAl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1974298410116338006",
+        "created_at": "2025-10-04T02:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T03:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974298410116338006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xmin240286/sta…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/xmin240286/status/1974146749548933559",
+              "start": 152,
+              "url": "https://t.co/uLLIKM9RAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974298410116338006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这其实就是 ASD 人士与 NT 之间的典型区别\n心理学上的「共情能力」细分为「共情力」和「共感力」\n前者的能力是「我知道你为什么会这样」，后者的能力是「我有和你一样的感受」\n大多数的 NT 是点满后者，但前者的能力很弱，几乎没有\n而 ASD 在大多数情况下正好相反\n但是在公众的认知里「共情」就是后者\n所以这就造成了一个很悲哀的局面：\n很多 ASD 手握更好地拆解局势和洞察细节的能力，但这个能力被主流社会所排斥，顺带着把整个人都给排斥了\n\n引用的推文中也提到了「共情能力」弱，但是这里所描述的应该是「共感」而非共情"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974146749548933559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这其实就是 ASD 人士与 NT 之间的典型区别\n心理学上的「共情能力」细分为「共情力」和「共感力」\n前者的能力是「我知道你为什么会这样」，后者的能力是「我有和你一样的感受」\n大多数的 NT 是点满后者，但前者的能力很弱，几乎没有\n而 ASD 在大多数情况下正好相反\n但是在公众的认知里「共情」就是后者 https://t.co/uLLIKM9RAl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1974143915822662026",
+        "created_at": "2025-10-03T16:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974146749548933559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974146749548933559",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974145273401389391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便说明，准确来说我确实有情感，但这种“情感”与神经典型人士不同。之所以在私信中模糊地说自己没有情感，是因为在那个语境下“情感”主要指共情能力，而我的共情能力确实存在困难，这也是我与典型人的差异所在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー 社会観察 白猫 タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1973768677700087909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 1281,
+          "like_count": 12835,
+          "listed_count": 3,
+          "media_count": 634,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 200,
+          "like_count": 3075,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016724826283757568"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2015749973770715627",
+    "created_at": "2026-01-29T04:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2197547731",
+          "start": 0,
+          "username": "oxreeder"
+        },
+        {
+          "end": 19,
+          "id": "1476467107328151555",
+          "start": 10,
+          "username": "111555aq"
+        },
+        {
+          "end": 29,
+          "id": "778581104324382721",
+          "start": 20,
+          "username": "Makkiiil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/twyoILoZRF",
+          "end": 62,
+          "expanded_url": "https://x.com/aoim33/status/2016724832558469310/photo/1",
+          "media_key": "3_2016724826283757568",
+          "start": 39,
+          "url": "https://t.co/twyoILoZRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016724832558469310",
+    "in_reply_to_user_id": "2197547731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016723363125678334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxreeder @111555aq @Makkiiil 没有啊还能支持啊 https://t.co/twyoILoZRF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016724826283757568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zYi2Ba0AAim6r.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2197547731",
+        "conversation_id": "2015749973770715627",
+        "created_at": "2026-01-29T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476467107328151555",
+              "start": 0,
+              "username": "111555aq"
+            },
+            {
+              "end": 19,
+              "id": "778581104324382721",
+              "start": 10,
+              "username": "Makkiiil"
+            },
+            {
+              "end": 27,
+              "id": "1902568136450424832",
+              "start": 20,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016723363125678334",
+        "in_reply_to_user_id": "1476467107328151555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016719127516529058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111555aq @Makkiiil @aoim33 是不是最近太多人办N26。。。搞废了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 2359,
+          "like_count": 30738,
+          "listed_count": 18,
+          "media_count": 1519,
+          "tweet_count": 6832
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-16T11:06:49.000Z",
+        "description": "发点牢骚！顺带写点个人交易学习记录",
+        "id": "2197547731",
+        "name": "0xreeder",
+        "pinned_tweet_id": "2013457765453177257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742781079986249728/rB1q5_VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 743,
+          "like_count": 1202,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1908
+        },
+        "username": "oxreeder",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T08:16:14.000Z",
+        "description": "",
+        "id": "1476467107328151555",
+        "name": "🍟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312485097455619/rgbBe84e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 116,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 73
+        },
+        "username": "111555aq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-21T13:06:15.000Z",
+        "description": "独立学者｜互联网分析师｜八卦专家。\n蹲在信息洪流的废墟上观测人类的精神波动。\n偶尔深刻，偶尔胡说八道。",
+        "id": "778581104324382721",
+        "location": "美丽的岛",
+        "name": "唐一",
+        "pinned_tweet_id": "1993697501682221424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989864079981514752/wSIfGouz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1362,
+          "like_count": 224,
+          "listed_count": 1,
+          "media_count": 592,
+          "tweet_count": 2491
+        },
+        "username": "Makkiiil",
+        "verified": true
+      }
+    ]
+  }
+}

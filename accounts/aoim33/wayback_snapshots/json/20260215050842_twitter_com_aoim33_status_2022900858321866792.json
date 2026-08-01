@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022900848859451395"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2022900858321866792",
+    "created_at": "2026-02-15T05:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022900858321866792"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "McDonald",
+          "probability": 0.2799,
+          "start": 3,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65rrLFkC3V",
+          "end": 73,
+          "expanded_url": "https://x.com/aoim33/status/2022900858321866792/photo/1",
+          "media_key": "3_2022900848859451395",
+          "start": 50,
+          "url": "https://t.co/65rrLFkC3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022900858321866792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Mr McDonald is protecting you against Big Brother"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Mr McDonald is protecting you against Big Brother https://t.co/65rrLFkC3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2022900848859451395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLJmrAakAMcBMV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022900848859451395"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2022900858321866792",
+        "created_at": "2026-02-15T05:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022900858321866792"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "McDonald",
+              "probability": 0.2799,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/65rrLFkC3V",
+              "end": 73,
+              "expanded_url": "https://x.com/aoim33/status/2022900858321866792/photo/1",
+              "media_key": "3_2022900848859451395",
+              "start": 50,
+              "url": "https://t.co/65rrLFkC3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022900858321866792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Mr McDonald is protecting you against Big Brother"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mr McDonald is protecting you against Big Brother https://t.co/65rrLFkC3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 2471,
+          "like_count": 33622,
+          "listed_count": 17,
+          "media_count": 1673,
+          "tweet_count": 7553
+        },
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1980499297834790965",
+    "created_at": "2025-10-21T05:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980499297834790965"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "石破さん",
+          "probability": 0.4703,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1568525717541105666",
+          "start": 3,
+          "username": "ASatou92221963"
+        },
+        {
+          "end": 34,
+          "id": "808468854",
+          "start": 20,
+          "username": "shigeruishiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980499297834790965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980496374614679651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ASatou92221963: @shigeruishiba 正直、昔の石破さんの主張は苦手でした\n\nでも「高額療養費見直しの凍結」の頃から見方が変わりました\n\n「弱者に寄り添う気持ち、他の意見に耳を傾ける姿勢」\n\n私に足りない所を教えてもらいました\n\n混沌とした世の中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1980499297834790965",
+        "created_at": "2025-10-21T05:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980499297834790965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "石破さん",
+              "probability": 0.4703,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1568525717541105666",
+              "start": 3,
+              "username": "ASatou92221963"
+            },
+            {
+              "end": 34,
+              "id": "808468854",
+              "start": 20,
+              "username": "shigeruishiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980499297834790965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980496374614679651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ASatou92221963: @shigeruishiba 正直、昔の石破さんの主張は苦手でした\n\nでも「高額療養費見直しの凍結」の頃から見方が変わりました\n\n「弱者に寄り添う気持ち、他の意見に耳を傾ける姿勢」\n\n私に足りない所を教えてもらいました\n\n混沌とした世の中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568525717541105666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1980492796521054320",
+        "created_at": "2025-10-21T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980496374614679651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "石破さん",
+              "probability": 0.4682,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 144,
+              "normalized_text": "石破さん",
+              "probability": 0.5714,
+              "start": 141,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "808468854",
+              "start": 0,
+              "username": "shigeruishiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980496374614679651",
+        "in_reply_to_user_id": "808468854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3745,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980492796521054320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigeruishiba 正直、昔の石破さんの主張は苦手でした\n\nでも「高額療養費見直しの凍結」の頃から見方が変わりました\n\n「弱者に寄り添う気持ち、他の意見に耳を傾ける姿勢」\n\n私に足りない所を教えてもらいました\n\n混沌とした世の中に一筋の光をくれた、私の心のヒーローです\n\n石破さんありがとう\nお疲れさまでした"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1577,
+          "like_count": 15850,
+          "listed_count": 2,
+          "media_count": 748,
+          "tweet_count": 3803
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T09:04:42.000Z",
+        "description": "楽しく生きよう!!\n\n人生の終着点がぼんやり見えてきて、過去を振り返る。\n\nみんなが希望を持って楽しく生きられる世の中であったらいいなぁ。\n\n備忘録的なこともポストしてます。",
+        "id": "1568525717541105666",
+        "name": "A Satou",
+        "pinned_tweet_id": "1978051070900474020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962142687647432704/oVhkyTdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 165,
+          "like_count": 26499,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 5478
+        },
+        "username": "ASatou92221963",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-07T08:44:49.000Z",
+        "description": "鳥取一区 衆議院議員 | 自民党 | 公式サイト https://t.co/k2LD1PJob2 | 公式ブログ https://t.co/wpgypBXRe7 | 公式YouTube https://t.co/NeclO4yQcw | カレー | 読書 | ラーメン |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ishiba.com",
+                "end": 48,
+                "expanded_url": "http://ishiba.com",
+                "start": 25,
+                "url": "https://t.co/k2LD1PJob2"
+              },
+              {
+                "display_url": "ishiba-shigeru.cocolog-nifty.com",
+                "end": 80,
+                "expanded_url": "http://ishiba-shigeru.cocolog-nifty.com",
+                "start": 57,
+                "url": "https://t.co/wpgypBXRe7"
+              },
+              {
+                "display_url": "youtube.com/@ishibach",
+                "end": 116,
+                "expanded_url": "https://www.youtube.com/@ishibach",
+                "start": 93,
+                "url": "https://t.co/NeclO4yQcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ishiba.com",
+                "end": 23,
+                "expanded_url": "http://www.ishiba.com/",
+                "start": 0,
+                "url": "https://t.co/0ySZgOasZX"
+              }
+            ]
+          }
+        },
+        "id": "808468854",
+        "location": "自由民主党",
+        "name": "石破茂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820038227421716480/E4ucOtA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534917,
+          "following_count": 156,
+          "like_count": 386,
+          "listed_count": 3726,
+          "media_count": 915,
+          "tweet_count": 2311
+        },
+        "url": "https://t.co/0ySZgOasZX",
+        "username": "shigeruishiba",
+        "verified": true
+      }
+    ]
+  }
+}

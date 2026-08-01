@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1301115772937232384",
+          "name": "한글날 (Hangul Proclamation Day) 2020"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity for all conversations for 한글날 (Hangul Proclamation Day) for all years",
+          "id": "1437741984131604487",
+          "name": "한글날 (Hangul Proclamation Day) "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1301115772937232384",
+          "name": "한글날 (Hangul Proclamation Day) 2020"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity for all conversations for 한글날 (Hangul Proclamation Day) for all years",
+          "id": "1437741984131604487",
+          "name": "한글날 (Hangul Proclamation Day) "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1976110129276911687",
+    "created_at": "2025-10-09T02:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T03:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976110129276911687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "216531294",
+          "start": 3,
+          "username": "XKorea"
+        },
+        {
+          "end": 107,
+          "id": "1720665183188922368",
+          "start": 102,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976110129276911687",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976110078144151628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XKorea: 한글날을 맞아 Grok과 함께하는 한글 Q&amp;A!  궁금한 건 답글에 남기고 Grok을 태그해 보세요✍️\n\n2025 MAMA 어워즈 언제 해? 어디서 봐? @grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1301115772937232384",
+              "name": "한글날 (Hangul Proclamation Day) 2020"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for all conversations for 한글날 (Hangul Proclamation Day) for all years",
+              "id": "1437741984131604487",
+              "name": "한글날 (Hangul Proclamation Day) "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1301115772937232384",
+              "name": "한글날 (Hangul Proclamation Day) 2020"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity for all conversations for 한글날 (Hangul Proclamation Day) for all years",
+              "id": "1437741984131604487",
+              "name": "한글날 (Hangul Proclamation Day) "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1976110129276911687",
+        "created_at": "2025-10-09T02:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976110129276911687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "216531294",
+              "start": 3,
+              "username": "XKorea"
+            },
+            {
+              "end": 107,
+              "id": "1720665183188922368",
+              "start": 102,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976110129276911687",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976110078144151628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XKorea: 한글날을 맞아 Grok과 함께하는 한글 Q&amp;A!  궁금한 건 답글에 남기고 Grok을 태그해 보세요✍️\n\n2025 MAMA 어워즈 언제 해? 어디서 봐? @grok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "216531294",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1301115772937232384",
+              "name": "한글날 (Hangul Proclamation Day) 2020"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for all conversations for 한글날 (Hangul Proclamation Day) for all years",
+              "id": "1437741984131604487",
+              "name": "한글날 (Hangul Proclamation Day) "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1301115772937232384",
+              "name": "한글날 (Hangul Proclamation Day) 2020"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity for all conversations for 한글날 (Hangul Proclamation Day) for all years",
+              "id": "1437741984131604487",
+              "name": "한글날 (Hangul Proclamation Day) "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1976110078144151628",
+        "created_at": "2025-10-09T02:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976110078144151628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1720665183188922368",
+              "start": 90,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976110078144151628",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "한글날을 맞아 Grok과 함께하는 한글 Q&amp;A!  궁금한 건 답글에 남기고 Grok을 태그해 보세요✍️\n\n2025 MAMA 어워즈 언제 해? 어디서 봐? @grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1412,
+          "like_count": 13914,
+          "listed_count": 3,
+          "media_count": 667,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-16T23:59:11.000Z",
+        "description": "무슨 일이 일어나고 있나요?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.x.com/korea",
+                "end": 23,
+                "expanded_url": "https://blog.x.com/korea",
+                "start": 0,
+                "url": "https://t.co/Bu5905lzoQ"
+              }
+            ]
+          }
+        },
+        "id": "216531294",
+        "location": "대한민국",
+        "name": "Korea",
+        "pinned_tweet_id": "1950011091141927362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683503179097358341/4gUizsT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194534,
+          "following_count": 102,
+          "like_count": 5954,
+          "listed_count": 1920,
+          "media_count": 899,
+          "tweet_count": 7338
+        },
+        "url": "https://t.co/Bu5905lzoQ",
+        "username": "XKorea",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6414299,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5050,
+          "media_count": 2689385,
+          "tweet_count": 55047018
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

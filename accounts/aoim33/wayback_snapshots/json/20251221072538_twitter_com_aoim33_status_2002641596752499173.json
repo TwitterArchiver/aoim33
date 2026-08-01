@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1962308494444441600",
+          "name": "Kraken at Sharks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Photo via @GettyImages",
+          "id": "829003697749258240",
+          "name": "NHL"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1962308494444441600",
+          "name": "Kraken at Sharks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Hockey games",
+          "id": "68",
+          "name": "Hockey Game"
+        },
+        "entity": {
+          "id": "1962308494444441600",
+          "name": "Kraken at Sharks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photo via @GettyImages",
+          "id": "829003697749258240",
+          "name": "NHL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2002218109084848456",
+    "created_at": "2025-12-21T07:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T08:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002641596752499173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1579132038413705223",
+          "start": 0,
+          "username": "btcyjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002641596752499173",
+    "in_reply_to_user_id": "1579132038413705223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002218109084848456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btcyjx 去 Kraken 转欧元出入金"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2002218100176138242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lOwP_bMAIcbmg.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1962308494444441600",
+              "name": "Kraken at Sharks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Photo via @GettyImages",
+              "id": "829003697749258240",
+              "name": "NHL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1962308494444441600",
+              "name": "Kraken at Sharks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Hockey games",
+              "id": "68",
+              "name": "Hockey Game"
+            },
+            "entity": {
+              "id": "1962308494444441600",
+              "name": "Kraken at Sharks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photo via @GettyImages",
+              "id": "829003697749258240",
+              "name": "NHL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2002218109084848456",
+        "created_at": "2025-12-21T07:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T08:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002641596752499173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1579132038413705223",
+              "start": 0,
+              "username": "btcyjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002641596752499173",
+        "in_reply_to_user_id": "1579132038413705223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002218109084848456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btcyjx 去 Kraken 转欧元出入金"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002218100176138242"
+          ]
+        },
+        "author_id": "1579132038413705223",
+        "conversation_id": "2002218109084848456",
+        "created_at": "2025-12-20T03:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002218109084848456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcKYcYkBlY",
+              "end": 47,
+              "expanded_url": "https://x.com/btcyjx/status/2002218109084848456/photo/1",
+              "media_key": "3_2002218100176138242",
+              "start": 24,
+              "url": "https://t.co/xcKYcYkBlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002218109084848456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 49439,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 102,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如交易所没有了C2C通道\n\n大家怎么出入金？ https://t.co/xcKYcYkBlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.06 maimai 13,689 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / telegram ch ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 2030,
+          "like_count": 22529,
+          "listed_count": 4,
+          "media_count": 1121,
+          "tweet_count": 5138
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-09T15:30:16.000Z",
+        "description": "港大金融專業 | 鏈上P小將 | 21年戰績800u滾倉到40萬u | 記錄自我交易 | 不斷成長 | 女交易員｜微博: 易佳欣 | 感謝關注❤️",
+        "id": "1579132038413705223",
+        "location": "Japan",
+        "name": "易佳欣🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830903560470700034/Qk6gVGgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13460,
+          "following_count": 1947,
+          "like_count": 4579,
+          "listed_count": 9,
+          "media_count": 197,
+          "tweet_count": 3348
+        },
+        "username": "btcyjx",
+        "verified": true
+      }
+    ]
+  }
+}

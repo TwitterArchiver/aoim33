@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2030904847906869506",
+    "created_at": "2026-03-09T07:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030904847906869506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/evanwritesx/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/evanwritesx/status/2030903745329209533",
+          "start": 15,
+          "url": "https://t.co/w9OtukGCvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030904847906869506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030903745329209533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有足够风险认知的人活该被封 https://t.co/w9OtukGCvT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2030903632955387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC84GA9bMAAEIQf.png",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2030904847906869506",
+        "created_at": "2026-03-09T07:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030904847906869506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/evanwritesx/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/evanwritesx/status/2030903745329209533",
+              "start": 15,
+              "url": "https://t.co/w9OtukGCvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030904847906869506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030903745329209533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有足够风险认知的人活该被封 https://t.co/w9OtukGCvT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030903632955387904"
+          ]
+        },
+        "author_id": "3016619443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2030903745329209533",
+        "created_at": "2026-03-09T07:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030903745329209533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8yYbLUUyE",
+              "end": 159,
+              "expanded_url": "https://x.com/EvanWritesX/status/2030903745329209533/photo/1",
+              "media_key": "3_2030903632955387904",
+              "start": 136,
+              "url": "https://t.co/k8yYbLUUyE"
+            },
+            {
+              "display_url": "x.com/EvanWritesX/st…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/EvanWritesX/status/2013854994701987962",
+              "start": 160,
+              "url": "https://t.co/BP6WI3fJhO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030903745329209533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "N26 账户“奥地利转德国”？别再瞎折腾了！\n\n最近总有人来问我：N26 注册时选了奥地利，能不能改成德国区？听说改德区能积累信用？ 说句扎心的话：大家开 N26 用的什么地址、怎么做的 KYC 自己心里没数吗？用着非真实的账单地址，还妄想跨国“积累信用”，开什么玩笑？\n\n血泪教训就在眼前（见配图）：已经有粉丝朋友亲身“试毒”了。自作聪明把地址改成德区，结果秒触发风控，直接被官方要求提供真实的水电煤账单。\n\n拿不出来？对不起，不仅改不成功，连退回奥地利区都不行了，账户随时面临被封风险。\n\n建议：好不容易下户的 N26，能苟着用，就安安稳稳用着！ \n\n千万别为了虚无缥缈的“信用”去瞎折腾，最后把辛辛苦苦开的账户给作没了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013854994701987962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "N26 账户“奥地利转德国”？别再瞎折腾了！\n\n最近总有人来问我：N26 注册时选了奥地利，能不能改成德国区？听说改德区能积累信用？ 说句扎心的话：大家开 N26 用的什么地址、怎么做的 KYC 自己心里没数吗？用着非真实的账单地址，还妄想跨国“积累信用”，开什么玩笑？ https://t.co/k8yYbLUUyE https://t.co/BP6WI3fJhO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4206,
+          "following_count": 2616,
+          "like_count": 37705,
+          "listed_count": 21,
+          "media_count": 2004,
+          "tweet_count": 8801
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRVLqf \n读书频道：https://t.co/0fTLS0vAOS \n魔法推荐：https://t.co/YCKVPDMK0o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRVLqf"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 87,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 64,
+                "url": "https://t.co/0fTLS0vAOS"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=1696",
+                "start": 94,
+                "url": "https://t.co/YCKVPDMK0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRVLqf"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "WeChat ID：EvanCreates",
+        "name": "Jason",
+        "pinned_tweet_id": "2028389523957420046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993562015932334082/50xwYK4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14088,
+          "following_count": 759,
+          "like_count": 5742,
+          "listed_count": 70,
+          "media_count": 1048,
+          "tweet_count": 5511
+        },
+        "url": "https://t.co/2wytvRVLqf",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

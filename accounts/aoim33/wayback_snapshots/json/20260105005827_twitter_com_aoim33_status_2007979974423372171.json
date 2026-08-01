@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007979970279378945"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2007704777279611162",
+    "created_at": "2026-01-05T00:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T01:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007979974423372171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "5709522",
+          "start": 0,
+          "username": "mranti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Vb5EETbKE",
+          "end": 38,
+          "expanded_url": "https://x.com/aoim33/status/2007979974423372171/photo/1",
+          "media_key": "3_2007979970279378945",
+          "start": 15,
+          "url": "https://t.co/7Vb5EETbKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007979974423372171",
+    "in_reply_to_user_id": "5709522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007704777279611162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mranti 时间线魔法！ https://t.co/7Vb5EETbKE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007979974423372171].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007979974423372171",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007979974423372171"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2007979970279378945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93HJOyaEAEqkhi.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5709522",
+        "conversation_id": "2007704777279611162",
+        "created_at": "2026-01-04T06:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007704777279611162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007704777279611162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 64122,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 77,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在的推特完全不适合小孩上了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 2033,
+          "like_count": 24943,
+          "listed_count": 5,
+          "media_count": 1211,
+          "tweet_count": 5468
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "2007763433748660689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350321,
+          "following_count": 11373,
+          "like_count": 425,
+          "listed_count": 3376,
+          "media_count": 3090,
+          "tweet_count": 223037
+        },
+        "username": "mranti",
+        "verified": true
+      }
+    ]
+  }
+}

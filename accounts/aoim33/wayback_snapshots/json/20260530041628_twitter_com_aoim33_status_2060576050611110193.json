@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060575920487051264"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2060576050611110193",
+    "created_at": "2026-05-30T04:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060576050611110193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 93,
+          "id": "38679388",
+          "start": 87,
+          "username": "gmail"
+        },
+        {
+          "end": 101,
+          "id": "20536157",
+          "start": 94,
+          "username": "Google"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jogaJdhnzs",
+          "end": 125,
+          "expanded_url": "https://x.com/aoim33/status/2060576050611110193/photo/1",
+          "media_key": "3_2060575920487051264",
+          "start": 102,
+          "url": "https://t.co/jogaJdhnzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060576050611110193",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Why I still can't change my email address? \nIs it still not available in Asia market?\n\n@gmail @Google https://t.co/jogaJdhnzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 417,
+        "media_key": "3_2060575920487051264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJii4d1asAA-_mo.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060575920487051264"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2060576050611110193",
+        "created_at": "2026-05-30T04:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060576050611110193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "38679388",
+              "start": 87,
+              "username": "gmail"
+            },
+            {
+              "end": 101,
+              "id": "20536157",
+              "start": 94,
+              "username": "Google"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jogaJdhnzs",
+              "end": 125,
+              "expanded_url": "https://x.com/aoim33/status/2060576050611110193/photo/1",
+              "media_key": "3_2060575920487051264",
+              "start": 102,
+              "url": "https://t.co/jogaJdhnzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576050611110193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Why I still can't change my email address? \nIs it still not available in Asia market?\n\n@gmail @Google https://t.co/jogaJdhnzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 3002,
+          "like_count": 50898,
+          "listed_count": 19,
+          "media_count": 3033,
+          "tweet_count": 12862
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-08T14:53:10.000Z",
+        "description": "News, tips and tricks from the Gmail team. Need help? Fly on over to our Help Center or forum.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 23,
+                "expanded_url": "http://www.gmail.com",
+                "start": 0,
+                "url": "https://t.co/blxQVt1MOk"
+              }
+            ]
+          }
+        },
+        "id": "38679388",
+        "location": "Mountain View, CA",
+        "name": "Gmail",
+        "pinned_tweet_id": "2056796782453985728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056831771652526080/ioKbIYou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6365346,
+          "following_count": 111,
+          "like_count": 834,
+          "listed_count": 17413,
+          "media_count": 974,
+          "tweet_count": 372409
+        },
+        "url": "https://t.co/blxQVt1MOk",
+        "username": "gmail",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T19:14:39.000Z",
+        "description": "Here to help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.google/newsletter-sub…",
+                "end": 23,
+                "expanded_url": "https://blog.google/newsletter-subscribe/",
+                "start": 0,
+                "url": "https://t.co/RS3iU87BGe"
+              }
+            ]
+          }
+        },
+        "id": "20536157",
+        "location": "Mountain View, CA",
+        "name": "Google",
+        "pinned_tweet_id": "2057881884219035752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31919539,
+          "following_count": 296,
+          "like_count": 4641,
+          "listed_count": 89799,
+          "media_count": 38026,
+          "tweet_count": 251041
+        },
+        "url": "https://t.co/RS3iU87BGe",
+        "username": "Google",
+        "verified": true
+      }
+    ]
+  }
+}

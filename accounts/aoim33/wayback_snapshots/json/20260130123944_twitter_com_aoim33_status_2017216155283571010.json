@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2017216155283571010",
+    "created_at": "2026-01-30T12:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017216155283571010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "829391339833823232",
+          "start": 3,
+          "username": "ohotomosan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Discordで犬儒的办公室コミュニティをチェック！　1人のメンバーと交流し、無料の音声・テキストチャットを楽しみましょう。",
+          "display_url": "discord.gg/VbJzFbSsj",
+          "end": 86,
+          "expanded_url": "https://discord.gg/VbJzFbSsj",
+          "start": 63,
+          "status": 200,
+          "title": "Discordサーバー「犬儒的办公室」に参加しよう！",
+          "unwound_url": "https://discord.com/invite/VbJzFbSsj",
+          "url": "https://t.co/A1ru0fdZSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017216155283571010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017160924080328948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohotomosan: 我试试开了犬儒的discord。\n为了主要地日语（中文）学习，玩儿终末地，BA。每个人都欢迎\nhttps://t.co/A1ru0fdZSE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2017216155283571010",
+        "created_at": "2026-01-30T12:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017216155283571010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "829391339833823232",
+              "start": 3,
+              "username": "ohotomosan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Discordで犬儒的办公室コミュニティをチェック！　1人のメンバーと交流し、無料の音声・テキストチャットを楽しみましょう。",
+              "display_url": "discord.gg/VbJzFbSsj",
+              "end": 86,
+              "expanded_url": "https://discord.gg/VbJzFbSsj",
+              "start": 63,
+              "status": 200,
+              "title": "Discordサーバー「犬儒的办公室」に参加しよう！",
+              "unwound_url": "https://discord.com/invite/VbJzFbSsj",
+              "url": "https://t.co/A1ru0fdZSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017216155283571010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017160924080328948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ohotomosan: 我试试开了犬儒的discord。\n为了主要地日语（中文）学习，玩儿终末地，BA。每个人都欢迎\nhttps://t.co/A1ru0fdZSE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829391339833823232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2017160924080328948",
+        "created_at": "2026-01-30T09:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017160924080328948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discordで犬儒的办公室コミュニティをチェック！　1人のメンバーと交流し、無料の音声・テキストチャットを楽しみましょう。",
+              "display_url": "discord.gg/VbJzFbSsj",
+              "end": 70,
+              "expanded_url": "https://discord.gg/VbJzFbSsj",
+              "start": 47,
+              "status": 200,
+              "title": "Discordサーバー「犬儒的办公室」に参加しよう！",
+              "unwound_url": "https://discord.com/invite/VbJzFbSsj",
+              "url": "https://t.co/A1ru0fdZSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017160924080328948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 317,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我试试开了犬儒的discord。\n为了主要地日语（中文）学习，玩儿终末地，BA。每个人都欢迎\nhttps://t.co/A1ru0fdZSE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3484,
+          "following_count": 2369,
+          "like_count": 30965,
+          "listed_count": 17,
+          "media_count": 1534,
+          "tweet_count": 6878
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-08T18:07:59.000Z",
+        "description": "日語/中文/English.\n在學華語（普通話，粵台語）。發信日本語學，文化，生活情報",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oilmajor_ootom…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oilmajor_ootomo?t=hjDNDa&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/irBXWMOAFM"
+              }
+            ]
+          }
+        },
+        "id": "829391339833823232",
+        "name": "おほとも（犬儒）",
+        "pinned_tweet_id": "2017160924080328948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865256573465149440/MJPtJwmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 6204,
+          "like_count": 59932,
+          "listed_count": 11,
+          "media_count": 3408,
+          "tweet_count": 91986
+        },
+        "url": "https://t.co/irBXWMOAFM",
+        "username": "ohotomosan",
+        "verified": true
+      }
+    ]
+  }
+}

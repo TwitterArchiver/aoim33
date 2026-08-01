@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2064175152804565268",
+    "created_at": "2026-06-09T02:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064175157388968228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064175157388968228",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "因此，我更倾向于将 iOS 27 的家长控制视作一种被法律和市场共同推上台前的折中方案，而非 Apple 主动站到了家长阵营。它一方面需要回应监管层对儿童保护的强硬要求，另一方面又试图将用户从“上传身份证、面部识别、精确生日”等隐私黑洞中拉回来。最终，它选择了一种相对具有 Apple 烙印的做法——利用儿童账户、家庭共享、年龄范围评级、Screen Time、PermissionKit 和敏感内容识别，将原本散落在各个 App 内部的保护动作，尽量收束到一个系统级、相对隐私友好的接口里。\n从这个维度来看，Apple 的真实意图是阻断最粗暴的年龄验证。它不希望每个应用都各自收集一遍孩子的出生日期，也不希望每个社交平台都自建一套彼此不兼容的同意流程。它所设想的图景是：家长通过系统表达一个大致的年龄范围，开发者仅获取足以完成适龄体验的信号，而非拿走孩子完整的身份信息。这个方向固然无法解决所有现实痛点，但至少表明 Apple 仍在艰难地将“未成年人保护”与“用户隐私”置于同一个天平上。\n⬇️"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064175152804565268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因此，我更倾向于将 iOS 27 的家长控制视作一种被法律和市场共同推上台前的折中方案，而非 Apple 主动站到了家长阵营。它一方面需要回应监管层对儿童保护的强硬要求，另一方面又试图将用户从“上传身份证、面部识别、精确生日”等隐私黑洞中拉回来。最终，它选择了一种相对具有 Apple"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2064175152804565268",
+        "created_at": "2026-06-09T02:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064175157388968228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064175157388968228",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因此，我更倾向于将 iOS 27 的家长控制视作一种被法律和市场共同推上台前的折中方案，而非 Apple 主动站到了家长阵营。它一方面需要回应监管层对儿童保护的强硬要求，另一方面又试图将用户从“上传身份证、面部识别、精确生日”等隐私黑洞中拉回来。最终，它选择了一种相对具有 Apple 烙印的做法——利用儿童账户、家庭共享、年龄范围评级、Screen Time、PermissionKit 和敏感内容识别，将原本散落在各个 App 内部的保护动作，尽量收束到一个系统级、相对隐私友好的接口里。\n从这个维度来看，Apple 的真实意图是阻断最粗暴的年龄验证。它不希望每个应用都各自收集一遍孩子的出生日期，也不希望每个社交平台都自建一套彼此不兼容的同意流程。它所设想的图景是：家长通过系统表达一个大致的年龄范围，开发者仅获取足以完成适龄体验的信号，而非拿走孩子完整的身份信息。这个方向固然无法解决所有现实痛点，但至少表明 Apple 仍在艰难地将“未成年人保护”与“用户隐私”置于同一个天平上。\n⬇️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064175152804565268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因此，我更倾向于将 iOS 27 的家长控制视作一种被法律和市场共同推上台前的折中方案，而非 Apple 主动站到了家长阵营。它一方面需要回应监管层对儿童保护的强硬要求，另一方面又试图将用户从“上传身份证、面部识别、精确生日”等隐私黑洞中拉回来。最终，它选择了一种相对具有 Apple"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2064175152804565268",
+        "created_at": "2026-06-09T02:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064175152804565268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2064058940758151335",
+              "start": 92,
+              "url": "https://t.co/qVQYAGR9To"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064175152804565268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于 iOS 27 上的 Apple 家长控制：法律框架下的无奈与全球性的平衡\n\n看到时间线上有许多朋友在讨论 iOS 27 上新一轮的家长控制功能，那种本能的第一反应完全可以理解。\n对于在大陆互联网环境里长大的人来说，“家长控制”这四个字往往伴随着一种天然的不适。它让人联想到的很少是温和的儿童保护，更多是手机被翻看、聊天记录被检查、游戏和社交被一刀切地禁止，以及一种以安全为名展开的日常管束。尤其在东亚家庭中，长辈与晚辈之间本就缺乏足够平等的沟通机制，当一个系统级功能将家长的权限做得愈发完整时，人们自然会担忧它是否会进一步放大既有的家庭权力结构。\n\n然而，若将视线放回 Apple 所处的全球法律框架，这一设计早已超越了纯粹的产品偏好。\n当前，各国对未成年人网络保护的合规要求正经历海啸般的激增。美国若干州已开始推动应用商店层面的年龄确认与家长同意机制；澳大利亚正立法要求特定社交媒体平台阻止 16 岁以下用户建立账号；新加坡也通过了应用分发服务的线上安全规则，强制主要应用商店提供家长控制、搜索限制以及面向儿童的安全说明。对于 Apple 而言，App Store 和 iOS 已经脱离了单纯的软件入口属性，在法律层面上，它越来越接近一个必须承担年龄识别、权限交接和风险提示责任的基础设施。\n由此可见，Apple 面临的难题远非“如何给家长提供更多按钮”，而是如何在日益撕裂的本地法律之间，维持一个大体一致的全球系统体验。\n\n⬇️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064058940758151335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于 iOS 27 上的 Apple 家长控制：法律框架下的无奈与全球性的平衡\n\n看到时间线上有许多朋友在讨论 iOS 27 上新一轮的家长控制功能，那种本能的第一反应完全可以理解。 https://t.co/qVQYAGR9To"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5960,
+          "following_count": 3020,
+          "like_count": 52088,
+          "listed_count": 19,
+          "media_count": 3151,
+          "tweet_count": 13250
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

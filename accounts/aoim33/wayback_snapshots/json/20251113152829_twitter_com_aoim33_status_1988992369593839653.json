@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988937182732775425"
+      ],
+      "media_source_tweet_id": [
+        "1988937206371909897"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1575492121015951362",
+          "name": "Luckin Coffee"
+        }
+      }
+    ],
+    "conversation_id": "1988992369593839653",
+    "created_at": "2025-11-13T15:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988992369593839653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1696762355580096512",
+          "start": 3,
+          "username": "Yu_ramdomwalker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lDmQvRG0Kq",
+          "end": 85,
+          "expanded_url": "https://x.com/Yu_ramdomwalker/status/1988937206371909897/photo/1",
+          "media_key": "3_1988937182732775425",
+          "start": 62,
+          "url": "https://t.co/lDmQvRG0Kq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988992369593839653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988937206371909897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yu_ramdomwalker: 上海\nluckin coffee in 徐家汇\n陸橋のベンチでラテを飲んでます。 https://t.co/lDmQvRG0Kq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1988937182732775425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5of1HFacAEccSO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988937182732775425"
+          ],
+          "media_source_tweet_id": [
+            "1988937206371909897"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1575492121015951362",
+              "name": "Luckin Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1988992369593839653",
+        "created_at": "2025-11-13T15:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988992369593839653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1696762355580096512",
+              "start": 3,
+              "username": "Yu_ramdomwalker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDmQvRG0Kq",
+              "end": 85,
+              "expanded_url": "https://x.com/Yu_ramdomwalker/status/1988937206371909897/photo/1",
+              "media_key": "3_1988937182732775425",
+              "start": 62,
+              "url": "https://t.co/lDmQvRG0Kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988992369593839653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988937206371909897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yu_ramdomwalker: 上海\nluckin coffee in 徐家汇\n陸橋のベンチでラテを飲んでます。 https://t.co/lDmQvRG0Kq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988937182732775425"
+          ]
+        },
+        "author_id": "1696762355580096512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1575492121015951362",
+              "name": "Luckin Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1988937206371909897",
+        "created_at": "2025-11-13T11:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988937206371909897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDmQvRG0Kq",
+              "end": 64,
+              "expanded_url": "https://x.com/Yu_ramdomwalker/status/1988937206371909897/photo/1",
+              "media_key": "3_1988937182732775425",
+              "start": 41,
+              "url": "https://t.co/lDmQvRG0Kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988937206371909897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 622,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海\nluckin coffee in 徐家汇\n陸橋のベンチでラテを飲んでます。 https://t.co/lDmQvRG0Kq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1662,
+          "like_count": 18564,
+          "listed_count": 4,
+          "media_count": 895,
+          "tweet_count": 4412
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-30T05:50:57.000Z",
+        "description": "上海の街を散歩してカフェ巡り。ランダム・ウォーク理論。アート系映像クリエイター。2005年から上海生活。登録者1.7 万人、上海のストリート系YouTube を配信https://t.co/EIGIKi1nbh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@randomwalkery…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/@randomwalkeryu?si=mmthC0PRfTFjczQk",
+                "start": 82,
+                "url": "https://t.co/EIGIKi1nbh"
+              }
+            ]
+          }
+        },
+        "id": "1696762355580096512",
+        "name": "ゆう・Yu (中国生活＆エンタメ用)",
+        "pinned_tweet_id": "1981917764513321011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724998448112680960/GFZOC9oh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 191,
+          "like_count": 9941,
+          "listed_count": 5,
+          "media_count": 865,
+          "tweet_count": 1795
+        },
+        "username": "Yu_ramdomwalker",
+        "verified": false
+      }
+    ]
+  }
+}

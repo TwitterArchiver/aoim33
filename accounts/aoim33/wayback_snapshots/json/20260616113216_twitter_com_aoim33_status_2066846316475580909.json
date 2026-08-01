@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2066846316475580909",
+    "created_at": "2026-06-16T11:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066846316475580909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cdtft9/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/cdtft9/status/2066845585777537036",
+          "start": 3,
+          "url": "https://t.co/udwJrK6SqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066846316475580909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066845585777537036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "帮转 https://t.co/udwJrK6SqV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2066846316475580909",
+        "created_at": "2026-06-16T11:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066846316475580909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cdtft9/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/cdtft9/status/2066845585777537036",
+              "start": 3,
+              "url": "https://t.co/udwJrK6SqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066846316475580909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066845585777537036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "帮转 https://t.co/udwJrK6SqV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557023157084508162",
+        "conversation_id": "2066775051144454464",
+        "created_at": "2026-06-16T11:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066845585777537036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066845585777537036",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066775051144454464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 我也没找到\n不过我在这里打个广告，如果需要日语补习（特别是高中）的可以找我，本人经验丰富😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 3048,
+          "like_count": 53134,
+          "listed_count": 22,
+          "media_count": 3238,
+          "tweet_count": 13564
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-09T15:17:19.000Z",
+        "description": "牢二次元/ENTP/火车迷/轨交迷/金融圈玩卡的\n母語國語/可講廣東話/日本語できる/English苦手\n常驻杭州，喜欢发点奇奇怪怪的抽象小东西，或者回复一些逆天言论，可鉴证\n本人非🏳️‍🌈，但包容并尊重相关群体\n字母友好，已有小母猫",
+        "id": "1557023157084508162",
+        "location": "浙江省🇹🇼",
+        "name": "CDTFT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557025620273426439/X4Q58Vfb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 186,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 192
+        },
+        "username": "CDTFT9",
+        "verified": false
+      }
+    ]
+  }
+}

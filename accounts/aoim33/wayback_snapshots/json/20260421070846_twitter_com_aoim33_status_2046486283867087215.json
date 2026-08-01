@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046177397662425089"
+      ],
+      "media_source_tweet_id": [
+        "2046177402892779980"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2046486283867087215",
+    "created_at": "2026-04-21T07:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046486283867087215"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "ミク"
+        },
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "rurudo"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 49,
+          "start": 41,
+          "tag": "Cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029100281884229632",
+          "start": 3,
+          "username": "ChichiEheung"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhhcgLSFcS",
+          "end": 73,
+          "expanded_url": "https://x.com/ChichiEheung/status/2046177402892779980/photo/1",
+          "media_key": "3_2046177397662425089",
+          "start": 50,
+          "url": "https://t.co/DhhcgLSFcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046486283867087215",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046177402892779980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChichiEheung: 💎💸💎\n\n#ミク #rurudo #コスプレ #Cosplay https://t.co/DhhcgLSFcS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046177397662425089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV7gIcaIAESyi2.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046177397662425089"
+          ],
+          "media_source_tweet_id": [
+            "2046177402892779980"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2046486283867087215",
+        "created_at": "2026-04-21T07:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046486283867087215"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "ミク"
+            },
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "rurudo"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "Cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029100281884229632",
+              "start": 3,
+              "username": "ChichiEheung"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhhcgLSFcS",
+              "end": 73,
+              "expanded_url": "https://x.com/ChichiEheung/status/2046177402892779980/photo/1",
+              "media_key": "3_2046177397662425089",
+              "start": 50,
+              "url": "https://t.co/DhhcgLSFcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046486283867087215",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046177402892779980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChichiEheung: 💎💸💎\n\n#ミク #rurudo #コスプレ #Cosplay https://t.co/DhhcgLSFcS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046177397662425089"
+          ]
+        },
+        "author_id": "2029100281884229632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2046177402892779980",
+        "created_at": "2026-04-20T10:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046177402892779980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "ミク"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "rurudo"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhhcgLSFcS",
+              "end": 55,
+              "expanded_url": "https://x.com/ChichiEheung/status/2046177402892779980/photo/1",
+              "media_key": "3_2046177397662425089",
+              "start": 32,
+              "url": "https://t.co/DhhcgLSFcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046177402892779980",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 6032,
+          "like_count": 690,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "💎💸💎\n\n#ミク #rurudo #コスプレ #Cosplay https://t.co/DhhcgLSFcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2046398591196094655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4879,
+          "following_count": 2826,
+          "like_count": 44714,
+          "listed_count": 18,
+          "media_count": 2498,
+          "tweet_count": 10991
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T07:43:07.000Z",
+        "description": "🇰🇷 Cosplayer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ChichiEheung",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ChichiEheung",
+                "start": 0,
+                "url": "https://t.co/QmyREW3iFg"
+              }
+            ]
+          }
+        },
+        "id": "2029100281884229632",
+        "location": "♥",
+        "name": "チチ",
+        "pinned_tweet_id": "2045426429756858377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036386271451553792/iTpaBrHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 51,
+          "like_count": 167,
+          "listed_count": 7,
+          "media_count": 11,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/QmyREW3iFg",
+        "username": "ChichiEheung",
+        "verified": false
+      }
+    ]
+  }
+}

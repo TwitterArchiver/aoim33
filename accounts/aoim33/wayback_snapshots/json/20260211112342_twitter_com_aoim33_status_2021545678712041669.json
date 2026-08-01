@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2021545678712041669",
+    "created_at": "2026-02-11T11:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021545678712041669"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "高市さん",
+          "probability": 0.4675,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1526940165175799810",
+          "start": 3,
+          "username": "50man8sen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021545678712041669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2064
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021155612499787981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @50man8sen: 高市さん、僕はゲイです。将来、普通の異性カップルと同じように、彼氏と結婚したいと思っています。このようなささやかな願いの、一体どこが悪いのでしょうか。教えていただけますか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2021545678712041669",
+        "created_at": "2026-02-11T11:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021545678712041669"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "高市さん",
+              "probability": 0.4675,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1526940165175799810",
+              "start": 3,
+              "username": "50man8sen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021545678712041669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2064
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021155612499787981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @50man8sen: 高市さん、僕はゲイです。将来、普通の異性カップルと同じように、彼氏と結婚したいと思っています。このようなささやかな願いの、一体どこが悪いのでしょうか。教えていただけますか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526940165175799810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2021155612499787981",
+        "created_at": "2026-02-10T09:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021155612499787981"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "高市さん",
+              "probability": 0.519,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021155612499787981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1462,
+          "impression_count": 8141232,
+          "like_count": 28068,
+          "quote_count": 1894,
+          "reply_count": 2742,
+          "retweet_count": 2064
+        },
+        "reply_settings": "everyone",
+        "text": "高市さん、僕はゲイです。将来、普通の異性カップルと同じように、彼氏と結婚したいと思っています。このようなささやかな願いの、一体どこが悪いのでしょうか。教えていただけますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 2459,
+          "like_count": 33155,
+          "listed_count": 17,
+          "media_count": 1630,
+          "tweet_count": 7398
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-18T14:58:19.000Z",
+        "description": "167 59 凸 H4 非日常が欲しい IG:https://t.co/upArb8UezS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/50man8sen?igsh…",
+                "end": 46,
+                "expanded_url": "https://www.instagram.com/50man8sen?igsh=aWpnYnIxMHV5Z2pq&utm_source=qr",
+                "start": 23,
+                "url": "https://t.co/upArb8UezS"
+              }
+            ]
+          }
+        },
+        "id": "1526940165175799810",
+        "location": "愛知 名古屋市 中区",
+        "name": "八千ちゃん",
+        "pinned_tweet_id": "1850200134011031883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814938839296974852/gGuK3-h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7557,
+          "following_count": 470,
+          "like_count": 4179,
+          "listed_count": 40,
+          "media_count": 377,
+          "tweet_count": 1019
+        },
+        "username": "50man8sen",
+        "verified": false
+      }
+    ]
+  }
+}

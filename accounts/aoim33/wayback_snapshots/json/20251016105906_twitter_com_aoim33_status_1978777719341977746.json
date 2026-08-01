@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology",
+          "id": "857879456773357569",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1978777719341977746",
+    "created_at": "2025-10-16T10:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T11:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978777719341977746"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "中国",
+          "probability": 0.8618,
+          "start": 34,
+          "type": "Place"
+        },
+        {
+          "end": 98,
+          "normalized_text": "中国",
+          "probability": 0.8927,
+          "start": 97,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1259668386906116099",
+          "start": 3,
+          "username": "Apprtranslator"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978777719341977746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978662247586017516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apprtranslator: ①まともな日本人\n「悔しいが中国のテクノロジーは凄い。追いつくのは困難だが見習うべきところは見習わなければならないだろう」\n\n②頭の悪い日本人\n「だったら中国に移住すればいいじゃん」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1978777719341977746",
+        "created_at": "2025-10-16T10:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978777719341977746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "中国",
+              "probability": 0.8618,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 98,
+              "normalized_text": "中国",
+              "probability": 0.8927,
+              "start": 97,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1259668386906116099",
+              "start": 3,
+              "username": "Apprtranslator"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978777719341977746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978662247586017516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apprtranslator: ①まともな日本人\n「悔しいが中国のテクノロジーは凄い。追いつくのは困難だが見習うべきところは見習わなければならないだろう」\n\n②頭の悪い日本人\n「だったら中国に移住すればいいじゃん」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259668386906116099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1978662247586017516",
+        "created_at": "2025-10-16T03:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978662247586017516"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "中国",
+              "probability": 0.8596,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "中国",
+              "probability": 0.8956,
+              "start": 77,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ryuta_nakazawa…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/ryuta_nakazawa/status/1977949062956831125",
+              "start": 92,
+              "url": "https://t.co/XN5t2GuFiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978662247586017516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 9745,
+          "like_count": 557,
+          "quote_count": 12,
+          "reply_count": 16,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977949062956831125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "①まともな日本人\n「悔しいが中国のテクノロジーは凄い。追いつくのは困難だが見習うべきところは見習わなければならないだろう」\n\n②頭の悪い日本人\n「だったら中国に移住すればいいじゃん」 https://t.co/XN5t2GuFiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1499,
+          "like_count": 14972,
+          "listed_count": 2,
+          "media_count": 720,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-11T02:15:33.000Z",
+        "description": "在台日本人/外国語を活かした職業に従事する語学狂人\n学習中の言語\nメイン（90-120分/日）：中/英/韓/越　サブ（10-15分/日）：台/泰/独/仏/伊\n発言内容：言語45％、政治社会45％、ゲーム/日常10％\n注）中/台/韓に友人いるのでネトウヨ嫌い\n障がい者、高齢者の家族いるので新自由主義者嫌い",
+        "id": "1259668386906116099",
+        "location": "美しい島",
+        "name": "哈七（はち）🍉",
+        "pinned_tweet_id": "1953997174678991145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565766621423357953/ul9zNjdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1587,
+          "like_count": 47937,
+          "listed_count": 18,
+          "media_count": 2603,
+          "tweet_count": 45148
+        },
+        "username": "Apprtranslator",
+        "verified": false
+      }
+    ]
+  }
+}

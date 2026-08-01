@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035630218195722240",
+        "3_2035630218183135232",
+        "3_2035630218162110464",
+        "3_2035630218178863104"
+      ],
+      "media_source_tweet_id": [
+        "2035630228358516920",
+        "2035630228358516920",
+        "2035630228358516920",
+        "2035630228358516920"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2035717087122063441",
+    "created_at": "2026-03-22T13:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035717087122063441"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 13,
+          "tag": "리듬게임_트친소"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708832904921645056",
+          "start": 3,
+          "username": "SEIAmom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ArKySbC0eX",
+          "end": 115,
+          "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+          "media_key": "3_2035630218195722240",
+          "start": 92,
+          "url": "https://t.co/ArKySbC0eX"
+        },
+        {
+          "display_url": "pic.x.com/ArKySbC0eX",
+          "end": 115,
+          "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+          "media_key": "3_2035630218183135232",
+          "start": 92,
+          "url": "https://t.co/ArKySbC0eX"
+        },
+        {
+          "display_url": "pic.x.com/ArKySbC0eX",
+          "end": 115,
+          "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+          "media_key": "3_2035630218162110464",
+          "start": 92,
+          "url": "https://t.co/ArKySbC0eX"
+        },
+        {
+          "display_url": "pic.x.com/ArKySbC0eX",
+          "end": 115,
+          "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+          "media_key": "3_2035630218178863104",
+          "start": 92,
+          "url": "https://t.co/ArKySbC0eX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035717087122063441",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035630228358516920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SEIAmom: #리듬게임_트친소 \n안녕하세요 maimai해요\n스마일 본진이고 어뮤즈,싸이도 자주가요\n성향 비슷한 분들 무멘팔로 찾아갈께요\n선팔은 사양합니다 https://t.co/ArKySbC0eX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035717087122063441].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035717087122063441",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035717087122063441"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2035630218195722240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAC5fGbYAAvQSc.jpg",
+        "width": 1949
+      },
+      {
+        "height": 1067,
+        "media_key": "3_2035630218183135232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAC5fDbUAAkXlr.jpg",
+        "width": 1343
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2035630218162110464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAC5e-agAA0bXG.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2035630218178863104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAC5fCaIAAovis.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035630218195722240",
+            "3_2035630218183135232",
+            "3_2035630218162110464",
+            "3_2035630218178863104"
+          ]
+        },
+        "author_id": "1708832904921645056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2035630228358516920",
+        "created_at": "2026-03-22T08:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035630228358516920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "리듬게임_트친소"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArKySbC0eX",
+              "end": 102,
+              "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+              "media_key": "3_2035630218195722240",
+              "start": 79,
+              "url": "https://t.co/ArKySbC0eX"
+            },
+            {
+              "display_url": "pic.x.com/ArKySbC0eX",
+              "end": 102,
+              "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+              "media_key": "3_2035630218183135232",
+              "start": 79,
+              "url": "https://t.co/ArKySbC0eX"
+            },
+            {
+              "display_url": "pic.x.com/ArKySbC0eX",
+              "end": 102,
+              "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+              "media_key": "3_2035630218162110464",
+              "start": 79,
+              "url": "https://t.co/ArKySbC0eX"
+            },
+            {
+              "display_url": "pic.x.com/ArKySbC0eX",
+              "end": 102,
+              "expanded_url": "https://x.com/SEIAmom/status/2035630228358516920/photo/1",
+              "media_key": "3_2035630218178863104",
+              "start": 79,
+              "url": "https://t.co/ArKySbC0eX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035630228358516920",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1454,
+          "like_count": 20,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#리듬게임_트친소 \n안녕하세요 maimai해요\n스마일 본진이고 어뮤즈,싸이도 자주가요\n성향 비슷한 분들 무멘팔로 찾아갈께요\n선팔은 사양합니다 https://t.co/ArKySbC0eX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 2682,
+          "like_count": 40140,
+          "listed_count": 20,
+          "media_count": 2188,
+          "tweet_count": 9572
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-02T13:14:57.000Z",
+        "description": "IIDX MAIMAI ER FGO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/7477662853",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/7477662853",
+                "start": 0,
+                "url": "https://t.co/dwWvOzkPSD"
+              }
+            ]
+          }
+        },
+        "id": "1708832904921645056",
+        "name": "서널",
+        "pinned_tweet_id": "1959123290326540340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035443090950139904/99o-lKcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 115,
+          "like_count": 10680,
+          "listed_count": 0,
+          "media_count": 2220,
+          "tweet_count": 16931
+        },
+        "url": "https://t.co/dwWvOzkPSD",
+        "username": "SEIAmom",
+        "verified": false
+      }
+    ]
+  }
+}

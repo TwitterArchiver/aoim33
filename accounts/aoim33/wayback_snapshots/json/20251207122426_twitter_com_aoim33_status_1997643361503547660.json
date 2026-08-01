@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1997643361503547660",
+    "created_at": "2025-12-07T12:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T13:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997643361503547660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660598418409127937",
+          "start": 3,
+          "username": "GitHub_Daily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997643361503547660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997569281811525818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GitHub_Daily: 学日语时，想要深入理解句子结构、词性和发音，却找不到一个能同时分析文本和朗读的工具，总得在多个应用间来回切换。\n\n偶然在 GitHub 上发现 Fudoki 这个开源的日语学习工具，能把日语文本的结构完全可视化，还能自然朗读。\n\n基于 Kur…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_1997569268242935808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7jKqnfbcAATDbH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1997643361503547660",
+        "created_at": "2025-12-07T12:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997643361503547660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660598418409127937",
+              "start": 3,
+              "username": "GitHub_Daily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997643361503547660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997569281811525818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GitHub_Daily: 学日语时，想要深入理解句子结构、词性和发音，却找不到一个能同时分析文本和朗读的工具，总得在多个应用间来回切换。\n\n偶然在 GitHub 上发现 Fudoki 这个开源的日语学习工具，能把日语文本的结构完全可视化，还能自然朗读。\n\n基于 Kur…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997569268242935808"
+          ]
+        },
+        "author_id": "1660598418409127937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1997569281811525818",
+        "created_at": "2025-12-07T07:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T08:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997569281811525818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cw6jmEgQgH",
+              "end": 153,
+              "expanded_url": "https://x.com/GitHub_Daily/status/1997569281811525818/photo/1",
+              "media_key": "3_1997569268242935808",
+              "start": 130,
+              "url": "https://t.co/cw6jmEgQgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997569281811525818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/iamcheyan/fudo…",
+                "end": 210,
+                "expanded_url": "http://github.com/iamcheyan/fudoki",
+                "start": 187,
+                "url": "https://t.co/Gmj7jwX8lK"
+              }
+            ]
+          },
+          "text": "学日语时，想要深入理解句子结构、词性和发音，却找不到一个能同时分析文本和朗读的工具，总得在多个应用间来回切换。\n\n偶然在 GitHub 上发现 Fudoki 这个开源的日语学习工具，能把日语文本的结构完全可视化，还能自然朗读。\n\n基于 Kuromoji.js 分词引擎，自动标注词性、假名和罗马音，并用不同颜色区分名词、动词、形容词等，让语法结构一目了然。\n\nGitHub：https://t.co/Gmj7jwX8lK\n\n内置 EasyMDE 编辑器支持 Markdown 格式，可以边写笔记边分析。语音朗读支持按词、按句或全文播放，语速可在 0.5-2.0 倍间调节，还能选择不同音色。\n\n点击任意单词卡片，能直接查看 JMdict 词典释义。支持多文档管理和自动保存，设置会保存在本地，下次打开直接用。\n\n提供在线版本可直接使用，也可以通过 Python 在本地快速部署，无需复杂配置。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 10286,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "学日语时，想要深入理解句子结构、词性和发音，却找不到一个能同时分析文本和朗读的工具，总得在多个应用间来回切换。\n\n偶然在 GitHub 上发现 Fudoki 这个开源的日语学习工具，能把日语文本的结构完全可视化，还能自然朗读。\n\n基于 Kuromoji.js https://t.co/cw6jmEgQgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / ko-fi blog ⬇️ / 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/aoim33",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/aoim33",
+                "start": 0,
+                "url": "https://t.co/Yn6s0NWNpv"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1995021557874536905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1897,
+          "like_count": 20973,
+          "listed_count": 4,
+          "media_count": 1044,
+          "tweet_count": 4913
+        },
+        "url": "https://t.co/Yn6s0NWNpv",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T10:48:49.000Z",
+        "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitHubDaily/Gi…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+                "start": 0,
+                "url": "https://t.co/Ij83s4tlm9"
+              }
+            ]
+          }
+        },
+        "id": "1660598418409127937",
+        "name": "GitHubDaily",
+        "pinned_tweet_id": "1874830144826995036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56673,
+          "following_count": 139,
+          "like_count": 35,
+          "listed_count": 551,
+          "media_count": 1613,
+          "tweet_count": 1633
+        },
+        "url": "https://t.co/Ij83s4tlm9",
+        "username": "GitHub_Daily",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2071559195439345837",
+    "created_at": "2026-06-29T12:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071579231604404627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042322908266029056",
+          "start": 0,
+          "username": "lawvinx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071579231604404627",
+    "in_reply_to_user_id": "2042322908266029056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071572590616023515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lawvinx 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2071559195439345837",
+        "created_at": "2026-06-29T12:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071579231604404627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042322908266029056",
+              "start": 0,
+              "username": "lawvinx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071579231604404627",
+        "in_reply_to_user_id": "2042322908266029056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071572590616023515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lawvinx 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042322908266029056",
+        "conversation_id": "2071559195439345837",
+        "created_at": "2026-06-29T12:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071572590616023515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071572590616023515",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071559195439345837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 油炸吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6365,
+          "following_count": 3092,
+          "like_count": 54545,
+          "listed_count": 21,
+          "media_count": 3392,
+          "tweet_count": 14075
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T19:25:27.000Z",
+        "description": "Member of \n@PKUBlockchain | @MetaeraCN Columnist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "PKUBlockchain"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "MetaeraCN"
+              }
+            ]
+          }
+        },
+        "id": "2042322908266029056",
+        "name": "Lawvin",
+        "pinned_tweet_id": "2068192379245560078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042323020509790208/IBUhl1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 2151,
+          "like_count": 6376,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 5881
+        },
+        "url": "",
+        "username": "lawvinx",
+        "verified": true
+      }
+    ]
+  }
+}

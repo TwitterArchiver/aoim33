@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2052669971743014912",
+        "7_2052670076252532736"
+      ],
+      "media_source_tweet_id": [
+        "2052670468730294399",
+        "2052670468730294399"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052674387229462867",
+    "created_at": "2026-05-08T08:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052674387229462867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814881345598074881",
+          "start": 3,
+          "username": "Toadstool_07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0Zfiowr4v",
+          "end": 73,
+          "expanded_url": "https://x.com/Toadstool_07/status/2052670468730294399/video/1",
+          "media_key": "7_2052669971743014912",
+          "start": 50,
+          "url": "https://t.co/l0Zfiowr4v"
+        },
+        {
+          "display_url": "pic.x.com/l0Zfiowr4v",
+          "end": 73,
+          "expanded_url": "https://x.com/Toadstool_07/status/2052670468730294399/video/1",
+          "media_key": "7_2052670076252532736",
+          "start": 50,
+          "url": "https://t.co/l0Zfiowr4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052674387229462867",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052670468730294399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Toadstool_07: 14 트플플 12,13호\nCthugha\nLuminaria https://t.co/l0Zfiowr4v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134144,
+        "height": 720,
+        "media_key": "7_2052669971743014912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052669971743014912/pu/img/b0wtVO7lUhT0im3m.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052669971743014912/pu/vid/avc1/480x270/5tYDKs9y5fkONB1e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052669971743014912/pu/vid/avc1/640x360/W5yqu6FlIKylqasi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052669971743014912/pu/vid/avc1/1280x720/DASCCFaQ_RKXN0xs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052669971743014912/pu/pl/22gmGoISAZCtsEsr.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 137408,
+        "height": 720,
+        "media_key": "7_2052670076252532736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052670076252532736/pu/img/GChbeCEI69xA0i5g.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052670076252532736/pu/vid/avc1/480x270/B5oRbuZWhaE2Sq3l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052670076252532736/pu/vid/avc1/640x360/ID84cY9fuRLwBfmO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052670076252532736/pu/vid/avc1/1280x720/5O-92ymOFRyL605m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052670076252532736/pu/pl/P5t2f3KeVOe-HP3I.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052669971743014912",
+            "7_2052670076252532736"
+          ],
+          "media_source_tweet_id": [
+            "2052670468730294399",
+            "2052670468730294399"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052674387229462867",
+        "created_at": "2026-05-08T08:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052674387229462867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814881345598074881",
+              "start": 3,
+              "username": "Toadstool_07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0Zfiowr4v",
+              "end": 73,
+              "expanded_url": "https://x.com/Toadstool_07/status/2052670468730294399/video/1",
+              "media_key": "7_2052669971743014912",
+              "start": 50,
+              "url": "https://t.co/l0Zfiowr4v"
+            },
+            {
+              "display_url": "pic.x.com/l0Zfiowr4v",
+              "end": 73,
+              "expanded_url": "https://x.com/Toadstool_07/status/2052670468730294399/video/1",
+              "media_key": "7_2052670076252532736",
+              "start": 50,
+              "url": "https://t.co/l0Zfiowr4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052674387229462867",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052670468730294399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Toadstool_07: 14 트플플 12,13호\nCthugha\nLuminaria https://t.co/l0Zfiowr4v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052669971743014912",
+            "7_2052670076252532736"
+          ]
+        },
+        "author_id": "1814881345598074881",
+        "conversation_id": "2052670468730294399",
+        "created_at": "2026-05-08T08:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052670468730294399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0Zfiowr4v",
+              "end": 55,
+              "expanded_url": "https://x.com/Toadstool_07/status/2052670468730294399/video/1",
+              "media_key": "7_2052669971743014912",
+              "start": 32,
+              "url": "https://t.co/l0Zfiowr4v"
+            },
+            {
+              "display_url": "pic.x.com/l0Zfiowr4v",
+              "end": 55,
+              "expanded_url": "https://x.com/Toadstool_07/status/2052670468730294399/video/1",
+              "media_key": "7_2052670076252532736",
+              "start": 32,
+              "url": "https://t.co/l0Zfiowr4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052670468730294399",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "14 트플플 12,13호\nCthugha\nLuminaria https://t.co/l0Zfiowr4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2052301832165450210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5191,
+          "following_count": 2883,
+          "like_count": 47695,
+          "listed_count": 19,
+          "media_count": 2699,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T04:33:33.000Z",
+        "description": "07 he/him // PF & HD by @Laetzit_0314 // Leader of @supernovaArcaea // Novice DTMer @chaoz_breaker @Team_Resonance_ // Rhythm Gamer // 한국어 / 日本語 (少し) / ENG //",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Laetzit_0314"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "chaoz_breaker"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "Team_Resonance_"
+              }
+            ]
+          }
+        },
+        "id": "1814881345598074881",
+        "name": "토드스툴",
+        "pinned_tweet_id": "2052429685305512053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951088588877119489/EvAU7oEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 751,
+          "like_count": 39133,
+          "listed_count": 5,
+          "media_count": 1578,
+          "tweet_count": 14893
+        },
+        "username": "Toadstool_07",
+        "verified": false
+      }
+    ]
+  }
+}

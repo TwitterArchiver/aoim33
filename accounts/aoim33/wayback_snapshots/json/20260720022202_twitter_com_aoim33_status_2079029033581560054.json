@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079024707173863424",
+        "3_2079024712139833344"
+      ],
+      "media_source_tweet_id": [
+        "2079024716833272035",
+        "2079024716833272035"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2079029033581560054",
+    "created_at": "2026-07-20T02:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079029033581560054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "202576071",
+          "start": 3,
+          "username": "Mr_ElectroType1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYXBKdOVX5",
+          "end": 50,
+          "expanded_url": "https://x.com/Mr_ElectroType1/status/2079024716833272035/photo/1",
+          "media_key": "3_2079024707173863424",
+          "start": 27,
+          "url": "https://t.co/JYXBKdOVX5"
+        },
+        {
+          "display_url": "pic.x.com/JYXBKdOVX5",
+          "end": 50,
+          "expanded_url": "https://x.com/Mr_ElectroType1/status/2079024716833272035/photo/1",
+          "media_key": "3_2079024712139833344",
+          "start": 27,
+          "url": "https://t.co/JYXBKdOVX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079029033581560054",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079024716833272035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mr_ElectroType1: '쿠기밍' https://t.co/JYXBKdOVX5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2079024707173863424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNot9L5b0AA7-iG.jpg",
+        "width": 307
+      },
+      {
+        "height": 562,
+        "media_key": "3_2079024712139833344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNot9eZagAAITDL.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079024707173863424",
+            "3_2079024712139833344"
+          ]
+        },
+        "author_id": "202576071",
+        "conversation_id": "2079024716833272035",
+        "created_at": "2026-07-20T02:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079024716833272035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYXBKdOVX5",
+              "end": 29,
+              "expanded_url": "https://x.com/Mr_ElectroType1/status/2079024716833272035/photo/1",
+              "media_key": "3_2079024707173863424",
+              "start": 6,
+              "url": "https://t.co/JYXBKdOVX5"
+            },
+            {
+              "display_url": "pic.x.com/JYXBKdOVX5",
+              "end": 29,
+              "expanded_url": "https://x.com/Mr_ElectroType1/status/2079024716833272035/photo/1",
+              "media_key": "3_2079024712139833344",
+              "start": 6,
+              "url": "https://t.co/JYXBKdOVX5"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/aoim33/status/2078377679041294749",
+              "start": 30,
+              "url": "https://t.co/wAwsIO4FUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079024716833272035",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078377679041294749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "'쿠기밍' https://t.co/JYXBKdOVX5 https://t.co/wAwsIO4FUU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079024707173863424",
+            "3_2079024712139833344"
+          ],
+          "media_source_tweet_id": [
+            "2079024716833272035",
+            "2079024716833272035"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2079029033581560054",
+        "created_at": "2026-07-20T02:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079029033581560054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "202576071",
+              "start": 3,
+              "username": "Mr_ElectroType1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYXBKdOVX5",
+              "end": 50,
+              "expanded_url": "https://x.com/Mr_ElectroType1/status/2079024716833272035/photo/1",
+              "media_key": "3_2079024707173863424",
+              "start": 27,
+              "url": "https://t.co/JYXBKdOVX5"
+            },
+            {
+              "display_url": "pic.x.com/JYXBKdOVX5",
+              "end": 50,
+              "expanded_url": "https://x.com/Mr_ElectroType1/status/2079024716833272035/photo/1",
+              "media_key": "3_2079024712139833344",
+              "start": 27,
+              "url": "https://t.co/JYXBKdOVX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079029033581560054",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079024716833272035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mr_ElectroType1: '쿠기밍' https://t.co/JYXBKdOVX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 3132,
+          "like_count": 56537,
+          "listed_count": 22,
+          "media_count": 3622,
+          "tweet_count": 14716
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-14T10:45:57.000Z",
+        "description": "그저 지나가는 손님 한놈.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ELECTROtype01",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ELECTROtype01",
+                "start": 0,
+                "url": "https://t.co/0gbC320LXq"
+              }
+            ]
+          }
+        },
+        "id": "202576071",
+        "location": "???",
+        "name": "GUEST-01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047671123786248192/s376774n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 2583,
+          "like_count": 99942,
+          "listed_count": 13,
+          "media_count": 18297,
+          "tweet_count": 110961
+        },
+        "url": "https://t.co/0gbC320LXq",
+        "username": "Mr_ElectroType1",
+        "verified": false
+      }
+    ]
+  }
+}

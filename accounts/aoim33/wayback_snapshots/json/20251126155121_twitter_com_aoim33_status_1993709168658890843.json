@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1993709168658890843",
+    "created_at": "2025-11-26T15:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993709168658890843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "170991222",
+          "start": 3,
+          "username": "wonaishenye"
+        },
+        {
+          "end": 55,
+          "id": "1273146750220500993",
+          "start": 42,
+          "username": "ctx_mirigana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993709168658890843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993625126236307475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wonaishenye: 给大家安利一个超级实用的小工具\n\n我之前带的学生（@ctx_mirigana）开发了一个 浏览器插件，只要安装之后所有日文推文里的汉字、假名都会自动给你标注读音！\n\n我自己试过，非常方便。\n\n如果你平时刷日推、看日语资料，这个插件真的能省下大量…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1993624676061622272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rHFIgbMAAPUSm.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1993709168658890843",
+        "created_at": "2025-11-26T15:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993709168658890843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "170991222",
+              "start": 3,
+              "username": "wonaishenye"
+            },
+            {
+              "end": 55,
+              "id": "1273146750220500993",
+              "start": 42,
+              "username": "ctx_mirigana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993709168658890843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993625126236307475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wonaishenye: 给大家安利一个超级实用的小工具\n\n我之前带的学生（@ctx_mirigana）开发了一个 浏览器插件，只要安装之后所有日文推文里的汉字、假名都会自动给你标注读音！\n\n我自己试过，非常方便。\n\n如果你平时刷日推、看日语资料，这个插件真的能省下大量…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993624676061622272"
+          ]
+        },
+        "author_id": "170991222",
+        "conversation_id": "1993625126236307475",
+        "created_at": "2025-11-26T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993625126236307475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1273146750220500993",
+              "start": 25,
+              "username": "ctx_mirigana"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Adding furigana to kanji on Twitter",
+              "display_url": "chromewebstore.google.com/detail/mirigan…",
+              "end": 157,
+              "expanded_url": "https://chromewebstore.google.com/detail/mirigana/hbekfodhcnfpkmoeaijgbamedofonjib?hl=ja",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1993625127079354368/XXybj5Yf?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1993625127079354368/XXybj5Yf?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "mirigana - Chrome ウェブストア",
+              "unwound_url": "https://chromewebstore.google.com/detail/mirigana/hbekfodhcnfpkmoeaijgbamedofonjib?hl=ja",
+              "url": "https://t.co/Jo56x46XeD"
+            },
+            {
+              "display_url": "pic.x.com/TlWK6F54uP",
+              "end": 190,
+              "expanded_url": "https://x.com/wonaishenye/status/1993625126236307475/photo/1",
+              "media_key": "3_1993624676061622272",
+              "start": 167,
+              "url": "https://t.co/TlWK6F54uP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993625126236307475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "1273146750220500993",
+                "start": 25,
+                "username": "ctx_mirigana"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chromewebstore.google.com/detail/mirigan…",
+                "end": 157,
+                "expanded_url": "https://chromewebstore.google.com/detail/mirigana/hbekfodhcnfpkmoeaijgbamedofonjib?hl=ja",
+                "start": 134,
+                "url": "https://t.co/3ZcGAfOKR2"
+              },
+              {
+                "display_url": "addons.mozilla.org/ja/firefox/add…",
+                "end": 190,
+                "expanded_url": "https://addons.mozilla.org/ja/firefox/addon/mirigana/",
+                "start": 167,
+                "url": "https://t.co/HiqoL1EqDU"
+              }
+            ]
+          },
+          "text": "给大家安利一个超级实用的小工具\n\n我之前带的学生（@ctx_mirigana）开发了一个 浏览器插件，只要安装之后所有日文推文里的汉字、假名都会自动给你标注读音！\n\n我自己试过，非常方便。\n\n如果你平时刷日推、看日语资料，这个插件真的能省下大量时间。\n\nChrome\nhttps://t.co/3ZcGAfOKR2\nFire fox\nhttps://t.co/HiqoL1EqDU"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 7412,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "给大家安利一个超级实用的小工具\n\n我之前带的学生（@ctx_mirigana）开发了一个 浏览器插件，只要安装之后所有日文推文里的汉字、假名都会自动给你标注读音！\n\n我自己试过，非常方便。\n\n如果你平时刷日推、看日语资料，这个插件真的能省下大量时间。\n\nChrome\nhttps://t.co/Jo56x46XeD\nFire fox https://t.co/TlWK6F54uP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1800,
+          "like_count": 19796,
+          "listed_count": 4,
+          "media_count": 995,
+          "tweet_count": 4731
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-26T08:33:07.000Z",
+        "description": "提供线上的私教日语课以及文字修改，翻译文章的服务（常见问题：https://t.co/J6OzPXZDnL） / 学习推 / 学汉语10多年的日本人 / 语言学博gou士shi / 谢绝交友 / 有十多年的教学经验 /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.youdao.com/s/Rkcc6omJ",
+                "end": 53,
+                "expanded_url": "http://note.youdao.com/s/Rkcc6omJ",
+                "start": 30,
+                "url": "https://t.co/J6OzPXZDnL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.youdao.com/s/Rkcc6omJ",
+                "end": 23,
+                "expanded_url": "https://note.youdao.com/s/Rkcc6omJ",
+                "start": 0,
+                "url": "https://t.co/XEeIIjUsmt"
+              }
+            ]
+          }
+        },
+        "id": "170991222",
+        "name": "神野先生（日语&汉语私教）",
+        "pinned_tweet_id": "1150445391709532163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426935463047094274/lqAlnY2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12258,
+          "following_count": 1,
+          "like_count": 353,
+          "listed_count": 125,
+          "media_count": 3203,
+          "tweet_count": 20757
+        },
+        "url": "https://t.co/XEeIIjUsmt",
+        "username": "wonaishenye",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-17T06:54:29.000Z",
+        "description": "帮助你记忆汉字假名的浏览器插件 / a Chrome extension for annotating furigana on Japanese tweets, feel free to provide feedback / Created by @L_larvata",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "L_larvata"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mirigana",
+                "end": 23,
+                "expanded_url": "https://github.com/mirigana",
+                "start": 0,
+                "url": "https://t.co/CHh4sMrhJ2"
+              }
+            ]
+          }
+        },
+        "id": "1273146750220500993",
+        "name": "Mirigana",
+        "pinned_tweet_id": "1276352503597002753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1273147106019196928/la-VIayV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 70,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/CHh4sMrhJ2",
+        "username": "ctx_mirigana",
+        "verified": false
+      }
+    ]
+  }
+}

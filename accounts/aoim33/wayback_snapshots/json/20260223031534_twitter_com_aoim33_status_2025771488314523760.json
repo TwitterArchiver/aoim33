@@ -1,0 +1,656 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025771415069511680",
+        "3_2025771415065235457",
+        "3_2025771415073611777",
+        "3_2025771413559443456"
+      ],
+      "media_source_tweet_id": [
+        "2025771429393039594",
+        "2025771429393039594",
+        "2025771429393039594",
+        "2025771429393039594"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      }
+    ],
+    "conversation_id": "2025771488314523760",
+    "created_at": "2026-02-23T03:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025771488314523760"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "撮影"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "写真"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521778871204401152",
+          "start": 3,
+          "username": "Woruha3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RS4rSECf90",
+          "end": 52,
+          "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+          "media_key": "3_2025771415069511680",
+          "start": 29,
+          "url": "https://t.co/RS4rSECf90"
+        },
+        {
+          "display_url": "pic.x.com/RS4rSECf90",
+          "end": 52,
+          "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+          "media_key": "3_2025771415065235457",
+          "start": 29,
+          "url": "https://t.co/RS4rSECf90"
+        },
+        {
+          "display_url": "pic.x.com/RS4rSECf90",
+          "end": 52,
+          "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+          "media_key": "3_2025771415073611777",
+          "start": 29,
+          "url": "https://t.co/RS4rSECf90"
+        },
+        {
+          "display_url": "pic.x.com/RS4rSECf90",
+          "end": 52,
+          "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+          "media_key": "3_2025771413559443456",
+          "start": 29,
+          "url": "https://t.co/RS4rSECf90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025771488314523760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025771429393039594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Woruha3: #撮影 #写真 \n携帯で撮った https://t.co/RS4rSECf90"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025771415069511680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz8Xndb0AAx4RM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025771415065235457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz8XncakAErRJ-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025771415073611777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz8XneaYAEg5M6.jpg",
+        "width": 1599
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025771413559443456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBz8Xh1aAAALobO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025771415069511680",
+            "3_2025771415065235457",
+            "3_2025771415073611777",
+            "3_2025771413559443456"
+          ],
+          "media_source_tweet_id": [
+            "2025771429393039594",
+            "2025771429393039594",
+            "2025771429393039594",
+            "2025771429393039594"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2025771488314523760",
+        "created_at": "2026-02-23T03:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025771488314523760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "撮影"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "写真"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521778871204401152",
+              "start": 3,
+              "username": "Woruha3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 52,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771415069511680",
+              "start": 29,
+              "url": "https://t.co/RS4rSECf90"
+            },
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 52,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771415065235457",
+              "start": 29,
+              "url": "https://t.co/RS4rSECf90"
+            },
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 52,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771415073611777",
+              "start": 29,
+              "url": "https://t.co/RS4rSECf90"
+            },
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 52,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771413559443456",
+              "start": 29,
+              "url": "https://t.co/RS4rSECf90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025771488314523760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025771429393039594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Woruha3: #撮影 #写真 \n携帯で撮った https://t.co/RS4rSECf90"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025771415069511680",
+            "3_2025771415065235457",
+            "3_2025771415073611777",
+            "3_2025771413559443456"
+          ]
+        },
+        "author_id": "1521778871204401152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2025771429393039594",
+        "created_at": "2026-02-23T03:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025771429393039594"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "撮影"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "写真"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 39,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771415069511680",
+              "start": 16,
+              "url": "https://t.co/RS4rSECf90"
+            },
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 39,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771415065235457",
+              "start": 16,
+              "url": "https://t.co/RS4rSECf90"
+            },
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 39,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771415073611777",
+              "start": 16,
+              "url": "https://t.co/RS4rSECf90"
+            },
+            {
+              "display_url": "pic.x.com/RS4rSECf90",
+              "end": 39,
+              "expanded_url": "https://x.com/Woruha3/status/2025771429393039594/photo/1",
+              "media_key": "3_2025771413559443456",
+              "start": 16,
+              "url": "https://t.co/RS4rSECf90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025771429393039594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#撮影 #写真 \n携帯で撮った https://t.co/RS4rSECf90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3711,
+          "following_count": 2505,
+          "like_count": 34702,
+          "listed_count": 17,
+          "media_count": 1739,
+          "tweet_count": 7808
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-04T09:08:59.000Z",
+        "description": "=Woruha/篠田折羽|無断フォロー失礼|#ヒトリエ|日本語⭕️En⭕️|無断転載(AI 含め)×使用(一言お願い)|上海からの留学生|@Hanafubuki_1101大好き❤ bilibili動画:https://t.co/3gml7Y5NsF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "ヒトリエ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Hanafubuki_1101"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/MtKEL1s",
+                "end": 124,
+                "expanded_url": "http://b23.tv/MtKEL1s",
+                "start": 101,
+                "url": "https://t.co/3gml7Y5NsF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/83449437",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/users/83449437",
+                "start": 0,
+                "url": "https://t.co/d7a4fPz5tb"
+              }
+            ]
+          }
+        },
+        "id": "1521778871204401152",
+        "location": "ins：woruha_hitorie",
+        "name": "Woruha",
+        "pinned_tweet_id": "1937453418098098232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937447153959596032/DzfDHb1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 1896,
+          "like_count": 20075,
+          "listed_count": 2,
+          "media_count": 596,
+          "tweet_count": 5642
+        },
+        "url": "https://t.co/d7a4fPz5tb",
+        "username": "Woruha3",
+        "verified": false
+      }
+    ]
+  }
+}

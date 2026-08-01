@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2008011204435083371",
+    "created_at": "2026-01-05T04:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008026994055979036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556577100693651456",
+          "start": 0,
+          "username": "tychozzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008026994055979036",
+    "in_reply_to_user_id": "1556577100693651456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008011204435083371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tychozzz 需要注意现在开 HSBC One 三个月的月均余额低于 10k hkd 就要管理费了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2008011204435083371",
+        "created_at": "2026-01-05T04:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008026994055979036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556577100693651456",
+              "start": 0,
+              "username": "tychozzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008026994055979036",
+        "in_reply_to_user_id": "1556577100693651456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008011204435083371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tychozzz 需要注意现在开 HSBC One 三个月的月均余额低于 10k hkd 就要管理费了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556577100693651456",
+        "conversation_id": "2008011204435083371",
+        "created_at": "2026-01-05T03:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008011204435083371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008011204435083371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在大家开港卡已经不仅仅局限于做美股投资和出入金了，搞推特自媒体也得用港卡，等到流量达标之后得用港卡来收工资。\n\n既然最近经常聊到这一点，我就顺着给大家分享一下我觉得最好用、门槛最低的两家香港银行。\n\n一个是香港汇丰，它是实体银行，有线下网点。但从去年下半年开始，线下网点已经不再受理汇丰 One 账户了。\n\n目前的开户方式是到港下载汇丰 App，在线上开通，只需要港澳通行证和身份证，不需要准备额外的纸质材料。\n\n根据观众反馈的实测经验来看，十几分钟时间就可以完成申请流程，几个工作日内就会收到开户通过的通知。\n\n红狮子和蓝狮子卡会直接邮寄到你内地的居住地址，不过实体卡真的没什么用，反正我办了一年多时间，印象中一次都没有用过。\n\n最关键的还是拿到汇丰银行账户，之后无论是投资美股、出入金，还是申请推特创作收益分成，都需要用到这个账户。\n\n另外一个香港众安，它是虚拟银行，没有线下网点，到了香港之后直接在 App 上开户。\n\n它的开户流程更简单，几分钟时间就可以搞定，一般隔天工作日就会收到开户成功的通知，而且基本不会出现拒绝的情况，可以说是对内地用户最友好的一家银行。\n\n除此之外，众安作为一家虚拟银行，App 使用体验很好，线上服务也做的很不错，遇到问题能找到客服，这和传统的实体银行有很大差别。\n\n如果你想要开众安的话，可以使用我的众安银行开户邀请码 C87BK4。通过邀请码完成开户的话，可以领到一些换汇券、跨境汇款券、美股交易券，这些小羊毛大家可以薅一下，感谢支持（评论区附带开户教程）\n\n需要注意的一点是，在开好香港银行账户之后，最好存入一些港币，比如 500 港币左右，防止长时间不用的情况下账户被冻结。\n\n关于港卡，还有一个高频被问到的问题是：能否在内地线上开户？\n\n答案是可以，但是不适用于绝大多数人。很多香港银行都推出了远程见证开户的功能，比如说恒生渣打，但是一般都需要你在银行预存 10-50 万人民币，做定期理财。\n\n我觉得在有这么多闲钱的情况下，直接去香港旅游一趟顺便开个卡，应该是成本最低、最划算的一种方式。当然对于某些无法出境的朋友就没办法了。\n\n香港银行账户其实是每个内地人跨境出海的第一步，想赚境外的钱，办港卡已经成为必选项了，否则真的是寸步难行。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2252,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在大家开港卡已经不仅仅局限于做美股投资和出入金了，搞推特自媒体也得用港卡，等到流量达标之后得用港卡来收工资。\n\n既然最近经常聊到这一点，我就顺着给大家分享一下我觉得最好用、门槛最低的两家香港银行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 ASD 撮影 音ゲー 男ママ USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 2045,
+          "like_count": 25060,
+          "listed_count": 10,
+          "media_count": 1213,
+          "tweet_count": 5484
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T09:44:48.000Z",
+        "description": "爱投资的一枚程序员。投资导航作者，必备一站式导航网站：https://t.co/xhaBzx5OyW 美股/比特币长期投资者，持续分享有价值内容。Youtube频道：https://t.co/Mqj49gMmmb okx20%返佣：https://t.co/OPyhN9O8ps",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "invest-nav.com",
+                "end": 50,
+                "expanded_url": "http://invest-nav.com",
+                "start": 27,
+                "url": "https://t.co/xhaBzx5OyW"
+              },
+              {
+                "display_url": "youtube.com/@nicogrowthz",
+                "end": 106,
+                "expanded_url": "http://youtube.com/@nicogrowthz",
+                "start": 83,
+                "url": "https://t.co/Mqj49gMmmb"
+              },
+              {
+                "display_url": "okx.com/join/71309601",
+                "end": 139,
+                "expanded_url": "http://okx.com/join/71309601",
+                "start": 116,
+                "url": "https://t.co/OPyhN9O8ps"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nicoinvestment",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nicoinvestment",
+                "start": 0,
+                "url": "https://t.co/KKYvBKh8Cm"
+              }
+            ]
+          }
+        },
+        "id": "1556577100693651456",
+        "location": "Singapore",
+        "name": "Nico投资有道",
+        "pinned_tweet_id": "1954184133791629512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724683452761657344/XthDIwUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53254,
+          "following_count": 292,
+          "like_count": 8362,
+          "listed_count": 588,
+          "media_count": 928,
+          "tweet_count": 5558
+        },
+        "url": "https://t.co/KKYvBKh8Cm",
+        "username": "tychozzz",
+        "verified": true
+      }
+    ]
+  }
+}

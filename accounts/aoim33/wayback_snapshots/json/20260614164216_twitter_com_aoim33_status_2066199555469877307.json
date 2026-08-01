@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631722483521921029",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041046235",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "2066199555469877307",
+    "created_at": "2026-06-14T16:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066199555469877307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2694904136",
+          "start": 3,
+          "username": "bunq"
+        },
+        {
+          "end": 67,
+          "id": "102812444",
+          "start": 60,
+          "username": "stripe"
+        },
+        {
+          "end": 256,
+          "id": "564392197",
+          "start": 242,
+          "username": "stripesupport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066199555469877307",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "Hi @bunq \nI have found some errors when using your cards in @stripe Checkout page to make payments, as I tried several times to subscribe Premium feature while it failed and the card is rejected \n\nHow can this issue be fixed, or I should ask @stripesupport for help"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631722483521921029",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2066199555469877307",
+        "created_at": "2026-06-14T16:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066199555469877307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2694904136",
+              "start": 3,
+              "username": "bunq"
+            },
+            {
+              "end": 67,
+              "id": "102812444",
+              "start": 60,
+              "username": "stripe"
+            },
+            {
+              "end": 256,
+              "id": "564392197",
+              "start": 242,
+              "username": "stripesupport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066199555469877307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "Hi @bunq \nI have found some errors when using your cards in @stripe Checkout page to make payments, as I tried several times to subscribe Premium feature while it failed and the card is rejected \n\nHow can this issue be fixed, or I should ask @stripesupport for help"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6086,
+          "following_count": 3038,
+          "like_count": 52840,
+          "listed_count": 21,
+          "media_count": 3211,
+          "tweet_count": 13460
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-31T06:14:59.000Z",
+        "description": "We're bunq, #bankofTheFree and we're here to make life easy.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 12,
+                "tag": "bankofTheFree"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bunq.com/links",
+                "end": 23,
+                "expanded_url": "https://www.bunq.com/links",
+                "start": 0,
+                "url": "https://t.co/I7Cicxqosi"
+              }
+            ]
+          }
+        },
+        "id": "2694904136",
+        "location": "Amsterdam, The Netherlands",
+        "name": "bunq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/849888083973681152/6_sci7Sa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17060,
+          "following_count": 362,
+          "like_count": 6529,
+          "listed_count": 158,
+          "media_count": 2451,
+          "tweet_count": 19710
+        },
+        "url": "https://t.co/I7Cicxqosi",
+        "username": "bunq",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-07T22:43:34.000Z",
+        "description": "Stripe builds programmable financial services. Help: @stripesupport. Read: @stripepress @WorksInProgMag. Status: @stripestatus.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "stripesupport"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "stripepress"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "WorksInProgMag"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "stripestatus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stripe.com",
+                "end": 23,
+                "expanded_url": "http://stripe.com",
+                "start": 0,
+                "url": "https://t.co/1dBQAW35Wr"
+              }
+            ]
+          }
+        },
+        "id": "102812444",
+        "location": "San Francisco US + Dublin IE",
+        "name": "Stripe",
+        "pinned_tweet_id": "2065124904450789630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970187852572250113/hhDZmj7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285331,
+          "following_count": 561,
+          "like_count": 7770,
+          "listed_count": 3136,
+          "media_count": 511,
+          "tweet_count": 35624
+        },
+        "url": "https://t.co/1dBQAW35Wr",
+        "username": "stripe",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-27T08:02:03.000Z",
+        "description": "We're here to help. Updates: @stripe. Ideas: @stripepress. Status: @stripestatus.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "stripe"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "stripepress"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "stripestatus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "support.stripe.com",
+                "end": 23,
+                "expanded_url": "http://support.stripe.com",
+                "start": 0,
+                "url": "https://t.co/qmExEmauEA"
+              }
+            ]
+          }
+        },
+        "id": "564392197",
+        "location": "San Francisco US + Dublin IE",
+        "name": "Stripe Support",
+        "pinned_tweet_id": "1808169748213182896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971574145428144128/0_VZOyRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14236,
+          "following_count": 5,
+          "like_count": 27,
+          "listed_count": 33,
+          "media_count": 15,
+          "tweet_count": 19298
+        },
+        "url": "https://t.co/qmExEmauEA",
+        "username": "stripesupport",
+        "verified": true
+      }
+    ]
+  }
+}

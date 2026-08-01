@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005266392552194049"
+      ],
+      "media_source_tweet_id": [
+        "2005266398407438691"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2005322348912841093",
+    "created_at": "2025-12-28T16:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T17:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005322348912841093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1513889200466276361",
+          "start": 3,
+          "username": "AriaDoneit9927"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UJDg8qyR89",
+          "end": 53,
+          "expanded_url": "https://x.com/AriaDoneit9927/status/2005266398407438691/photo/1",
+          "media_key": "3_2005266392552194049",
+          "start": 30,
+          "url": "https://t.co/UJDg8qyR89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005322348912841093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005266398407438691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AriaDoneit9927: もっと最悪なところ https://t.co/UJDg8qyR89"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005266392552194049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QjKOAaQAEB4us.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005266392552194049"
+          ],
+          "media_source_tweet_id": [
+            "2005266398407438691"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2005322348912841093",
+        "created_at": "2025-12-28T16:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005322348912841093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1513889200466276361",
+              "start": 3,
+              "username": "AriaDoneit9927"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJDg8qyR89",
+              "end": 53,
+              "expanded_url": "https://x.com/AriaDoneit9927/status/2005266398407438691/photo/1",
+              "media_key": "3_2005266392552194049",
+              "start": 30,
+              "url": "https://t.co/UJDg8qyR89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005322348912841093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005266398407438691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AriaDoneit9927: もっと最悪なところ https://t.co/UJDg8qyR89"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005266392552194049"
+          ]
+        },
+        "author_id": "1513889200466276361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2005266398407438691",
+        "created_at": "2025-12-28T13:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005266398407438691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJDg8qyR89",
+              "end": 33,
+              "expanded_url": "https://x.com/AriaDoneit9927/status/2005266398407438691/photo/1",
+              "media_key": "3_2005266392552194049",
+              "start": 10,
+              "url": "https://t.co/UJDg8qyR89"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/aoim33/status/2005265655310999673",
+              "start": 34,
+              "url": "https://t.co/IJqEKcToFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005266398407438691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005265655310999673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "もっと最悪なところ https://t.co/UJDg8qyR89 https://t.co/IJqEKcToFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.06 maimai 13,689 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 無言フォロー失礼 / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 90,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 2079,
+          "like_count": 23555,
+          "listed_count": 5,
+          "media_count": 1160,
+          "tweet_count": 5258
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T14:38:25.000Z",
+        "description": "동인 음악 오타쿠 게이머(KR/JP)\n\nゲームと音楽を愛している\n\nプロフィール提供： @VVVerga\n\n《SUPERNOVA》Member\n\nCOMMUNITY 404 設立者\n\nNOW:Arcaea ZZZ Paradigm brmy HSKZ VSA2ND",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "VVVerga"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/Aria_Lazer",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/Aria_Lazer",
+                "start": 0,
+                "url": "https://t.co/Kf8ZhW37Z5"
+              }
+            ]
+          }
+        },
+        "id": "1513889200466276361",
+        "location": "70억 지구 어딘가",
+        "name": "ﾟ.+ﾟBELLAﾟ+.ﾟ",
+        "pinned_tweet_id": "1993269803105370586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951440285088751617/ftSvGiRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 278,
+          "like_count": 30049,
+          "listed_count": 0,
+          "media_count": 2841,
+          "tweet_count": 19609
+        },
+        "url": "https://t.co/Kf8ZhW37Z5",
+        "username": "AriaDoneit9927",
+        "verified": false
+      }
+    ]
+  }
+}

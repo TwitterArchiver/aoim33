@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975480688989380608"
+      ],
+      "media_source_tweet_id": [
+        "1975480699135402226"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1975567343855288532",
+    "created_at": "2025-10-07T14:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T15:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975567343855288532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "ラビットホール"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433742669885280260",
+          "start": 3,
+          "username": "Nekinow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJLoJHFdDW",
+          "end": 54,
+          "expanded_url": "https://x.com/Nekinow/status/1975480699135402226/photo/1",
+          "media_key": "3_1975480688989380608",
+          "start": 31,
+          "url": "https://t.co/xJLoJHFdDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975567343855288532",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975480699135402226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nekinow: #初音ミク \n#ラビットホール 🎀 https://t.co/xJLoJHFdDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975480688989380608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pROFfbIAAqJY3.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975480688989380608"
+          ],
+          "media_source_tweet_id": [
+            "1975480699135402226"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1975567343855288532",
+        "created_at": "2025-10-07T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975567343855288532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "ラビットホール"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433742669885280260",
+              "start": 3,
+              "username": "Nekinow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJLoJHFdDW",
+              "end": 54,
+              "expanded_url": "https://x.com/Nekinow/status/1975480699135402226/photo/1",
+              "media_key": "3_1975480688989380608",
+              "start": 31,
+              "url": "https://t.co/xJLoJHFdDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975567343855288532",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975480699135402226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nekinow: #初音ミク \n#ラビットホール 🎀 https://t.co/xJLoJHFdDW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975480688989380608"
+          ]
+        },
+        "author_id": "1433742669885280260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1975480699135402226",
+        "created_at": "2025-10-07T08:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975480699135402226"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "ラビットホール"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJLoJHFdDW",
+              "end": 41,
+              "expanded_url": "https://x.com/Nekinow/status/1975480699135402226/photo/1",
+              "media_key": "3_1975480688989380608",
+              "start": 18,
+              "url": "https://t.co/xJLoJHFdDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975480699135402226",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 3433,
+          "like_count": 230,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク \n#ラビットホール 🎀 https://t.co/xJLoJHFdDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1366,
+          "like_count": 13585,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T10:44:37.000Z",
+        "description": "네키ㅣCosplay Photographer っ ̫ -˘ㅣContact & Business DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nekidayo_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nekidayo_?igsh=MTh4cHY0aHRlNXdtbQ==",
+                "start": 0,
+                "url": "https://t.co/4KPEZGHHiw"
+              }
+            ]
+          }
+        },
+        "id": "1433742669885280260",
+        "location": "📧 rjseka1110@naver.com",
+        "name": "ネキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870052068804964352/2TIrH4-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64009,
+          "following_count": 525,
+          "like_count": 11710,
+          "listed_count": 264,
+          "media_count": 696,
+          "tweet_count": 3651
+        },
+        "url": "https://t.co/4KPEZGHHiw",
+        "username": "Nekinow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040995428142108672"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2040995455610568728",
+    "created_at": "2026-04-06T03:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040995455610568728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBx74FeyFG",
+          "end": 28,
+          "expanded_url": "https://x.com/aoim33/status/2040995455610568728/photo/1",
+          "media_key": "3_2040995428142108672",
+          "start": 5,
+          "url": "https://t.co/NBx74FeyFG"
+        },
+        {
+          "display_url": "x.com/J17520Brynlee/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/J17520Brynlee/status/2040988600230453291",
+          "start": 29,
+          "url": "https://t.co/ZZE9SSfW6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040995455610568728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040988600230453291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有这些怪 https://t.co/NBx74FeyFG https://t.co/ZZE9SSfW6w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2040995428142108672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMShzqbUAAINzH.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040995428142108672"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2040995455610568728",
+        "created_at": "2026-04-06T03:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040995455610568728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBx74FeyFG",
+              "end": 28,
+              "expanded_url": "https://x.com/aoim33/status/2040995455610568728/photo/1",
+              "media_key": "3_2040995428142108672",
+              "start": 5,
+              "url": "https://t.co/NBx74FeyFG"
+            },
+            {
+              "display_url": "x.com/J17520Brynlee/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/J17520Brynlee/status/2040988600230453291",
+              "start": 29,
+              "url": "https://t.co/ZZE9SSfW6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040995455610568728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040988600230453291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这些怪 https://t.co/NBx74FeyFG https://t.co/ZZE9SSfW6w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026475594637258754",
+        "conversation_id": "2040819072150192426",
+        "created_at": "2026-04-06T03:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040988600230453291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040988600230453291",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040819072150192426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 有什么怪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 2757,
+          "like_count": 42190,
+          "listed_count": 20,
+          "media_count": 2351,
+          "tweet_count": 10316
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T01:53:47.000Z",
+        "description": "",
+        "id": "2026475594637258754",
+        "name": "TACH58",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026513613410938882/_I5lh21v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 52,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "J17520Brynlee",
+        "verified": false
+      }
+    ]
+  }
+}

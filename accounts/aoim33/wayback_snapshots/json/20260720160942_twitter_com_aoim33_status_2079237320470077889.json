@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079237313977307137"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2079237320470077889",
+    "created_at": "2026-07-20T16:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079237320470077889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pCMCvInlo",
+          "end": 29,
+          "expanded_url": "https://x.com/aoim33/status/2079237320470077889/photo/1",
+          "media_key": "3_2079237313977307137",
+          "start": 6,
+          "url": "https://t.co/7pCMCvInlo"
+        },
+        {
+          "display_url": "x.com/astrangecat0/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/astrangecat0/status/2079060057652924812",
+          "start": 30,
+          "url": "https://t.co/KBYhSZjgqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079237320470077889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079060057652924812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "何不食肉糜 https://t.co/7pCMCvInlo https://t.co/KBYhSZjgqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_2079237313977307137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrvUh9a0AEkA19.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079237313977307137"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2079237320470077889",
+        "created_at": "2026-07-20T16:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079237320470077889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pCMCvInlo",
+              "end": 29,
+              "expanded_url": "https://x.com/aoim33/status/2079237320470077889/photo/1",
+              "media_key": "3_2079237313977307137",
+              "start": 6,
+              "url": "https://t.co/7pCMCvInlo"
+            },
+            {
+              "display_url": "x.com/astrangecat0/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/astrangecat0/status/2079060057652924812",
+              "start": 30,
+              "url": "https://t.co/KBYhSZjgqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079237320470077889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079060057652924812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "何不食肉糜 https://t.co/7pCMCvInlo https://t.co/KBYhSZjgqc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043978653227212801",
+        "conversation_id": "2079047129805553982",
+        "created_at": "2026-07-20T04:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079060057652924812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "941177293233197056",
+              "start": 0,
+              "username": "SenYe10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079060057652924812",
+        "in_reply_to_user_id": "941177293233197056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31011,
+          "like_count": 584,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079047129805553982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenYe10 每天一杯瑞幸，不太像贫困生啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6497,
+          "following_count": 3143,
+          "like_count": 56632,
+          "listed_count": 22,
+          "media_count": 3637,
+          "tweet_count": 14749
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T09:04:35.000Z",
+        "description": "一只奇怪的猫，有可能出现在任何地方",
+        "id": "2043978653227212801",
+        "name": "奇怪的猫 | 狗宝真帅🐕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062143410992300032/G9G3DlEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2941,
+          "like_count": 1573,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 16239
+        },
+        "url": "",
+        "username": "astrangecat0",
+        "verified": true
+      }
+    ]
+  }
+}

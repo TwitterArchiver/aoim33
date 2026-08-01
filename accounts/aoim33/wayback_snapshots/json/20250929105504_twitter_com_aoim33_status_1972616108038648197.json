@@ -1,0 +1,904 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1575492091660054532",
+          "name": "Countdown"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1972616108038648197",
+    "created_at": "2025-09-29T10:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T11:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972616108038648197"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Zenless Zone Zero",
+          "probability": 0.9445,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "Memories of Dreams Bygone",
+          "probability": 0.9667,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 109,
+          "normalized_text": "Hour Left",
+          "probability": 0.5603,
+          "start": 101,
+          "type": "Other"
+        },
+        {
+          "end": 129,
+          "normalized_text": "YouTube",
+          "probability": 0.9665,
+          "start": 123,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1508387670208270343",
+          "start": 3,
+          "username": "ZZZ_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972616108038648197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972609799356338271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZZ_EN: Zenless Zone Zero Version 2.3 \"Memories of Dreams Bygone\" Special Program - Countdown: 1 Hour Left!\n\nWatch Now\nYouTube &gt;&gt; https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1972394388132159489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G19aPu2XYAEiKB9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1972616108038648197",
+        "created_at": "2025-09-29T10:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972616108038648197"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Zenless Zone Zero",
+              "probability": 0.9445,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Memories of Dreams Bygone",
+              "probability": 0.9667,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Hour Left",
+              "probability": 0.5603,
+              "start": 101,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "YouTube",
+              "probability": 0.9665,
+              "start": 123,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1508387670208270343",
+              "start": 3,
+              "username": "ZZZ_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972616108038648197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972609799356338271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZZ_EN: Zenless Zone Zero Version 2.3 \"Memories of Dreams Bygone\" Special Program - Countdown: 1 Hour Left!\n\nWatch Now\nYouTube &gt;&gt; https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972394388132159489"
+          ]
+        },
+        "author_id": "1508387670208270343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1972609799356338271",
+        "created_at": "2025-09-29T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972609799356338271"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Zenless Zone Zero",
+              "probability": 0.9371,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Memories of Dreams Bygone",
+              "probability": 0.9514,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "YouTube",
+              "probability": 0.978,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 157,
+              "normalized_text": "Twitch",
+              "probability": 0.9498,
+              "start": 152,
+              "type": "Other"
+            },
+            {
+              "end": 199,
+              "normalized_text": "zzzero",
+              "probability": 0.4582,
+              "start": 194,
+              "type": "Other"
+            },
+            {
+              "end": 216,
+              "normalized_text": "zenlesszonezero",
+              "probability": 0.7325,
+              "start": 202,
+              "type": "Other"
+            },
+            {
+              "end": 235,
+              "normalized_text": "zzzSpecialProgram",
+              "probability": 0.6461,
+              "start": 219,
+              "type": "Other"
+            },
+            {
+              "end": 259,
+              "normalized_text": "MemoriesofDreamsBygone",
+              "probability": 0.5581,
+              "start": 238,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 200,
+              "start": 193,
+              "tag": "zzzero"
+            },
+            {
+              "end": 217,
+              "start": 201,
+              "tag": "zenlesszonezero"
+            },
+            {
+              "end": 236,
+              "start": 218,
+              "tag": "zzzSpecialProgram"
+            },
+            {
+              "end": 260,
+              "start": 237,
+              "tag": "MemoriesofDreamsBygone"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Zenless Zone Zero is HoYoverse’s brand-new urban fantasy ARPG. A calamity known as the \"Hollows\" has destroyed modern society in the game. \"New Eridu,\" the last remaining metropolis, has risen against the odds amidst this destructive catastrophe and become the last remnant of contemporary civilization. Players act as \"Proxies\" who explore Hollows alongside a wide range of unique Agents, fighting enemies, and completing commissions on their journey to unveil the mysteries behind New Eridu. Version 2.2 \"Do Not Go Gentle Into That Good Night\" of Zenless Zone Zero, HoYoverse's urban fantasy ARPG, is out now: https://hoyo.link/6SOkFDAL ▼ Official Community ▼ ▶X (Twitter): https://twitter.com/ZZZ_EN ▶Facebook: https://www.facebook.com/ZZZ.Official.EN ▶Instagram: https://www.instagram.com/zzz.official.en ▶YouTube: https://www.youtube.com/@ZZZ_Official ▶TikTok: https://www.tiktok.com/@zenlesszonezero ▶Discord: https://discord.gg/zenlesszonezero ▶Reddit: https://www.reddit.com/r/ZZZ_Official",
+              "display_url": "youtube.com/@ZZZ_Official/",
+              "end": 151,
+              "expanded_url": "https://www.youtube.com/@ZZZ_Official/",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1971517598648111104/uK0C6uJi?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971517598648111104/uK0C6uJi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "Zenless Zone Zero",
+              "unwound_url": "https://www.youtube.com/@ZZZ_Official/",
+              "url": "https://t.co/hB3ihdwnSX"
+            },
+            {
+              "description": "Version 2.2 \"Do Not Go Gentle Into That Good Night\" of Zenless Zone Zero, HoYoverse's urban fantasy ARPG, is out now:https://hoyo.link/4SOkFOAL Avaliable on PS5™/iOS/Android/PC/Xbox",
+              "display_url": "twitch.tv/zenlesszonezero",
+              "end": 191,
+              "expanded_url": "https://www.twitch.tv/zenlesszonezero",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1972258874276380673/Hhz3Dabu?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972258874276380673/Hhz3Dabu?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 168,
+              "status": 200,
+              "title": "ZenlessZoneZero - Twitch",
+              "unwound_url": "https://www.twitch.tv/zenlesszonezero",
+              "url": "https://t.co/IPPYiS6LBc"
+            },
+            {
+              "display_url": "pic.x.com/6jVxNx5hS5",
+              "end": 284,
+              "expanded_url": "https://x.com/ZZZ_EN/status/1972609799356338271/photo/1",
+              "media_key": "3_1972394388132159489",
+              "start": 261,
+              "url": "https://t.co/6jVxNx5hS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972609799356338271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 12425,
+          "like_count": 928,
+          "quote_count": 27,
+          "reply_count": 17,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "Zenless Zone Zero Version 2.3 \"Memories of Dreams Bygone\" Special Program - Countdown: 1 Hour Left!\n\nWatch Now\nYouTube &gt;&gt; https://t.co/hB3ihdwnSX\nTwitch &gt;&gt; https://t.co/IPPYiS6LBc\n\n#zzzero #zenlesszonezero\n#zzzSpecialProgram\n#MemoriesofDreamsBygone https://t.co/6jVxNx5hS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究員 言語学 撮影 音ゲー 社会観察 白猫 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1967606460667527623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1172,
+          "like_count": 12053,
+          "listed_count": 3,
+          "media_count": 591,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-28T10:17:18.000Z",
+        "description": "Version 2.2 \"Do Not Go Gentle Into That Good Night\" of ZZZ, HoYoverse's urban fantasy ARPG, is out now: https://t.co/gm4oGNhBEp\n\nPS5™/iOS/Android/PC/Xbox",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 127,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 104,
+                "url": "https://t.co/gm4oGNhBEp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/gm4oGNhBEp"
+              }
+            ]
+          }
+        },
+        "id": "1508387670208270343",
+        "location": "New Eridu",
+        "name": "Zenless Zone Zero 🎉Season 2🎉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945262270172237824/v-AdCjU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966400,
+          "following_count": 17,
+          "like_count": 40,
+          "listed_count": 954,
+          "media_count": 1459,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/gm4oGNhBEp",
+        "username": "ZZZ_EN",
+        "verified": true
+      }
+    ]
+  }
+}

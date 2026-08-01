@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985315331062349824"
+      ],
+      "media_source_tweet_id": [
+        "1985315335231443194"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "1985389614522384661",
+    "created_at": "2025-11-03T16:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985389614522384661"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "中国",
+          "probability": 0.5547,
+          "start": 15,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "118730314",
+          "start": 3,
+          "username": "georghosh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2SfdUkytF4",
+          "end": 49,
+          "expanded_url": "https://x.com/georghosh/status/1985315335231443194/photo/1",
+          "media_key": "3_1985315331062349824",
+          "start": 26,
+          "url": "https://t.co/2SfdUkytF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985389614522384661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985315335231443194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @georghosh: 中国ビザ免除継続決定 https://t.co/2SfdUkytF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1985315331062349824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41BxmMbwAAdz1C.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985315331062349824"
+          ],
+          "media_source_tweet_id": [
+            "1985315335231443194"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "1985389614522384661",
+        "created_at": "2025-11-03T16:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985389614522384661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "中国",
+              "probability": 0.5547,
+              "start": 15,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "118730314",
+              "start": 3,
+              "username": "georghosh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SfdUkytF4",
+              "end": 49,
+              "expanded_url": "https://x.com/georghosh/status/1985315335231443194/photo/1",
+              "media_key": "3_1985315331062349824",
+              "start": 26,
+              "url": "https://t.co/2SfdUkytF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985389614522384661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985315335231443194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @georghosh: 中国ビザ免除継続決定 https://t.co/2SfdUkytF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985315331062349824"
+          ]
+        },
+        "author_id": "118730314",
+        "conversation_id": "1985315335231443194",
+        "created_at": "2025-11-03T11:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985315335231443194"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.5654,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SfdUkytF4",
+              "end": 34,
+              "expanded_url": "https://x.com/georghosh/status/1985315335231443194/photo/1",
+              "media_key": "3_1985315331062349824",
+              "start": 11,
+              "url": "https://t.co/2SfdUkytF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985315335231443194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2341,
+          "like_count": 91,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "中国ビザ免除継続決定 https://t.co/2SfdUkytF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "watebird14760"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1983549040441827520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1584,
+          "like_count": 17559,
+          "listed_count": 4,
+          "media_count": 840,
+          "tweet_count": 4180
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-01T15:48:20.000Z",
+        "description": "海外旅行、シーシャ、サバゲー、軍装、ゲームや馬などの話が好きです。 一口馬主:ジュルナール(サマーハの2022)",
+        "id": "118730314",
+        "location": "日本",
+        "name": "George",
+        "pinned_tweet_id": "1984222281095397849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867926088795779072/0xFM7_SQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1660,
+          "like_count": 510135,
+          "listed_count": 52,
+          "media_count": 5253,
+          "tweet_count": 117646
+        },
+        "username": "georghosh",
+        "verified": false
+      }
+    ]
+  }
+}

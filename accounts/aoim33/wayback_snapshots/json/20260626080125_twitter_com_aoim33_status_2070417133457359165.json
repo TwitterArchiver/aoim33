@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070415327973003264"
+      ],
+      "media_source_tweet_id": [
+        "2070415395501293783"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070417133457359165",
+    "created_at": "2026-06-26T08:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070417133457359165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068965937739386880",
+          "start": 3,
+          "username": "xt_maimai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BWUNMxSDUd",
+          "end": 43,
+          "expanded_url": "https://x.com/xt_maimai/status/2070415395501293783/video/1",
+          "media_key": "13_2070415327973003264",
+          "start": 20,
+          "url": "https://t.co/BWUNMxSDUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070417133457359165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070415395501293783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xt_maimai: 神秘手法 https://t.co/BWUNMxSDUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15829,
+        "height": 1280,
+        "media_key": "13_2070415327973003264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070415327973003264/img/Vw0O5KSMW1uH3kTT.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070415327973003264/vid/avc1/320x568/ZLkvESAMojiXY8Jy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070415327973003264/vid/avc1/480x852/J0241ncSjXxOJy6v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070415327973003264/vid/avc1/720x1280/bIyRWiZ_c5Jpse5g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070415327973003264/pl/7_oeEmu01ei5qcsL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070415327973003264"
+          ],
+          "media_source_tweet_id": [
+            "2070415395501293783"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070417133457359165",
+        "created_at": "2026-06-26T08:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070417133457359165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068965937739386880",
+              "start": 3,
+              "username": "xt_maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWUNMxSDUd",
+              "end": 43,
+              "expanded_url": "https://x.com/xt_maimai/status/2070415395501293783/video/1",
+              "media_key": "13_2070415327973003264",
+              "start": 20,
+              "url": "https://t.co/BWUNMxSDUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070417133457359165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070415395501293783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xt_maimai: 神秘手法 https://t.co/BWUNMxSDUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070415327973003264"
+          ]
+        },
+        "author_id": "2068965937739386880",
+        "conversation_id": "2070415395501293783",
+        "created_at": "2026-06-26T07:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070415395501293783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWUNMxSDUd",
+              "end": 28,
+              "expanded_url": "https://x.com/xt_maimai/status/2070415395501293783/video/1",
+              "media_key": "13_2070415327973003264",
+              "start": 5,
+              "url": "https://t.co/BWUNMxSDUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070415395501293783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神秘手法 https://t.co/BWUNMxSDUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6286,
+          "following_count": 3080,
+          "like_count": 54193,
+          "listed_count": 21,
+          "media_count": 3344,
+          "tweet_count": 13949
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T07:56:24.000Z",
+        "description": "xtxtQwQ",
+        "id": "2068965937739386880",
+        "location": "温州 浙江",
+        "name": "X T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068976045068570624/AIWNuGoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "xt_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

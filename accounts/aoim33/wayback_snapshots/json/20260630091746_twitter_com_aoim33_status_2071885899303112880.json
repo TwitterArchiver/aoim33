@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071885481462161408"
+      ],
+      "media_source_tweet_id": [
+        "2071885491780378880"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2071885899303112880",
+    "created_at": "2026-06-30T09:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071885899303112880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068965937739386880",
+          "start": 3,
+          "username": "xt_maimai"
+        },
+        {
+          "end": 24,
+          "id": "1902568136450424832",
+          "start": 17,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FnsKZj5w5E",
+          "end": 48,
+          "expanded_url": "https://x.com/xt_maimai/status/2071885491780378880/photo/1",
+          "media_key": "3_2071885481462161408",
+          "start": 25,
+          "url": "https://t.co/FnsKZj5w5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071885899303112880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071885491780378880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xt_maimai: 谢谢@aoim33 https://t.co/FnsKZj5w5E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2071885481462161408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDQ3jnXYAA60SQ.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071885481462161408"
+          ],
+          "media_source_tweet_id": [
+            "2071885491780378880"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2071885899303112880",
+        "created_at": "2026-06-30T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071885899303112880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068965937739386880",
+              "start": 3,
+              "username": "xt_maimai"
+            },
+            {
+              "end": 24,
+              "id": "1902568136450424832",
+              "start": 17,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnsKZj5w5E",
+              "end": 48,
+              "expanded_url": "https://x.com/xt_maimai/status/2071885491780378880/photo/1",
+              "media_key": "3_2071885481462161408",
+              "start": 25,
+              "url": "https://t.co/FnsKZj5w5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071885899303112880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071885491780378880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xt_maimai: 谢谢@aoim33 https://t.co/FnsKZj5w5E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071885481462161408"
+          ]
+        },
+        "author_id": "2068965937739386880",
+        "conversation_id": "2071885491780378880",
+        "created_at": "2026-06-30T09:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071885491780378880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902568136450424832",
+              "start": 2,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnsKZj5w5E",
+              "end": 33,
+              "expanded_url": "https://x.com/xt_maimai/status/2071885491780378880/photo/1",
+              "media_key": "3_2071885481462161408",
+              "start": 10,
+              "url": "https://t.co/FnsKZj5w5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071885491780378880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@aoim33 https://t.co/FnsKZj5w5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6375,
+          "following_count": 3100,
+          "like_count": 54601,
+          "listed_count": 21,
+          "media_count": 3404,
+          "tweet_count": 14098
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T07:56:24.000Z",
+        "description": "xtxtQwQ",
+        "id": "2068965937739386880",
+        "location": "温州 浙江",
+        "name": "X T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068976045068570624/AIWNuGoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "xt_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

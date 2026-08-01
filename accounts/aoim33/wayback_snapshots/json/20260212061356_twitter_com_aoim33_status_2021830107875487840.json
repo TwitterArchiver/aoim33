@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021830099591639040"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2021830107875487840",
+    "created_at": "2026-02-12T06:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021830107875487840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/coo3BTvqpZ",
+          "end": 61,
+          "expanded_url": "https://x.com/aoim33/status/2021830107875487840/photo/1",
+          "media_key": "3_2021830099591639040",
+          "start": 38,
+          "url": "https://t.co/coo3BTvqpZ"
+        },
+        {
+          "display_url": "x.com/kagurasakuraba…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/kagurasakuraba/status/2021796330566561798",
+          "start": 62,
+          "url": "https://t.co/fV2R58fx63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021830107875487840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021796330566561798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "基本盘们连阿b上差评君的视频都不看还指望他们懂这些技术细节\n全去用华为好了 https://t.co/coo3BTvqpZ https://t.co/fV2R58fx63"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2021830099591639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA77w3JaMAAZfYR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021796327064317960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dDCrbsAggkQx.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021796326967738368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dDCUaAAAR1M8.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021796327030738944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dDCjbUAAAqvP.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021796327173369856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dDDFbsAAqRFi.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021830099591639040"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2021830107875487840",
+        "created_at": "2026-02-12T06:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021830107875487840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/coo3BTvqpZ",
+              "end": 61,
+              "expanded_url": "https://x.com/aoim33/status/2021830107875487840/photo/1",
+              "media_key": "3_2021830099591639040",
+              "start": 38,
+              "url": "https://t.co/coo3BTvqpZ"
+            },
+            {
+              "display_url": "x.com/kagurasakuraba…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/kagurasakuraba/status/2021796330566561798",
+              "start": 62,
+              "url": "https://t.co/fV2R58fx63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021830107875487840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021796330566561798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "基本盘们连阿b上差评君的视频都不看还指望他们懂这些技术细节\n全去用华为好了 https://t.co/coo3BTvqpZ https://t.co/fV2R58fx63"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021796327064317960",
+            "3_2021796326967738368",
+            "3_2021796327030738944",
+            "3_2021796327173369856"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2021796330566561798",
+        "created_at": "2026-02-12T03:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021796330566561798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIbZjVtV70",
+              "end": 63,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021796330566561798/photo/1",
+              "media_key": "3_2021796327064317960",
+              "start": 40,
+              "url": "https://t.co/dIbZjVtV70"
+            },
+            {
+              "display_url": "pic.x.com/dIbZjVtV70",
+              "end": 63,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021796330566561798/photo/1",
+              "media_key": "3_2021796326967738368",
+              "start": 40,
+              "url": "https://t.co/dIbZjVtV70"
+            },
+            {
+              "display_url": "pic.x.com/dIbZjVtV70",
+              "end": 63,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021796330566561798/photo/1",
+              "media_key": "3_2021796327030738944",
+              "start": 40,
+              "url": "https://t.co/dIbZjVtV70"
+            },
+            {
+              "display_url": "pic.x.com/dIbZjVtV70",
+              "end": 63,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021796330566561798/photo/1",
+              "media_key": "3_2021796327173369856",
+              "start": 40,
+              "url": "https://t.co/dIbZjVtV70"
+            },
+            {
+              "display_url": "x.com/henxubulaile/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/henxubulaile/status/2021785821993742624",
+              "start": 64,
+              "url": "https://t.co/xBt7CsDKC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021796330566561798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3684,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021785821993742624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "基本盘闹麻了\n国内还有交通联合卡呢我还在用啊 支付宝技术上这种就是和扫码没区别 https://t.co/dIbZjVtV70 https://t.co/xBt7CsDKC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3624,
+          "following_count": 2464,
+          "like_count": 33249,
+          "listed_count": 17,
+          "media_count": 1635,
+          "tweet_count": 7425
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "最爱的天气是雨天 最喜欢的人是你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagurazakasenba.com",
+                "end": 23,
+                "expanded_url": "https://www.kagurazakasenba.com",
+                "start": 0,
+                "url": "https://t.co/fpPhelVgHW"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "Hong Kong SAR",
+        "name": "💮神楽坂　桜葉🌸🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2021654722722308439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 5610,
+          "like_count": 105407,
+          "listed_count": 8,
+          "media_count": 2255,
+          "tweet_count": 31052
+        },
+        "url": "https://t.co/fpPhelVgHW",
+        "username": "KaguraSakuraba",
+        "verified": false
+      }
+    ]
+  }
+}

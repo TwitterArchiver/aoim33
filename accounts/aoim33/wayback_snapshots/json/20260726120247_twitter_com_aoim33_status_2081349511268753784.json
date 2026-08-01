@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081111862008217600"
+      ],
+      "media_source_tweet_id": [
+        "2081115958773707173"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2081349511268753784",
+    "created_at": "2026-07-26T12:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081349511268753784"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "arcaea"
+        },
+        {
+          "end": 33,
+          "start": 22,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011011815241834497",
+          "start": 3,
+          "username": "_kou____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wm6TMYeEkD",
+          "end": 57,
+          "expanded_url": "https://x.com/_kou____/status/2081115958773707173/photo/1",
+          "media_key": "3_2081111862008217600",
+          "start": 34,
+          "url": "https://t.co/Wm6TMYeEkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081349511268753784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081115958773707173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kou____: #arcaea #arcaea_art https://t.co/Wm6TMYeEkD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2081111862008217600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGYNljaAAAnWwz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081111862008217600"
+          ]
+        },
+        "author_id": "2011011815241834497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2081115958773707173",
+        "created_at": "2026-07-25T20:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081115958773707173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "arcaea"
+            },
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wm6TMYeEkD",
+              "end": 43,
+              "expanded_url": "https://x.com/_kou____/status/2081115958773707173/photo/1",
+              "media_key": "3_2081111862008217600",
+              "start": 20,
+              "url": "https://t.co/Wm6TMYeEkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081115958773707173",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2737,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "#arcaea #arcaea_art https://t.co/Wm6TMYeEkD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081111862008217600"
+          ],
+          "media_source_tweet_id": [
+            "2081115958773707173"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2081349511268753784",
+        "created_at": "2026-07-26T12:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081349511268753784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "arcaea"
+            },
+            {
+              "end": 33,
+              "start": 22,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011011815241834497",
+              "start": 3,
+              "username": "_kou____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wm6TMYeEkD",
+              "end": 57,
+              "expanded_url": "https://x.com/_kou____/status/2081115958773707173/photo/1",
+              "media_key": "3_2081111862008217600",
+              "start": 34,
+              "url": "https://t.co/Wm6TMYeEkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081349511268753784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081115958773707173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kou____: #arcaea #arcaea_art https://t.co/Wm6TMYeEkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6596,
+          "following_count": 3168,
+          "like_count": 57333,
+          "listed_count": 22,
+          "media_count": 3703,
+          "tweet_count": 14939
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-13T09:46:09.000Z",
+        "description": "プロイラストレーターになりたい件, \n\nfanbox: https://t.co/O6V0Qjzzp4\npatreon: https://t.co/qD1JsFMkNR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "koudayo.fanbox.cc",
+                "end": 51,
+                "expanded_url": "https://koudayo.fanbox.cc/",
+                "start": 28,
+                "url": "https://t.co/O6V0Qjzzp4"
+              },
+              {
+                "display_url": "patreon.com/c/kou_",
+                "end": 84,
+                "expanded_url": "https://www.patreon.com/c/kou_",
+                "start": 61,
+                "url": "https://t.co/qD1JsFMkNR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/50103…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/50103164",
+                "start": 0,
+                "url": "https://t.co/p7Hyl3jTxJ"
+              }
+            ]
+          }
+        },
+        "id": "2011011815241834497",
+        "location": "🚫AI",
+        "name": "Kou「幸」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011011880664645633/5VGq-iqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 59,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/p7Hyl3jTxJ",
+        "username": "_kou____",
+        "verified": false
+      }
+    ]
+  }
+}

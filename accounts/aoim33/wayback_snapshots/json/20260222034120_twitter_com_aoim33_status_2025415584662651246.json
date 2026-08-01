@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2025415584662651246",
+    "created_at": "2026-02-22T03:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025415584662651246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/legacyvps/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/legacyvps/status/2025413642326569204",
+          "start": 44,
+          "url": "https://t.co/O6IiqTjihN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025415584662651246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025413642326569204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢我春节假期 t+11 的香港区提现时间间隔吗\n欧洲区稳定 t+3 为什么不开欧洲区 https://t.co/O6IiqTjihN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2025413630846763008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu291XbAAApUCu.jpg",
+        "width": 666
+      },
+      {
+        "height": 1586,
+        "media_key": "3_2025413630838407174",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu291VbgAYOH2T.jpg",
+        "width": 720
+      },
+      {
+        "height": 892,
+        "media_key": "3_2025413630804795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu291NaoAAv_iF.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2025415584662651246",
+        "created_at": "2026-02-22T03:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025415584662651246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/legacyvps/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/legacyvps/status/2025413642326569204",
+              "start": 44,
+              "url": "https://t.co/O6IiqTjihN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025415584662651246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025413642326569204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢我春节假期 t+11 的香港区提现时间间隔吗\n欧洲区稳定 t+3 为什么不开欧洲区 https://t.co/O6IiqTjihN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025413630846763008",
+            "3_2025413630838407174",
+            "3_2025413630804795392"
+          ]
+        },
+        "author_id": "1572253121547735040",
+        "conversation_id": "2025413642326569204",
+        "created_at": "2026-02-22T03:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025413642326569204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4hpekuftJ",
+              "end": 176,
+              "expanded_url": "https://x.com/legacyvps/status/2025413642326569204/photo/1",
+              "media_key": "3_2025413630846763008",
+              "start": 153,
+              "url": "https://t.co/g4hpekuftJ"
+            },
+            {
+              "display_url": "pic.x.com/g4hpekuftJ",
+              "end": 176,
+              "expanded_url": "https://x.com/legacyvps/status/2025413642326569204/photo/1",
+              "media_key": "3_2025413630838407174",
+              "start": 153,
+              "url": "https://t.co/g4hpekuftJ"
+            },
+            {
+              "display_url": "pic.x.com/g4hpekuftJ",
+              "end": 176,
+              "expanded_url": "https://x.com/legacyvps/status/2025413642326569204/photo/1",
+              "media_key": "3_2025413630804795392",
+              "start": 153,
+              "url": "https://t.co/g4hpekuftJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025413642326569204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "亲测有效！2026 最新 X 创作者收益开通极简实操指南\n\n很多推友的流量明明已经达标，却因为姓名报错、税务漏填、节点乱跳等细节，眼睁睁看着后台的美金提不出来。我把跑通全流程的底层逻辑提炼成了这份极简版避坑清单。建议收藏，对照每一步操作！\n\n1. 核心前置准备\n\n * 账号达标： 注册满 3 个月，粉丝 ≥ 500，近 3 个月阅读量 ≥ 500 万，且开通蓝 V。\n\n * 硬件要求： 全程使用极度稳定的美国或香港网络节点，切忌频繁更换 IP。\n\n * 身份资料： 中国护照（优先推荐）或大陆身份证。\n\n * ⚠️ 避坑警告： 绝对不要为了凑人数去“互关互赞”。近期 X 官方风控极严，刷出来的数据一旦被查出，不仅有封号风险，还会直接冻结收益。\n\n2. X 账号身份认证（伪装环境）\n\n * 切美区环境： 手机系统语言改为“英语(美国)”，X App 语言设为 English (US)，全程连接美国 IP。\n\n * 进入入口： 依次点击 个人头像 → Creator Studio → Verify your identity。\n * 提交资料： 地区老实选“中国”，证件选“身份证”，按提示拍照并完成人脸识别。\n\n * ⚠️ 避坑警告： 不切英文和美区 IP，极易弹出版的 Persona 严格审核通道；伪装环境后，大概率走 Stripe 宽松通道，大陆身份证几分钟就能秒过。\n\n3. 开通 Wise 虚拟港卡（解决收款载体）\n\n * 注册账户： 用全新 Gmail 和大陆手机号注册 Wise 个人号，国家选“中国”。\n\n * 拼音大法： 姓名必须用拼音填写，与你的护照/身份证绝对一致！\n\n * 获取账号： 在后台开通“港币 (HKD)”账户，复制系统分配的 Account Number (账户号码) 和 Bank Address (银行地址)，留作后用。\n\n * ⚠️ 避坑警告： 收到 X 的第一笔打款后，必须在账户里留存 24-48 小时再提现！新号秒进秒出 大概率会触发反洗钱风控，导致账号被封禁。\n\n4. 零失误绑定 Stripe（最容易报错的核心步）\n\n * 创建企业或者个人账号： 从 X 的 Revenue Sharing 页面点击 Connect Stripe，务必选择 Create a new business，类型选 Individual (个人)。\n\n * 锁定地区： 地区下拉必须选 Hong Kong (香港)！千万别选美国，否则系统会索要美国的社保号 (SSN) 和真实水电单。\n\n * 全大写拼写： 姓名必须用全大写拼音，拼写顺序与 Wise 账户严格一致。\n\n * 地址绑卡： 个人家庭地址直接粘贴 Wise 提供的“银行地址”。输入 Wise 提供的账号号码 (哪怕是 12 位也全部填进去，无视 9 位数提示)。\n\n5. 填报税务与安全提现\n\n * 更新税务： Stripe 亮起 Active 绿灯后，点击 W-8/W-9 税收协定，选择 Update 更新。如果不填，会被美国国税局默认扣 30% 的重税。\n\n * 填 W-8BEN 表： “是否为美国税务居民”选 No；“Non-U.S. TIN (非美国纳税人号)”填入你的护照号或身份证号；“税收协定索赔”选 No。电子签名提交，预扣税即可降至 10%。\n\n * 丝滑提现： 钱到达 Wise 并放够 24 小时后，直接选择汇款到支付宝，几分钟即可入账人民币。\n\n * ⚠️ 避坑警告： Wise 针对新账户的首笔提现免手续费，记得一次性大额提完，不要分批提现白白损失手续费。\n\n只要严格遵守上面的“信息绝对一致”与“环境伪装”两大核心原则，这套组合拳能帮绝大多数大陆用户打通提现闭环。\n\n你在实操中目前卡在了哪一步？如果有关于 Wise 账户被风控冻结，或者 Stripe 一直报错的具体问题，欢迎告诉我，我来帮你支招！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲测有效！2026 最新 X 创作者收益开通极简实操指南\n\n很多推友的流量明明已经达标，却因为姓名报错、税务漏填、节点乱跳等细节，眼睁睁看着后台的美金提不出来。我把跑通全流程的底层逻辑提炼成了这份极简版避坑清单。建议收藏，对照每一步操作！\n\n1. 核心前置准备\n\n * 账号达标： 注册满 3 个月，粉丝 https://t.co/g4hpekuftJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 2504,
+          "like_count": 34544,
+          "listed_count": 17,
+          "media_count": 1730,
+          "tweet_count": 7776
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-20T15:56:03.000Z",
+        "description": "全栈程序员| 独立开发玩家 白天写代码，晚上折腾VPS、AI模型、海外收款💰 纯干货：高性价比服务器测评、建站教程、Stripe/Wise避坑、AI工具/GPU实操 目标：技术变被动收入，感谢关注！ VPS 交流频道：https://t.co/y6K8zfEC9B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/legacyvps",
+                "end": 132,
+                "expanded_url": "https://t.me/legacyvps",
+                "start": 109,
+                "url": "https://t.co/y6K8zfEC9B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "legacyvps.com/scanidc",
+                "end": 23,
+                "expanded_url": "https://www.legacyvps.com/scanidc",
+                "start": 0,
+                "url": "https://t.co/dEdDaONjs6"
+              }
+            ]
+          }
+        },
+        "id": "1572253121547735040",
+        "location": "Kowloon City District",
+        "name": "小墨同学",
+        "pinned_tweet_id": "2010353462312362433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006310479975858176/PWGiJqg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 182,
+          "like_count": 1244,
+          "listed_count": 5,
+          "media_count": 191,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/dEdDaONjs6",
+        "username": "legacyvps",
+        "verified": true
+      }
+    ]
+  }
+}

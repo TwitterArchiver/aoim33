@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994039843438178304",
+        "3_1994039843417174016"
+      ],
+      "media_source_tweet_id": [
+        "1994039848676831520",
+        "1994039848676831520"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1994281591959666859",
+    "created_at": "2025-11-28T05:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994281591959666859"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "東京２次",
+          "probability": 0.5171,
+          "start": 41,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1787829357068914688",
+          "start": 3,
+          "username": "byfortherainbow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pop3jJxtxk",
+          "end": 139,
+          "expanded_url": "https://x.com/byfortherainbow/status/1994039848676831520/photo/1",
+          "media_key": "3_1994039843438178304",
+          "start": 116,
+          "url": "https://t.co/Pop3jJxtxk"
+        },
+        {
+          "display_url": "pic.x.com/Pop3jJxtxk",
+          "end": 139,
+          "expanded_url": "https://x.com/byfortherainbow/status/1994039848676831520/photo/1",
+          "media_key": "3_1994039843417174016",
+          "start": 116,
+          "url": "https://t.co/Pop3jJxtxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994281591959666859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 445
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994039848676831520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @byfortherainbow: いよいよ明日「結婚の自由をすべての人に」東京２次、高裁判決！！🧑‍⚖️\n同性カップルは、法律婚ができないことにより愛する人の身に何か起こった時に、側にいることも許されないことがあります。… https://t.co/Pop3jJxtxk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 407,
+        "media_key": "3_1994039843438178304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xArDgbsAA3JQP.jpg",
+        "width": 612
+      },
+      {
+        "height": 749,
+        "media_key": "3_1994039843417174016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xArDbbMAAVUXi.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994039843438178304",
+            "3_1994039843417174016"
+          ],
+          "media_source_tweet_id": [
+            "1994039848676831520",
+            "1994039848676831520"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1994281591959666859",
+        "created_at": "2025-11-28T05:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994281591959666859"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "東京２次",
+              "probability": 0.5171,
+              "start": 41,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1787829357068914688",
+              "start": 3,
+              "username": "byfortherainbow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pop3jJxtxk",
+              "end": 139,
+              "expanded_url": "https://x.com/byfortherainbow/status/1994039848676831520/photo/1",
+              "media_key": "3_1994039843438178304",
+              "start": 116,
+              "url": "https://t.co/Pop3jJxtxk"
+            },
+            {
+              "display_url": "pic.x.com/Pop3jJxtxk",
+              "end": 139,
+              "expanded_url": "https://x.com/byfortherainbow/status/1994039848676831520/photo/1",
+              "media_key": "3_1994039843417174016",
+              "start": 116,
+              "url": "https://t.co/Pop3jJxtxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994281591959666859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 445
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994039848676831520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @byfortherainbow: いよいよ明日「結婚の自由をすべての人に」東京２次、高裁判決！！🧑‍⚖️\n同性カップルは、法律婚ができないことにより愛する人の身に何か起こった時に、側にいることも許されないことがあります。… https://t.co/Pop3jJxtxk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994039843438178304",
+            "3_1994039843417174016"
+          ]
+        },
+        "author_id": "1787829357068914688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1994039848676831520",
+        "created_at": "2025-11-27T13:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994039848676831520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "東京２次",
+              "probability": 0.4887,
+              "start": 20,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pop3jJxtxk",
+              "end": 117,
+              "expanded_url": "https://x.com/byfortherainbow/status/1994039848676831520/photo/1",
+              "media_key": "3_1994039843438178304",
+              "start": 94,
+              "url": "https://t.co/Pop3jJxtxk"
+            },
+            {
+              "display_url": "pic.x.com/Pop3jJxtxk",
+              "end": 117,
+              "expanded_url": "https://x.com/byfortherainbow/status/1994039848676831520/photo/1",
+              "media_key": "3_1994039843417174016",
+              "start": 94,
+              "url": "https://t.co/Pop3jJxtxk"
+            },
+            {
+              "display_url": "x.com/tokyo_shimbun/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/tokyo_shimbun/status/1993789363197759892",
+              "start": 118,
+              "url": "https://t.co/NNdiCkFTY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994039848676831520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 344,
+                "start": 331,
+                "tag": "結婚の自由をすべての人に"
+              },
+              {
+                "end": 354,
+                "start": 345,
+                "tag": "1128東京２次"
+              },
+              {
+                "end": 366,
+                "start": 355,
+                "tag": "1128東京2次高裁"
+              },
+              {
+                "end": 373,
+                "start": 367,
+                "tag": "同性婚訴訟"
+              },
+              {
+                "end": 381,
+                "start": 374,
+                "tag": "同性カップル"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 396,
+                "id": "983889035507544065",
+                "start": 382,
+                "username": "marriage4all_"
+              }
+            ]
+          },
+          "text": "いよいよ明日「結婚の自由をすべての人に」東京２次、高裁判決！！🧑‍⚖️\n同性カップルは、法律婚ができないことにより愛する人の身に何か起こった時に、側にいることも許されないことがあります。\nパートナーシップ宣誓や、養子縁組、遺言書、公正証書などを用意しても、やはりどうしても法律婚には叶いません。\n何よりも必要なのは、誰しもが愛する人と、婚姻が自由にできる制度です。\n同性カップルにとっては同性婚が必要です！！\n制度が変われば、人の心も変わり、理解も進みます。\nどうか明日が同性婚を望むすべての人にとっての良き日になりますように。\n願っています。\n活動を続けてくださっている東京弁護団の皆さま、Marriage For All Japanに敬意と感謝を表します。\n#結婚の自由をすべての人に\n#1128東京２次\n#1128東京2次高裁\n#同性婚訴訟\n#同性カップル\n@marriage4all_"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 135145,
+          "like_count": 3502,
+          "quote_count": 19,
+          "reply_count": 5,
+          "retweet_count": 445
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993789363197759892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いよいよ明日「結婚の自由をすべての人に」東京２次、高裁判決！！🧑‍⚖️\n同性カップルは、法律婚ができないことにより愛する人の身に何か起こった時に、側にいることも許されないことがあります。 https://t.co/Pop3jJxtxk https://t.co/NNdiCkFTY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1823,
+          "like_count": 19938,
+          "listed_count": 4,
+          "media_count": 1001,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T12:58:50.000Z",
+        "description": "全員LGBTQ当事者による当事者の為の士業(宅建士、FP技能士、税理士、司法書士、保育士)＆都議会議員のグループ【by for the rainbow】 同性婚の認められていない日本で 大切なパートナーや子どもを守るために必要な準備や手続き等をご案内する窓口。同性カップルの住宅購入、資産形成、遺言、公正証書",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukueterasu.com/lp/by-for-the-…",
+                "end": 23,
+                "expanded_url": "https://www.yukueterasu.com/lp/by-for-the-rainbow/",
+                "start": 0,
+                "url": "https://t.co/GVZMkBXWy5"
+              }
+            ]
+          }
+        },
+        "id": "1787829357068914688",
+        "name": "🏳️‍🌈by for the rainbow🏳️‍🌈",
+        "pinned_tweet_id": "1975517519717818763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787829737840390144/k8A71p4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 413,
+          "like_count": 2287,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/GVZMkBXWy5",
+        "username": "byfortherainbow",
+        "verified": false
+      }
+    ]
+  }
+}

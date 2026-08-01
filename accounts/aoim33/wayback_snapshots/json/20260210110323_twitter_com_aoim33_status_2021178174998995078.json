@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1452027170029592579",
+          "name": "Taku Yamazoe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1452027170029592579",
+          "name": "Taku Yamazoe"
+        }
+      }
+    ],
+    "conversation_id": "2021178174998995078",
+    "created_at": "2026-02-10T11:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021178174998995078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "249603227",
+          "start": 3,
+          "username": "pioneertaku84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021178174998995078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021175141934195089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pioneertaku84: 「戦争を避けるための防衛力強化」ーーもっともらしく言うが、この「抑止力」論には上限がなく相互に強化合戦となる。\n財政などお構いなし、外交のためには力が必要といい軍拡に進めば緊張関係は高まるばかり。現実的に考えれば、軍拡は平和でなく戦争を近づ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1452027170029592579",
+              "name": "Taku Yamazoe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1452027170029592579",
+              "name": "Taku Yamazoe"
+            }
+          }
+        ],
+        "conversation_id": "2021178174998995078",
+        "created_at": "2026-02-10T11:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021178174998995078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "249603227",
+              "start": 3,
+              "username": "pioneertaku84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021178174998995078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021175141934195089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pioneertaku84: 「戦争を避けるための防衛力強化」ーーもっともらしく言うが、この「抑止力」論には上限がなく相互に強化合戦となる。\n財政などお構いなし、外交のためには力が必要といい軍拡に進めば緊張関係は高まるばかり。現実的に考えれば、軍拡は平和でなく戦争を近づ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "249603227",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1452027170029592579",
+              "name": "Taku Yamazoe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1452027170029592579",
+              "name": "Taku Yamazoe"
+            }
+          }
+        ],
+        "conversation_id": "2021175141934195089",
+        "created_at": "2026-02-10T10:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021175141934195089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021175141934195089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2466,
+          "like_count": 358,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "「戦争を避けるための防衛力強化」ーーもっともらしく言うが、この「抑止力」論には上限がなく相互に強化合戦となる。\n財政などお構いなし、外交のためには力が必要といい軍拡に進めば緊張関係は高まるばかり。現実的に考えれば、軍拡は平和でなく戦争を近づける。\n戦争を避けるには、法と対話こそ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3605,
+          "following_count": 2451,
+          "like_count": 33023,
+          "listed_count": 17,
+          "media_count": 1622,
+          "tweet_count": 7376
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-09T11:49:02.000Z",
+        "description": "日本共産党政策委員長・参院議員・弁護士。 2016年7月参院選、東京選挙区で初当選。22年、2期目に押し上げていただきました。憲法が、希望。ご相談は国会事務所03-6550-0817 または東京事務所03-5302-6511へ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yamazoetaku.com",
+                "end": 23,
+                "expanded_url": "http://www.yamazoetaku.com",
+                "start": 0,
+                "url": "https://t.co/1LAPtc92r2"
+              }
+            ]
+          }
+        },
+        "id": "249603227",
+        "name": "山添　拓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493199856332320769/FVir3pj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216341,
+          "following_count": 329,
+          "like_count": 6257,
+          "listed_count": 2257,
+          "media_count": 700,
+          "tweet_count": 8601
+        },
+        "url": "https://t.co/1LAPtc92r2",
+        "username": "pioneertaku84",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2041325675706257570",
+    "created_at": "2026-04-07T01:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041325675706257570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683218035602255872",
+          "start": 3,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041325675706257570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041322289699213684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jlxc2001: このアカウントに日本のファンが意外と多いことに気づきました。\n以前、日本のデジタルファンと直接会った際、中国版Xiaomiを使っている方が一部いると知りました。\n中国版Xiaomiには日本語設定がないため、皆さん英語で我慢して使っている状況です。……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041322282979901440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ7zQ0bQAA2u3b.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041322286037585920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ7zcNb0AA8dUY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2041325675706257570",
+        "created_at": "2026-04-07T01:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041325675706257570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683218035602255872",
+              "start": 3,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041325675706257570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041322289699213684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jlxc2001: このアカウントに日本のファンが意外と多いことに気づきました。\n以前、日本のデジタルファンと直接会った際、中国版Xiaomiを使っている方が一部いると知りました。\n中国版Xiaomiには日本語設定がないため、皆さん英語で我慢して使っている状況です。……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041322282979901440",
+            "3_2041322286037585920"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2041322289699213684",
+        "created_at": "2026-04-07T01:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041322289699213684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YofmcjLrIp",
+              "end": 147,
+              "expanded_url": "https://x.com/jlxc2001/status/2041322289699213684/photo/1",
+              "media_key": "3_2041322282979901440",
+              "start": 124,
+              "url": "https://t.co/YofmcjLrIp"
+            },
+            {
+              "display_url": "pic.x.com/YofmcjLrIp",
+              "end": 147,
+              "expanded_url": "https://x.com/jlxc2001/status/2041322289699213684/photo/1",
+              "media_key": "3_2041322286037585920",
+              "start": 124,
+              "url": "https://t.co/YofmcjLrIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041322289699213684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "このアカウントに日本のファンが意外と多いことに気づきました。\n以前、日本のデジタルファンと直接会った際、中国版Xiaomiを使っている方が一部いると知りました。\n中国版Xiaomiには日本語設定がないため、皆さん英語で我慢して使っている状況です。\n \n中国版Xiaomiのシステム言語を日本語にするADBコマンドを見つけたので共有します。\n \n adb shell settings put system system_locales ja-JP \n \n一部ソフトに日本語リソースが入っていないため英語表記のままになりますが、\n完全な英語よりは使いやすくなると思います。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 284,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "このアカウントに日本のファンが意外と多いことに気づきました。\n以前、日本のデジタルファンと直接会った際、中国版Xiaomiを使っている方が一部いると知りました。\n中国版Xiaomiには日本語設定がないため、皆さん英語で我慢して使っている状況です。 https://t.co/YofmcjLrIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 2761,
+          "like_count": 42287,
+          "listed_count": 20,
+          "media_count": 2357,
+          "tweet_count": 10350
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵（已于26年年初搬到江西萍乡老家了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14100,
+          "following_count": 191,
+          "like_count": 460,
+          "listed_count": 29,
+          "media_count": 844,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

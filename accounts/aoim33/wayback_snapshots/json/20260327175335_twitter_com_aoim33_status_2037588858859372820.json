@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2037588858859372820",
+    "created_at": "2026-03-27T17:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037588858859372820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3007401074",
+          "start": 3,
+          "username": "Kenkyusha_PR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037588858859372820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037350625126776881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenkyusha_PR: 【教員公募】慶應義塾大学　文学部。担当科目：文学部設置の1-2年生必修語学科目(英語)、一部総合教育科目。教授/准教授/助教1名。任期なし。年収例：教授45歳1000～1100万円、准教授40歳900～1000万円、助教35歳600～700万…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2037588858859372820",
+        "created_at": "2026-03-27T17:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037588858859372820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3007401074",
+              "start": 3,
+              "username": "Kenkyusha_PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037588858859372820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037350625126776881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenkyusha_PR: 【教員公募】慶應義塾大学　文学部。担当科目：文学部設置の1-2年生必修語学科目(英語)、一部総合教育科目。教授/准教授/助教1名。任期なし。年収例：教授45歳1000～1100万円、准教授40歳900～1000万円、助教35歳600～700万…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3007401074",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2037350625126776881",
+        "created_at": "2026-03-27T02:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037350625126776881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "イノベーション創出を担う研究人材のためのキャリア支援ポータルサイト",
+              "display_url": "jrecin.jst.go.jp/seek/SeekJorDe…",
+              "end": 175,
+              "expanded_url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126031668",
+              "images": [
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2037350627739881472/_2vg_TR7?format=png&name=orig",
+                  "width": 144
+                },
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2037350627739881472/_2vg_TR7?format=png&name=150x150",
+                  "width": 144
+                }
+              ],
+              "start": 152,
+              "status": 200,
+              "title": "JREC-IN | 英語専任教員 (教授/准教授/助教) の公募 (慶應義塾大学文学部)",
+              "unwound_url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126031668",
+              "url": "https://t.co/QnxTxdDZjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037350625126776881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4721,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "【教員公募】慶應義塾大学　文学部。担当科目：文学部設置の1-2年生必修語学科目(英語)、一部総合教育科目。教授/准教授/助教1名。任期なし。年収例：教授45歳1000～1100万円、准教授40歳900～1000万円、助教35歳600～700万円。応募締切2026年4月13日。着任時期2027年4月1日。https://t.co/QnxTxdDZjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 138,
+                "start": 131,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2037567986790494582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4558,
+          "following_count": 2726,
+          "like_count": 41001,
+          "listed_count": 20,
+          "media_count": 2259,
+          "tweet_count": 9910
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-02T02:05:22.000Z",
+        "description": "1907年創業の語学系専門出版社、研究社の公式アカウントです。お問い合わせは小社ホームページの以下「お問い合わせフォーム」からお願い申し上げます。 https://t.co/f0sQuICdxi\n研究社note　https://t.co/3RCHyd0lBL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kenkyusha.co.jp/contact/",
+                "end": 97,
+                "expanded_url": "https://kenkyusha.co.jp/contact/",
+                "start": 74,
+                "url": "https://t.co/f0sQuICdxi"
+              },
+              {
+                "display_url": "note.com/kenkyusha",
+                "end": 129,
+                "expanded_url": "https://note.com/kenkyusha",
+                "start": 106,
+                "url": "https://t.co/3RCHyd0lBL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kenkyusha.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.kenkyusha.co.jp",
+                "start": 0,
+                "url": "https://t.co/Rq8fi90rae"
+              }
+            ]
+          }
+        },
+        "id": "3007401074",
+        "location": "東京都千代田区富士見",
+        "name": "研究社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/562069751564730368/-QYLvntL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12306,
+          "following_count": 1096,
+          "like_count": 32920,
+          "listed_count": 264,
+          "media_count": 1620,
+          "tweet_count": 46682
+        },
+        "url": "https://t.co/Rq8fi90rae",
+        "username": "Kenkyusha_PR",
+        "verified": false
+      }
+    ]
+  }
+}

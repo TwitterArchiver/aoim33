@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2063482277255123005",
+    "created_at": "2026-06-07T04:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063482277255123005"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "兄の日"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "ゼンゼロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "707439482874765312",
+          "start": 3,
+          "username": "GooglePlayJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063482277255123005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1550
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063093519976124819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GooglePlayJP: 今日は #兄の日 \n\n#ゼンゼロ の兄といえば、アキラ！\n妹のリンにも優しく世話を焼く\nまさに理想のお兄ちゃんですよね\n\nみなさんは\n兄として妹を見守るか\n妹としてお兄ちゃんに見守られるか\nどちらを選びましたか？\n\n▼兄妹の日常を体験しに行こ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2062755841384615936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBhgkAXkAAsKW0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2063482277255123005",
+        "created_at": "2026-06-07T04:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063482277255123005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "兄の日"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "707439482874765312",
+              "start": 3,
+              "username": "GooglePlayJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063482277255123005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1550
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063093519976124819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GooglePlayJP: 今日は #兄の日 \n\n#ゼンゼロ の兄といえば、アキラ！\n妹のリンにも優しく世話を焼く\nまさに理想のお兄ちゃんですよね\n\nみなさんは\n兄として妹を見守るか\n妹としてお兄ちゃんに見守られるか\nどちらを選びましたか？\n\n▼兄妹の日常を体験しに行こ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062755841384615936"
+          ]
+        },
+        "author_id": "707439482874765312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2063093519976124819",
+        "created_at": "2026-06-06T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063093519976124819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "兄の日"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 147,
+              "expanded_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ja&utm_source=apac_soc&utm_medium=twt&utm_content=Jan0125&utm_campaign=AGdiscover&pcampaignid=MKT-RDR-apac-jp-1002255-soc-twt-gm-AGdiscover-Jan0125-Text",
+              "start": 124,
+              "status": 200,
+              "unwound_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ja&utm_source=apac_soc&utm_medium=twt&utm_content=Jan0125&utm_campaign=AGdiscover&pcampaignid=MKT-RDR-apac-jp-1002255-soc-twt-gm-AGdiscover-Jan0125-Text",
+              "url": "https://t.co/d0Gejlndnh"
+            },
+            {
+              "display_url": "pic.x.com/uQWyZKQZpd",
+              "end": 171,
+              "expanded_url": "https://x.com/GooglePlayJP/status/2063093519976124819/photo/1",
+              "media_key": "3_2062755841384615936",
+              "start": 148,
+              "url": "https://t.co/uQWyZKQZpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063093519976124819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 212676,
+          "like_count": 6555,
+          "quote_count": 102,
+          "reply_count": 18,
+          "retweet_count": 1550
+        },
+        "reply_settings": "everyone",
+        "text": "今日は #兄の日 \n\n#ゼンゼロ の兄といえば、アキラ！\n妹のリンにも優しく世話を焼く\nまさに理想のお兄ちゃんですよね\n\nみなさんは\n兄として妹を見守るか\n妹としてお兄ちゃんに見守られるか\nどちらを選びましたか？\n\n▼兄妹の日常を体験しに行こう！\nhttps://t.co/d0Gejlndnh https://t.co/uQWyZKQZpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5923,
+          "following_count": 3019,
+          "like_count": 51787,
+          "listed_count": 19,
+          "media_count": 3129,
+          "tweet_count": 13162
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-09T05:34:51.000Z",
+        "description": "Google Play 公式アカウントです。\nAndroid アプリの最新情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "play.google.com/store",
+                "end": 23,
+                "expanded_url": "https://play.google.com/store",
+                "start": 0,
+                "url": "https://t.co/83IEkxwWHF"
+              }
+            ]
+          }
+        },
+        "id": "707439482874765312",
+        "location": "日本 東京",
+        "name": "Google Play JP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561543959859843073/6cI1pjfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349549,
+          "following_count": 79,
+          "like_count": 288,
+          "listed_count": 319,
+          "media_count": 1624,
+          "tweet_count": 20660
+        },
+        "url": "https://t.co/83IEkxwWHF",
+        "username": "GooglePlayJP",
+        "verified": true
+      }
+    ]
+  }
+}

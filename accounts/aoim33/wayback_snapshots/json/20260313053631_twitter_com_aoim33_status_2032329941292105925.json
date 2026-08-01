@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2032109307521859653",
+    "created_at": "2026-03-13T05:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032329941292105925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "15931202",
+          "start": 0,
+          "username": "sanguniao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032329941292105925",
+    "in_reply_to_user_id": "15931202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032282071100768756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanguniao 什么东西？不是银行对账单就 OK 了嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2032109307521859653",
+        "created_at": "2026-03-13T05:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032329941292105925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "15931202",
+              "start": 0,
+              "username": "sanguniao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032329941292105925",
+        "in_reply_to_user_id": "15931202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032282071100768756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanguniao 什么东西？不是银行对账单就 OK 了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15931202",
+        "conversation_id": "2032109307521859653",
+        "created_at": "2026-03-13T02:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032282071100768756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032282071100768756",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032109307521859653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 要我的家庭地址证明，我不知道提交啥材料？关键我还在外地出差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4210,
+          "following_count": 2623,
+          "like_count": 38320,
+          "listed_count": 21,
+          "media_count": 2065,
+          "tweet_count": 9050
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2008-08-21T13:40:04.000Z",
+        "description": "Insights into Life & Cross-Domain Practice.\n物理系知识框架 | 交互设计师 | 软件系统业务设计 | AI工具跨界实践 | 探索新奇事物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sanguniao",
+                "end": 23,
+                "expanded_url": "https://t.me/sanguniao",
+                "start": 0,
+                "url": "https://t.co/AjxxXs4EUz"
+              }
+            ]
+          }
+        },
+        "id": "15931202",
+        "location": "Mars",
+        "name": "三骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016009066812981248/srI5RT6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3258,
+          "following_count": 2375,
+          "like_count": 1672,
+          "listed_count": 7,
+          "media_count": 1012,
+          "tweet_count": 5095
+        },
+        "url": "https://t.co/AjxxXs4EUz",
+        "username": "sanguniao",
+        "verified": true
+      }
+    ]
+  }
+}

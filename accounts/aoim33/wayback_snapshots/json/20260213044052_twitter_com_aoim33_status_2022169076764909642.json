@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418265706076917762",
+          "name": "Yahoo News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418265706076917762",
+          "name": "Yahoo News"
+        }
+      }
+    ],
+    "conversation_id": "2022169076764909642",
+    "created_at": "2026-02-13T04:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022169076764909642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kabasawa/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/kabasawa/status/2022140210600177968",
+          "start": 34,
+          "url": "https://t.co/aLexi7jprb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022169076764909642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022140210600177968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长时间刷手机会导致智商下降？\n那我在生活中干什么，顶着墙壁看一天吗 https://t.co/aLexi7jprb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          }
+        ],
+        "conversation_id": "2022169076764909642",
+        "created_at": "2026-02-13T04:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022169076764909642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kabasawa/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kabasawa/status/2022140210600177968",
+              "start": 34,
+              "url": "https://t.co/aLexi7jprb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022169076764909642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022140210600177968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长时间刷手机会导致智商下降？\n那我在生活中干什么，顶着墙壁看一天吗 https://t.co/aLexi7jprb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44866344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          }
+        ],
+        "conversation_id": "2022140210600177968",
+        "created_at": "2026-02-13T02:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022140210600177968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 93,
+              "tag": "Yahooニュース"
+            }
+          ],
+          "urls": [
+            {
+              "description": "デジタル環境で幼少期を過ごしたZ世代は、直前の世代より学業成績と主要な認知能力全般が低下しているとの主張が出た。 7日（現地時間）、ニューヨーク・ポストによると、米神経科学者のジャレッド・クーニー",
+              "display_url": "news.yahoo.co.jp/articles/07236…",
+              "end": 127,
+              "expanded_url": "https://news.yahoo.co.jp/articles/07236bafed1433452f973cbff9ec26123c34973e?source=sns&dv=sp&mid=other&date=20260213&ctg=wor&bt=tw_up",
+              "start": 104,
+              "status": 200,
+              "title": "1997～2010年生まれのZ世代、親よりIQ低い…米神経科学者が指摘した原因はデジタル機器への長時間接触（中央日報日本語版） - Yahoo!ニュース",
+              "unwound_url": "https://news.yahoo.co.jp/articles/07236bafed1433452f973cbff9ec26123c34973e?source=sns&dv=sp&mid=other&date=20260213&ctg=wor&bt=tw_up",
+              "url": "https://t.co/B0DUav3X8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022140210600177968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8507,
+          "like_count": 117,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】デジタル機器の長時間使用で\n知能が低下する模様\n\n1997～2010年生まれのZ世代、親よりIQ低い…米神経科学者が指摘した原因はデジタル機器への長時間接触(中央日報日本語版)\n#Yahooニュース\nhttps://t.co/B0DUav3X8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3635,
+          "following_count": 2469,
+          "like_count": 33412,
+          "listed_count": 17,
+          "media_count": 1653,
+          "tweet_count": 7477
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-05T10:44:07.000Z",
+        "description": "『情報発信でメンタル疾患を予防する！』睡眠・運動・朝散歩しよう！著書55冊。累計270万部。YouTube 67万人など、SNS累計110万人フォロワーのネットメディアで精神医学、心理学をわかりやすく解説。代表著書は、『アウトプット大全』（シリーズ累計100万部）。YouTube毎日更新中！チャンネル登録お願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "canyon-ex.jp/fx2334/z6j0NW",
+                "end": 23,
+                "expanded_url": "https://canyon-ex.jp/fx2334/z6j0NW",
+                "start": 0,
+                "url": "https://t.co/69nOMj1xwk"
+              }
+            ]
+          }
+        },
+        "id": "44866344",
+        "location": "東京",
+        "name": "精神科医・樺沢紫苑",
+        "pinned_tweet_id": "2005680566029766844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1177743747087360002/O-3-A4sB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267907,
+          "following_count": 113371,
+          "like_count": 29344,
+          "listed_count": 4135,
+          "media_count": 12939,
+          "tweet_count": 47507
+        },
+        "url": "https://t.co/69nOMj1xwk",
+        "username": "kabasawa",
+        "verified": true
+      }
+    ]
+  }
+}

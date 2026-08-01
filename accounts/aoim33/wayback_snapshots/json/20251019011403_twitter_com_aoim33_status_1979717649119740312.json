@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1979717649119740312",
+    "created_at": "2025-10-19T01:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979717649119740312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xhandles/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xhandles/status/1979714051665260601",
+          "start": 7,
+          "url": "https://t.co/yGYDGBa6k7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979717649119740312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979714051665260601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马一龙圈如钱 https://t.co/yGYDGBa6k7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6033,
+        "height": 1246,
+        "media_key": "13_1979713671639994368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979713671639994368/img/YuSs7u916yh9P_PB.jpg",
+        "public_metrics": {
+          "view_count": 1834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979713671639994368/pl/GPERpEWEoQHUrhT7.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979713671639994368/vid/avc1/960x720/D5XClPBSc4TqYtQw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979713671639994368/vid/avc1/360x270/DCB9Exz2p4eEOAjF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979713671639994368/vid/avc1/1662x1246/Zbky2aLBhygYJ1Fu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979713671639994368/vid/avc1/480x360/1CRAj3Aw7ho_S5IA.mp4"
+          }
+        ],
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1979717649119740312",
+        "created_at": "2025-10-19T01:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979717649119740312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xhandles/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xhandles/status/1979714051665260601",
+              "start": 7,
+              "url": "https://t.co/yGYDGBa6k7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979717649119740312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979714051665260601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马一龙圈如钱 https://t.co/yGYDGBa6k7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979713671639994368"
+          ]
+        },
+        "author_id": "1979678011843883008",
+        "conversation_id": "1979714051665260601",
+        "created_at": "2025-10-19T00:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T01:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979714051665260601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Browse and request inactive X handles",
+              "display_url": "handles.x.com",
+              "end": 67,
+              "expanded_url": "http://handles.x.com",
+              "start": 44,
+              "status": 200,
+              "title": "X Handle Marketplace",
+              "unwound_url": "https://handles.x.com/login",
+              "url": "https://t.co/78v6LhGZiz"
+            },
+            {
+              "display_url": "pic.x.com/XOa9b2lfkN",
+              "end": 91,
+              "expanded_url": "https://x.com/XHandles/status/1979714051665260601/video/1",
+              "media_key": "13_1979713671639994368",
+              "start": 68,
+              "url": "https://t.co/XOa9b2lfkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979714051665260601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8495,
+          "like_count": 83,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Handles are coming...\n\nJoin the waitlist at https://t.co/78v6LhGZiz https://t.co/XOa9b2lfkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 1538,
+          "like_count": 15528,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 3731
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T22:36:50.000Z",
+        "description": "Launching soon. Join the waitlist now for first access.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "handles.x.com",
+                "end": 23,
+                "expanded_url": "http://handles.x.com",
+                "start": 0,
+                "url": "https://t.co/dT3DvHLZvY"
+              }
+            ]
+          }
+        },
+        "id": "1979678011843883008",
+        "name": "Handle Marketplace",
+        "pinned_tweet_id": "1979714051665260601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979700779289092096/pkCob1o0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/dT3DvHLZvY",
+        "username": "XHandles",
+        "verified": true
+      }
+    ]
+  }
+}

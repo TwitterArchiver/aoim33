@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Search",
+          "id": "1013834759431077889",
+          "name": "Google Search"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "1992421318504087614",
+    "created_at": "2025-11-23T02:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T03:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992421318504087614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "srkmanno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992421318504087614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992412791152808239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @srkmanno: 昨天下午没啥事干，于是大致写了下怎么在欧加系的机器上搞出部分原生UI和安装器、桌面唤出Gemini和桌面下滑Google Search\n大家可以看看，如果有点反响的话再加一个启用圈搜的办法\n主要用于汇总目的，看到在我之前有作者写过类似题材，但好像没有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Search",
+              "id": "1013834759431077889",
+              "name": "Google Search"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1992421318504087614",
+        "created_at": "2025-11-23T02:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992421318504087614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "srkmanno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992421318504087614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992412791152808239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @srkmanno: 昨天下午没啥事干，于是大致写了下怎么在欧加系的机器上搞出部分原生UI和安装器、桌面唤出Gemini和桌面下滑Google Search\n大家可以看看，如果有点反响的话再加一个启用圈搜的办法\n主要用于汇总目的，看到在我之前有作者写过类似题材，但好像没有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Search",
+              "id": "1013834759431077889",
+              "name": "Google Search"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1992412791152808239",
+        "created_at": "2025-11-23T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992412791152808239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This repository aims to achieve the internationalization and simplification of certain features on OPPO/OnePlus devices purchased in the CN region. - ANNOnElysia/Enable_CN_OPPO_OnePlus_GMS_Native_UI",
+              "display_url": "github.com/ANNOnElysia/En…",
+              "end": 162,
+              "expanded_url": "https://github.com/ANNOnElysia/Enable_CN_OPPO_OnePlus_GMS_Native_UI",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1992412839450161154/oBT-vyTJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992412839450161154/oBT-vyTJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "GitHub - ANNOnElysia/Enable_CN_OPPO_OnePlus_GMS_Native_UI: This repository aims to achieve the internationalization and simplification of certain features on OPPO/OnePlus devices purchased in the CN region.",
+              "unwound_url": "https://github.com/ANNOnElysia/Enable_CN_OPPO_OnePlus_GMS_Native_UI",
+              "url": "https://t.co/VhNkG5Omkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992412791152808239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天下午没啥事干，于是大致写了下怎么在欧加系的机器上搞出部分原生UI和安装器、桌面唤出Gemini和桌面下滑Google Search\n大家可以看看，如果有点反响的话再加一个启用圈搜的办法\n主要用于汇总目的，看到在我之前有作者写过类似题材，但好像没有凑齐，于是希望能补充一些\n\nhttps://t.co/VhNkG5Omkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "srkmanno"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "watebird14760"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 1765,
+          "like_count": 19500,
+          "listed_count": 4,
+          "media_count": 970,
+          "tweet_count": 4661
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ﾅﾁｮ､fbk推し |  | アークナイツ(大陸情報あり)/音ゲー/ステラソラ/maimaiDX | DM⇒FB 🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+miPhtPfBEaQ0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+miPhtPfBEaQ0ZmU1",
+                "start": 0,
+                "url": "https://t.co/4lOlgS1lDH"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "テラ",
+        "name": "白上アノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972872237675061249/WWc3hZO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 871,
+          "like_count": 160457,
+          "listed_count": 4,
+          "media_count": 4115,
+          "tweet_count": 17542
+        },
+        "url": "https://t.co/4lOlgS1lDH",
+        "username": "srkmanno",
+        "verified": false
+      }
+    ]
+  }
+}

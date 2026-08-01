@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975832742047916032"
+      ],
+      "media_source_tweet_id": [
+        "1975832750457602242"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      }
+    ],
+    "conversation_id": "1975973501480931755",
+    "created_at": "2025-10-08T17:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975973501480931755"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "天安門広場",
+          "probability": 0.569,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "962313810563317762",
+          "start": 3,
+          "username": "yingchaaaan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3SdLDfwIr",
+          "end": 103,
+          "expanded_url": "https://x.com/yingchaaaan/status/1975832750457602242/photo/1",
+          "media_key": "3_1975832742047916032",
+          "start": 80,
+          "url": "https://t.co/I3SdLDfwIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975973501480931755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975832750457602242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingchaaaan: 国慶節の天安門広場にて。\n孫文の巨大な肖像画と人民英雄記念碑。\n\nこの肖像画は、労働節と国慶節のときだけ掲げられるそうです。 https://t.co/I3SdLDfwIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1314,
+        "media_key": "3_1975832742047916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uRaRVaIAAoRMy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975832742047916032"
+          ],
+          "media_source_tweet_id": [
+            "1975832750457602242"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "1975973501480931755",
+        "created_at": "2025-10-08T17:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975973501480931755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "天安門広場",
+              "probability": 0.569,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "962313810563317762",
+              "start": 3,
+              "username": "yingchaaaan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3SdLDfwIr",
+              "end": 103,
+              "expanded_url": "https://x.com/yingchaaaan/status/1975832750457602242/photo/1",
+              "media_key": "3_1975832742047916032",
+              "start": 80,
+              "url": "https://t.co/I3SdLDfwIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975973501480931755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975832750457602242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yingchaaaan: 国慶節の天安門広場にて。\n孫文の巨大な肖像画と人民英雄記念碑。\n\nこの肖像画は、労働節と国慶節のときだけ掲げられるそうです。 https://t.co/I3SdLDfwIr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975832742047916032"
+          ]
+        },
+        "author_id": "962313810563317762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "1975832750457602242",
+        "created_at": "2025-10-08T07:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975832750457602242"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "天安門広場",
+              "probability": 0.5561,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3SdLDfwIr",
+              "end": 86,
+              "expanded_url": "https://x.com/yingchaaaan/status/1975832750457602242/photo/1",
+              "media_key": "3_1975832742047916032",
+              "start": 63,
+              "url": "https://t.co/I3SdLDfwIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975832750457602242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1790,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "国慶節の天安門広場にて。\n孫文の巨大な肖像画と人民英雄記念碑。\n\nこの肖像画は、労働節と国慶節のときだけ掲げられるそうです。 https://t.co/I3SdLDfwIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1409,
+          "like_count": 13862,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 3380
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-10T13:14:26.000Z",
+        "description": "22.1〜中国🇨🇳/在苏州/90后/2児の父/走るのと飲むのが好きです🏃🍺🏃‍♂️🍺",
+        "id": "962313810563317762",
+        "name": "ぐい@蘇州",
+        "pinned_tweet_id": "1542118007190671362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246773880007454722/CF1wbDYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 723,
+          "like_count": 12646,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 1292
+        },
+        "username": "yingchaaaan",
+        "verified": false
+      }
+    ]
+  }
+}

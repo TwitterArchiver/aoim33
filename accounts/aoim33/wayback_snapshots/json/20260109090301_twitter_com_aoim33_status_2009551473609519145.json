@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2009459362138632429",
+    "created_at": "2026-01-09T09:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009551473609519145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2197547731",
+          "start": 0,
+          "username": "oxreeder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009551473609519145",
+    "in_reply_to_user_id": "2197547731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009549989261832288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxreeder 我是直接用护照号就可以，因为英国的 Stripe express 是支持通过护照直接 kyc 的\n但是 ifast 是不能在这里用作收款用的银行的，因为它不支持直接借记"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2009459362138632429",
+        "created_at": "2026-01-09T09:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009551473609519145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2197547731",
+              "start": 0,
+              "username": "oxreeder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009551473609519145",
+        "in_reply_to_user_id": "2197547731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009549989261832288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxreeder 我是直接用护照号就可以，因为英国的 Stripe express 是支持通过护照直接 kyc 的\n但是 ifast 是不能在这里用作收款用的银行的，因为它不支持直接借记"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2197547731",
+        "conversation_id": "2009459362138632429",
+        "created_at": "2026-01-09T08:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009549989261832288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009549989261832288",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009459362138632429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 收英镑怎么设置stripe税号？\n我用ifast应该可以收吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 2166,
+          "like_count": 26544,
+          "listed_count": 8,
+          "media_count": 1272,
+          "tweet_count": 5840
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-16T11:06:49.000Z",
+        "description": "BTC交易者 | 自然交易+均线系统\n\n 短线行情分析 | Web3项目研究\n\n分享交易思考，不喊单只讲方法\n\n仅供学习交流，投资有风险",
+        "id": "2197547731",
+        "name": "0xreeder",
+        "pinned_tweet_id": "1995343975100842045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742781079986249728/rB1q5_VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 628,
+          "like_count": 774,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1589
+        },
+        "username": "oxreeder",
+        "verified": true
+      }
+    ]
+  }
+}

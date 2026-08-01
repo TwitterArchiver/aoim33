@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010242335813382144"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      }
+    ],
+    "conversation_id": "2010242344583668162",
+    "created_at": "2026-01-11T06:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T07:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010242344583668162"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "China",
+          "probability": 0.9656,
+          "start": 55,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 31,
+          "id": "228380252",
+          "start": 26,
+          "username": "Wise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GqjNOKwbEv",
+          "end": 147,
+          "expanded_url": "https://x.com/aoim33/status/2010242344583668162/photo/1",
+          "media_key": "3_2010242335813382144",
+          "start": 124,
+          "url": "https://t.co/GqjNOKwbEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010242344583668162",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 190,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Purchasing groceries with @Wise card in supermarket in China \nAnd pay for fees playing in arcade \n\nFluent and convenient \n💚 https://t.co/GqjNOKwbEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010242335813382144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XQwPKbsAA6QO9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010242335813382144"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "2010242344583668162",
+        "created_at": "2026-01-11T06:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010242344583668162"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "China",
+              "probability": 0.9656,
+              "start": 55,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 31,
+              "id": "228380252",
+              "start": 26,
+              "username": "Wise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqjNOKwbEv",
+              "end": 147,
+              "expanded_url": "https://x.com/aoim33/status/2010242344583668162/photo/1",
+              "media_key": "3_2010242335813382144",
+              "start": 124,
+              "url": "https://t.co/GqjNOKwbEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010242344583668162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Purchasing groceries with @Wise card in supermarket in China \nAnd pay for fees playing in arcade \n\nFluent and convenient \n💚 https://t.co/GqjNOKwbEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 2191,
+          "like_count": 27042,
+          "listed_count": 9,
+          "media_count": 1300,
+          "tweet_count": 5936
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-19T15:09:16.000Z",
+        "description": "160+ countries. 40+ currencies. Money for here, there and everywhere.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wi.se/linkinbio",
+                "end": 23,
+                "expanded_url": "https://wi.se/linkinbio",
+                "start": 0,
+                "url": "https://t.co/WiCccMuisM"
+              }
+            ]
+          }
+        },
+        "id": "228380252",
+        "location": "Global",
+        "name": "Wise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630843158387892224/S9qBPG_P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171399,
+          "following_count": 3268,
+          "like_count": 18342,
+          "listed_count": 1417,
+          "media_count": 4623,
+          "tweet_count": 174737
+        },
+        "url": "https://t.co/WiCccMuisM",
+        "username": "Wise",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2054185782764785864",
+    "created_at": "2026-05-12T13:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054185782764785864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1256377778192084992",
+          "start": 3,
+          "username": "LuvLetter_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054185782764785864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054162886529106034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuvLetter_moe: 其实有个事情挺搞笑的, 很多安卓粉至今认为 iPhone NFC 很垃, 然而他们吹上天的模拟ID本质上是一个只有中国能用, 而且公共空间慢慢被打压的功能(比如抖音就不让发模拟卡), 还会提高MifareClassic判断逻辑的复杂度(所以…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2054162765980581889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHaJvkbQAEnWJ4.jpg",
+        "width": 2246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2054185782764785864",
+        "created_at": "2026-05-12T13:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054185782764785864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1256377778192084992",
+              "start": 3,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054185782764785864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054162886529106034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuvLetter_moe: 其实有个事情挺搞笑的, 很多安卓粉至今认为 iPhone NFC 很垃, 然而他们吹上天的模拟ID本质上是一个只有中国能用, 而且公共空间慢慢被打压的功能(比如抖音就不让发模拟卡), 还会提高MifareClassic判断逻辑的复杂度(所以…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054162765980581889"
+          ]
+        },
+        "author_id": "1256377778192084992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2054162886529106034",
+        "created_at": "2026-05-12T11:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054162886529106034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9IkaP4IWe",
+              "end": 180,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2054162886529106034/photo/1",
+              "media_key": "3_2054162765980581889",
+              "start": 157,
+              "url": "https://t.co/f9IkaP4IWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054162886529106034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实有个事情挺搞笑的, 很多安卓粉至今认为 iPhone NFC 很垃, 然而他们吹上天的模拟ID本质上是一个只有中国能用, 而且公共空间慢慢被打压的功能(比如抖音就不让发模拟卡), 还会提高MifareClassic判断逻辑的复杂度(所以除了切换, 还要围栏等额外逻辑), 安卓硬件五花八门的传统磁感应 NFC 方案体验更是一坨, iPhone 6 最开始实现的电感电容调制顶天线, 实现13.56Mhz 磁耦合调制的体验就是遥遥领先.\n结果就是所有 iPhone NFC 的感应都是上边框, 非常统一、手感极好. 关键苹果这个直接是专利壁垒, 抄都抄不了.\n更要命的是, iPhone 上能够把房门卡/工卡的 Type-A+车钥匙卡UWB+PayWave Transit+Type Felica 做同时监听, 完全不用切, 而且备用电量模式也是随便用... 加个 CUID 卡解决门禁的话, 基本上没电都能随意通行.\n更不用说国内和海外 Visa/Mastercard 信用卡兼容了, 要知道消费力基本跟签证数正相关, 当 iPhone 成为这些人刚需的时候, 其他厂商只能轮到吃剩饭了. 当然出不了国的那批A轨当然也有适合他们的手机."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 6510,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实有个事情挺搞笑的, 很多安卓粉至今认为 iPhone NFC 很垃, 然而他们吹上天的模拟ID本质上是一个只有中国能用, 而且公共空间慢慢被打压的功能(比如抖音就不让发模拟卡), 还会提高MifareClassic判断逻辑的复杂度(所以除了切换, 还要围栏等额外逻辑), 安卓硬件五花八门的传统磁感应 NFC https://t.co/f9IkaP4IWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2053807063571341466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 2904,
+          "like_count": 48166,
+          "listed_count": 19,
+          "media_count": 2761,
+          "tweet_count": 11992
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-02T00:21:09.000Z",
+        "description": "Life can be much broader.   TG: https://t.co/IZs416pyTF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rainbow8loop",
+                "end": 55,
+                "expanded_url": "http://t.me/rainbow8loop",
+                "start": 32,
+                "url": "https://t.co/IZs416pyTF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LuvLetterShelf",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@LuvLetterShelf",
+                "start": 0,
+                "url": "https://t.co/i8aMhUz9FO"
+              }
+            ]
+          }
+        },
+        "id": "1256377778192084992",
+        "location": "Shanghai",
+        "name": "Luv Letter",
+        "pinned_tweet_id": "2007839857415225574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256379106431651841/phJ9TAHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10529,
+          "following_count": 1203,
+          "like_count": 26817,
+          "listed_count": 69,
+          "media_count": 3623,
+          "tweet_count": 11251
+        },
+        "url": "https://t.co/i8aMhUz9FO",
+        "username": "LuvLetter_moe",
+        "verified": true
+      }
+    ]
+  }
+}

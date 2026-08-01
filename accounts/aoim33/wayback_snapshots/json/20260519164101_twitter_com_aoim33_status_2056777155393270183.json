@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047410937163079680"
+      ],
+      "media_source_tweet_id": [
+        "2047411142474272805"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2056777155393270183",
+    "created_at": "2026-05-19T16:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056777155393270183"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1626539044661239810",
+          "start": 3,
+          "username": "RyuSanKaiPou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRKbBrhpq9",
+          "end": 78,
+          "expanded_url": "https://x.com/RyuSanKaiPou/status/2047411142474272805/photo/1",
+          "media_key": "3_2047410937163079680",
+          "start": 55,
+          "url": "https://t.co/lRKbBrhpq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056777155393270183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047411142474272805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RyuSanKaiPou: #maimai_art\nmaimai circleのシャマです！🦭🦭🥺🥺 https://t.co/lRKbBrhpq9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056777155393270183].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056777155393270183",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056777155393270183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2047410937163079680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGndZlLa4AACRBK.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047410937163079680"
+          ]
+        },
+        "author_id": "1626539044661239810",
+        "conversation_id": "2047411142474272805",
+        "created_at": "2026-04-23T20:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047411142474272805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRKbBrhpq9",
+              "end": 60,
+              "expanded_url": "https://x.com/RyuSanKaiPou/status/2047411142474272805/photo/1",
+              "media_key": "3_2047410937163079680",
+              "start": 37,
+              "url": "https://t.co/lRKbBrhpq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047411142474272805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 363,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai_art\nmaimai circleのシャマです！🦭🦭🥺🥺 https://t.co/lRKbBrhpq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5507,
+          "following_count": 2954,
+          "like_count": 49320,
+          "listed_count": 19,
+          "media_count": 2896,
+          "tweet_count": 12421
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-17T11:08:35.000Z",
+        "description": "↑welcome…＝硫酸解剖/Dimethyl。\nftmですから「彼」で呼んでください！🏳️‍⚧️Use “HE” plz！！\n音ゲー丨法医学丨精神医学丨ヨルシカ丨カゲプロ丨Sakuzyo丨カンザキイオリ丨asd&adhd\n|日本語丨中文丨English | \n無言フォロー失礼。",
+        "id": "1626539044661239810",
+        "location": "Re：unnature",
+        "name": "硫酸解剖",
+        "pinned_tweet_id": "1722657968871952594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046847630827982849/8PcHXrM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 70,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 242
+        },
+        "username": "RyuSanKaiPou",
+        "verified": true
+      }
+    ]
+  }
+}

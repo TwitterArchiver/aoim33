@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035257551265439746"
+      ],
+      "media_source_tweet_id": [
+        "2035257557154242589"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2035312801208807793",
+    "created_at": "2026-03-21T11:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035312801208807793"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "早稲田大学",
+          "probability": 0.4875,
+          "start": 19,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1712019972984344576",
+          "start": 3,
+          "username": "atelier_s_iro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Illh8AJ7gg",
+          "end": 89,
+          "expanded_url": "https://x.com/atelier_s_iro/status/2035257557154242589/photo/1",
+          "media_key": "3_2035257551265439746",
+          "start": 66,
+          "url": "https://t.co/Illh8AJ7gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035312801208807793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035257557154242589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atelier_s_iro: 早稲田大学の関係の方から依頼がありました。自閉スペクトラム症（ASD）興味のある方はどうぞ。 https://t.co/Illh8AJ7gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035257551265439746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6v9amboAIVCD6.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035257551265439746"
+          ],
+          "media_source_tweet_id": [
+            "2035257557154242589"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2035312801208807793",
+        "created_at": "2026-03-21T11:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035312801208807793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "早稲田大学",
+              "probability": 0.4875,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712019972984344576",
+              "start": 3,
+              "username": "atelier_s_iro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Illh8AJ7gg",
+              "end": 89,
+              "expanded_url": "https://x.com/atelier_s_iro/status/2035257557154242589/photo/1",
+              "media_key": "3_2035257551265439746",
+              "start": 66,
+              "url": "https://t.co/Illh8AJ7gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035312801208807793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035257557154242589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atelier_s_iro: 早稲田大学の関係の方から依頼がありました。自閉スペクトラム症（ASD）興味のある方はどうぞ。 https://t.co/Illh8AJ7gg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035257551265439746"
+          ]
+        },
+        "author_id": "1712019972984344576",
+        "conversation_id": "2035257557154242589",
+        "created_at": "2026-03-21T07:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035257557154242589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "早稲田大学",
+              "probability": 0.5744,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Illh8AJ7gg",
+              "end": 70,
+              "expanded_url": "https://x.com/atelier_s_iro/status/2035257557154242589/photo/1",
+              "media_key": "3_2035257551265439746",
+              "start": 47,
+              "url": "https://t.co/Illh8AJ7gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035257557154242589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 54769,
+          "like_count": 762,
+          "quote_count": 45,
+          "reply_count": 3,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "早稲田大学の関係の方から依頼がありました。自閉スペクトラム症（ASD）興味のある方はどうぞ。 https://t.co/Illh8AJ7gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335,
+          "following_count": 2671,
+          "like_count": 39859,
+          "listed_count": 20,
+          "media_count": 2170,
+          "tweet_count": 9502
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-11T08:20:28.000Z",
+        "description": "大人（18才以上）の #発達障害 #神経発達症 者の #居場所作りをしている #当事者会 。活動場所は #板橋区 の #ボランティアセンター や公共施設。区外参加◎ 🗣️🎨☕📖📱☖等、互いに色（自分らしさ）を出せるアトリエ（居場所）です。予約不要。見学・体験無料。事前連絡やお問い合わせはDMまたは↓連絡先📩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "発達障害"
+              },
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "神経発達症"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "tag": "居場所作りをしている"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "当事者会"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "板橋区"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "tag": "ボランティアセンター"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/ateliersi…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/ateliersiro/",
+                "start": 0,
+                "url": "https://t.co/NzqRIyfUYS"
+              }
+            ]
+          }
+        },
+        "id": "1712019972984344576",
+        "location": "atelier.s.iroあっとgmail.com",
+        "name": "空色のアトリエ",
+        "pinned_tweet_id": "2027944894019637421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725434627270270977/2Kud3Czt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 369,
+          "like_count": 2425,
+          "listed_count": 12,
+          "media_count": 321,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/NzqRIyfUYS",
+        "username": "atelier_s_iro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Konami",
+          "id": "989942287638478849",
+          "name": "Konami"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Konami",
+          "id": "989942287638478849",
+          "name": "Konami"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2020722166468366700",
+    "created_at": "2026-02-09T04:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020722166468366700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1624987323489484804",
+          "start": 3,
+          "username": "tetsudayo_255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020722166468366700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020695352677110043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tetsudayo_255: 違法ダウンロードが横行している国が、よくそんなことが言えますね\n\nKONAMI製品に限らず、違法ダウンロードが常態化しているコミュニティと仲良くしろなんて無理な話です\n\nてか、そちらのネット検閲や制限が厳しいせいで歪みが生じているのに、その…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2020695350395506688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArztw-bkAAARyQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2020722166468366700",
+        "created_at": "2026-02-09T04:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020722166468366700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1624987323489484804",
+              "start": 3,
+              "username": "tetsudayo_255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020722166468366700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020695352677110043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tetsudayo_255: 違法ダウンロードが横行している国が、よくそんなことが言えますね\n\nKONAMI製品に限らず、違法ダウンロードが常態化しているコミュニティと仲良くしろなんて無理な話です\n\nてか、そちらのネット検閲や制限が厳しいせいで歪みが生じているのに、その…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020695350395506688"
+          ]
+        },
+        "author_id": "1624987323489484804",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2020695352677110043",
+        "created_at": "2026-02-09T03:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020695352677110043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vNdKBYGPt",
+              "end": 169,
+              "expanded_url": "https://x.com/tetsudayo_255/status/2020695352677110043/photo/1",
+              "media_key": "3_2020695350395506688",
+              "start": 146,
+              "url": "https://t.co/4vNdKBYGPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020695352677110043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 580,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "違法ダウンロードが横行している国が、よくそんなことが言えますね\n\nKONAMI製品に限らず、違法ダウンロードが常態化しているコミュニティと仲良くしろなんて無理な話です\n\nてか、そちらのネット検閲や制限が厳しいせいで歪みが生じているのに、その自国の政策による不利益を日本側に転嫁するんですねw https://t.co/4vNdKBYGPt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 2440,
+          "like_count": 32805,
+          "listed_count": 17,
+          "media_count": 1608,
+          "tweet_count": 7329
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-13T04:22:40.000Z",
+        "description": "相互/ボルテ/インペ/IIDX/epolis31～/手首皿/A4皆伝/未難28　　CPI:https://t.co/SmEx8YvZIq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cpi.makecir.com/users/tables/1…",
+                "end": 68,
+                "expanded_url": "https://cpi.makecir.com/users/tables/10736",
+                "start": 45,
+                "url": "https://t.co/SmEx8YvZIq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp12.iidx.app/sheets/1234-56…",
+                "end": 23,
+                "expanded_url": "https://sp12.iidx.app/sheets/1234-5634/hard",
+                "start": 0,
+                "url": "https://t.co/6HilSQEn3K"
+              }
+            ]
+          }
+        },
+        "id": "1624987323489484804",
+        "name": "てて",
+        "pinned_tweet_id": "1983018247378342371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012846484241227776/oAMX9Cpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 615,
+          "like_count": 6642,
+          "listed_count": 2,
+          "media_count": 445,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/6HilSQEn3K",
+        "username": "tetsudayo_255",
+        "verified": false
+      }
+    ]
+  }
+}

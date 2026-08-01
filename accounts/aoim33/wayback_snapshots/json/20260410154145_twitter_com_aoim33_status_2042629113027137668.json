@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2042629113027137668",
+    "created_at": "2026-04-10T15:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042629113027137668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yahoonewstopic…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yahoonewstopics/status/2042594950517522764",
+          "start": 8,
+          "url": "https://t.co/foGfXeGtLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042629113027137668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042594950517522764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杭州你看看人家 https://t.co/foGfXeGtLp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2042629113027137668",
+        "created_at": "2026-04-10T15:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042629113027137668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yahoonewstopic…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yahoonewstopics/status/2042594950517522764",
+              "start": 8,
+              "url": "https://t.co/foGfXeGtLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042629113027137668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042594950517522764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杭州你看看人家 https://t.co/foGfXeGtLp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "88846085",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2042594950517522764",
+        "created_at": "2026-04-10T13:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042594950517522764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小池百合子・東京都知事は10日の定例記者会見で、14歳以下の都民1人あたり1万1000円の「子育て応援プラス」を13日から順次、支給を始めると発表した。",
+              "display_url": "news.yahoo.co.jp/pickup/6575821",
+              "end": 44,
+              "expanded_url": "https://news.yahoo.co.jp/pickup/6575821",
+              "images": [
+                {
+                  "height": 718,
+                  "url": "https://pbs.twimg.com/news_img/2042594955949178880/DuYyg9mw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042594955949178880/DuYyg9mw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "東京都 14歳以下に1.1万円支給へ - Yahoo!ニュース",
+              "unwound_url": "https://news.yahoo.co.jp/pickup/6575821",
+              "url": "https://t.co/8CREY0OLtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042594950517522764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 487174,
+          "like_count": 791,
+          "quote_count": 373,
+          "reply_count": 249,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "【東京都 14歳以下に1.1万円支給へ】\nhttps://t.co/8CREY0OLtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 2761,
+          "like_count": 42860,
+          "listed_count": 19,
+          "media_count": 2383,
+          "tweet_count": 10474
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-10T03:59:51.000Z",
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.yahoo.co.jp",
+                "end": 23,
+                "expanded_url": "https://news.yahoo.co.jp/",
+                "start": 0,
+                "url": "https://t.co/PORT0VCtyG"
+              }
+            ]
+          }
+        },
+        "id": "88846085",
+        "name": "Yahoo!ニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007542,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 22132,
+          "media_count": 3968,
+          "tweet_count": 582768
+        },
+        "url": "https://t.co/PORT0VCtyG",
+        "username": "YahooNewsTopics",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1106288234538033152",
+          "name": "Ami Maeshima"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1106288234538033152",
+          "name": "Ami Maeshima"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1181015430711758848",
+          "name": "Bandai Namco"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1106288234538033152",
+          "name": "Ami Maeshima"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1181015430711758848",
+          "name": "Bandai Namco"
+        }
+      }
+    ],
+    "conversation_id": "1994633142741954663",
+    "created_at": "2025-11-29T05:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994633142741954663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eupd_official/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/eupd_official/status/1994602305132663223",
+          "start": 7,
+          "url": "https://t.co/e7Tmw2l2eQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994633142741954663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994602305132663223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奖池还在叠加 https://t.co/e7Tmw2l2eQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_1994601362202791940",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64_Xv6bkAQdGMI.png",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106288234538033152",
+              "name": "Ami Maeshima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1106288234538033152",
+              "name": "Ami Maeshima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106288234538033152",
+              "name": "Ami Maeshima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          }
+        ],
+        "conversation_id": "1994633142741954663",
+        "created_at": "2025-11-29T05:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994633142741954663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eupd_official/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/eupd_official/status/1994602305132663223",
+              "start": 7,
+              "url": "https://t.co/e7Tmw2l2eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994633142741954663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994602305132663223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奖池还在叠加 https://t.co/e7Tmw2l2eQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994601362202791940"
+          ]
+        },
+        "author_id": "1850859161283932160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106288234538033152",
+              "name": "Ami Maeshima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1106288234538033152",
+              "name": "Ami Maeshima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106288234538033152",
+              "name": "Ami Maeshima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          }
+        ],
+        "conversation_id": "1994602305132663223",
+        "created_at": "2025-11-29T03:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994602305132663223"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "前島亜美",
+              "probability": 0.9028,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "上海",
+              "probability": 0.3299,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 90,
+              "normalized_text": "バンダイナムコ上海文化センタードリーム劇場",
+              "probability": 0.3576,
+              "start": 70,
+              "type": "Organization"
+            },
+            {
+              "end": 111,
+              "normalized_text": "前島亜美",
+              "probability": 0.9237,
+              "start": 108,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7rEDPMIjs",
+              "end": 150,
+              "expanded_url": "https://x.com/EUPD_official/status/1994602305132663223/photo/1",
+              "media_key": "3_1994601362202791940",
+              "start": 127,
+              "url": "https://t.co/l7rEDPMIjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994602305132663223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "「前島亜美 ファンミーティング2025  in上海」中止のお知らせ\n\n観客の皆さまへ\n\n2025年12月20日（土）14:00、18:30にバンダイナムコ上海文化センタードリーム劇場にて開催を予定しておりました\n\n「前島亜美 ファンミーティング2025  in上海」は、不可抗力の事由により中止とさせていただくこととなりました。\n\n【払い戻しに関するご案内】\nご購入済みのチケットにつきましては、お客様によるお手続きは不要です。チケット代金は、ご購入時のお支払い方法に沿って全額返金いたします。返金は7営業日以内に支払い口座へ反映される予定です。ご不明点がございましたら、bilibili会員購プラットフォームのカスタマーサポートまでお問い合わせください。\n\n【フラワースタンドの取り扱いについて】\n本イベント中止に伴い、お申し込みいただいたフラワースタンドをお受け取りすることができません。何卒ご理解賜りますようお願い申し上げます。\nイベント中止によりご不便・ご迷惑をおかけいたしますこと、心よりお詫び申し上げます。何卒ご理解賜りますようお願い申し上げます。\n\n前島亜美さんを応援していただき、誠にありがとうございます。\nまた次の機会に皆さまにお会いできる日を心よりお待ちしております。\n\nEUPHORIC PRODUCTION\n2025年11月29日"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4006,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "「前島亜美 ファンミーティング2025  in上海」中止のお知らせ\n\n観客の皆さまへ\n\n2025年12月20日（土）14:00、18:30にバンダイナムコ上海文化センタードリーム劇場にて開催を予定しておりました\n\n「前島亜美 ファンミーティング2025 https://t.co/l7rEDPMIjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1846,
+          "like_count": 20129,
+          "listed_count": 4,
+          "media_count": 1005,
+          "tweet_count": 4785
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-28T11:16:46.000Z",
+        "description": "EUPHORIC PRODUCTIONは、「二次元」コンテンツと日系文化・日本発IPに特化する企画・制作チームとなり、ファンの皆さまにより高品質なライブパフォーマンスをお届けすることを目指しています。",
+        "id": "1850859161283932160",
+        "name": "Euphoric Production",
+        "pinned_tweet_id": "1934568734108340249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892414965556137984/pbA2Va82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 147
+        },
+        "username": "EUPD_official",
+        "verified": true
+      }
+    ]
+  }
+}

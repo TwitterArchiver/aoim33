@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1975873254494785628",
+    "created_at": "2025-10-08T10:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975873254494785628"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "中国",
+          "probability": 0.8449,
+          "start": 33,
+          "type": "Place"
+        },
+        {
+          "end": 106,
+          "normalized_text": "日本",
+          "probability": 0.8138,
+          "start": 105,
+          "type": "Place"
+        },
+        {
+          "end": 118,
+          "normalized_text": "日本",
+          "probability": 0.7353,
+          "start": 117,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 12,
+          "tag": "9月も終わるので音ゲーマーフォロー祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975873254494785628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972837887453630705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoim33: #9月も終わるので音ゲーマーフォロー祭\n\n中国でmaimaiやっている\n来月はレーティング1.35万に登れると願ってて\nよくタイムラインで巡りをして音ゲーマーさんたちにフォローする\n夢は日本でmaimaiやると日本の方々とよく繋がっていく\nみんなよろしく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972837090955235328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ds4bYaEAALthz.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972837091240472579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ds4ccacAMmg2q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972837091303411712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ds4cra0AA7OLW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972837091697741824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ds4eJb0AAmG4v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1975873254494785628",
+        "created_at": "2025-10-08T10:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975873254494785628"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "中国",
+              "probability": 0.8449,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 106,
+              "normalized_text": "日本",
+              "probability": 0.8138,
+              "start": 105,
+              "type": "Place"
+            },
+            {
+              "end": 118,
+              "normalized_text": "日本",
+              "probability": 0.7353,
+              "start": 117,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 12,
+              "tag": "9月も終わるので音ゲーマーフォロー祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975873254494785628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972837887453630705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoim33: #9月も終わるので音ゲーマーフォロー祭\n\n中国でmaimaiやっている\n来月はレーティング1.35万に登れると願ってて\nよくタイムラインで巡りをして音ゲーマーさんたちにフォローする\n夢は日本でmaimaiやると日本の方々とよく繋がっていく\nみんなよろしく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972837090955235328",
+            "3_1972837091240472579",
+            "3_1972837091303411712",
+            "3_1972837091697741824"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1972837887453630705",
+        "created_at": "2025-09-30T01:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:33:11.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972837095887765752",
+          "1972837277727682581",
+          "1972837887453630705"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中国",
+              "probability": 0.8653,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 94,
+              "normalized_text": "日本",
+              "probability": 0.799,
+              "start": 93,
+              "type": "Place"
+            },
+            {
+              "end": 106,
+              "normalized_text": "日本",
+              "probability": 0.6985,
+              "start": 105,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "9月も終わるので音ゲーマーフォロー祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhZ7prn4gr",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1972837887453630705/photo/1",
+              "media_key": "3_1972837090955235328",
+              "start": 128,
+              "url": "https://t.co/RhZ7prn4gr"
+            },
+            {
+              "display_url": "pic.x.com/RhZ7prn4gr",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1972837887453630705/photo/1",
+              "media_key": "3_1972837091240472579",
+              "start": 128,
+              "url": "https://t.co/RhZ7prn4gr"
+            },
+            {
+              "display_url": "pic.x.com/RhZ7prn4gr",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1972837887453630705/photo/1",
+              "media_key": "3_1972837091303411712",
+              "start": 128,
+              "url": "https://t.co/RhZ7prn4gr"
+            },
+            {
+              "display_url": "pic.x.com/RhZ7prn4gr",
+              "end": 151,
+              "expanded_url": "https://x.com/aoim33/status/1972837887453630705/photo/1",
+              "media_key": "3_1972837091697741824",
+              "start": 128,
+              "url": "https://t.co/RhZ7prn4gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972837887453630705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1156,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#9月も終わるので音ゲーマーフォロー祭\n\n中国でmaimaiやっている\n来月はレーティング1.35万に登れると願ってて\nよくタイムラインで巡りをして音ゲーマーさんたちにフォローする\n夢は日本でmaimaiやると日本の方々とよく繋がっていく\nみんなよろしく https://t.co/RhZ7prn4gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 @Kazumasski / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Kazumasski"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1399,
+          "like_count": 13778,
+          "listed_count": 3,
+          "media_count": 664,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

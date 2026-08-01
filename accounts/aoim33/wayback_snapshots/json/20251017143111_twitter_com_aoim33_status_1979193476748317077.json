@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1979193476748317077",
+    "created_at": "2025-10-17T14:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979193476748317077"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "Lament Rain",
+          "probability": 0.8284,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dice__game/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/dice__game/status/1979141086929895464",
+          "start": 26,
+          "url": "https://t.co/5NsmY7kDi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979193476748317077",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979141086929895464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Lament Rain **LONG** ?!!! https://t.co/5NsmY7kDi9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 204096,
+        "height": 1080,
+        "media_key": "13_1979128222739562496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979128222739562496/img/8sjLvqYElKw7apsq.jpg",
+        "public_metrics": {
+          "view_count": 9199
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979128222739562496/vid/avc1/1280x720/T8N3-HBIYgX5qAuh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979128222739562496/pl/QyYcLtxGYXu9i1jS.m3u8?v=3a0"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979128222739562496/vid/avc1/640x360/D8HtHGfzZP2_HGxF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979128222739562496/vid/avc1/480x270/cHlKPFbxhMSTyAzT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979128222739562496/vid/avc1/1920x1080/31e_Gy20-bjyAgrv.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1979193476748317077",
+        "created_at": "2025-10-17T14:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979193476748317077"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Lament Rain",
+              "probability": 0.8284,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dice__game/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/dice__game/status/1979141086929895464",
+              "start": 26,
+              "url": "https://t.co/5NsmY7kDi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979193476748317077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979141086929895464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Lament Rain **LONG** ?!!! https://t.co/5NsmY7kDi9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979128222739562496"
+          ]
+        },
+        "author_id": "4717788432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979141086929895464",
+        "created_at": "2025-10-17T11:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979141086929895464"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "World’s Eclipse",
+              "probability": 0.5489,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Lament Rain",
+              "probability": 0.7366,
+              "start": 91,
+              "type": "Organization"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Long",
+              "probability": 0.4663,
+              "start": 103,
+              "type": "Organization"
+            },
+            {
+              "end": 130,
+              "normalized_text": "World’s end BLACKBOX",
+              "probability": 0.6178,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 171,
+              "normalized_text": "World’s end loneliness",
+              "probability": 0.8497,
+              "start": 150,
+              "type": "Other"
+            },
+            {
+              "end": 180,
+              "normalized_text": "Remaster",
+              "probability": 0.4347,
+              "start": 173,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 217,
+              "start": 213,
+              "tag": "M3秋"
+            },
+            {
+              "end": 226,
+              "start": 218,
+              "tag": "M3秋2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKlME02hGz",
+              "end": 250,
+              "expanded_url": "https://x.com/DICE__game/status/1979141086929895464/video/1",
+              "media_key": "13_1979128222739562496",
+              "start": 227,
+              "url": "https://t.co/rKlME02hGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979141086929895464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 217,
+                "start": 213,
+                "tag": "M3秋"
+              },
+              {
+                "end": 226,
+                "start": 218,
+                "tag": "M3秋2025"
+              }
+            ]
+          },
+          "text": "✦❖⋆――――――――――――⋆❖✦  \n\n　　　打打だいず 5th Album  \n　　　　『World’s Eclipse』  \n\n✦❖⋆――――――――――――⋆❖✦  \n\n『Lament Rain』Long  \n『World’s end BLACKBOX』Long＆“xi”Remix  \n『World’s end loneliness』Remaster＆“削除”Remix 他\n\n美しき終末を奏でる12曲を収録。\n\n#M3秋 #M3秋2025"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 137903,
+          "like_count": 1234,
+          "quote_count": 117,
+          "reply_count": 2,
+          "retweet_count": 560
+        },
+        "reply_settings": "everyone",
+        "text": "✦❖⋆――――――――――――⋆❖✦  \n\n　　　打打だいず 5th Album  \n　　　　『World’s Eclipse』  \n\n✦❖⋆――――――――――――⋆❖✦  \n\n『Lament Rain』Long  \n『World’s end BLACKBOX』Long＆“xi”Remix  \n『World’s end loneliness』Remaster＆“削除”Remix 他\n\n美しき終末を奏でる12曲を収録。\n\n#M3秋 #M3秋2025 https://t.co/rKlME02hGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 1527,
+          "like_count": 15276,
+          "listed_count": 2,
+          "media_count": 728,
+          "tweet_count": 3676
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-06T09:39:37.000Z",
+        "description": "■作曲家\n■提供 :太鼓の達人/プロセカ/CHUNITHM/maimaiでらっくす/オンゲキ/SDVX/Arcaea/等\n■VやVoさんに提供\n■site:https://t.co/ib4vFlUkjb\n■連絡 dddice9999@gmail.com orDM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/9HJtL4rfO2OFyI…",
+                "end": 101,
+                "expanded_url": "https://lit.link/9HJtL4rfO2OFyIZYn7NcQuDMPXm2",
+                "start": 78,
+                "url": "https://t.co/ib4vFlUkjb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCw3ba…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCw3baysP2Ufu6aAdgyl0Fcw?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/tNb4TZFuT8"
+              }
+            ]
+          }
+        },
+        "id": "4717788432",
+        "name": "打打だいず/シ-01ab 第二展示場2階 🌱",
+        "pinned_tweet_id": "1979141086929895464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847789733763829763/iBDFlrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32663,
+          "following_count": 1320,
+          "like_count": 37670,
+          "listed_count": 92,
+          "media_count": 1194,
+          "tweet_count": 22979
+        },
+        "url": "https://t.co/tNb4TZFuT8",
+        "username": "DICE__game",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025822649105149952"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "2025822655790956995",
+    "created_at": "2026-02-23T06:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025822655790956995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pYdL6k7mbP",
+          "end": 241,
+          "expanded_url": "https://x.com/aoim33/status/2025822655790956995/photo/1",
+          "media_key": "3_2025822649105149952",
+          "start": 218,
+          "url": "https://t.co/pYdL6k7mbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025822655790956995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 368,
+            "id": "1545277694325116928",
+            "start": 361,
+            "username": "BI3BXI"
+          }
+        ]
+      },
+      "text": "乘客您好，欢迎您搭乘京港地铁列车，希望您有一个愉快的旅程\nWelcome to Beijing MTR, we hope you’ll have a pleasant journey. \n\n下一站北京南站，乘客可以换乘地铁14号线\n列车运行方向左侧的车门将会开启\nNext station, Beijing South railway station. \nInterchange station with line 14. Doors will open on the left.\n\n为确保安全，携带大件行李的乘客，请使用垂直电梯，不要使用扶手电梯\nFor safety reasons passengers with package and bulky items should use the elevator. \n\n@BI3BXI"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乘客您好，欢迎您搭乘京港地铁列车，希望您有一个愉快的旅程\nWelcome to Beijing MTR, we hope you’ll have a pleasant journey. \n\n下一站北京南站，乘客可以换乘地铁14号线\n列车运行方向左侧的车门将会开启\nNext station, Beijing South railway station. \nInterchange station with line 14. Doors https://t.co/pYdL6k7mbP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "3_2025822649105149952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0q91HacAALuI6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025822649105149952"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2025822655790956995",
+        "created_at": "2026-02-23T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025822655790956995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYdL6k7mbP",
+              "end": 241,
+              "expanded_url": "https://x.com/aoim33/status/2025822655790956995/photo/1",
+              "media_key": "3_2025822649105149952",
+              "start": 218,
+              "url": "https://t.co/pYdL6k7mbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025822655790956995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 368,
+                "id": "1545277694325116928",
+                "start": 361,
+                "username": "BI3BXI"
+              }
+            ]
+          },
+          "text": "乘客您好，欢迎您搭乘京港地铁列车，希望您有一个愉快的旅程\nWelcome to Beijing MTR, we hope you’ll have a pleasant journey. \n\n下一站北京南站，乘客可以换乘地铁14号线\n列车运行方向左侧的车门将会开启\nNext station, Beijing South railway station. \nInterchange station with line 14. Doors will open on the left.\n\n为确保安全，携带大件行李的乘客，请使用垂直电梯，不要使用扶手电梯\nFor safety reasons passengers with package and bulky items should use the elevator. \n\n@BI3BXI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乘客您好，欢迎您搭乘京港地铁列车，希望您有一个愉快的旅程\nWelcome to Beijing MTR, we hope you’ll have a pleasant journey. \n\n下一站北京南站，乘客可以换乘地铁14号线\n列车运行方向左侧的车门将会开启\nNext station, Beijing South railway station. \nInterchange station with line 14. Doors https://t.co/pYdL6k7mbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 / 上海地铁 上海铁路局 杭州地铁 bot / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 2506,
+          "like_count": 34744,
+          "listed_count": 17,
+          "media_count": 1742,
+          "tweet_count": 7821
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby｜请不要屏蔽我🥺｜本体@yqua_｜点击“查看更多”可以了解我～｜老姐 @TennoujiNyano｜最近在听@nbuna_staff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 21,
+                "username": "yqua_"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "nbuna_staff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "军粮城北站",
+        "name": "你是要气死铨酱么（淡推中）",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7616,
+          "following_count": 3491,
+          "like_count": 32426,
+          "listed_count": 20,
+          "media_count": 1679,
+          "tweet_count": 6555
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

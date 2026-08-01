@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2009509175215464954",
+    "created_at": "2026-01-09T12:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T13:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009603808549335192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "830429456",
+          "start": 0,
+          "username": "sitinme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009603808549335192",
+    "in_reply_to_user_id": "830429456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009509175215464954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sitinme 有个问题，为什么 Mercury 的 logo 是Gmail的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2009509175215464954",
+        "created_at": "2026-01-09T12:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T13:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009603808549335192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "830429456",
+              "start": 0,
+              "username": "sitinme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009603808549335192",
+        "in_reply_to_user_id": "830429456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009509175215464954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sitinme 有个问题，为什么 Mercury 的 logo 是Gmail的？"
+      },
+      {
+        "article": {
+          "title": "从海外公司注册到 Stripe 收款，跑通了出海收付款全流程（实操分享） "
+        },
+        "attachments": {},
+        "author_id": "830429456",
+        "conversation_id": "2009509175215464954",
+        "created_at": "2026-01-09T06:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009509175215464954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2009…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2009436135395872768",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2009436135395872768",
+              "url": "https://t.co/dCFlRHvcMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009509175215464954",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 10301,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dCFlRHvcMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 2168,
+          "like_count": 26602,
+          "listed_count": 8,
+          "media_count": 1277,
+          "tweet_count": 5859
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-18T05:39:32.000Z",
+        "description": "增长黑客/ 社群运营/AI 出海赚美刀\n对爬虫和RPA机器人有一点研究，https://t.co/di794U7drW\n擅长用AI搞点副业 /  vx： 257735",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aigocode.com",
+                "end": 59,
+                "expanded_url": "http://aigocode.com",
+                "start": 36,
+                "url": "https://t.co/di794U7drW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipengtao.com",
+                "end": 23,
+                "expanded_url": "http://ipengtao.com/",
+                "start": 0,
+                "url": "https://t.co/lriUzGTZMG"
+              }
+            ]
+          }
+        },
+        "id": "830429456",
+        "name": "sitin",
+        "pinned_tweet_id": "1986049801629433875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3569591888/2aad771c0c1919fb7577a7b625a93d0a_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22571,
+          "following_count": 363,
+          "like_count": 66,
+          "listed_count": 192,
+          "media_count": 1208,
+          "tweet_count": 4077
+        },
+        "url": "https://t.co/lriUzGTZMG",
+        "username": "sitinme",
+        "verified": true
+      }
+    ]
+  }
+}

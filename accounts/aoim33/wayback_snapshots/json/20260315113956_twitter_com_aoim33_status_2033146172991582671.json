@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2033146172991582671",
+    "created_at": "2026-03-15T11:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033146172991582671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003889596623687680",
+          "start": 3,
+          "username": "hjy_yuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033146172991582671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033144943888453871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hjy_yuan: 这几天在研究 X 的创作者收益分成机制，发现官方数据太模糊，很多工具/算法算出来的都不准。于是花了点时间自己写了个估算器：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2033146172991582671",
+        "created_at": "2026-03-15T11:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033146172991582671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003889596623687680",
+              "start": 3,
+              "username": "hjy_yuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033146172991582671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033144943888453871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hjy_yuan: 这几天在研究 X 的创作者收益分成机制，发现官方数据太模糊，很多工具/算法算出来的都不准。于是花了点时间自己写了个估算器：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003889596623687680",
+        "conversation_id": "2033144943888453871",
+        "created_at": "2026-03-15T11:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033144943888453871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033144943888453871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 195,
+                "start": 189,
+                "tag": "创作者收益"
+              },
+              {
+                "end": 198,
+                "start": 196,
+                "tag": "x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xrevenue.xyz",
+                "end": 85,
+                "expanded_url": "https://xrevenue.xyz",
+                "start": 62,
+                "url": "https://t.co/XQHSYQU9eD"
+              }
+            ]
+          },
+          "text": "这几天在研究 X 的创作者收益分成机制，发现官方数据太模糊，很多工具/算法算出来的都不准。于是花了点时间自己写了个估算器：\nhttps://t.co/XQHSYQU9eD输入你的周期阅读量、评论数、蓝V粉丝、Premium比例这些数据，就能估个大概范围（基于朋友几个真实周期的数据反复调校，误差大概±15%左右）。想预估自己能拿多少的，可以试试看～\n谁用了评论区说说准不准吧🤓\n#创作者收益 #x"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这几天在研究 X 的创作者收益分成机制，发现官方数据太模糊，很多工具/算法算出来的都不准。于是花了点时间自己写了个估算器："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4223,
+          "following_count": 2631,
+          "like_count": 38741,
+          "listed_count": 20,
+          "media_count": 2085,
+          "tweet_count": 9192
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T18:04:55.000Z",
+        "description": "",
+        "id": "2003889596623687680",
+        "name": "みなもと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024019291193176067/WE4H3X9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 845,
+          "like_count": 229,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 927
+        },
+        "username": "hjy_yuan",
+        "verified": true
+      }
+    ]
+  }
+}

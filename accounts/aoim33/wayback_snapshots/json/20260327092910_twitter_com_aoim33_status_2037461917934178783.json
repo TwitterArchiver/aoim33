@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      }
+    ],
+    "conversation_id": "2037461917934178783",
+    "created_at": "2026-03-27T09:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037461917934178783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EvanCrypto17/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/EvanCrypto17/status/2037107299488296980",
+          "start": 28,
+          "url": "https://t.co/nCXwLRCBHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037461917934178783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037107299488296980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来我从一开始大一的时候就换 USDC 的策略是正确的 https://t.co/nCXwLRCBHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2037087102425554944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUv7Tya4AAmSmv.jpg",
+        "width": 962
+      },
+      {
+        "height": 956,
+        "media_key": "3_2037092324577349632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU0rR0bkAAzwIp.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2037461917934178783",
+        "created_at": "2026-03-27T09:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037461917934178783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EvanCrypto17/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/EvanCrypto17/status/2037107299488296980",
+              "start": 28,
+              "url": "https://t.co/nCXwLRCBHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037461917934178783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037107299488296980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来我从一开始大一的时候就换 USDC 的策略是正确的 https://t.co/nCXwLRCBHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037087102425554944",
+            "3_2037092324577349632"
+          ]
+        },
+        "author_id": "1475870014053961731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2037107299488296980",
+        "created_at": "2026-03-26T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037107299488296980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ml7YyGMiiV",
+              "end": 178,
+              "expanded_url": "https://x.com/EvanCrypto17/status/2037107299488296980/photo/1",
+              "media_key": "3_2037087102425554944",
+              "start": 155,
+              "url": "https://t.co/Ml7YyGMiiV"
+            },
+            {
+              "display_url": "pic.x.com/Ml7YyGMiiV",
+              "end": 178,
+              "expanded_url": "https://x.com/EvanCrypto17/status/2037107299488296980/photo/1",
+              "media_key": "3_2037092324577349632",
+              "start": 155,
+              "url": "https://t.co/Ml7YyGMiiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037107299488296980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感觉，Tether 是真急了。\n\n聘请四大审计自己 USDT 的储备金，虽然没说是谁，但态度是明确的，快来看，“我们是安全的，我们没有问题”，但现在知道错了，为时已晚......\n\nUSDT 的多重历史遗留问题，让其无法吃到这波美国政策福利，把全球最大的一个市场拱手让给 USDC。\n\n历史上，也是 2017 年三大所（币安、OKX、火币）上 USDT 交易对/ ICO 让 USDT 爆发，随后孙哥的 Tron 让 Paolo 发现稳定币还有这好用处（dddd。\n\n然后 20 21 年牛市Defi、Meme、山寨币都让 USDT 出尽了风头，猛猛印钱，但自己要作，谁都拦不住。\n\n早期 USDT 包超发的，要不然也不可能请一些小所，塞点钱就能让出个报告，22 年估计赚钱够多补齐了，才喊了 BDO 进行审计。\n\n然而部分比特币/黄金/债券就是 Tether 的最大短板，江湖也流传 Tether 是比特币最大的狗庄。但特朗普是不认这些的，我有 USDC、USD1 用你干嘛。\n\n这边 Tether 又沟通，又发 USAT，又喊四大的，但 USDT 是基本不可能在美国合规的，特朗普的利益就是美国，你一个意大利人管的离岸稳定币，有什么道理让你合规？\n\n《清晰法案》虽说不让稳定币计息，但那又如何，纽交所/纳斯达克明年的股票交易，交易所的活动、Defi 乱七八糟的激励，都是 USDC 增长的渠道。\n\n相比来看，USDT 对“新市场”毫无吸引力，仅能吃吃背后小黑钱和仅存流量罢了。数据已经初见端倪了，USDT 的市占率一个月从 61.53% 跌到  58.29% ，USDC 反而从 23.3 % 涨到 24.91%。\n\n往后差距可能会越来越大。我们真有可能看到 USDC flip USDT 的一天，这样来看 CRCL 还是便宜货。\n\n准备做一个长视频，好好扒扒了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 80166,
+          "like_count": 194,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "感觉，Tether 是真急了。\n\n聘请四大审计自己 USDT 的储备金，虽然没说是谁，但态度是明确的，快来看，“我们是安全的，我们没有问题”，但现在知道错了，为时已晚......\n\nUSDT 的多重历史遗留问题，让其无法吃到这波美国政策福利，把全球最大的一个市场拱手让给 USDC。\n\n历史上，也是 2017 https://t.co/Ml7YyGMiiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 138,
+                "start": 131,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 2723,
+          "like_count": 40925,
+          "listed_count": 20,
+          "media_count": 2253,
+          "tweet_count": 9881
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-28T16:43:34.000Z",
+        "description": "Vlogger + Poster. 更好地认识web3 | 油管小红书B站同名:小塞web3 @EvanCrypto17 \n商务联系:Telegram/VX:EvanIs17 | X 私信系统可能会收不到",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "EvanCrypto17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@evancrypto17",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@evancrypto17",
+                "start": 0,
+                "url": "https://t.co/JjbfELMjJ5"
+              }
+            ]
+          }
+        },
+        "id": "1475870014053961731",
+        "location": "深圳 欢迎 Coffee talk",
+        "name": "小塞",
+        "pinned_tweet_id": "2036307019154726979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910633647985876994/rgUzrlya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7284,
+          "following_count": 966,
+          "like_count": 13473,
+          "listed_count": 163,
+          "media_count": 663,
+          "tweet_count": 5618
+        },
+        "url": "https://t.co/JjbfELMjJ5",
+        "username": "EvanCrypto17",
+        "verified": true
+      }
+    ]
+  }
+}

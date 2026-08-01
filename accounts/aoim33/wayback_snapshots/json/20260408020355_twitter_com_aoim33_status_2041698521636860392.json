@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041694672381460480",
+        "3_2041694672385667073",
+        "3_2041694672377249792"
+      ],
+      "media_source_tweet_id": [
+        "2041694685975261283",
+        "2041694685975261283",
+        "2041694685975261283"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041698521636860392",
+    "created_at": "2026-04-08T02:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041698521636860392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2840236608",
+          "start": 3,
+          "username": "StarNekOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GjJPF9hlv0",
+          "end": 88,
+          "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+          "media_key": "3_2041694672381460480",
+          "start": 65,
+          "url": "https://t.co/GjJPF9hlv0"
+        },
+        {
+          "display_url": "pic.x.com/GjJPF9hlv0",
+          "end": 88,
+          "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+          "media_key": "3_2041694672385667073",
+          "start": 65,
+          "url": "https://t.co/GjJPF9hlv0"
+        },
+        {
+          "display_url": "pic.x.com/GjJPF9hlv0",
+          "end": 88,
+          "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+          "media_key": "3_2041694672377249792",
+          "start": 65,
+          "url": "https://t.co/GjJPF9hlv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041698521636860392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041694685975261283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarNekOvO: 也正常，咱也分不清主宾副宾主陪副陪是怎么坐的，术业有专攻，领导们还是继续只做好酒桌的事情比较好（ https://t.co/GjJPF9hlv0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2041694672381460480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWOfLcawAAyt5d.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041694672385667073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWOfLda8AESlzY.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041694672377249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWOfLbagAArHN6.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041694672381460480",
+            "3_2041694672385667073",
+            "3_2041694672377249792"
+          ],
+          "media_source_tweet_id": [
+            "2041694685975261283",
+            "2041694685975261283",
+            "2041694685975261283"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041698521636860392",
+        "created_at": "2026-04-08T02:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041698521636860392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2840236608",
+              "start": 3,
+              "username": "StarNekOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjJPF9hlv0",
+              "end": 88,
+              "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+              "media_key": "3_2041694672381460480",
+              "start": 65,
+              "url": "https://t.co/GjJPF9hlv0"
+            },
+            {
+              "display_url": "pic.x.com/GjJPF9hlv0",
+              "end": 88,
+              "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+              "media_key": "3_2041694672385667073",
+              "start": 65,
+              "url": "https://t.co/GjJPF9hlv0"
+            },
+            {
+              "display_url": "pic.x.com/GjJPF9hlv0",
+              "end": 88,
+              "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+              "media_key": "3_2041694672377249792",
+              "start": 65,
+              "url": "https://t.co/GjJPF9hlv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041698521636860392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041694685975261283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarNekOvO: 也正常，咱也分不清主宾副宾主陪副陪是怎么坐的，术业有专攻，领导们还是继续只做好酒桌的事情比较好（ https://t.co/GjJPF9hlv0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041694672381460480",
+            "3_2041694672385667073",
+            "3_2041694672377249792"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041694685975261283",
+        "created_at": "2026-04-08T01:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041694685975261283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjJPF9hlv0",
+              "end": 72,
+              "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+              "media_key": "3_2041694672381460480",
+              "start": 49,
+              "url": "https://t.co/GjJPF9hlv0"
+            },
+            {
+              "display_url": "pic.x.com/GjJPF9hlv0",
+              "end": 72,
+              "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+              "media_key": "3_2041694672385667073",
+              "start": 49,
+              "url": "https://t.co/GjJPF9hlv0"
+            },
+            {
+              "display_url": "pic.x.com/GjJPF9hlv0",
+              "end": 72,
+              "expanded_url": "https://x.com/StarNekOvO/status/2041694685975261283/photo/1",
+              "media_key": "3_2041694672377249792",
+              "start": 49,
+              "url": "https://t.co/GjJPF9hlv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041694685975261283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "也正常，咱也分不清主宾副宾主陪副陪是怎么坐的，术业有专攻，领导们还是继续只做好酒桌的事情比较好（ https://t.co/GjJPF9hlv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 2764,
+          "like_count": 42405,
+          "listed_count": 19,
+          "media_count": 2361,
+          "tweet_count": 10378
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🐰🪼🍥系统 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sT95"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "牛奶喵",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4583,
+          "following_count": 2435,
+          "like_count": 37649,
+          "listed_count": 19,
+          "media_count": 1465,
+          "tweet_count": 12701
+        },
+        "url": "https://t.co/9NEqS9sT95",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      }
+    ],
+    "conversation_id": "1989572569226514744",
+    "created_at": "2025-11-15T16:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T17:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989731200429429143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "99866217",
+          "start": 0,
+          "username": "KK_CNJP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 84,
+          "expanded_url": "https://x.com/aoim33/status/1989678136913465571?s=46",
+          "start": 61,
+          "url": "https://t.co/ZFNyx244kT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989731200429429143",
+    "in_reply_to_user_id": "99866217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989678136913465571",
+        "type": "quoted"
+      },
+      {
+        "id": "1989572569226514744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_CNJP 为数不多让我发自内心认同的推文，读完酣畅淋漓\n在这里贴上我个人的拙见，希望能交流，增进见解，还望指导\n\nhttps://t.co/ZFNyx244kT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          }
+        ],
+        "conversation_id": "1989572569226514744",
+        "created_at": "2025-11-15T16:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989731200429429143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "99866217",
+              "start": 0,
+              "username": "KK_CNJP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 84,
+              "expanded_url": "https://x.com/aoim33/status/1989678136913465571?s=46",
+              "start": 61,
+              "url": "https://t.co/ZFNyx244kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989731200429429143",
+        "in_reply_to_user_id": "99866217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989678136913465571",
+            "type": "quoted"
+          },
+          {
+            "id": "1989572569226514744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_CNJP 为数不多让我发自内心认同的推文，读完酣畅淋漓\n在这里贴上我个人的拙见，希望能交流，增进见解，还望指导\n\nhttps://t.co/ZFNyx244kT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          }
+        ],
+        "conversation_id": "1989678136913465571",
+        "created_at": "2025-11-15T12:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989678136913465571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/aoim33/status/1989674604076605754",
+              "start": 137,
+              "url": "https://t.co/llzdbaqv4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989678136913465571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "世界的な景気後退期においては、どの政権も、国民の関心を強く引く対立軸を持ち出す傾向があります。そうすることで、スタグフレーションがもたらす諸問題や、産業資源の配分不均衡、ポストコロナの経済回復の遅れといった国内の難題を、国民の目から隠して解決を試みることができるからです。\n解決すべきは、国民の信頼回復よりもまず、国家機構の運営に必要不可欠な経済的課題であると認識されているわけです。\n\n例えば日本の場合、高市早苗氏の対中姿勢は、主に自身の支持基盤を固める目的で行われていると私は見ています。自民党の連立政権が崩壊した今、彼女にはより強固な世論の足場が求められているからです。\nまた、CPI（消費者物価指数）の継続的な高騰やそれに伴う国民生活の危機を前に、何か国民の目を逸らす手段が必要です。これは、「内政の真の矛盾を、外交的な茶番で覆い隠す」行為だと推測するのが自然でしょう。\n\n一方、中国は現時点で西側資本主義国と最も厳しく対立している経済圏として、独自の解決モデルを内外に示す必要があります。それは、あたかも「皆の前で黒板に数式の解き方を公開する」かのような姿勢です。\n\n結局のところ、各国は国民感情を鎮静化させ、自らの政権基盤を強化するために、より強硬な対立姿勢を取るという結論に至ります。そして、そうした姿勢を保つことで、国家機構が正常に機能し、結果的に人権や公民権の行使が保障されるというロジックです。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989674604076605754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界的な景気後退期においては、どの政権も、国民の関心を強く引く対立軸を持ち出す傾向があります。そうすることで、スタグフレーションがもたらす諸問題や、産業資源の配分不均衡、ポストコロナの経済回復の遅れといった国内の難題を、国民の目から隠して解決を試みることができるからです。 https://t.co/llzdbaqv4B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "99866217",
+        "conversation_id": "1989572569226514744",
+        "created_at": "2025-11-15T05:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989572569226514744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989572569226514744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "闲聊当前中日关系\n\n我一直认为，日本很少有真正爱国的领导人。很多日本政治家为了自己的政治利益，把国家当作个人豪赌的筹码，不惜让日本这个国家走向毁灭，完全不顾后果。东条英机说，“闭眼一跳”就行了。两颗原子弹落在头上后，依然丧心病狂地鼓吹“一亿玉碎”。穷途末路的时候，还想着拉更多人垫背。\n\n高市早苗就是这样的政治人物。她这次看起来是拿台湾问题找中国无事生非，其背后是她自己政治利益的算计。\n\n一\n\n自民党派阀崩塌后，高市艰难爬上权力宝座。她首先要做的就是稳固基本盘。利用日本国家整体转右的契机，争取右翼支持。她以38%的支持率上台，关于台湾的发言之后，来自保守层支持率暴涨12%。她现在在自民党内的地位变得无法撼动。小泉、茂木等人在她面前只会卑微逢恶。\n\n高市本人会演戏。演戏演过了，就会徒增笑料。在访日的特朗普面前表演，凸显美日同盟的亲密无间，结果有日本人批评像陪酒女。\n\n为了表现自己勤政，说自己每天只睡2-3个小时。这引起不少人的嘲笑：你是因为睡眠不足才变得如此愚蠢吗？\n\n有句话说得好，如果成功只需要勤奋，那么驴子就能拥有农场。(If hard work leads to success, the donkey would own the farm. ) 治理国家需要的是脑子，是战略眼光，不是晚上熬夜不睡觉。\n\n这次突破历届首相的战略模糊，大胆挑战中国的底线，除了把自己塑造成日本右翼领军人物的目的之外，应该还有如下考量。\n\n首先是通过此举达到加强日美同盟的目的。美国在可靠性方面的不确定性、日美经济纷争和防务分担方面的矛盾，以及对地区安全威胁的焦虑，使得日本一直对日美同盟抱有危机感。\n\n此次，高市抛弃战略模糊，就是要清晰站队，体现“马前卒”的价值，避免美国把日本当成可有可无的“次级盟友”。\n\n她本想通过此举，绑架中日美三方，逼迫美国站队表态，支持日本，从而增强同盟的信誉度。没想到特朗普根本不接招。\n\n也许美国根本没搞清楚她想干啥。特朗普自称得到了习关于任内不会进攻台湾的承诺，相信台海近年无战事。在这个背景下，现在高市早苗搞这么一出，只能让美国觉得莫名其妙，无事生非。\n\n在防卫方面，美国希望日本把防卫费提高到GDP的3.5%。这完全不可能。日本把防卫费提高到2%都困难。财源捉襟见肘，想提高防卫费，钱从哪里来？\n\n在这个问题上，美国会继续向日本施压，日本会继续躲避。高市想通过喊喊口号，口惠而实不至，另辟蹊径弥补日美同盟可能会产生的裂痕，想来也是徒劳。\n\n其次是转移日本老百姓抱怨自民党治国无能的视线。如今，日本正在以肉眼可见的速度衰退，整个国家前景暗淡。物价上涨，日元购买力持续下降。\n\n几个月前，小泉拉开架势搞政绩，想把大米价格降下来，似乎卓有成效，结果现在日本超市大米价格再创新高。\n\n国家治理出了问题，想方设法转移国内老百姓的视线，是一些政治人物的惯用伎俩。\n\n中国政府多次强调，台湾问题是红线，是中国的核心利益。日本政治人物明知这一点，所以一直保持战略模糊。这次故意挑战红线，为了就是捞取政治利益。\n\n转移视线，只能解一时之急。老百姓的不满不能一直靠煽动对外仇恨维持。我觉得，高市早苗的支持率将在几个月之内暴跌。\n\n此次风波，日本会成为最大的输家。台独分子会觉得很爽，他们现在是拉越多垫背的越好。\n\n二\n\n台湾问题是中华民族的伤痛。这个问题上，各方面矛盾重重，没有调和的余地。\n\n台湾人说，维护民主自由、台湾的未来由台湾人民决定。从西方文明来看，这一点很容易引起认同。\n\n与此同时，中国几千年来，天下分久必合，合久必分。分裂后必将走向统一，这是刻在老百姓文化基因里的烙印。\n\n有人把大陆要求统一的愿望归结于是共产党的霸权。其实这个问题已经超出共产党的控制范围。中国任何一个政治人物允许台湾永远分割出去，都会为整个国家所不容。决定这一点的，是14亿人，是深深烙在他们思想观念里的传统价值观。任何人，任何党派政治势力都无法改变。\n\n所以说，这是无法调和的矛盾。\n\n台独分子最近些年，把所有大陆人都纳入他们的敌视范围，这一点是情有可原的。他们的敌人是14亿人，不仅仅是共产党。台独分子为了实现自己的理想，千方百计地抹黑、蔑视大陆人，最终目的就是让大陆崩溃，14亿人全部水深火热。这是他们实现台独的唯一途径，别无他途。\n\n既然两岸双方水火不容，最终只能如同其它很多独立战争一样，谈不拢就用武力解决。独立靠鲜血换来。\n\n所以，台海必有一战。这场战争可能是3、5年内，最多不会超过10年。\n\n大陆对台湾动手，当然会把美国因素考虑进来。美国在多大程度上卷入，从提供武器协防，到投入兵力实战，大陆不可能不反复做沙盘推演。\n\n沙盘推演中，日本扮演的角色也必定在考量范围。日本给美军提供各种后援支持，这其实不构成大陆一定会对日本进行本土打击的理由，毕竟大陆也不愿意扩大战线。\n\n现在日本主动把自己绑上台海战车，要出兵参战。从这个意义上说，10年之内，中日必有一战。这个推理很可怕。\n\n如果中日打起来，美国从道义和承诺角度，会提供一定的支持。但是，炮弹落在的，是日本的家园，不是美国本土。日本这个讲究秩序规则的社会，乱起来也只是分分秒秒的事。而且中国打起日本来，下手肯定要比打台湾要狠得多。打台湾，毕竟那里还有很多中国人。打日本，那是新仇旧恨。\n\n在这种情况下，日本应该如何自保？\n\n放弃非核三原则，美国绝不可能答应。没有核威慑，常规战争中，日本会被中国碾压。\n\n现在很多日本老百姓在喊着加强军备。军备竞赛是拖垮一国经济的有效途径，更何况日本本来就债台高筑，财政捉襟见肘，拿什么参与军备竞赛？国防预算提高到GDP的3.5%都做不到，还在叫喊什么加强军备？\n\n所以，日本现在喊得欢，台海真打起来，估计也只能躲在后面敲敲边鼓。\n\n也就是说，现在高市鼓噪的，是毫无意义的狂人诳语。\n\n三\n\n国家层面，狂人诳语不是可以乱说的。\n\n现在日本老百姓对很多既往政治人物深感厌恶，对新政治人物、对新政府充满期待。和其它任何国家一样，日本老百姓最希望的也是和平安宁富足的生活。\n\n日本新政府上台之初，这个国家的各种问题堆积如山。不务正业的政客们第一件事就是撕开脸面，毫无意义地把中国变成不可调和的死敌。\n\n一直以来，中日关系各种问题不断，时好时坏。总体来说，还能过得去。政治上出了矛盾，经济上还能保持热络，就是所谓的“政冷经热”。有经济这个纽带，最终政治分歧都能被放在一边。\n\n如今不同了。\n\n首先，中日经济关系格局已发生了变化。过去几十年，特别是改革开放之初，日企在中国经济中占有一席之地，有一定的影响力。最近十几年来，日企纷纷从中国撤退。明面上是对中国经商环境不认可，事实是，这些日企是在竞争中败北，在中国市场无法生存。\n\n今年前三季度，日本对华投资同比增长55%。一方面是日企大撤退，一方面是日企对华投资增加，是不是很奇怪？\n\n日本根本无法放弃中国大陆庞大的市场。企业运营，需要政治环境的保障。当前中日关系，只能让日企在华发展愈加艰难。\n\n撇开日企，说说日本老百姓。如果中日开战或关系走入极端，中日贸易停止，日本失去了这个最大的贸易伙伴，日本社会会崩塌。这绝非危言耸听。中国对日本“断供”，日本社会就会难以运转。\n\n有日本人调侃说，是啊，Daiso货架上会空了。\n\n真的只是百元店的货架空了那么简单吗？\n\n与此同时，中国对日本的需求却乏善可陈。换句话说，日本对中国来说，早已没那么重要了。\n\n美国人在处理国际关系时，常说的一句话是from a position of strength，从实力地位出发。就是说，你有实力，你才有话语权。所以，先确保自己处于优势，再进行外交交涉。真心希望日本政治人物能深刻领会这句话的含义。\n\n日本当前百业待兴的情况下，政治人物一心捞取自己的政治利益，把这个国家的国益放在其次，不惜把老百姓推向战争。这样的政治人物，迟早会被日本老百姓抛弃。\n\n高市早苗上台，是日本整个国家衰退的结果，也成立接下来日本加速衰败的原因。\n\n真心期盼日本能出现真正的战略家，给这个国家以美好的未来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 226685,
+          "like_count": 1112,
+          "quote_count": 40,
+          "reply_count": 291,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "闲聊当前中日关系\n\n我一直认为，日本很少有真正爱国的领导人。很多日本政治家为了自己的政治利益，把国家当作个人豪赌的筹码，不惜让日本这个国家走向毁灭，完全不顾后果。东条英机说，“闭眼一跳”就行了。两颗原子弹落在头上后，依然丧心病狂地鼓吹“一亿玉碎”。穷途末路的时候，还想着拉更多人垫背。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.39 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "srkmanno"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "watebird14760"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1985372422808518818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1684,
+          "like_count": 18799,
+          "listed_count": 4,
+          "media_count": 914,
+          "tweet_count": 4481
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-28T05:01:31.000Z",
+        "description": "日本永住者，中小企业主，房产投资人，资深股票玩家，古泉玩家，旅行达人。Treasure inner peace. Cherish traditional values. Like people with a kind heart.",
+        "id": "99866217",
+        "location": "Japan",
+        "name": "KK",
+        "pinned_tweet_id": "1852589667331568020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749432289132498944/OdxOqjRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42132,
+          "following_count": 10,
+          "like_count": 18135,
+          "listed_count": 235,
+          "media_count": 333,
+          "tweet_count": 8688
+        },
+        "username": "KK_CNJP",
+        "verified": true
+      }
+    ]
+  }
+}

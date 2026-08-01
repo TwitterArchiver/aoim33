@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062188691225968640"
+      ],
+      "media_source_tweet_id": [
+        "2062188704912097413"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2062190711186112760",
+    "created_at": "2026-06-03T15:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062190711186112760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253165636210978817",
+          "start": 3,
+          "username": "Exusiai159"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UEEW15v8Y5",
+          "end": 51,
+          "expanded_url": "https://x.com/Exusiai159/status/2062188704912097413/photo/1",
+          "media_key": "3_2062188691225968640",
+          "start": 28,
+          "url": "https://t.co/UEEW15v8Y5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062190711186112760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062188704912097413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Exusiai159: 互关们有人想和我扩列吗 https://t.co/UEEW15v8Y5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062190711186112760].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062190711186112760",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062190711186112760"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2062188691225968640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5dsFBaAAAxOwf.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062188691225968640"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "conversation_id": "2062188704912097413",
+        "created_at": "2026-06-03T15:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062188704912097413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UEEW15v8Y5",
+              "end": 35,
+              "expanded_url": "https://x.com/Exusiai159/status/2062188704912097413/photo/1",
+              "media_key": "3_2062188691225968640",
+              "start": 12,
+              "url": "https://t.co/UEEW15v8Y5"
+            },
+            {
+              "display_url": "x.com/FZY250926/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/FZY250926/status/2062186943379603496",
+              "start": 36,
+              "url": "https://t.co/PZXYR3UcCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062188704912097413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062186943379603496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互关们有人想和我扩列吗 https://t.co/UEEW15v8Y5 https://t.co/PZXYR3UcCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 3007,
+          "like_count": 51447,
+          "listed_count": 19,
+          "media_count": 3090,
+          "tweet_count": 13059
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜喜欢看点furry｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜禁极端歧视仇恨言论｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5333,
+          "following_count": 7075,
+          "like_count": 191798,
+          "listed_count": 10,
+          "media_count": 5510,
+          "tweet_count": 57885
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": true
+      }
+    ]
+  }
+}

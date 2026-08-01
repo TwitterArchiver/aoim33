@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "1995167626256089468",
+    "created_at": "2025-11-30T16:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995167626256089468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "中国",
+          "probability": 0.8867,
+          "start": 17,
+          "type": "Place"
+        },
+        {
+          "end": 50,
+          "normalized_text": "中国",
+          "probability": 0.867,
+          "start": 49,
+          "type": "Place"
+        },
+        {
+          "end": 61,
+          "normalized_text": "日本",
+          "probability": 0.7163,
+          "start": 60,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1114059726222848001",
+          "start": 3,
+          "username": "pen_pen2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995167626256089468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1494
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994926764179820974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pen_pen2020: 中国は表現の自由のないとんでもない国だという批判と、それでもその中国で、これほど多くの日本のコンテンツが受け入れられ人気になるまでには日中の多くの関係者の尽力があったのに、首相の軽率な一言が全てぶち壊したという批判は、普通に両立する。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1995167626256089468",
+        "created_at": "2025-11-30T16:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995167626256089468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "中国",
+              "probability": 0.8867,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 50,
+              "normalized_text": "中国",
+              "probability": 0.867,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 61,
+              "normalized_text": "日本",
+              "probability": 0.7163,
+              "start": 60,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1114059726222848001",
+              "start": 3,
+              "username": "pen_pen2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995167626256089468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1494
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994926764179820974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pen_pen2020: 中国は表現の自由のないとんでもない国だという批判と、それでもその中国で、これほど多くの日本のコンテンツが受け入れられ人気になるまでには日中の多くの関係者の尽力があったのに、首相の軽率な一言が全てぶち壊したという批判は、普通に両立する。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114059726222848001",
+        "conversation_id": "1994926764179820974",
+        "created_at": "2025-11-30T00:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T01:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994926764179820974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8975,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 33,
+              "normalized_text": "中国",
+              "probability": 0.8683,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 44,
+              "normalized_text": "日本",
+              "probability": 0.7094,
+              "start": 43,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994926764179820974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 366480,
+          "like_count": 5220,
+          "quote_count": 203,
+          "reply_count": 444,
+          "retweet_count": 1494
+        },
+        "reply_settings": "everyone",
+        "text": "中国は表現の自由のないとんでもない国だという批判と、それでもその中国で、これほど多くの日本のコンテンツが受け入れられ人気になるまでには日中の多くの関係者の尽力があったのに、首相の軽率な一言が全てぶち壊したという批判は、普通に両立する。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語教育 ASD研究 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.12 maimai 13,586 / CN EN JP KR / 🤍 @cyronanno @watebird14760 @wanzi0209 / sub @aoim31 無言フォロー失礼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "cyronanno"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "watebird14760"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVemAm"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1994431888866656417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986249934363127808/1h7EEpy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1864,
+          "like_count": 20403,
+          "listed_count": 4,
+          "media_count": 1010,
+          "tweet_count": 4836
+        },
+        "url": "https://t.co/8mjKrVemAm",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-05T06:58:31.000Z",
+        "description": "40代。幼い娘２人の子育てに追われる父親で、中間管理職の社畜。エヴァヲタ。サブ4ランナー。",
+        "id": "1114059726222848001",
+        "location": "関東を転々としてますが、現在は千葉県民…からの茨城県民",
+        "name": "温泉ペンギン",
+        "pinned_tweet_id": "1940804811353739659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749180332853923840/nzassUTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9983,
+          "following_count": 605,
+          "like_count": 269892,
+          "listed_count": 300,
+          "media_count": 768,
+          "tweet_count": 92462
+        },
+        "username": "pen_pen2020",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1188868859400343553",
+          "name": "Tencent"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1188868859400343553",
+          "name": "Tencent"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1188868859400343553",
+          "name": "Tencent"
+        }
+      }
+    ],
+    "conversation_id": "1982027774257946793",
+    "created_at": "2025-10-25T10:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T11:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982027774257946793"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 6,
+          "normalized_text": "Tencent",
+          "probability": 0.3342,
+          "start": 0,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bonmatsu_/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bonmatsu_/status/1981985945369854018",
+          "start": 12,
+          "url": "https://t.co/heYTPMh4Tz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982027774257946793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981985945369854018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Tencent も同じ https://t.co/heYTPMh4Tz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          }
+        ],
+        "conversation_id": "1982027774257946793",
+        "created_at": "2025-10-25T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982027774257946793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Tencent",
+              "probability": 0.3342,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bonmatsu_/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bonmatsu_/status/1981985945369854018",
+              "start": 12,
+              "url": "https://t.co/heYTPMh4Tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982027774257946793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981985945369854018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Tencent も同じ https://t.co/heYTPMh4Tz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591397376786591745",
+        "conversation_id": "1981985945369854018",
+        "created_at": "2025-10-25T07:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981985945369854018"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9144,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981985945369854018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国のカスタマーサポートはなるべくAI対応で済ませようとするのだが、ほとんど顧客を騙すようなやり方を採っている。人間のオペレーターに変えるボタンを押すと、人間のふりをしたAIが出てきて、二、三回同じ指示を繰り返さなければ本当の人間に切り変わらない。春秋航空に電話した際は複数回操作を繰り返せと明示的に言われた。ちなみに、AIの仕様に起因すると思うが、罵倒語を混ぜると比較的早くオペレーターに繋がる。この国で暮らしていると、一般的な他者に対する信頼は低いなあと思う。一度親しくなった人はどこまでも親しくしてくれるのとは対照的だ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2741,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国のカスタマーサポートはなるべくAI対応で済ませようとするのだが、ほとんど顧客を騙すようなやり方を採っている。人間のオペレーターに変えるボタンを押すと、人間のふりをしたAIが出てきて、二、三回同じ指示を繰り返さなければ本当の人間に切り変わらない。春秋航空に電話した際は複数回操作を繰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 1636,
+          "like_count": 16476,
+          "listed_count": 2,
+          "media_count": 779,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-12T11:48:04.000Z",
+        "description": "中国大陸を中心に、美味しいものを求めて旅に出ます。蘇州住みの二十代後半。お仕事承ります。食と旅の記録: https://t.co/oGp5z3Osic",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/quiet_gerbil69…",
+                "end": 75,
+                "expanded_url": "https://note.com/quiet_gerbil6986",
+                "start": 52,
+                "url": "https://t.co/oGp5z3Osic"
+              }
+            ]
+          }
+        },
+        "id": "1591397376786591745",
+        "location": "蘇州",
+        "name": "凡松",
+        "pinned_tweet_id": "1861743560611303807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749421099165888512/b6hv58KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 245,
+          "like_count": 44720,
+          "listed_count": 33,
+          "media_count": 1518,
+          "tweet_count": 2419
+        },
+        "username": "bonmatsu_",
+        "verified": true
+      }
+    ]
+  }
+}

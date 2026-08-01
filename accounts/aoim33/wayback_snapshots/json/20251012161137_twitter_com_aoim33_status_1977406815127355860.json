@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977391557667172352"
+      ],
+      "media_source_tweet_id": [
+        "1977391564339970391"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1977406815127355860",
+    "created_at": "2025-10-12T16:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977406815127355860"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "フリーナちゃん",
+          "probability": 0.8514,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 32,
+          "tag": "フリーナ生誕祭2025"
+        },
+        {
+          "end": 52,
+          "start": 45,
+          "tag": "Furina"
+        },
+        {
+          "end": 67,
+          "start": 53,
+          "tag": "GenshinImpact"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1502621932717424640",
+          "start": 3,
+          "username": "rrr_gns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuiNEK4tM6",
+          "end": 91,
+          "expanded_url": "https://x.com/rrr_gns/status/1977391564339970391/photo/1",
+          "media_key": "3_1977391557667172352",
+          "start": 68,
+          "url": "https://t.co/vuiNEK4tM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977406815127355860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977391564339970391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rrr_gns: フリーナちゃんお誕生日おめでとう🎉\n\n#フリーナ生誕祭2025 #Furina #GenshinImpact https://t.co/vuiNEK4tM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3292,
+        "media_key": "3_1977391557667172352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EbJSCbsAAEF9V.jpg",
+        "width": 2425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977391557667172352"
+          ],
+          "media_source_tweet_id": [
+            "1977391564339970391"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1977406815127355860",
+        "created_at": "2025-10-12T16:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977406815127355860"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "フリーナちゃん",
+              "probability": 0.8514,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "フリーナ生誕祭2025"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "Furina"
+            },
+            {
+              "end": 67,
+              "start": 53,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1502621932717424640",
+              "start": 3,
+              "username": "rrr_gns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuiNEK4tM6",
+              "end": 91,
+              "expanded_url": "https://x.com/rrr_gns/status/1977391564339970391/photo/1",
+              "media_key": "3_1977391557667172352",
+              "start": 68,
+              "url": "https://t.co/vuiNEK4tM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977406815127355860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977391564339970391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rrr_gns: フリーナちゃんお誕生日おめでとう🎉\n\n#フリーナ生誕祭2025 #Furina #GenshinImpact https://t.co/vuiNEK4tM6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977391557667172352"
+          ]
+        },
+        "author_id": "1502621932717424640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1977391564339970391",
+        "created_at": "2025-10-12T15:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977391564339970391"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "フリーナちゃん",
+              "probability": 0.8806,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "フリーナ生誕祭2025"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "Furina"
+            },
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "GenshinImpact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuiNEK4tM6",
+              "end": 78,
+              "expanded_url": "https://x.com/rrr_gns/status/1977391564339970391/photo/1",
+              "media_key": "3_1977391557667172352",
+              "start": 55,
+              "url": "https://t.co/vuiNEK4tM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977391564339970391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 11488,
+          "like_count": 1048,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "フリーナちゃんお誕生日おめでとう🎉\n\n#フリーナ生誕祭2025 #Furina #GenshinImpact https://t.co/vuiNEK4tM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1476,
+          "like_count": 14619,
+          "listed_count": 3,
+          "media_count": 701,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-12T12:26:21.000Z",
+        "description": "絵仕事受付中￤illustrator ￤日本語/EN\n￤ご依頼は納期とご予算をご提示の上、メールでご相談下さい\n￤✉️riku0215798@gmail.com \n￤BOOTH shop▸https://t.co/THy4p0XbqH ￤FANBOX▸https://t.co/jmQSKTS5Y8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "riuriu1212.booth.pm",
+                "end": 117,
+                "expanded_url": "https://riuriu1212.booth.pm/",
+                "start": 94,
+                "url": "https://t.co/THy4p0XbqH"
+              },
+              {
+                "display_url": "rikuriu.fanbox.cc",
+                "end": 149,
+                "expanded_url": "https://rikuriu.fanbox.cc/",
+                "start": 126,
+                "url": "https://t.co/jmQSKTS5Y8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/riku-riku-",
+                "end": 23,
+                "expanded_url": "https://lit.link/riku-riku-",
+                "start": 0,
+                "url": "https://t.co/hOxgZmYLiy"
+              }
+            ]
+          }
+        },
+        "id": "1502621932717424640",
+        "location": "すべての投稿の無断転載・利用禁止",
+        "name": "陸-riku-",
+        "pinned_tweet_id": "1977391564339970391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945339102670282752/9Tfa3cb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54831,
+          "following_count": 443,
+          "like_count": 6747,
+          "listed_count": 323,
+          "media_count": 790,
+          "tweet_count": 9741
+        },
+        "url": "https://t.co/hOxgZmYLiy",
+        "username": "rrr_gns",
+        "verified": true
+      }
+    ]
+  }
+}

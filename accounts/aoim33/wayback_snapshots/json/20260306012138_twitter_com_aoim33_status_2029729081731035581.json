@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2029729081731035581",
+    "created_at": "2026-03-06T01:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T02:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029729081731035581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geekbb/status/…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/geekbb/status/2029698504546013531",
+          "start": 123,
+          "url": "https://t.co/ZoPYfcH3Xf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029729081731035581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029698504546013531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那天，我老婆刚回家就给我了一巴掌\n我没说什么，只是坐在那里看她默默发疯，摔东西\n等她冷静下来之后，房间里已经是一片狼藉\n\n我缓慢走到了她跟前，掏出手机解锁\n亮屏，对着她\n\n她瞬间脸色煞白\n\n(Subscribe to unlock more…) https://t.co/ZoPYfcH3Xf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2057,
+        "media_key": "3_2029698494567698439",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrwBunaUAcZH2W.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2029729081731035581",
+        "created_at": "2026-03-06T01:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029729081731035581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geekbb/status/…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/geekbb/status/2029698504546013531",
+              "start": 123,
+              "url": "https://t.co/ZoPYfcH3Xf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029729081731035581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029698504546013531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那天，我老婆刚回家就给我了一巴掌\n我没说什么，只是坐在那里看她默默发疯，摔东西\n等她冷静下来之后，房间里已经是一片狼藉\n\n我缓慢走到了她跟前，掏出手机解锁\n亮屏，对着她\n\n她瞬间脸色煞白\n\n(Subscribe to unlock more…) https://t.co/ZoPYfcH3Xf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029698494567698439"
+          ]
+        },
+        "author_id": "168139512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2029698504546013531",
+        "created_at": "2026-03-05T23:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T00:17:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029697954261741707",
+          "2029698504546013531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGxmxlJ8Ey",
+              "end": 181,
+              "expanded_url": "https://x.com/geekbb/status/2029698504546013531/photo/1",
+              "media_key": "3_2029698494567698439",
+              "start": 158,
+              "url": "https://t.co/fGxmxlJ8Ey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029698504546013531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨重磅：𝕏 刚刚推出了“创作者订阅 2.0”！我已经能预见到兄弟们如何整花活了。\n\n• 专属长推文 (Exclusive Threads) – 锁定长推文的部分内容，仅限订阅者阅读（公开部分作为预告，其余内容设置付费墙）\n\n• 全新分享卡片 (New Share Cards) – 精美的自动生成卡片，方便你在 𝕏 的任何角落推广自己的订阅服务\n\n• 升级版付费墙 (Upgraded Paywalls) – 直观前置你的订阅福利，让粉丝瞬间看到付费的价值所在\n\n• 主页专属内容区 (Subs-Only on Profiles) – 独家订阅内容现在将直接显示在你的个人主页主信息流中\n\n• 全新数据看板 (New Dashboard) – 极简的收益追踪器 + 清晰的订阅者数据分析面板"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2218,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚨重磅：𝕏 刚刚推出了“创作者订阅 2.0”！我已经能预见到兄弟们如何整花活了。\n\n• 专属长推文 (Exclusive Threads) – 锁定长推文的部分内容，仅限订阅者阅读（公开部分作为预告，其余内容设置付费墙）\n\n• 全新分享卡片 (New Share Cards) – 精美的自动生成卡片，方便你在 𝕏 https://t.co/fGxmxlJ8Ey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4104,
+          "following_count": 2605,
+          "like_count": 37190,
+          "listed_count": 21,
+          "media_count": 1932,
+          "tweet_count": 8570
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108510,
+          "following_count": 481,
+          "like_count": 19727,
+          "listed_count": 1157,
+          "media_count": 6708,
+          "tweet_count": 25987
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

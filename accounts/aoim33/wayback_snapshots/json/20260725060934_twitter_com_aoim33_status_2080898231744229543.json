@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080897010782384128"
+      ],
+      "media_source_tweet_id": [
+        "2080897019103870988"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2080898231744229543",
+    "created_at": "2026-07-25T06:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080898231744229543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802287807324635136",
+          "start": 3,
+          "username": "Rrakuen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eREBJACfF3",
+          "end": 43,
+          "expanded_url": "https://x.com/Rrakuen/status/2080897019103870988/photo/1",
+          "media_key": "3_2080897010782384128",
+          "start": 20,
+          "url": "https://t.co/eREBJACfF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080898231744229543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080897019103870988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rrakuen: 进行神秘仪式 https://t.co/eREBJACfF3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080897010782384128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODUzmXbMAA6VU9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080897010782384128"
+          ]
+        },
+        "author_id": "1802287807324635136",
+        "conversation_id": "2080897019103870988",
+        "created_at": "2026-07-25T06:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080897019103870988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eREBJACfF3",
+              "end": 30,
+              "expanded_url": "https://x.com/Rrakuen/status/2080897019103870988/photo/1",
+              "media_key": "3_2080897010782384128",
+              "start": 7,
+              "url": "https://t.co/eREBJACfF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080897019103870988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "进行神秘仪式 https://t.co/eREBJACfF3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080897010782384128"
+          ],
+          "media_source_tweet_id": [
+            "2080897019103870988"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2080898231744229543",
+        "created_at": "2026-07-25T06:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080898231744229543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802287807324635136",
+              "start": 3,
+              "username": "Rrakuen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eREBJACfF3",
+              "end": 43,
+              "expanded_url": "https://x.com/Rrakuen/status/2080897019103870988/photo/1",
+              "media_key": "3_2080897010782384128",
+              "start": 20,
+              "url": "https://t.co/eREBJACfF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080898231744229543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080897019103870988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rrakuen: 进行神秘仪式 https://t.co/eREBJACfF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 3158,
+          "like_count": 57138,
+          "listed_count": 22,
+          "media_count": 3688,
+          "tweet_count": 14902
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-16T10:31:22.000Z",
+        "description": "中文🇨🇳/English🇺🇸/日本語🇯🇵\n友跨🏳️‍⚧️",
+        "id": "1802287807324635136",
+        "location": "被炸飞的电化学实验室",
+        "name": "結月ゆかり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080895809072349184/4rBVznpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 43,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Rrakuen",
+        "verified": false
+      }
+    ]
+  }
+}

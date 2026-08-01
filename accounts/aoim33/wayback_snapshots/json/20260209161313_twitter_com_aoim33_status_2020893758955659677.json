@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2020893758955659677",
+    "created_at": "2026-02-09T16:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020893758955659677"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "1億3000万人",
+          "probability": 0.4684,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 28,
+          "normalized_text": "高市早苗",
+          "probability": 0.6972,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "54457213",
+          "start": 3,
+          "username": "nekoruck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020893758955659677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 773
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020775652287541248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekoruck: 例え1億3000万人が高市早苗を支持しても俺は支持しない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2020893758955659677",
+        "created_at": "2026-02-09T16:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020893758955659677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "1億3000万人",
+              "probability": 0.4684,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 28,
+              "normalized_text": "高市早苗",
+              "probability": 0.6972,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "54457213",
+              "start": 3,
+              "username": "nekoruck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020893758955659677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 773
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020775652287541248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekoruck: 例え1億3000万人が高市早苗を支持しても俺は支持しない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "54457213",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2020775652287541248",
+        "created_at": "2026-02-09T08:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020775652287541248"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "1億3000万人",
+              "probability": 0.4403,
+              "start": 2,
+              "type": "Person"
+            },
+            {
+              "end": 14,
+              "normalized_text": "高市早苗",
+              "probability": 0.6794,
+              "start": 11,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020775652287541248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 65976,
+          "like_count": 6307,
+          "quote_count": 94,
+          "reply_count": 478,
+          "retweet_count": 773
+        },
+        "reply_settings": "everyone",
+        "text": "例え1億3000万人が高市早苗を支持しても俺は支持しない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 2442,
+          "like_count": 32881,
+          "listed_count": 17,
+          "media_count": 1613,
+          "tweet_count": 7349
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-07T05:06:06.000Z",
+        "description": "自由とは二足す二が四であると言える自由である。その自由が認められるならば、他の自由はすべて後からついてくる。 (ジョージ•オーウェル 1984)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekoruck.bsky.social",
+                "end": 23,
+                "expanded_url": "http://nekoruck.bsky.social",
+                "start": 0,
+                "url": "https://t.co/HFnkDVcO5G"
+              }
+            ]
+          }
+        },
+        "id": "54457213",
+        "name": "猫のリュックくん",
+        "pinned_tweet_id": "1627172309034496007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918625850792214528/rcEhk3ii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22860,
+          "following_count": 824,
+          "like_count": 112813,
+          "listed_count": 706,
+          "media_count": 9633,
+          "tweet_count": 757528
+        },
+        "url": "https://t.co/HFnkDVcO5G",
+        "username": "nekoruck",
+        "verified": true
+      }
+    ]
+  }
+}

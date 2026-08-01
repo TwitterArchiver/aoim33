@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025421327033925634"
+      ],
+      "media_source_tweet_id": [
+        "2025421335183388832"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2025422637275775376",
+    "created_at": "2026-02-22T04:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025422637275775376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1977385635825741824",
+          "start": 3,
+          "username": "4qziql"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvPd0TVcNg",
+          "end": 45,
+          "expanded_url": "https://x.com/4qziql/status/2025421335183388832/photo/1",
+          "media_key": "3_2025421327033925634",
+          "start": 22,
+          "url": "https://t.co/pvPd0TVcNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025422637275775376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025421335183388832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4qziql: あと1人！！！！！ https://t.co/pvPd0TVcNg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025422637275775376].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025422637275775376",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025422637275775376"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1525,
+        "media_key": "3_2025421327033925634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu99z5bgAI9oqK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025421327033925634"
+          ]
+        },
+        "author_id": "1977385635825741824",
+        "conversation_id": "2025421335183388832",
+        "created_at": "2026-02-22T04:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025421335183388832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvPd0TVcNg",
+              "end": 33,
+              "expanded_url": "https://x.com/4qziql/status/2025421335183388832/photo/1",
+              "media_key": "3_2025421327033925634",
+              "start": 10,
+              "url": "https://t.co/pvPd0TVcNg"
+            },
+            {
+              "display_url": "x.com/4qziql/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/4qziql/status/2025384458267009155",
+              "start": 34,
+              "url": "https://t.co/J3Eu63ZAh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025421335183388832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025384458267009155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あと1人！！！！！ https://t.co/pvPd0TVcNg https://t.co/J3Eu63ZAh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD診断と研究 / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,801 / CN EN JP / @supernovaArcaea team member / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "aoim31"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 2504,
+          "like_count": 34551,
+          "listed_count": 17,
+          "media_count": 1732,
+          "tweet_count": 7780
+        },
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T14:49:10.000Z",
+        "description": "日本の韓国人🇰🇷🇯🇵 百合 Yuri Anime😍 / 男子大生 わたなれ 超かぐや姫 ささ恋 わたたべ ブルアカ/ 無言フォロー返信失礼 フォロー大歓迎！(相互支援&営業&目的不明&エロ垢❌) 🗣️: 🇯🇵🇬🇧🇺🇸 📚:🇪🇸🇰🇷 DM〇 仲良いFFさんとのエンカの連絡はいつでもDMで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/DVtXGS3v9",
+                "end": 23,
+                "expanded_url": "https://discord.gg/DVtXGS3v9",
+                "start": 0,
+                "url": "https://t.co/lauMxBdCw4"
+              }
+            ]
+          }
+        },
+        "id": "1977385635825741824",
+        "location": "Osaka, Japan",
+        "name": "リッキー / Ricky 🇯🇵🇰🇷@百合アニメ好き Yuri Anime Lover",
+        "pinned_tweet_id": "2024807196706717802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013628693252280320/OkMKMDb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 1749,
+          "like_count": 5911,
+          "listed_count": 4,
+          "media_count": 558,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/lauMxBdCw4",
+        "username": "4qziql",
+        "verified": false
+      }
+    ]
+  }
+}

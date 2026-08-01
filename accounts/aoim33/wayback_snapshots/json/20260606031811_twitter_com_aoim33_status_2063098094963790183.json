@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063098088320065536"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1263456476766466049",
+          "name": "Monzo"
+        }
+      }
+    ],
+    "conversation_id": "2063098094963790183",
+    "created_at": "2026-06-06T03:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063098094963790183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3AYjilHtMW",
+          "end": 128,
+          "expanded_url": "https://x.com/aoim33/status/2063098094963790183/photo/1",
+          "media_key": "3_2063098088320065536",
+          "start": 105,
+          "url": "https://t.co/3AYjilHtMW"
+        },
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/aoim33/status/2062919212612612325",
+          "start": 129,
+          "url": "https://t.co/EgDFz3C9lV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063098094963790183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062919212612612325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续\n尝试在 Apple Store 进行了一次支付并且马上偿还，忘记截图了签账之后的状态了\n不过我觉得如果是签账的话，Card Balance 也就是 カード残高 应该是负数\n\n反正之后就用它承担订阅费用了 https://t.co/3AYjilHtMW https://t.co/EgDFz3C9lV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063098088320065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGYx9Ma4AAesbL.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062919204983226368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD2Fk1bQAAEKpW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063098088320065536"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1263456476766466049",
+              "name": "Monzo"
+            }
+          }
+        ],
+        "conversation_id": "2063098094963790183",
+        "created_at": "2026-06-06T03:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063098094963790183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3AYjilHtMW",
+              "end": 128,
+              "expanded_url": "https://x.com/aoim33/status/2063098094963790183/photo/1",
+              "media_key": "3_2063098088320065536",
+              "start": 105,
+              "url": "https://t.co/3AYjilHtMW"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/aoim33/status/2062919212612612325",
+              "start": 129,
+              "url": "https://t.co/EgDFz3C9lV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063098094963790183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062919212612612325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续\n尝试在 Apple Store 进行了一次支付并且马上偿还，忘记截图了签账之后的状态了\n不过我觉得如果是签账的话，Card Balance 也就是 カード残高 应该是负数\n\n反正之后就用它承担订阅费用了 https://t.co/3AYjilHtMW https://t.co/EgDFz3C9lV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062919204983226368"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1263456476766466049",
+              "name": "Monzo"
+            }
+          }
+        ],
+        "conversation_id": "2062919212612612325",
+        "created_at": "2026-06-05T15:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062919212612612325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FutwVWwDHD",
+              "end": 54,
+              "expanded_url": "https://x.com/aoim33/status/2062919212612612325/photo/1",
+              "media_key": "3_2062919204983226368",
+              "start": 31,
+              "url": "https://t.co/FutwVWwDHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062919212612612325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 51406,
+          "like_count": 258,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Monzo Flex 下卡成功\n这下我也是有境外信用卡的人了 https://t.co/FutwVWwDHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5894,
+          "following_count": 3011,
+          "like_count": 51652,
+          "listed_count": 19,
+          "media_count": 3111,
+          "tweet_count": 13121
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

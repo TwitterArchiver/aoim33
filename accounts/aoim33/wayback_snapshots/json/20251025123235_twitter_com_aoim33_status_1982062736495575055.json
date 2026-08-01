@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982049972821295104"
+      ],
+      "media_source_tweet_id": [
+        "1982049978240647180"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "1982062736495575055",
+    "created_at": "2025-10-25T12:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T13:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982062736495575055"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "池袋",
+          "probability": 0.905,
+          "start": 20,
+          "type": "Place"
+        },
+        {
+          "end": 68,
+          "normalized_text": "日本",
+          "probability": 0.8873,
+          "start": 67,
+          "type": "Place"
+        },
+        {
+          "end": 92,
+          "normalized_text": "中国",
+          "probability": 0.8338,
+          "start": 91,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1365815368283947012",
+          "start": 3,
+          "username": "minmin68768244"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2pXm0s7Q9U",
+          "end": 135,
+          "expanded_url": "https://x.com/minmin68768244/status/1982049978240647180/photo/1",
+          "media_key": "3_1982049972821295104",
+          "start": 112,
+          "url": "https://t.co/2pXm0s7Q9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982062736495575055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982049978240647180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minmin68768244: 池袋の中華スーパーへ\nWeChatのウォレットにあるお金を使おうと思ってけど、中国人じゃないと日本でWeChatは相変わらず使えないんですね\n中国の銀行口座があるとか関係なかったのか https://t.co/2pXm0s7Q9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982049972821295104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Gn8u0WAAAYKLY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982049972821295104"
+          ],
+          "media_source_tweet_id": [
+            "1982049978240647180"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "1982062736495575055",
+        "created_at": "2025-10-25T12:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982062736495575055"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "池袋",
+              "probability": 0.905,
+              "start": 20,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "日本",
+              "probability": 0.8873,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 92,
+              "normalized_text": "中国",
+              "probability": 0.8338,
+              "start": 91,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1365815368283947012",
+              "start": 3,
+              "username": "minmin68768244"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pXm0s7Q9U",
+              "end": 135,
+              "expanded_url": "https://x.com/minmin68768244/status/1982049978240647180/photo/1",
+              "media_key": "3_1982049972821295104",
+              "start": 112,
+              "url": "https://t.co/2pXm0s7Q9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982062736495575055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982049978240647180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minmin68768244: 池袋の中華スーパーへ\nWeChatのウォレットにあるお金を使おうと思ってけど、中国人じゃないと日本でWeChatは相変わらず使えないんですね\n中国の銀行口座があるとか関係なかったのか https://t.co/2pXm0s7Q9U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982049972821295104"
+          ]
+        },
+        "author_id": "1365815368283947012",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "1982049978240647180",
+        "created_at": "2025-10-25T11:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982049978240647180"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "池袋",
+              "probability": 0.8933,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 48,
+              "normalized_text": "日本",
+              "probability": 0.8895,
+              "start": 47,
+              "type": "Place"
+            },
+            {
+              "end": 72,
+              "normalized_text": "中国",
+              "probability": 0.8327,
+              "start": 71,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pXm0s7Q9U",
+              "end": 115,
+              "expanded_url": "https://x.com/minmin68768244/status/1982049978240647180/photo/1",
+              "media_key": "3_1982049972821295104",
+              "start": 92,
+              "url": "https://t.co/2pXm0s7Q9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982049978240647180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "池袋の中華スーパーへ\nWeChatのウォレットにあるお金を使おうと思ってけど、中国人じゃないと日本でWeChatは相変わらず使えないんですね\n中国の銀行口座があるとか関係なかったのか https://t.co/2pXm0s7Q9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / ASD 向け教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 11.00 maimai 13,422 / CN EN JP KR / 🤍 @srkmanno @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "srkmanno"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZbOH7"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979344900945485824/tLGaj5mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 1637,
+          "like_count": 16507,
+          "listed_count": 2,
+          "media_count": 779,
+          "tweet_count": 3942
+        },
+        "url": "https://t.co/8ENTIZbOH7",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-28T00:05:55.000Z",
+        "description": "2022年2月25日から中国語学習を開始📘 4級（2023年5月）、5級（2023年7月）、6級（2024年1月）取得済 2024年9月より中国政府奨学金で🇨🇳上海留学 →上海のIT企業に就職・日本支社立ち上げ🏢 中国社会・キャリアについて発信します📣 https://t.co/A9YGymRcWW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/minmin7768",
+                "end": 150,
+                "expanded_url": "https://note.com/minmin7768",
+                "start": 127,
+                "url": "https://t.co/A9YGymRcWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paps.jp/uYzlx",
+                "end": 23,
+                "expanded_url": "https://qr.paps.jp/uYzlx",
+                "start": 0,
+                "url": "https://t.co/JMHTVssZOp"
+              }
+            ]
+          }
+        },
+        "id": "1365815368283947012",
+        "location": "上海",
+        "name": "minmin@中国留学→中国就職",
+        "pinned_tweet_id": "1974353932593082487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366376289200824328/YnWlNxMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 242,
+          "like_count": 9617,
+          "listed_count": 16,
+          "media_count": 512,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/JMHTVssZOp",
+        "username": "minmin68768244",
+        "verified": false
+      }
+    ]
+  }
+}

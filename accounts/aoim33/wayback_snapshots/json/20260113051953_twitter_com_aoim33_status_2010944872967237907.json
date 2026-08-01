@@ -1,0 +1,728 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010863762161676289",
+        "3_2010863773377294336",
+        "3_2010863850737065985",
+        "3_2010863888548724736"
+      ],
+      "media_source_tweet_id": [
+        "2010864050591195575",
+        "2010864050591195575",
+        "2010864050591195575",
+        "2010864050591195575"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743196",
+          "name": "Forza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743196",
+          "name": "Forza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898463822381057",
+          "name": "Racing games"
+        }
+      }
+    ],
+    "conversation_id": "2010944872967237907",
+    "created_at": "2026-01-13T05:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010944872967237907"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "ForzaHorizon6",
+          "probability": 0.9527,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 55,
+          "tag": "ForzaHorizon6"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "534903006",
+          "start": 3,
+          "username": "ForzaHorizon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9I4klTydky",
+          "end": 93,
+          "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+          "media_key": "3_2010863762161676289",
+          "start": 70,
+          "url": "https://t.co/9I4klTydky"
+        },
+        {
+          "display_url": "pic.x.com/9I4klTydky",
+          "end": 93,
+          "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+          "media_key": "3_2010863773377294336",
+          "start": 70,
+          "url": "https://t.co/9I4klTydky"
+        },
+        {
+          "display_url": "pic.x.com/9I4klTydky",
+          "end": 93,
+          "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+          "media_key": "3_2010863850737065985",
+          "start": 70,
+          "url": "https://t.co/9I4klTydky"
+        },
+        {
+          "display_url": "pic.x.com/9I4klTydky",
+          "end": 93,
+          "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+          "media_key": "3_2010863888548724736",
+          "start": 70,
+          "url": "https://t.co/9I4klTydky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010944872967237907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010864050591195575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForzaHorizon: Tap to reveal your next destination. #ForzaHorizon6 https://t.co/9I4klTydky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2010863762161676289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gF8AtaMAE231_.jpg",
+        "width": 864
+      },
+      {
+        "height": 270,
+        "media_key": "3_2010863773377294336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gF8qfa8AApR_d.jpg",
+        "width": 864
+      },
+      {
+        "height": 270,
+        "media_key": "3_2010863850737065985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gGBKrbYAE60mZ.jpg",
+        "width": 864
+      },
+      {
+        "height": 270,
+        "media_key": "3_2010863888548724736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gGDXibgAADvTJ.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010863762161676289",
+            "3_2010863773377294336",
+            "3_2010863850737065985",
+            "3_2010863888548724736"
+          ],
+          "media_source_tweet_id": [
+            "2010864050591195575",
+            "2010864050591195575",
+            "2010864050591195575",
+            "2010864050591195575"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898463822381057",
+              "name": "Racing games"
+            }
+          }
+        ],
+        "conversation_id": "2010944872967237907",
+        "created_at": "2026-01-13T05:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010944872967237907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "ForzaHorizon6",
+              "probability": 0.9527,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 55,
+              "tag": "ForzaHorizon6"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "534903006",
+              "start": 3,
+              "username": "ForzaHorizon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 93,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863762161676289",
+              "start": 70,
+              "url": "https://t.co/9I4klTydky"
+            },
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 93,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863773377294336",
+              "start": 70,
+              "url": "https://t.co/9I4klTydky"
+            },
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 93,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863850737065985",
+              "start": 70,
+              "url": "https://t.co/9I4klTydky"
+            },
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 93,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863888548724736",
+              "start": 70,
+              "url": "https://t.co/9I4klTydky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010944872967237907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010864050591195575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForzaHorizon: Tap to reveal your next destination. #ForzaHorizon6 https://t.co/9I4klTydky"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010863762161676289",
+            "3_2010863773377294336",
+            "3_2010863850737065985",
+            "3_2010863888548724736"
+          ]
+        },
+        "author_id": "534903006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898463822381057",
+              "name": "Racing games"
+            }
+          }
+        ],
+        "conversation_id": "2010864050591195575",
+        "created_at": "2026-01-12T23:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T00:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010864050591195575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "ForzaHorizon6",
+              "probability": 0.9608,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 37,
+              "tag": "ForzaHorizon6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 75,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863762161676289",
+              "start": 52,
+              "url": "https://t.co/9I4klTydky"
+            },
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 75,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863773377294336",
+              "start": 52,
+              "url": "https://t.co/9I4klTydky"
+            },
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 75,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863850737065985",
+              "start": 52,
+              "url": "https://t.co/9I4klTydky"
+            },
+            {
+              "display_url": "pic.x.com/9I4klTydky",
+              "end": 75,
+              "expanded_url": "https://x.com/ForzaHorizon/status/2010864050591195575/photo/1",
+              "media_key": "3_2010863888548724736",
+              "start": 52,
+              "url": "https://t.co/9I4klTydky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010864050591195575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 37,
+                "tag": "ForzaHorizon6"
+              }
+            ]
+          },
+          "text": "Tap to reveal your next destination. #ForzaHorizon6"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 692787,
+          "like_count": 10154,
+          "quote_count": 104,
+          "reply_count": 160,
+          "retweet_count": 653
+        },
+        "reply_settings": "everyone",
+        "text": "Tap to reveal your next destination. #ForzaHorizon6 https://t.co/9I4klTydky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 2222,
+          "like_count": 27422,
+          "listed_count": 9,
+          "media_count": 1315,
+          "tweet_count": 5990
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-23T23:43:00.000Z",
+        "description": "Forza Horizon 6 is going to Japan in 2026! Get ready to discover breathtaking landscapes and become a racing Legend. Wishlist now on Xbox and Steam!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/forzahorizonof…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/forzahorizonofficial",
+                "start": 0,
+                "url": "https://t.co/MAEPeraSiF"
+              }
+            ]
+          }
+        },
+        "id": "534903006",
+        "location": "Horizon Festival Mexico",
+        "name": "Forza Horizon",
+        "pinned_tweet_id": "1971165411119943871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971167477553041408/yCPvv9Uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429760,
+          "following_count": 257,
+          "like_count": 16600,
+          "listed_count": 886,
+          "media_count": 3603,
+          "tweet_count": 7737
+        },
+        "url": "https://t.co/MAEPeraSiF",
+        "username": "ForzaHorizon",
+        "verified": true
+      }
+    ]
+  }
+}
