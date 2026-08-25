@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2090056170367279284",
+    "created_at": "2026-08-19T12:47:53.000Z",
+    "display_text_range": [
+      23,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090058170349883435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        },
+        {
+          "end": 22,
+          "id": "1613079089879076864",
+          "start": 15,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090058170349883435",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090056170367279284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ @YunJiu xmnmxql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090056130877968384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFe-jmb0AAxKiI.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090056130882162689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFe-jnb0AEaFfK.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090056130911514624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFe-jubsAAcpB3.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2090056170367279284",
+        "created_at": "2026-08-19T12:47:53.000Z",
+        "display_text_range": [
+          23,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090058170349883435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            },
+            {
+              "end": 22,
+              "id": "1613079089879076864",
+              "start": 15,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090058170349883435",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090056170367279284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ @YunJiu xmnmxql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090056130877968384",
+            "3_2090056130882162689",
+            "3_2090056130911514624"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2090056170367279284",
+        "created_at": "2026-08-19T12:39:57.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090056170367279284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613079089879076864",
+              "start": 5,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggGMXeSEh0",
+              "end": 42,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2090056170367279284/photo/1",
+              "media_key": "3_2090056130877968384",
+              "start": 19,
+              "url": "https://t.co/ggGMXeSEh0"
+            },
+            {
+              "display_url": "pic.x.com/ggGMXeSEh0",
+              "end": 42,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2090056170367279284/photo/1",
+              "media_key": "3_2090056130882162689",
+              "start": 19,
+              "url": "https://t.co/ggGMXeSEh0"
+            },
+            {
+              "display_url": "pic.x.com/ggGMXeSEh0",
+              "end": 42,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2090056170367279284/photo/1",
+              "media_key": "3_2090056130911514624",
+              "start": 19,
+              "url": "https://t.co/ggGMXeSEh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090056170367279284",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090056130877968384"
+          },
+          {
+            "media_key": "3_2090056130882162689"
+          },
+          {
+            "media_key": "3_2090056130911514624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕节跟 @YunJiu 甜蜜晚餐🥰 https://t.co/ggGMXeSEh0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2090058170349883435",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6869,
+          "following_count": 3245,
+          "like_count": 60426,
+          "listed_count": 22,
+          "media_count": 3914,
+          "tweet_count": 15551
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "8.14 香港RAS 🇭🇰 / Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eap0XQ"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2090056170367279284",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144143792/1767320896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5316,
+          "following_count": 1456,
+          "like_count": 19537,
+          "listed_count": 32,
+          "media_count": 11086,
+          "tweet_count": 51099
+        },
+        "url": "https://t.co/bAk8eap0XQ",
+        "username": "__Crazy_Kid__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090054656642928954",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1772420117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106919,
+          "following_count": 817,
+          "like_count": 37605,
+          "listed_count": 299,
+          "media_count": 20905,
+          "tweet_count": 29586
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

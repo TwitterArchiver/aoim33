@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2088883718786306336",
+    "created_at": "2026-08-16T07:01:02.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088883718786306336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "487312107",
+          "start": 3,
+          "username": "Weixin_WeChat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/telegram/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/telegram/status/2088883456143134909",
+          "start": 18,
+          "url": "https://t.co/AuIwPb1rjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088883718786306336",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088883456143134909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "cc @Weixin_WeChat https://t.co/AuIwPb1rjp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87295,
+        "height": 796,
+        "media_key": "13_2088744994815250432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088744994815250432/img/TRQhN4hwOR-m5z2z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088744994815250432/vid/avc1/650x270/DOVYYcR18r_uCwou.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088744994815250432/vid/avc1/1736x720/RyyiehzV1vJlg2jE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088744994815250432/vid/avc1/1920x796/MMBFn5NKNV_JYw57.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088744994815250432/vid/avc1/868x360/tzbby25deNQMrPvz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088744994815250432/pl/YwVQfIQVoPepUZak.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2088883718786306336",
+        "created_at": "2026-08-16T07:01:02.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088883718786306336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "487312107",
+              "start": 3,
+              "username": "Weixin_WeChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/telegram/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/telegram/status/2088883456143134909",
+              "start": 18,
+              "url": "https://t.co/AuIwPb1rjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088883718786306336",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088883456143134909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "cc @Weixin_WeChat https://t.co/AuIwPb1rjp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088744994815250432"
+          ]
+        },
+        "author_id": "1689053928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088883456143134909",
+        "created_at": "2026-08-16T07:00:00.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088883456143134909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWBIyhWzfh",
+              "end": 72,
+              "expanded_url": "https://x.com/telegram/status/2088883456143134909/video/1",
+              "media_key": "13_2088744994815250432",
+              "start": 49,
+              "url": "https://t.co/OWBIyhWzfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088883456143134909",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2088744994815250432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3465,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "never trust green apps\nfollow the white airplane https://t.co/OWBIyhWzfh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2088883718786306336",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6824,
+          "following_count": 3236,
+          "like_count": 59912,
+          "listed_count": 22,
+          "media_count": 3881,
+          "tweet_count": 15454
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-21T19:47:05.000Z",
+        "description": "Simple, fast, secure – and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.org",
+                "end": 23,
+                "expanded_url": "http://telegram.org",
+                "start": 0,
+                "url": "https://t.co/zHAc9lSFz6"
+              }
+            ]
+          }
+        },
+        "id": "1689053928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088883456143134909",
+        "name": "Telegram Messenger",
+        "pinned_tweet_id": "2082725083655950523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689053928/1783971691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013963,
+          "following_count": 10,
+          "like_count": 6896,
+          "listed_count": 4578,
+          "media_count": 4178,
+          "tweet_count": 51670
+        },
+        "url": "https://t.co/zHAc9lSFz6",
+        "username": "telegram",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-09T07:11:48.000Z",
+        "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.wechat.com",
+                "end": 71,
+                "expanded_url": "http://help.wechat.com",
+                "start": 48,
+                "url": "https://t.co/77y9vdUrF0"
+              },
+              {
+                "display_url": "bit.ly/1M1vkoG",
+                "end": 111,
+                "expanded_url": "http://bit.ly/1M1vkoG",
+                "start": 88,
+                "url": "https://t.co/dYDENLn6Lv"
+              },
+              {
+                "display_url": "bit.ly/1uGE7n0",
+                "end": 145,
+                "expanded_url": "http://bit.ly/1uGE7n0",
+                "start": 122,
+                "url": "https://t.co/VLnFJdawAE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wechat.com/en",
+                "end": 22,
+                "expanded_url": "http://www.wechat.com/en",
+                "start": 0,
+                "url": "http://t.co/3VuclYcOlQ"
+              }
+            ]
+          }
+        },
+        "id": "487312107",
+        "is_identity_verified": false,
+        "location": "Worldwide",
+        "most_recent_tweet_id": "2087735821856338135",
+        "name": "WeChat",
+        "pinned_tweet_id": "2039651808633815454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/487312107/1768910425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013582372524933120/LyGYhtIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255961,
+          "following_count": 24,
+          "like_count": 570,
+          "listed_count": 734,
+          "media_count": 791,
+          "tweet_count": 3391
+        },
+        "url": "http://t.co/3VuclYcOlQ",
+        "username": "Weixin_WeChat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

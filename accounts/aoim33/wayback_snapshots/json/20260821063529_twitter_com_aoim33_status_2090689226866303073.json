@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089731543006613504",
+          "name": "test (us,en)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732538029793280",
+          "name": "test (other,en)"
+        }
+      }
+    ],
+    "conversation_id": "2090689226866303073",
+    "created_at": "2026-08-21T06:35:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090689226866303073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044584824535429120",
+          "start": 3,
+          "username": "Apodex_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090689226866303073",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 544
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090126841478811789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apodex_AI: Most AI benchmarks test retrieval — can a model find the known answer? However, the hardest problems in science require disc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78080,
+        "height": 1080,
+        "media_key": "13_2090126038697492480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090126038697492480/img/3qJMHYhmDivjb4jL.jpg",
+        "public_metrics": {
+          "view_count": 52947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090126038697492480/pl/FYyMFoKNMhKkza7X.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090126038697492480/vid/avc1/480x270/ZWbotfERqBNS2P_Z.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090126038697492480/vid/avc1/1920x1080/ViRcdAfWDv8NkCKV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090126038697492480/vid/avc1/640x360/UyfNAD1gT8Fa2aPw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090126038697492480/vid/avc1/1280x720/moG4qLoSD9IaS2gq.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2090689226866303073",
+        "created_at": "2026-08-21T06:35:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090689226866303073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044584824535429120",
+              "start": 3,
+              "username": "Apodex_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090689226866303073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 544
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090126841478811789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apodex_AI: Most AI benchmarks test retrieval — can a model find the known answer? However, the hardest problems in science require disc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090126038697492480"
+          ]
+        },
+        "author_id": "2044584824535429120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2090126841478811789",
+        "created_at": "2026-08-19T17:20:46.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090126841478811789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpTNHX6tzz",
+              "end": 300,
+              "expanded_url": "https://x.com/Apodex_AI/status/2090126841478811789/video/1",
+              "media_key": "13_2090126038697492480",
+              "start": 277,
+              "url": "https://t.co/rpTNHX6tzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090126841478811789",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090126038697492480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 408,
+                "id": "2002601653074341890",
+                "start": 394,
+                "username": "tianqiao_chen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "traces.apodex.com",
+                "end": 658,
+                "expanded_url": "https://traces.apodex.com/",
+                "start": 635,
+                "url": "https://t.co/iJ5rDV6qz9"
+              }
+            ]
+          },
+          "text": "Most AI benchmarks test retrieval — can a model find the known answer? However, the hardest problems in science require discovery, can a system earn an answer nobody has yet?\n\nMeet TRACES 🧭 — the world's first benchmark for measuring discoverative AI: AI that can work through evidence, test hypotheses, and reach verifiable conclusions on problems without answer keys. Proposed by our founder @tianqiao_chen, who defined its six capabilities.\n\nThree things published today: a definition of \"discoverative intelligence\", a rubric to tell sound investigation from lucky guesses, and a open call for both solvers and problems\n*Website:  https://t.co/iJ5rDV6qz9"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 1132811,
+          "like_count": 758,
+          "quote_count": 282,
+          "reply_count": 422,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "Most AI benchmarks test retrieval — can a model find the known answer? However, the hardest problems in science require discovery, can a system earn an answer nobody has yet?\n\nMeet TRACES 🧭 — the world's first benchmark for measuring discoverative AI: AI that can work through https://t.co/rpTNHX6tzz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2090689226866303073",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6901,
+          "following_count": 3250,
+          "like_count": 60701,
+          "listed_count": 23,
+          "media_count": 3938,
+          "tweet_count": 15608
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T01:13:25.000Z",
+        "description": "The World's First Self-Evolving Heavy-Duty Solver\nTry: https://t.co/AxyXwFyUUD • https://t.co/vKq0rcX7R3 • https://t.co/fSgXwKhshx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apodex.ai",
+                "end": 78,
+                "expanded_url": "http://www.apodex.ai",
+                "start": 55,
+                "url": "https://t.co/AxyXwFyUUD"
+              },
+              {
+                "display_url": "huggingface.co/apodex",
+                "end": 104,
+                "expanded_url": "http://huggingface.co/apodex",
+                "start": 81,
+                "url": "https://t.co/vKq0rcX7R3"
+              },
+              {
+                "display_url": "discord.gg/TDJA59TCng",
+                "end": 130,
+                "expanded_url": "http://discord.gg/TDJA59TCng",
+                "start": 107,
+                "url": "https://t.co/fSgXwKhshx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apodex.com",
+                "end": 23,
+                "expanded_url": "http://www.apodex.com",
+                "start": 0,
+                "url": "https://t.co/RhvjeyIGdO"
+              }
+            ]
+          }
+        },
+        "id": "2044584824535429120",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2090681229670830542",
+        "name": "Apodex",
+        "pinned_tweet_id": "2090126841478811789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044584824535429120/1779950470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059991237273501696/HS3UBNas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 208,
+          "like_count": 945,
+          "listed_count": 18,
+          "media_count": 26,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/RhvjeyIGdO",
+        "username": "Apodex_AI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

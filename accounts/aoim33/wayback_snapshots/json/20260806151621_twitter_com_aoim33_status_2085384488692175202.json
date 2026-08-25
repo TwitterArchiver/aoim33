@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2085384488692175202",
+    "created_at": "2026-08-06T15:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085384488692175202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lawvinx/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/lawvinx/status/2084951906833830303",
+          "start": 19,
+          "url": "https://t.co/dybwovRutS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085384488692175202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084951906833830303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "费用贵的要死，建议走投无路的时候使用 https://t.co/dybwovRutS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1565,
+        "media_key": "3_2084951899061800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO88tKVa0AAZ8lw.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2085384488692175202",
+        "created_at": "2026-08-06T15:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085384488692175202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lawvinx/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/lawvinx/status/2084951906833830303",
+              "start": 19,
+              "url": "https://t.co/dybwovRutS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085384488692175202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084951906833830303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "费用贵的要死，建议走投无路的时候使用 https://t.co/dybwovRutS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084951899061800960"
+          ]
+        },
+        "author_id": "2042322908266029056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2084951906833830303",
+        "created_at": "2026-08-05T10:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084951906833830303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uoELy4U4Y",
+              "end": 177,
+              "expanded_url": "https://x.com/lawvinx/status/2084951906833830303/photo/1",
+              "media_key": "3_2084951899061800960",
+              "start": 154,
+              "url": "https://t.co/4uoELy4U4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084951906833830303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 9656,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "杜高斯贝推出全新APP \n\n特色介绍:\n-订购和管理 维萨(Visa)、万事达(Mastercard) 或银联卡，虚拟卡或实体卡。\n\n-通过快速、便捷的国际支付方式进行跨境资金转移。\n\n-以具备竞争力的汇率兑换货币,以及全天候进行投资交易。\n\n-一个多语言支持团队全天候24小时通过安全加密的聊天提供服务。 https://t.co/4uoELy4U4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6762,
+          "following_count": 3192,
+          "like_count": 58606,
+          "listed_count": 21,
+          "media_count": 3796,
+          "tweet_count": 15229
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T19:25:27.000Z",
+        "description": "Member of \n@PKUBlockchain | @MetaeraCN Columnist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "PKUBlockchain"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "MetaeraCN"
+              }
+            ]
+          }
+        },
+        "id": "2042322908266029056",
+        "name": "Lawvin",
+        "pinned_tweet_id": "2068192379245560078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042323020509790208/IBUhl1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 2319,
+          "like_count": 7383,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 7056
+        },
+        "url": "",
+        "username": "lawvinx",
+        "verified": true
+      }
+    ]
+  }
+}

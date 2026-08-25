@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083088336684797952"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "conversation_id": "2083088347434778955",
+    "created_at": "2026-07-31T07:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083088347434778955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7DsVaC3Qs",
+          "end": 50,
+          "expanded_url": "https://x.com/aoim33/status/2083088347434778955/photo/1",
+          "media_key": "3_2083088336684797952",
+          "start": 27,
+          "url": "https://t.co/s7DsVaC3Qs"
+        },
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/aoim33/status/2083080393306309037",
+          "start": 51,
+          "url": "https://t.co/63ivZnJ3hA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083088347434778955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083080393306309037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "元のツイートは削除されましたためスクショで記録します https://t.co/s7DsVaC3Qs https://t.co/63ivZnJ3hA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083088336684797952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOidzjfbUAARZM5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083088336684797952"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2083088347434778955",
+        "created_at": "2026-07-31T07:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083088347434778955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7DsVaC3Qs",
+              "end": 50,
+              "expanded_url": "https://x.com/aoim33/status/2083088347434778955/photo/1",
+              "media_key": "3_2083088336684797952",
+              "start": 27,
+              "url": "https://t.co/s7DsVaC3Qs"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/aoim33/status/2083080393306309037",
+              "start": 51,
+              "url": "https://t.co/63ivZnJ3hA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083088347434778955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083080393306309037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "元のツイートは削除されましたためスクショで記録します https://t.co/s7DsVaC3Qs https://t.co/63ivZnJ3hA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2083080393306309037",
+        "created_at": "2026-07-31T06:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:38:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083079902937678259",
+          "2083080393306309037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yottan20001202…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/yottan20001202/status/2083077391791067637",
+              "start": 44,
+              "url": "https://t.co/B9ECICOU9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083080393306309037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083077391791067637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "このコメントはコミュニティガイドラインを違反するため非表示にしました。\n\n詳細はこちら https://t.co/B9ECICOU9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "语言学 🧊  / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6641,
+          "following_count": 3176,
+          "like_count": 57829,
+          "listed_count": 22,
+          "media_count": 3740,
+          "tweet_count": 15085
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

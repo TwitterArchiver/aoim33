@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2089628529654923511",
+    "created_at": "2026-08-18T08:20:39.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T09:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089628529654923511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NIUB100/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/NIUB100/status/2089549118041698394",
+          "start": 7,
+          "url": "https://t.co/gWvAwYwbN6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089628529654923511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089549118041698394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是他自己嘛？ https://t.co/gWvAwYwbN6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2089549108432478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-R19zaIAAXUcL.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2089628529654923511",
+        "created_at": "2026-08-18T08:20:39.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089628529654923511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NIUB100/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NIUB100/status/2089549118041698394",
+              "start": 7,
+              "url": "https://t.co/gWvAwYwbN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089628529654923511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089549118041698394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是他自己嘛？ https://t.co/gWvAwYwbN6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089549108432478208"
+          ]
+        },
+        "author_id": "2088162407575433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2089549118041698394",
+        "created_at": "2026-08-18T03:05:06.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089549118041698394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "牛来"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "bnb"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "币安"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tNIlt0Jhq",
+              "end": 118,
+              "expanded_url": "https://x.com/NIUB100/status/2089549118041698394/photo/1",
+              "media_key": "3_2089549108432478208",
+              "start": 95,
+              "url": "https://t.co/1tNIlt0Jhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089549118041698394",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089549108432478208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 160541,
+          "like_count": 372,
+          "quote_count": 51,
+          "reply_count": 520,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是卢本伟。\n\n墙内全平台封杀之后，我选择入驻 X。\n\n我是一个娱乐主播，也很爱研究加密货币。\n如果欢迎，大家可以关注我。\n伞兵一号卢本伟，已经准备就绪！\n#牛来 #bnb #币安 https://t.co/1tNIlt0Jhq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2089628529654923511",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6841,
+          "following_count": 3248,
+          "like_count": 60283,
+          "listed_count": 22,
+          "media_count": 3903,
+          "tweet_count": 15525
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T07:16:13.000Z",
+        "description": "卢本伟，国内全平台封杀。\n刚入驻X平台，希望在这里和大家认识。\n跟我一起喊:卢本伟🐮B",
+        "id": "2088162407575433216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089567662561263861",
+        "name": "卢本伟-🐮B",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088162407575433216/1786973556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089344646673788928/vc9KsXDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 28,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "NIUB100",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
