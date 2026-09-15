@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093219242913255424"
+      ],
+      "media_source_tweet_id": [
+        "2093222832520192000"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2093294854600290376",
+    "created_at": "2026-08-28T11:09:19.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093294854600290376"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 60,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4855461807",
+          "start": 3,
+          "username": "Aurilyus124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MuV5AAVFV",
+          "end": 95,
+          "expanded_url": "https://x.com/Aurilyus124/status/2093222832520192000/video/1",
+          "media_key": "13_2093219242913255424",
+          "start": 72,
+          "url": "https://t.co/3MuV5AAVFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093294854600290376",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2093219242913255424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093222832520192000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aurilyus124: \"I will be there to help you stand again.\" #arcaea_art https://t.co/3MuV5AAVFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4010,
+        "height": 1080,
+        "media_key": "13_2093219242913255424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093219242913255424/img/kbAZECKIMI6OAh0g.jpg",
+        "public_metrics": {
+          "view_count": 2421
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093219242913255424/vid/avc1/480x270/cutX4jS4c__otrGd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093219242913255424/vid/avc1/640x360/rIjOKw_04s93WC4q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093219242913255424/vid/avc1/1280x720/wEcjB0W_FyaoIpvk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093219242913255424/pl/xyPxiJHuqwr1gH5B.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093219242913255424"
+          ],
+          "media_source_tweet_id": [
+            "2093222832520192000"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2093294854600290376",
+        "created_at": "2026-08-28T11:09:19.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093294854600290376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 60,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4855461807",
+              "start": 3,
+              "username": "Aurilyus124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MuV5AAVFV",
+              "end": 95,
+              "expanded_url": "https://x.com/Aurilyus124/status/2093222832520192000/video/1",
+              "media_key": "13_2093219242913255424",
+              "start": 72,
+              "url": "https://t.co/3MuV5AAVFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093294854600290376",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093219242913255424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093222832520192000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aurilyus124: \"I will be there to help you stand again.\" #arcaea_art https://t.co/3MuV5AAVFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093219242913255424"
+          ]
+        },
+        "author_id": "4855461807",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2093222832520192000",
+        "created_at": "2026-08-28T06:23:08.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093222832520192000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 43,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MuV5AAVFV",
+              "end": 78,
+              "expanded_url": "https://x.com/Aurilyus124/status/2093222832520192000/video/1",
+              "media_key": "13_2093219242913255424",
+              "start": 55,
+              "url": "https://t.co/3MuV5AAVFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093222832520192000",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093219242913255424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 5201,
+          "like_count": 547,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "\"I will be there to help you stand again.\" #arcaea_art https://t.co/3MuV5AAVFV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2093294854600290376",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6939,
+          "following_count": 3259,
+          "like_count": 61575,
+          "listed_count": 23,
+          "media_count": 4012,
+          "tweet_count": 15799
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-28T00:31:18.000Z",
+        "description": "✧ illustration, animation\n✧ do not use or reupload my work (ask me!)\n✧ portfolio: https://t.co/jggipJdzy8\n✧ cms: https://t.co/ZlxSut5YHI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aurilyus.carrd.co",
+                "end": 105,
+                "expanded_url": "https://aurilyus.carrd.co/",
+                "start": 82,
+                "url": "https://t.co/jggipJdzy8"
+              },
+              {
+                "display_url": "vgen.co/Aurilyus124",
+                "end": 136,
+                "expanded_url": "https://vgen.co/Aurilyus124",
+                "start": 113,
+                "url": "https://t.co/ZlxSut5YHI"
+              }
+            ]
+          }
+        },
+        "id": "4855461807",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093228354069725225",
+        "name": "Aurilyus ✦",
+        "pinned_tweet_id": "2084086898654695925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4855461807/1785979122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087347985164402688/0Z5CVnU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 643,
+          "like_count": 187815,
+          "listed_count": 4,
+          "media_count": 1587,
+          "tweet_count": 14628
+        },
+        "url": "",
+        "username": "Aurilyus124",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

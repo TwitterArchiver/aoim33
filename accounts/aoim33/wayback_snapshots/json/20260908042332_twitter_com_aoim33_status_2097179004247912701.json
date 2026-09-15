@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2097169425128657036",
+    "created_at": "2026-09-08T04:23:32.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097179004247912701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097179004247912701",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097169425128657036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 你怎么还下载安装了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097169414848479233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqkeLXbgAEBxv7.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097169414840057856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqkeLVbAAAkn3J.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2097169425128657036",
+        "created_at": "2026-09-08T04:23:32.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097179004247912701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097179004247912701",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097169425128657036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 你怎么还下载安装了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097169414848479233",
+            "3_2097169414840057856"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2097169425128657036",
+        "created_at": "2026-09-08T03:45:29.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097169425128657036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urJztDgiB1",
+              "end": 55,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+              "media_key": "3_2097169414848479233",
+              "start": 32,
+              "url": "https://t.co/urJztDgiB1"
+            },
+            {
+              "display_url": "pic.x.com/urJztDgiB1",
+              "end": 55,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+              "media_key": "3_2097169414840057856",
+              "start": 32,
+              "url": "https://t.co/urJztDgiB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097169425128657036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097169414848479233"
+          },
+          {
+            "media_key": "3_2097169414840057856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在才知道，学习强国在 App Store 里是没有评分系统的 https://t.co/urJztDgiB1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2097179004247912701",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7056,
+          "following_count": 3286,
+          "like_count": 63384,
+          "listed_count": 23,
+          "media_count": 4150,
+          "tweet_count": 16151
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心\nBuilding https://t.co/7U2e6cCH9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maimai-net.cn",
+                "end": 139,
+                "expanded_url": "https://maimai-net.cn/",
+                "start": 116,
+                "url": "https://t.co/7U2e6cCH9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eap0XQ"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2097176338344169657",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144143792/1767320896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5341,
+          "following_count": 1464,
+          "like_count": 19645,
+          "listed_count": 32,
+          "media_count": 11162,
+          "tweet_count": 51393
+        },
+        "url": "https://t.co/bAk8eap0XQ",
+        "username": "__Crazy_Kid__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

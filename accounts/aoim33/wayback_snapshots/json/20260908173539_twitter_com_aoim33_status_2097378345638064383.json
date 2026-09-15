@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2097354667978277065",
+    "created_at": "2026-09-08T17:35:39.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097378345638064383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2279407860",
+          "start": 0,
+          "username": "bailyLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097378345638064383",
+    "in_reply_to_user_id": "2279407860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097354667978277065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailyLU 我突然发现我居然会西班牙语了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097354656246816768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtM8pWaYAAsrwC.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097354656238501888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtM8pUbgAAhV_g.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2097354667978277065",
+        "created_at": "2026-09-08T17:35:39.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097378345638064383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2279407860",
+              "start": 0,
+              "username": "bailyLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097378345638064383",
+        "in_reply_to_user_id": "2279407860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097354667978277065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailyLU 我突然发现我居然会西班牙语了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097354656246816768",
+            "3_2097354656238501888"
+          ]
+        },
+        "author_id": "2279407860",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026450524",
+              "name": "Chase"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027310982",
+              "name": "Wells Fargo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2097354667978277065",
+        "created_at": "2026-09-08T16:01:34.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097354667978277065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoNBvGwC1L",
+              "end": 59,
+              "expanded_url": "https://x.com/bailyLU/status/2097354667978277065/photo/1",
+              "media_key": "3_2097354656246816768",
+              "start": 36,
+              "url": "https://t.co/eoNBvGwC1L"
+            },
+            {
+              "display_url": "pic.x.com/eoNBvGwC1L",
+              "end": 59,
+              "expanded_url": "https://x.com/bailyLU/status/2097354667978277065/photo/1",
+              "media_key": "3_2097354656238501888",
+              "start": 36,
+              "url": "https://t.co/eoNBvGwC1L"
+            },
+            {
+              "display_url": "x.com/bailylu/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/bailylu/status/2097175192565088724",
+              "start": 60,
+              "url": "https://t.co/xgDSZykWCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097354667978277065",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097354656246816768"
+          },
+          {
+            "media_key": "3_2097354656238501888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1858,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097175192565088724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一波开户bonus已经到账✌️\n\nchase和wells fargo https://t.co/eoNBvGwC1L https://t.co/xgDSZykWCJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2097378345638064383",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7065,
+          "following_count": 3291,
+          "like_count": 63555,
+          "listed_count": 23,
+          "media_count": 4164,
+          "tweet_count": 16179
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-06T18:00:04.000Z",
+        "description": "🎉 大家好，我是贝利 ✈️ 全球云居民☁️ 让我们一起花费更少，享受更好 📍 机票｜酒店｜信用卡｜数码科技 🍎主业留学移民工作（EU）💳 研究信用卡积分、省钱玩法 & 旅行黑科技 👥 社群｜知识星球：「贝利和他的小伙伴们」 📬 联络我：bailylu@icloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baily.life",
+                "end": 23,
+                "expanded_url": "http://baily.life",
+                "start": 0,
+                "url": "https://t.co/uk7nmQ1sDP"
+              }
+            ]
+          }
+        },
+        "id": "2279407860",
+        "is_identity_verified": true,
+        "location": "Seattle, WA",
+        "most_recent_tweet_id": "2097376596764344710",
+        "name": "贝利Baily",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2279407860/1728200678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987211914146160645/NFElt4XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18670,
+          "following_count": 1043,
+          "like_count": 6701,
+          "listed_count": 66,
+          "media_count": 1916,
+          "tweet_count": 7458
+        },
+        "url": "https://t.co/uk7nmQ1sDP",
+        "username": "bailyLU",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

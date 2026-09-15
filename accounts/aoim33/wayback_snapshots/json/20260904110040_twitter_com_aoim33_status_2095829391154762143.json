@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2095829391154762143",
+    "created_at": "2026-09-04T11:00:40.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095829391154762143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521778871204401152",
+          "start": 3,
+          "username": "Woruha3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095829391154762143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095829286787878966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Woruha3: 写了哲学的一些脑子里想的东西 然后奴役grok给我改了一些语法错误并且gpt翻译了中文（grok的翻译让我浑身刺挠所以翻译给了gpt）\n译文在下面\n\r精神世界、実世界、共識論。\n人間にとって、二つの世界がある。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2095829391154762143",
+        "created_at": "2026-09-04T11:00:40.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095829391154762143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521778871204401152",
+              "start": 3,
+              "username": "Woruha3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095829391154762143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095829286787878966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Woruha3: 写了哲学的一些脑子里想的东西 然后奴役grok给我改了一些语法错误并且gpt翻译了中文（grok的翻译让我浑身刺挠所以翻译给了gpt）\n译文在下面\n\r精神世界、実世界、共識論。\n人間にとって、二つの世界がある。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521778871204401152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2095829286787878966",
+        "created_at": "2026-09-04T11:00:15.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095829286787878966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095829286787878966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "写了哲学的一些脑子里想的东西 然后奴役grok给我改了一些语法错误并且gpt翻译了中文（grok的翻译让我浑身刺挠所以翻译给了gpt）\n译文在下面\n\r精神世界、実世界、共識論。\n人間にとって、二つの世界がある。\nそれは精神世界と実世界。精神世界には感情、思想、記憶などがある、これに対して実世界には「客観的」に存在するものがある、と言っても、実際に人間は、精神世界に滲み込んだ実世界しか感覚できない。つまりで実世界に精神世界の「フィルター」がついている。そのゆえに、人間は実世界そのものに接触できない。\nだけど、人間は間主観性によって精神世界をもとに実世界を共有し、共通認識を形成できる。というわけで、一旦精神世界に異常が生じたら、その人の側で間主観性が崩れ、実世界という共通認識もくずれていく。精神世界が強すぎると、実世界の在り処を占有してしまう。そして、幻覚、妄想などが次々に生じる。パソコンでも、メモリが足りなければラグが起きたり、解像度が落ちたり、フリーズしたり、ブルースクリーンになったりするように、実世界もそうである。\nそれに、実世界が精神世界に取り囲まれているので、精神世界は共通認識としての実世界を操作・変換できる。人によって、実世界はそれぞれ固有の歪みを持っている。その操作・変換は無意識のうちに行ってしまうので、大体自分では自覚できないし、徹底的に信じてしまうことも少なくない。このとき、共通認識においては正確なものだとしても、その人は嘘だと思う、甚だしきに至っては何も信じられなくなる。\n感情は、感覚した実世界の上で生じたものなので、実世界の周りに生まれている。もし実世界で刺激を受けたら、感覚も過敏になり、最終的に感情に棘が生じる。精神世界は自分を保護するために、実世界を自分の中心から離すので、解離が生じる。離れすぎると、精神世界も一緒に離れてしまい、ほかの人格が生じる。\n精神世界に沈みすぎると、実世界さえも見えなくなる。逆に、実世界ばかりを見ていると、精神世界は膨大な実世界に在り処を圧迫され、思考も感情も放棄して麻痺していく。実世界を見ないことを選ぶと、精神世界は満ち溢れていく。その過剰が芸術の源になることもある。\n\n精神世界、现实世界、共识论。\n\n对于人类而言，存在着两个世界。\n\n一个是精神世界，一个是现实世界。精神世界中存在着感情、思想、记忆等等；与之相对，现实世界中存在着那些「客观」存在的事物。然而，即便如此，人类实际上也只能感知那些已经渗入精神世界的现实世界。也就是说，现实世界始终附带着精神世界的「滤镜」。正因为如此，人类无法直接接触现实世界本身。\n\n但是，人类能够通过间主观性（間主観性），以精神世界为基础彼此共享现实世界，并形成共同认识。因此，一旦精神世界发生异常，一个人这一侧的间主观性便会崩溃，作为共同认识的现实世界也会随之崩解。当精神世界过于强烈时，它甚至会占据现实世界原本所在的位置。于是，幻觉、妄想等现象便会接连产生。就像电脑在内存不足时会出现卡顿、分辨率下降、死机，甚至蓝屏一样，现实世界也会发生类似的情况。\n\n而且，由于现实世界被精神世界包围，精神世界能够以共同认识为基础，对现实世界进行操作与转换。现实世界对于每个人而言，都具有各自固有的扭曲。这种操作与转换是在无意识中进行的，因此本人通常无法意识到它，甚至很容易彻底相信它是真实的。此时，即使某件事在共同认识中是准确的，对这个人而言却可能会被认为是谎言；甚至到了极端的程度，最终可能变得什么都无法相信。\n\n感情是在对被感知到的现实世界进行体验之后产生的，因此它诞生于现实世界的周围。如果在现实世界中受到刺激，使感知本身也变得过度敏感，最终感情便会长出「刺」。精神世界为了保护自己，会将现实世界从自己的中心推离，于是便产生了解离。如果推离得太远，连精神世界本身也会一同被推离，于是便产生了其他人格。\n\n如果沉入精神世界太深，甚至连现实世界都无法看见。反过来，如果只注视现实世界，精神世界便会被庞大的现实世界压迫到无处容身，思考与感情也会被放弃，最终变得麻木。如果选择不去看现实世界，精神世界便会不断充盈。而这种过剩，有时也会成为艺术的源泉。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "写了哲学的一些脑子里想的东西 然后奴役grok给我改了一些语法错误并且gpt翻译了中文（grok的翻译让我浑身刺挠所以翻译给了gpt）\n译文在下面\n\r精神世界、実世界、共識論。\n人間にとって、二つの世界がある。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2095829391154762143",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7008,
+          "following_count": 3274,
+          "like_count": 62829,
+          "listed_count": 23,
+          "media_count": 4104,
+          "tweet_count": 16029
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-04T09:08:59.000Z",
+        "description": "=Woruha/陌喵｜#ADHD #ASD｜#ヒトリエ #VOCALOID｜CN JP EN｜無断転載AI ✖️｜无性别（#agender）\n互关｜里账：@doro_junk\n上海からの留学生｜@Hanafubuki_1101大好き❤🐱 bilibili動画:https://t.co/3gml7Y5NsF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "ADHD"
+              },
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "ASD"
+              },
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "ヒトリエ"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "tag": "VOCALOID"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "agender"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "doro_junk"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "Hanafubuki_1101"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/MtKEL1s",
+                "end": 153,
+                "expanded_url": "http://b23.tv/MtKEL1s",
+                "start": 130,
+                "url": "https://t.co/3gml7Y5NsF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/83449437",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/users/83449437",
+                "start": 0,
+                "url": "https://t.co/d7a4fPz5tb"
+              }
+            ]
+          }
+        },
+        "id": "1521778871204401152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095829286787878966",
+        "name": "Woruha",
+        "pinned_tweet_id": "1937453418098098232",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521778871204401152/1707547835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937447153959596032/DzfDHb1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 2648,
+          "like_count": 21232,
+          "listed_count": 5,
+          "media_count": 759,
+          "tweet_count": 6432
+        },
+        "url": "https://t.co/d7a4fPz5tb",
+        "username": "Woruha3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

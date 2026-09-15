@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089731543006613504",
+          "name": "test (us,en)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732538029793280",
+          "name": "test (other,en)"
+        }
+      }
+    ],
+    "conversation_id": "2092998370847756479",
+    "created_at": "2026-08-27T15:31:12.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092998370847756479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/interjc/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/interjc/status/2092989741235081625",
+          "start": 12,
+          "url": "https://t.co/f4JYvXuZ3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092998370847756479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092989741235081625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我之前考过一次，674 https://t.co/f4JYvXuZ3C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2092989734369087488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvLEwOb0AADuA5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2092998370847756479",
+        "created_at": "2026-08-27T15:31:12.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092998370847756479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/interjc/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/interjc/status/2092989741235081625",
+              "start": 12,
+              "url": "https://t.co/f4JYvXuZ3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092998370847756479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092989741235081625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我之前考过一次，674 https://t.co/f4JYvXuZ3C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092989734369087488"
+          ]
+        },
+        "author_id": "11765952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2092989741235081625",
+        "created_at": "2026-08-27T14:56:54.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092989741235081625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJWQYFUTws",
+              "end": 92,
+              "expanded_url": "https://x.com/interjc/status/2092989741235081625/photo/1",
+              "media_key": "3_2092989734369087488",
+              "start": 69,
+              "url": "https://t.co/gJWQYFUTws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092989741235081625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092989734369087488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享给时间线上晒 N1 满分的同学一个好消息：\n\nN1 考了 180，成功才刚上路，可以接着参加 J.TEST 勇闯 C2\n\n祝君登顶🧗 https://t.co/gJWQYFUTws"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2092998370847756479",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6932,
+          "following_count": 3257,
+          "like_count": 61522,
+          "listed_count": 23,
+          "media_count": 4011,
+          "tweet_count": 15787
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜AIGC｜大阪在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/tRh6VTfOW2"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "is_identity_verified": false,
+        "location": "Osaka, Japan",
+        "most_recent_tweet_id": "2092995621972226146",
+        "name": "Justin",
+        "pinned_tweet_id": "2090279397182058951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11765952/1712804144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31132,
+          "following_count": 2683,
+          "like_count": 100155,
+          "listed_count": 282,
+          "media_count": 4396,
+          "tweet_count": 37788
+        },
+        "url": "https://t.co/tRh6VTfOW2",
+        "username": "interjc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
