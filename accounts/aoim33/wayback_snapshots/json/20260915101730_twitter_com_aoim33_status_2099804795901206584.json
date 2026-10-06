@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2099804667966533680",
+    "created_at": "2026-09-15T10:17:30.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099804795901206584"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099804795901206584",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099804667966533680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "请忽略汉堡本身\n因为它太大了拿起来就塌了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33998,
+        "height": 1920,
+        "media_key": "13_2099803733572100097",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099803733572100097/img/RwlfpTO9oKRx7LtW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099803733572100097/vid/avc1/1080x1920/BOriPMUnC55E9mXv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099803733572100097/vid/avc1/720x1280/AkToLGqejY_xIVBM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099803733572100097/vid/avc1/320x568/q1gic9nBTc38f9-x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099803733572100097/pl/y83ZcQVOfKMJaG9I.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099803733572100097/vid/avc1/480x852/uCJuys8owL3WYzTx.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2099804667966533680",
+        "created_at": "2026-09-15T10:17:30.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099804795901206584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099804795901206584",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099804667966533680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "请忽略汉堡本身\n因为它太大了拿起来就塌了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099803733572100097"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2099804667966533680",
+        "created_at": "2026-09-15T10:16:59.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099804667966533680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NF8hJQUXRo",
+              "end": 49,
+              "expanded_url": "https://x.com/aoim33/status/2099804667966533680/video/1",
+              "media_key": "13_2099803733572100097",
+              "start": 26,
+              "url": "https://t.co/NF8hJQUXRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099804667966533680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099803733572100097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "re 0 的片尾曲一出来我就知道这家汉堡店店主有品 https://t.co/NF8hJQUXRo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️ / 另一个我 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 97,
+                "start": 90,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2099804795901206584",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7101,
+          "following_count": 3337,
+          "like_count": 64991,
+          "listed_count": 24,
+          "media_count": 4242,
+          "tweet_count": 16416
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

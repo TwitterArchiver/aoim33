@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2099718949273501761",
+    "created_at": "2026-09-15T04:36:23.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099718949273501761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2592646267",
+          "start": 3,
+          "username": "riz001400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099718949273501761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099685085297746153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riz001400: 其实挺符合发展心理学的最近发展区理论的。\n真正的学习，就是在既有的基础之上，踮起脚尖抬起手能触碰到。而这不是触碰一下就完成的，需要一直保持这样的动作，当然勉强。\n中文的勉强，在日语里大致可以用“无理（很难做）”表示。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2099718949273501761",
+        "created_at": "2026-09-15T04:36:23.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099718949273501761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2592646267",
+              "start": 3,
+              "username": "riz001400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099718949273501761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099685085297746153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riz001400: 其实挺符合发展心理学的最近发展区理论的。\n真正的学习，就是在既有的基础之上，踮起脚尖抬起手能触碰到。而这不是触碰一下就完成的，需要一直保持这样的动作，当然勉强。\n中文的勉强，在日语里大致可以用“无理（很难做）”表示。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2592646267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2099685085297746153",
+        "created_at": "2026-09-15T02:21:49.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099685085297746153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/dearemon/status/2099430391279218827",
+              "start": 109,
+              "url": "https://t.co/l89tP9O4Cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099685085297746153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099430391279218827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实挺符合发展心理学的最近发展区理论的。\n真正的学习，就是在既有的基础之上，踮起脚尖抬起手能触碰到。而这不是触碰一下就完成的，需要一直保持这样的动作，当然勉强。\n中文的勉强，在日语里大致可以用“无理（很难做）”表示。 https://t.co/l89tP9O4Cy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️ / 另一个我 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 97,
+                "start": 90,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2099718949273501761",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7101,
+          "following_count": 3334,
+          "like_count": 64939,
+          "listed_count": 24,
+          "media_count": 4235,
+          "tweet_count": 16401
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-06-28T06:50:21.000Z",
+        "description": "姑且是个虚拟人类，Eden所属，半死不活中。\n本账号亦为riz中之人即riztech的发言渠道。\n汉语，英语皆可直接对话，日本語の対話はGPTによる変換+Rizの意訳エンジンによる校正によって行われました。。バンドリーマー。\n中国語拼音 and HSK course are opening.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Riztech.xyz",
+                "end": 23,
+                "expanded_url": "http://Riztech.xyz",
+                "start": 0,
+                "url": "https://t.co/NQf5CzTgmz"
+              }
+            ]
+          }
+        },
+        "id": "2592646267",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099714293453431081",
+        "name": "Riz/リズ(=Riztech）@中国語拼音とhsk开課！",
+        "pinned_tweet_id": "2058887807503040611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2592646267/1552381895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486664734430547974/tOO5E35P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 725,
+          "like_count": 4100,
+          "listed_count": 7,
+          "media_count": 77,
+          "tweet_count": 3373
+        },
+        "url": "https://t.co/NQf5CzTgmz",
+        "username": "riz001400",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

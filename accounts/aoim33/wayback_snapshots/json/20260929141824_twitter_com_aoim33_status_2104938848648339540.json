@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1263456476766466049",
+          "name": "Monzo"
+        }
+      }
+    ],
+    "conversation_id": "2104938848648339540",
+    "created_at": "2026-09-29T14:18:24.000Z",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T15:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104938848648339540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/265920953/stat…",
+          "end": 304,
+          "expanded_url": "https://twitter.com/265920953/status/2104935754308751586",
+          "start": 281,
+          "url": "https://t.co/3UXH8nn5GE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104938848648339540",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 879,
+            "start": 873,
+            "tag": "monzo"
+          }
+        ]
+      },
+      "text": "As someone who has always admired the long arc of the oldest economic empire, this kind of selling hits like a quiet shock. It reminds me how quickly the world turns—and how the dreams we once carried can pivot overnight. For me, those dreams were born in my college years, buried in lectures and late-night notes on the European economy: trade routes becoming treaties, institutions built to last, credibility treated like currency.\n\nIn this moment, I can do nothing but watch as they sell their glory—brand by brand, story by story. What once felt like permanence is packaged into a pitch deck, valued in multiples, and handed over with a signature. It’s a reflection of the empire’s modern resurrection in digital banking: sleek, borderless, confident—until the connection is cut, all too suddenly, and the romance of inevitability gives way to the reality of markets.\n\n#monzo"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104935754308751586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "As someone who has always admired the long arc of the oldest economic empire, this kind of selling hits like a quiet shock. It reminds me how quickly the world turns—and how the dreams we once carried can pivot overnight. For me, those dreams were born in my college years, buried https://t.co/3UXH8nn5GE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1263456476766466049",
+              "name": "Monzo"
+            }
+          }
+        ],
+        "conversation_id": "2104938848648339540",
+        "created_at": "2026-09-29T14:18:24.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104938848648339540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/265920953/stat…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/265920953/status/2104935754308751586",
+              "start": 281,
+              "url": "https://t.co/3UXH8nn5GE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104938848648339540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 879,
+                "start": 873,
+                "tag": "monzo"
+              }
+            ]
+          },
+          "text": "As someone who has always admired the long arc of the oldest economic empire, this kind of selling hits like a quiet shock. It reminds me how quickly the world turns—and how the dreams we once carried can pivot overnight. For me, those dreams were born in my college years, buried in lectures and late-night notes on the European economy: trade routes becoming treaties, institutions built to last, credibility treated like currency.\n\nIn this moment, I can do nothing but watch as they sell their glory—brand by brand, story by story. What once felt like permanence is packaged into a pitch deck, valued in multiples, and handed over with a signature. It’s a reflection of the empire’s modern resurrection in digital banking: sleek, borderless, confident—until the connection is cut, all too suddenly, and the romance of inevitability gives way to the reality of markets.\n\n#monzo"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104935754308751586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "As someone who has always admired the long arc of the oldest economic empire, this kind of selling hits like a quiet shock. It reminds me how quickly the world turns—and how the dreams we once carried can pivot overnight. For me, those dreams were born in my college years, buried https://t.co/3UXH8nn5GE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "265920953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1263456476766466049",
+              "name": "Monzo"
+            }
+          }
+        ],
+        "conversation_id": "2104935754308751586",
+        "created_at": "2026-09-29T14:06:06.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104935754308751586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104935754308751586",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Monzo selling for £8–10bn would be mad.\n\nIreland's live, Spain's next, and my money's on Germany after that. To me that doesn't feel like a bank looking to exit. \n\nGive it 2–3 years and they could double their customers, get more deposits, spread across Europe and at that point you value them like Revolut, and the price triples.\n\nYou only sell now if the UK's not working. It clearly is."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Monzo selling for £8–10bn would be mad.\n\nIreland's live, Spain's next, and my money's on Germany after that. To me that doesn't feel like a bank looking to exit. \n\nGive it 2–3 years and they could double their customers, get more deposits, spread across Europe and at that point"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 高中学段教师 / 🇬🇧 🇯🇵 / tg 频道 ⬇️ / 另一个我 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2104938848648339540",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7212,
+          "following_count": 3399,
+          "like_count": 67084,
+          "listed_count": 24,
+          "media_count": 4393,
+          "tweet_count": 16830
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-14T10:35:00.000Z",
+        "description": "Watch the channel 👉 https://t.co/ZHl8bBKkN7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Technically_M…",
+                "end": 43,
+                "expanded_url": "https://www.youtube.com/@Technically_Money",
+                "start": 20,
+                "url": "https://t.co/ZHl8bBKkN7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.technicallymoney.com/discord",
+                "end": 23,
+                "expanded_url": "https://link.technicallymoney.com/discord",
+                "start": 0,
+                "url": "https://t.co/n5Omnzb4Jy"
+              }
+            ]
+          }
+        },
+        "id": "265920953",
+        "is_identity_verified": false,
+        "location": "London",
+        "most_recent_tweet_id": "2104935754308751586",
+        "name": "Jonny Pease",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265920953/1543837993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103495050244026368/e7MQOGrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 84,
+          "like_count": 282,
+          "listed_count": 22,
+          "media_count": 7,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/n5Omnzb4Jy",
+        "username": "JonnyPease",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

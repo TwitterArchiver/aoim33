@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2099783007809016287",
+    "created_at": "2026-09-15T08:50:55.000Z",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099783007809016287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seikatsuhogo_m…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/seikatsuhogo_mu/status/2099471967976112601",
+          "start": 151,
+          "url": "https://t.co/dUcc4Fjfjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099783007809016287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099471967976112601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "日本也出现了用低保买 iPhone Pro 系列手机然后被讨伐的现象\n\n如果这东西真的是他自己省出来的，或者把推特创作者收益和低保一起拼起来得到的话其实没问题吧\n毕竟推特收益如果完税确实属于个人收入，而且在日本用推特合法\n\n所以为什么用低保买 iPhone 这件事情在东亚不受认可但是在欧洲却没问题？ https://t.co/dUcc4Fjfjs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2099471963874115584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLSoK6bwAAVLTR.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2099783007809016287",
+        "created_at": "2026-09-15T08:50:55.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099783007809016287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seikatsuhogo_m…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/seikatsuhogo_mu/status/2099471967976112601",
+              "start": 151,
+              "url": "https://t.co/dUcc4Fjfjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099783007809016287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099471967976112601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "日本也出现了用低保买 iPhone Pro 系列手机然后被讨伐的现象\n\n如果这东西真的是他自己省出来的，或者把推特创作者收益和低保一起拼起来得到的话其实没问题吧\n毕竟推特收益如果完税确实属于个人收入，而且在日本用推特合法\n\n所以为什么用低保买 iPhone 这件事情在东亚不受认可但是在欧洲却没问题？ https://t.co/dUcc4Fjfjs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099471963874115584"
+          ]
+        },
+        "author_id": "1744394626612744192",
+        "conversation_id": "2099471967976112601",
+        "created_at": "2026-09-14T12:14:58.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099471967976112601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fqXCN7A90",
+              "end": 101,
+              "expanded_url": "https://x.com/seikatsuhogo_mu/status/2099471967976112601/photo/1",
+              "media_key": "3_2099471963874115584",
+              "start": 78,
+              "url": "https://t.co/5fqXCN7A90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099471967976112601",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099471963874115584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 1232612,
+          "like_count": 743,
+          "quote_count": 284,
+          "reply_count": 215,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "生活保護でiPhone18 pro買いました\n\n生活保護は貰えるお金が少ないからまともに暮らせないのでは？と不安な人も大丈夫です。安心して申請しましょう！ https://t.co/5fqXCN7A90"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️ / 另一个我 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 97,
+                "start": 90,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2099783007809016287",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7101,
+          "following_count": 3336,
+          "like_count": 64974,
+          "listed_count": 24,
+          "media_count": 4240,
+          "tweet_count": 16412
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-08T16:24:34.000Z",
+        "description": "生活保護受けたい人は支援団体に相談｜26歳男｜就労B型｜精神手帳3級｜積極的優生思想｜ハイスペックな子供を増やして不幸な人を減らそう｜反出生主義｜安楽死｜鬱病｜ASD｜感覚過敏｜音響性外傷｜耳鳴り",
+        "id": "1744394626612744192",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2099774820540125472",
+        "name": "無敵の生活保護",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744394626612744192/1708702606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877267564793077760/CQxVtVFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7075,
+          "following_count": 1303,
+          "like_count": 34730,
+          "listed_count": 93,
+          "media_count": 297,
+          "tweet_count": 4211
+        },
+        "url": "",
+        "username": "seikatsuhogo_mu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

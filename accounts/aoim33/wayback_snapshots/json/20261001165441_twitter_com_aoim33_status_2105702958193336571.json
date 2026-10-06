@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902568136450424832",
+    "conversation_id": "2105693556073771220",
+    "created_at": "2026-10-01T16:54:41.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105702958193336571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699273463465443328",
+          "start": 0,
+          "username": "AmmieColl84391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105702958193336571",
+    "in_reply_to_user_id": "1699273463465443328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105702850051592671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AmmieColl84391 都是泥泞滩涂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2105702850051592671].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2105702850051592671",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2105702850051592671"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2105693556073771220",
+        "created_at": "2026-10-01T16:54:41.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105702958193336571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699273463465443328",
+              "start": 0,
+              "username": "AmmieColl84391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105702958193336571",
+        "in_reply_to_user_id": "1699273463465443328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105702850051592671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AmmieColl84391 都是泥泞滩涂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 高中学段教师 / 🇬🇧 🇯🇵 / tg 频道 ⬇️ / 另一个我 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2105702958193336571",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7227,
+          "following_count": 3416,
+          "like_count": 67441,
+          "listed_count": 24,
+          "media_count": 4417,
+          "tweet_count": 16898
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:05.000Z",
+        "description": "🚼里人格 · 亲友团账号｜ 🌆🔙首都@DurantRaym93677 / 🌠子账户 @AuroraYume｜ \n这里是一个人过家家用的账号 ｜ ⚠️可能会包含无聊的发言、逻辑混乱、自言自语，以及负能或错误的内容哦🥺 跟随该账户代表你接受此类内容⭕️｜ \n📮电邮：ZephyrusLuke@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "AuroraYume"
+              }
+            ]
+          }
+        },
+        "id": "1699273463465443328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1985692556764840345",
+        "name": "五月雨🌧️🇯🇵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273463465443328/1766671782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701877594340438016/jJsS0DtQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 426,
+          "like_count": 4838,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "AmmieColl84391",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

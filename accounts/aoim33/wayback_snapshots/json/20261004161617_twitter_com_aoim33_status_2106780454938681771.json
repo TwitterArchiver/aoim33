@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106772298208628736"
+      ],
+      "media_source_tweet_id": [
+        "2106772322510307557"
+      ]
+    },
+    "author_id": "1902568136450424832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2106780454938681771",
+    "created_at": "2026-10-04T16:16:17.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106780454938681771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bDR8ZMCep",
+          "end": 81,
+          "expanded_url": "https://x.com/DrilL019/status/2106772322510307557/photo/1",
+          "media_key": "3_2106772298208628736",
+          "start": 58,
+          "url": "https://t.co/1bDR8ZMCep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106780454938681771",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106772298208628736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106772322510307557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @DrilL019: 发现相册里有一张很爆的图⬇️\n（25年底去上海拍的 当时还不知道汇丰+华为是什么意思） https://t.co/1bDR8ZMCep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2106772298208628736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzCPjlb0AAnbVH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106772298208628736"
+          ],
+          "media_source_tweet_id": [
+            "2106772322510307557"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2106780454938681771",
+        "created_at": "2026-10-04T16:16:17.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106780454938681771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bDR8ZMCep",
+              "end": 81,
+              "expanded_url": "https://x.com/DrilL019/status/2106772322510307557/photo/1",
+              "media_key": "3_2106772298208628736",
+              "start": 58,
+              "url": "https://t.co/1bDR8ZMCep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106780454938681771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106772298208628736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106772322510307557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @DrilL019: 发现相册里有一张很爆的图⬇️\n（25年底去上海拍的 当时还不知道汇丰+华为是什么意思） https://t.co/1bDR8ZMCep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106772298208628736"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2106772322510307557",
+        "created_at": "2026-10-04T15:43:58.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106772322510307557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bDR8ZMCep",
+              "end": 67,
+              "expanded_url": "https://x.com/DrilL019/status/2106772322510307557/photo/1",
+              "media_key": "3_2106772298208628736",
+              "start": 44,
+              "url": "https://t.co/1bDR8ZMCep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106772322510307557",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106772298208628736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "发现相册里有一张很爆的图⬇️\n（25年底去上海拍的 当时还不知道汇丰+华为是什么意思） https://t.co/1bDR8ZMCep"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 高中学段教师 / 雀魂 maimai arcaea 新手 / 🇬🇧 🇯🇵 / tg 频道 ⬇️ / 另一个我 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2106780454938681771",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7243,
+          "following_count": 3419,
+          "like_count": 68118,
+          "listed_count": 24,
+          "media_count": 4447,
+          "tweet_count": 16993
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "将这片漆黑而苦难的土地用作最好的板材 在上面凿出黑白的世界吧\n\n小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDBXiS"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "is_identity_verified": true,
+        "location": "请给我钱🥺➡️",
+        "most_recent_tweet_id": "2106772322510307557",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647229461769891842/1784018836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1507,
+          "like_count": 31175,
+          "listed_count": 1,
+          "media_count": 1236,
+          "tweet_count": 7808
+        },
+        "url": "https://t.co/2G0EsDBXiS",
+        "username": "DrilL019",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
